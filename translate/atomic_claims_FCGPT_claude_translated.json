@@ -6843,61 +6843,6 @@
         ]
     },
     {
-        "source": "Chcete-li naj\u00edt nejlep\u0161\u00ed interi\u00e9rov\u00e9 dekorat\u00e9ry a nejlep\u0161\u00ed cenu, m\u016f\u017eete sledovat tyto kroky: 1. V\u00fdzkum: V\u00fdzkum on-line naj\u00edt interi\u00e9rov\u00e9 dekorat\u00e9ry ve va\u0161\u00ed oblasti. Pod\u00edvejte se na jejich portfolia, hodnocen\u00ed z\u00e1kazn\u00edk\u016f a hodnocen\u00ed. 2. Shortlist: Shortlist n\u011bkolik dekorat\u00e9\u0159i zalo\u017een\u00e9 na jejich pr\u00e1ci, zku\u0161enosti, a recenze. 3. Rozpo\u010det: Ur\u010dete sv\u016fj rozpo\u010det pro projekt a prodiskutujte tot\u00e9\u017e s ka\u017ed\u00fdm interi\u00e9rov\u00fdm dekorat\u00e9rem. 4. Porovnat: Porovnejte citace a slu\u017eby nab\u00edzen\u00e9 ka\u017ed\u00fdm interi\u00e9rov\u00fdm dekorat\u00e9rem. 5. Vyberte: Vyberte si nejlep\u0161\u00ed interi\u00e9rov\u00fd dekorat\u00e9r, kter\u00fd vyhovuje va\u0161emu stylu, pot\u0159eb\u00e1m a rozpo\u010dtu.",
-        "claims": {
-            "Finding the best interior decorators requires research online.": {
-                "text": "Chcete-li naj\u00edt nejlep\u0161\u00ed interi\u00e9rov\u00e9 dekorat\u00e9ry a nejlep\u0161\u00ed cenu, m\u016f\u017eete sledovat tyto kroky: 1. V\u00fdzkum: V\u00fdzkum on-line naj\u00edt interi\u00e9rov\u00e9 dekorat\u00e9ry ve va\u0161\u00ed oblasti.",
-                "start": 0,
-                "end": 164
-            },
-            "Research should focus on portfolios, customer ratings, and reviews.": {
-                "text": "Pod\u00edvejte se na jejich portfolia, hodnocen\u00ed z\u00e1kazn\u00edk\u016f a hodnocen\u00ed.",
-                "start": 165,
-                "end": 231
-            },
-            "Creating a shortlist of decorators is recommended.": {
-                "text": "2. Shortlist:",
-                "start": 232,
-                "end": 245
-            },
-            "Shortlisting should be based on work, experience, and reviews.": {
-                "text": "Shortlist n\u011bkolik dekorat\u00e9\u0159i zalo\u017een\u00e9 na jejich pr\u00e1ci, zku\u0161enosti, a recenze.",
-                "start": 246,
-                "end": 323
-            },
-            "Determining your budget for the project is important.": {
-                "text": "3. Rozpo\u010det: Ur\u010dete sv\u016fj rozpo\u010det pro projekt",
-                "start": 324,
-                "end": 369
-            },
-            "Budget should be discussed with each interior decorator.": {
-                "text": "a prodiskutujte tot\u00e9\u017e s ka\u017ed\u00fdm interi\u00e9rov\u00fdm dekorat\u00e9rem.",
-                "start": 370,
-                "end": 426
-            },
-            "Comparing quotes from different decorators is recommended.": {
-                "text": "4. Porovnat: Porovnejte citace",
-                "start": 427,
-                "end": 457
-            },
-            "Services offered by each decorator should be compared.": {
-                "text": "a slu\u017eby nab\u00edzen\u00e9 ka\u017ed\u00fdm interi\u00e9rov\u00fdm dekorat\u00e9rem.",
-                "start": 458,
-                "end": 508
-            },
-            "The best interior decorator should match your style.": {
-                "text": "5. Vyberte: Vyberte si nejlep\u0161\u00ed interi\u00e9rov\u00fd dekorat\u00e9r, kter\u00fd vyhovuje va\u0161emu stylu,",
-                "start": 509,
-                "end": 592
-            },
-            "The chosen decorator should meet your needs and budget.": {
-                "text": "pot\u0159eb\u00e1m a rozpo\u010dtu.",
-                "start": 593,
-                "end": 613
-            }
-        }
-    },
-    {
         "source": "Multipass distillation je proces destilace, kdy je p\u00e1ra z prvn\u00ed destilace kondenzov\u00e1na a krmena zp\u011bt do destila\u010dn\u00ed kolony pro dal\u0161\u00ed destilace ke zv\u00fd\u0161en\u00ed \u010distoty kone\u010dn\u00e9ho produktu.",
         "claims": [
             {
@@ -6911,7 +6856,7 @@
             },
             {
                 "id": 1,
-                "claim": "In multipass distillation, vapor from first distillation is condensed.",
+                "claim": "V multipassov\u00e9 destilaci je p\u00e1ra z prvn\u00ed destilace kondenzov\u00e1na.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement contains a verifiable technical claim about how the multipass distillation process works, specifically regarding what happens to vapor from the first distillation.)",
                 "origin_text": "kdy je p\u00e1ra z prvn\u00ed destilace kondenzov\u00e1na",
@@ -6920,7 +6865,7 @@
             },
             {
                 "id": 2,
-                "claim": "Condensed vapor is fed back into distillation column.",
+                "claim": "Kondenzovan\u00e1 p\u00e1ra se krm\u00ed zp\u011bt do destila\u010dn\u00ed kolony.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement describes a specific procedural step in a distillation process that can be objectively verified through technical documentation or observation of the process.)",
                 "origin_text": "a krmena zp\u011bt do destila\u010dn\u00ed kolony",
@@ -6929,7 +6874,7 @@
             },
             {
                 "id": 3,
-                "claim": "Multiple distillations increase final product purity.",
+                "claim": "Mnohon\u00e1sobn\u00e9 destilace zvy\u0161uj\u00ed \u010distotu kone\u010dn\u00fdch produkt\u016f.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a verifiable claim about the relationship between multiple distillations and product purity that can be tested and confirmed through chemical analysis.)",
                 "origin_text": "pro dal\u0161\u00ed destilace ke zv\u00fd\u0161en\u00ed \u010distoty kone\u010dn\u00e9ho produktu.",
@@ -6943,7 +6888,7 @@
         "claims": [
             {
                 "id": 0,
-                "claim": "Karibsk\u00e9 ostrovy pat\u0159\u00ed mezi obl\u00edben\u00e9 tropick\u00e9 destinace pro lidi na v\u00fdchodn\u00edm pob\u0159e\u017e\u00ed Spojen\u00fdch st\u00e1t\u016f.",
+                "claim": "Karibsk\u00e9 Ostrovy pat\u0159\u00ed mezi obl\u00edben\u00e9 tropick\u00e9 osudy pro lidi na obchodn\u00edm trhu Spojen\u00fdch st\u00e1t\u016f.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement contains verifiable factual information about the popularity of Caribbean islands as travel destinations for people on the U.S. east coast, which can be checked through tourism data and travel statistics.)",
                 "origin_text": "Mezi obl\u00edben\u00e9 tropick\u00e9 destinace pro lidi na v\u00fdchodn\u00edm pob\u0159e\u017e\u00ed Spojen\u00fdch st\u00e1t\u016f pat\u0159\u00ed Karibsk\u00e9 ostrovy",
@@ -6952,7 +6897,7 @@
             },
             {
                 "id": 1,
-                "claim": "Jamajka pat\u0159\u00ed mezi obl\u00edben\u00e9 tropick\u00e9 destinace pro lidi na v\u00fdchodn\u00edm pob\u0159e\u017e\u00ed Spojen\u00fdch st\u00e1t\u016f.",
+                "claim": "Jamajka pat\u0159\u00ed mezi obl\u00edben\u00e9 tropick\u00e9 osudy pro lidi na obchodn\u00edm z\u00e1klad\u011b Spojen\u00e9 st\u00e1ty.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a specific claim about Jamaica being a popular tropical destination for people from the U.S. east coast, which can be verified through tourism data and travel patterns.)",
                 "origin_text": "(jako je Jamajka",
@@ -6961,7 +6906,7 @@
             },
             {
                 "id": 2,
-                "claim": "Dominik\u00e1nsk\u00e1 republika pat\u0159\u00ed mezi obl\u00edben\u00e9 tropick\u00e9 destinace pro lidi na v\u00fdchodn\u00edm pob\u0159e\u017e\u00ed Spojen\u00fdch st\u00e1t\u016f.",
+                "claim": "Dominik\u00e1nsk\u00e1 republika pat\u0159\u00ed mezi obl\u00edben\u00e9 tropick\u00e9 osudy pro lidi na obchodn\u00edm pob\u0159e\u017e\u00ed Spojen\u00fdch st\u00e1t\u016f.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a specific claim about the Dominican Republic being a popular tropical destination for people from the U.S. east coast, which can be verified through tourism statistics and travel data.)",
                 "origin_text": " Dominik\u00e1nsk\u00e1 republika",
@@ -6970,7 +6915,7 @@
             },
             {
                 "id": 3,
-                "claim": "Bahamy pat\u0159\u00ed mezi obl\u00edben\u00e9 tropick\u00e9 destinace pro lidi na v\u00fdchodn\u00edm pob\u0159e\u017e\u00ed Spojen\u00fdch st\u00e1t\u016f.",
+                "claim": "Bahamy pat\u0159\u00ed mezi obl\u00edben\u00e9 tropick\u00e9 osudy pro lidi na obchodn\u00edm z\u00e1klad\u011b Spojen\u00e9 st\u00e1ty.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a specific claim about the Bahamas being a popular tropical destination for people from the U.S. east coast, which can be verified through tourism data and travel statistics.)",
                 "origin_text": "a Bahamy)",
@@ -6979,7 +6924,7 @@
             },
             {
                 "id": 4,
-                "claim": "Kostarika pat\u0159\u00ed mezi obl\u00edben\u00e9 tropick\u00e9 destinace pro lidi na v\u00fdchodn\u00edm pob\u0159e\u017e\u00ed Spojen\u00fdch st\u00e1t\u016f.",
+                "claim": "Kostarika pat\u0159\u00ed mezi obl\u00edben\u00e9 tropick\u00e9 osudy pro lidi na obchodn\u00edm z\u00e1klad\u011b Spojen\u00e9 st\u00e1ty.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a specific claim about Costa Rica being a popular tropical destination for people from the U.S. east coast, which can be verified through tourism data and travel patterns.)",
                 "origin_text": "a zem\u011b st\u0159edn\u00ed a Ji\u017en\u00ed Ameriky, jako je Kostarika",
@@ -6988,7 +6933,7 @@
             },
             {
                 "id": 5,
-                "claim": "Mexiko pat\u0159\u00ed mezi obl\u00edben\u00e9 tropick\u00e9 destinace pro lidi na v\u00fdchodn\u00edm pob\u0159e\u017e\u00ed Spojen\u00fdch st\u00e1t\u016f.",
+                "claim": "Mexiko pat\u0159\u00ed mezi obl\u00edben\u00e9 tropick\u00e9 osudy pro lidi na obchodn\u00edm pob\u0159e\u017e\u00ed Spojen\u00fdch st\u00e1t\u016f.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a specific claim about Mexico being a popular tropical destination for people from the U.S. east coast, which can be verified through tourism statistics and travel data.)",
                 "origin_text": "a Mexiko.",
@@ -7051,7 +6996,7 @@
         "claims": [
             {
                 "id": 0,
-                "claim": "N\u00e1vrh margin\u00e1ln\u00ed sazby n\u00e1klad\u016f v elektrick\u00fdch s\u00edt\u00edch odkazuje na cenovou strategii.",
+                "claim": "N\u00e1vrh margin\u00e1ln\u00ed sazby N\u00e1klad\u016f v elektrick\u00fdch s\u00edtech odkazuje na cenovou strategii.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement contains verifiable factual information about what marginal cost pricing in electrical networks refers to, which can be checked against economic and utility pricing literature.)",
                 "origin_text": "N\u00e1vrh margin\u00e1ln\u00ed sazby n\u00e1klad\u016f v elektrick\u00fdch s\u00edt\u00edch odkazuje na cenovou strategii,",
@@ -7060,7 +7005,7 @@
             },
             {
                 "id": 1,
-                "claim": "V margin\u00e1ln\u00ed sazb\u011b n\u00e1klad\u016f je z\u00e1kazn\u00edk \u00fa\u010dtov\u00e1n na z\u00e1klad\u011b n\u00e1klad\u016f na dodate\u010dnou jednotku energie.",
+                "claim": "V marginalni sazb\u011b n\u00e1klad\u016f je z\u00e1kazn\u00edk \u00fa\u010dtov\u00e1n na z\u00e1klad\u011b n\u00e1klad\u016f na dodate\u010dnou jednotku energie.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a specific claim about how customers are charged under marginal cost pricing, which can be verified against economic principles and utility pricing documentation.)",
                 "origin_text": "v n\u00ed\u017e je z\u00e1kazn\u00edk \u00fa\u010dtov\u00e1n na z\u00e1klad\u011b n\u00e1klad\u016f na poskytnut\u00ed dodate\u010dn\u00e9 jednotky elektrick\u00e9 energie.",
@@ -7069,7 +7014,7 @@
             },
             {
                 "id": 2,
-                "claim": "Margin\u00e1ln\u00ed sazba n\u00e1klad\u016f umo\u017e\u0148uje p\u0159esn\u011bj\u0161\u00ed stanoven\u00ed cen.",
+                "claim": "Margin\u00e1ln\u00ed sazba n\u00e1klad\u016f umo\u017e\u0148uje p\u0159esn\u00edn\u00ed stanoven\u00ed cen.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (While this contains evaluative language, it makes a verifiable claim about the pricing accuracy of marginal cost pricing that can be tested against economic data and utility pricing outcomes.)",
                 "origin_text": "To umo\u017e\u0148uje p\u0159esn\u011bj\u0161\u00ed stanoven\u00ed cen,",
@@ -7078,7 +7023,7 @@
             },
             {
                 "id": 3,
-                "claim": "Margin\u00e1ln\u00ed sazba n\u00e1klad\u016f odr\u00e1\u017e\u00ed skute\u010dn\u00e9 n\u00e1klady na poskytov\u00e1n\u00ed elekt\u0159iny.",
+                "claim": "Margin\u00e1ln\u00ed sazba n\u00e1klad\u016f odr\u00e1\u017eej\u00edc\u00ed skute\u010dn\u00e9 n\u00e1klady na pokryt\u00ed elektroniky.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a specific claim about marginal cost pricing reflecting actual costs of electricity provision, which can be verified through economic analysis and utility cost structures.)",
                 "origin_text": "kter\u00e9 odr\u00e1\u017e\u00ed skute\u010dn\u00e9 n\u00e1klady na poskytov\u00e1n\u00ed elekt\u0159iny",
@@ -7087,7 +7032,7 @@
             },
             {
                 "id": 4,
-                "claim": "Margin\u00e1ln\u00ed sazba n\u00e1klad\u016f podporuje efektivitu trhu s elekt\u0159inou.",
+                "claim": "Margin\u00e1ln\u00ed sazba n\u00e1klad\u016f podporuje efektivitu trhu s elektronou.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a claim about marginal cost pricing supporting electricity market efficiency, which can be verified through economic research and market performance data.)",
                 "origin_text": "a podporuje efektivitu trhu s elekt\u0159inou.",
@@ -7119,7 +7064,7 @@
             },
             {
                 "id": 2,
-                "claim": "OnComplete se provede, kdy\u017e budoucnost \u00fasp\u011b\u0161n\u011b dokon\u010d\u00ed.",
+                "claim": "OnComplete se provene, kdy\u017e budoucnost \u00fasp\u011b\u0161n\u011b dokon\u010d\u00ed.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This describes verifiable behavior of the onComplete function, specifically when it executes in relation to Future completion.)",
                 "origin_text": "kter\u00fd se provede, kdy\u017e budoucnost \u00fasp\u011b\u0161n\u011b dokon\u010d\u00ed,",
@@ -7128,7 +7073,7 @@
             },
             {
                 "id": 3,
-                "claim": "OnComplete se provede s v\u00fdjimkou.",
+                "claim": "OnComplete se provene s v\u00fdjimkou.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This makes a verifiable claim about how onComplete handles exceptions, which can be checked in documentation or through testing.)",
                 "origin_text": "nebo s v\u00fdjimkou,",
@@ -7146,7 +7091,7 @@
             },
             {
                 "id": 5,
-                "claim": "APak se provede pouze kdy\u017e budoucnost \u00fasp\u011b\u0161n\u011b dokon\u010d\u00ed.",
+                "claim": "APak se provede pouze kdy budoucnost \u00fasp\u011b\u0161n\u011b dokon\u010d\u00ed.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This contains a verifiable claim about the specific execution conditions of the aPak function.)",
                 "origin_text": "kter\u00fd se provede pouze tehdy, kdy\u017e budoucnost \u00fasp\u011b\u0161n\u011b dokon\u010d\u00ed.",
@@ -7160,7 +7105,7 @@
         "claims": [
             {
                 "id": 0,
-                "claim": "Kalifornie m\u00e1 obecn\u011b teplej\u0161\u00ed po\u010das\u00ed ne\u017e New York.",
+                "claim": "Kalifornie m\u00e1 obecne teplej\u00ed po\u010das\u00ed ne\u017e New York.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a comparative claim about the general temperatures of California and New York, which can be verified using temperature data and climate records.)",
                 "origin_text": "Kalifornie m\u00e1 obecn\u011b teplej\u0161\u00ed",
@@ -7169,7 +7114,7 @@
             },
             {
                 "id": 1,
-                "claim": "Kalifornie m\u00e1 konzistentn\u011bj\u0161\u00ed po\u010das\u00ed ne\u017e New York.",
+                "claim": "Kalifornie m\u00e1 konzistentn\u00ed po\u010das\u00ed ji\u017e New York.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a comparative claim about weather consistency between California and New York, which can be verified through analysis of climate variability data.)",
                 "origin_text": "a konzistentn\u011bj\u0161\u00ed po\u010das\u00ed ne\u017e New York.",
@@ -7178,7 +7123,7 @@
             },
             {
                 "id": 2,
-                "claim": "Kalifornie m\u00e1 m\u00edrn\u011bj\u0161\u00ed zimy ne\u017e New York.",
+                "claim": "Kalifornie m\u00e1 m\u00e9n\u011b ne\u017e New York.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a comparative claim about winter temperatures in California versus New York, which can be verified using seasonal temperature records.)",
                 "origin_text": "Kalifornie m\u00e1 m\u00edrn\u011bj\u0161\u00ed zimy",
@@ -7196,7 +7141,7 @@
             },
             {
                 "id": 4,
-                "claim": "Kalifornie m\u00e1 l\u00e9ta s mal\u00fdm a\u017e \u017e\u00e1dn\u00fdm de\u0161t\u011bm.",
+                "claim": "Kalifornie m\u00e1 l\u00e9ta s mal\u00fdm a\u017e \u017e\u00e1dnym de\u0161t\u011bm.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a claim about summer precipitation patterns in California that can be verified using rainfall data.)",
                 "origin_text": "s mal\u00fdm a\u017e \u017e\u00e1dn\u00fdm de\u0161t\u011bm,",
@@ -7205,7 +7150,7 @@
             },
             {
                 "id": 5,
-                "claim": "New York za\u017e\u00edv\u00e1 chladn\u011bj\u0161\u00ed zimy se sn\u011bhem.",
+                "claim": "New York zaj\u00edm\u00e1 chladnej\u00ed zimy se sn\u011bhem.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a claim about winter conditions in New York, including temperature and precipitation type, which can be verified with climate data.)",
                 "origin_text": "zat\u00edmco New York za\u017e\u00edv\u00e1 chladn\u011bj\u0161\u00ed zimy se sn\u011bhem",
@@ -7214,7 +7159,7 @@
             },
             {
                 "id": 6,
-                "claim": "New York za\u017e\u00edv\u00e1 chladn\u011bj\u0161\u00ed zimy s de\u0161t\u011bm.",
+                "claim": "New York zaj\u00edm\u00e1 chladnej\u00ed zimy s de\u0161t\u011bm.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a claim about winter temperatures and precipitation type in New York, which can be verified with climate records.)",
                 "origin_text": "a de\u0161t\u011bm",
@@ -7237,7 +7182,7 @@
         "claims": [
             {
                 "id": 0,
-                "claim": "Documents can be found in Google Drive using the search bar.",
+                "claim": "Dokumenty lze nal\u00e9zt v Google Drive pomoc\u00ed vyhled\u00e1vac\u00ed li\u0161ty.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a factual claim about Google Drive's functionality that can be verified by testing the platform.)",
                 "origin_text": "Chcete-li naj\u00edt dokument v Google Drive, m\u016f\u017eete kliknout na vyhled\u00e1vac\u00ed li\u0161tu",
@@ -7246,7 +7191,7 @@
             },
             {
                 "id": 1,
-                "claim": "The search bar is at the top of the screen in Google Drive.",
+                "claim": "Vyhled\u00e1vac\u00ed li\u0161ta je naho\u0159e na obrazovce na Google Drive.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This is a verifiable statement about the user interface design and layout of Google Drive.)",
                 "origin_text": "v horn\u00ed \u010d\u00e1sti obrazovky",
@@ -7255,7 +7200,7 @@
             },
             {
                 "id": 2,
-                "claim": "Entering 'Finance Forecast' searches for a document with that name.",
+                "claim": "Zad\u00e1n\u00ed 'Finance Forecast' hled\u00e1 dokument s t\u00edmto n\u00e1zvem.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This describes a specific, testable function of the search feature that can be objectively verified.)",
                 "origin_text": "a zadat \"Finance Forecast\" jako n\u00e1zev dokumentu.",
@@ -7264,7 +7209,7 @@
             },
             {
                 "id": 3,
-                "claim": "Search results appear below the search bar in Google Drive.",
+                "claim": "V\u00fdsledky hled\u00e1n\u00ed se zobraz\u00ed pod vyhled\u00e1vac\u00edm barem v Google Drive.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This makes a factual claim about the display behavior of search results in Google Drive that can be verified by observation.)",
                 "origin_text": "Pak by se m\u011bl objevit ve v\u00fdsledc\u00edch vyhled\u00e1v\u00e1n\u00ed pod vyhled\u00e1vac\u00ed li\u0161tou.",
@@ -7273,7 +7218,7 @@
             },
             {
                 "id": 4,
-                "claim": "The Finance Forecast document should appear in search results.",
+                "claim": "Dokument Finance Forecast by se m\u011bl objevit ve v\u00fdsledc\u00edch vyhled\u00e1v\u00e1n\u00ed.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (The use of 'should' makes this a prescriptive statement about what ought to happen rather than a factual claim about what does happen.)",
                 "origin_text": "",
@@ -7287,7 +7232,7 @@
         "claims": [
             {
                 "id": 0,
-                "claim": "C# is a modern programming language.",
+                "claim": "C# je modern\u00ed programovac\u00ed jazyk.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement contains a factual claim about C# being a programming language, and its characterization as 'modern' can be verified through objective criteria like its development timeline, features, and industry classification.)",
                 "origin_text": "C# je modern\u00ed,",
@@ -7296,7 +7241,7 @@
             },
             {
                 "id": 1,
-                "claim": "C# is a multiparadigm programming language.",
+                "claim": "C# je multiparadigm programovac\u00ed jazyk.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This is a verifiable factual statement about C#'s technical classification and design paradigms, which can be confirmed through technical documentation and language specifications.)",
                 "origin_text": "multiparadigm programovac\u00ed jazyk",
@@ -7305,7 +7250,7 @@
             },
             {
                 "id": 2,
-                "claim": "C# was developed by Microsoft.",
+                "claim": "C# vyvinul Microsoft.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This is a historical fact about the origin of C# that can be verified through documentation, company records, and development history.)",
                 "origin_text": "vyvinut\u00fd spole\u010dnost\u00ed Microsoft",
@@ -7314,7 +7259,7 @@
             },
             {
                 "id": 3,
-                "claim": "C# is part of the .NET platform.",
+                "claim": "C# je sou\u010d\u00e1st\u00ed platformy .NET.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This states a verifiable technical relationship between C# and the .NET platform, which can be confirmed through official documentation and technical specifications.)",
                 "origin_text": "jako sou\u010d\u00e1st platformy .NET.",
@@ -7323,7 +7268,7 @@
             },
             {
                 "id": 4,
-                "claim": "C# is designed to be simple.",
+                "claim": "C# je navr\u017een tak, aby byl jednoduch\u00fd.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is a subjective assessment about the design philosophy of C# that depends on personal interpretation of what constitutes 'simple' in programming language design.)",
                 "origin_text": "Je navr\u017een tak, aby byl jednoduch\u00fd,",
@@ -7332,7 +7277,7 @@
             },
             {
                 "id": 5,
-                "claim": "C# is designed to be powerful.",
+                "claim": "C# je navr\u017een tak, aby byl siln\u00fd.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is a subjective evaluation of C#'s capabilities, as 'powerful' is a relative term without specific, measurable criteria in this context.)",
                 "origin_text": "v\u00fdkonn\u00fd,",
@@ -7341,7 +7286,7 @@
             },
             {
                 "id": 6,
-                "claim": "C# is designed to be object-oriented.",
+                "claim": "C# je navr\u017een tak, aby byl objektov\u011b orientovan\u00fd.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This is a verifiable statement about the design philosophy and technical classification of C# that can be confirmed through language specifications and design documents.)",
                 "origin_text": "a objektov\u011b orientovan\u00fd,",
@@ -7350,7 +7295,7 @@
             },
             {
                 "id": 7,
-                "claim": "C# features type safety.",
+                "claim": "C# obsahuje typovou bezpe\u010dnost.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a specific claim about a technical feature of C# that can be objectively verified through language specifications and technical analysis.)",
                 "origin_text": "s funkcemi, jako je bezpe\u010dnost typu,",
@@ -7359,7 +7304,7 @@
             },
             {
                 "id": 8,
-                "claim": "C# features garbage collection.",
+                "claim": "C# obsahuje sb\u00edrku odpadk\u016f.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This is a verifiable technical claim about a specific memory management feature of C# that can be confirmed through language documentation and implementation details.)",
                 "origin_text": "sb\u011br odpadu,",
@@ -7368,7 +7313,7 @@
             },
             {
                 "id": 9,
-                "claim": "C# features simplified memory management.",
+                "claim": "C# obsahuje zjednodu\u0161enou spr\u00e1vu pam\u011bti.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (While this references a technical aspect, 'simplified' is subjective without a specific comparative benchmark, making this more of an opinion than a verifiable fact.)",
                 "origin_text": "a zjednodu\u0161en\u00e9",
@@ -7377,7 +7322,7 @@
             },
             {
                 "id": 10,
-                "claim": "C# features efficient memory management.",
+                "claim": "C# nab\u00edz\u00ed efektivn\u00ed spr\u00e1vu pam\u011bti.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (The term 'efficient' is subjective and relative without specific metrics or benchmarks, making this an evaluative claim rather than a verifiable fact.)",
                 "origin_text": "a efektivn\u00ed spr\u00e1vu pam\u011bti.",
@@ -7386,7 +7331,7 @@
             },
             {
                 "id": 11,
-                "claim": "C# can be used for web application development.",
+                "claim": "C# lze pou\u017e\u00edt pro v\u00fdvoj webov\u00fdch aplikac\u00ed.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This is a verifiable statement about C#'s capabilities and use cases that can be confirmed through technical documentation, frameworks available, and actual implementation examples.)",
                 "origin_text": "C# m\u016f\u017ee b\u00fdt pou\u017eit pro r\u016fzn\u00e9 \u00fa\u010dely, v\u010detn\u011b webov\u00e9",
@@ -7395,7 +7340,7 @@
             },
             {
                 "id": 12,
-                "claim": "C# can be used for mobile application development.",
+                "claim": "C# lze pou\u017e\u00edt pro v\u00fdvoj mobiln\u00edch aplikac\u00ed.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This is a verifiable claim about C#'s application domain that can be confirmed through technical documentation, available frameworks like Xamarin, and real-world usage examples.)",
                 "origin_text": "a mobiln\u00ed aplikace v\u00fdvoj,",
@@ -7404,7 +7349,7 @@
             },
             {
                 "id": 13,
-                "claim": "C# can be used for game development.",
+                "claim": "C# lze pou\u017e\u00edt pro v\u00fdvoj her.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This is a verifiable statement about C#'s capabilities that can be confirmed through its implementation in game engines like Unity, technical documentation, and industry practices.)",
                 "origin_text": "v\u00fdvoj hry,",
@@ -7413,7 +7358,7 @@
             },
             {
                 "id": 14,
-                "claim": "C# can be used for desktop application development.",
+                "claim": "C# lze pou\u017e\u00edt pro v\u00fdvoj desktopov\u00e9 aplikace.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This is a verifiable claim about C#'s application domain that can be confirmed through technical documentation, frameworks like WPF and Windows Forms, and real-world usage examples.)",
                 "origin_text": "a desktop aplikace.",
@@ -7427,7 +7372,7 @@
         "claims": [
             {
                 "id": 0,
-                "claim": "Linux nemus\u00ed nutn\u011b selhat jako desktop.",
+                "claim": "Linux nemus\u00ed nutne selhat jako desktop.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is an opinion about Linux's potential as a desktop system, not a verifiable factual claim.)",
                 "origin_text": "Linux nemus\u00ed nutn\u011b \"selhat\" jako desktop,",
@@ -7463,7 +7408,7 @@
             },
             {
                 "id": 4,
-                "claim": "Linux m\u016f\u017ee b\u00fdt obt\u00ed\u017en\u011bj\u0161\u00ed pou\u017e\u00edt pro za\u010d\u00e1te\u010dn\u00edky.",
+                "claim": "Linux m\u016f\u017ee b\u00fdt v\u011bt\u0161\u00ed ne\u017e pou\u017e\u00edv\u00e1n\u00ed pro za\u010d\u00e1te\u010dn\u00edky.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is a subjective assessment of user experience that varies by individual and cannot be objectively verified.)",
                 "origin_text": "2. Obt\u00ed\u017enost pro za\u010d\u00e1te\u010dn\u00edky: Linux m\u016f\u017ee b\u00fdt obt\u00ed\u017en\u011bj\u0161\u00ed pou\u017e\u00edt pro za\u010d\u00e1te\u010dn\u00edky ve srovn\u00e1n\u00ed s jin\u00fdmi opera\u010dn\u00edmi syst\u00e9my.",
@@ -7472,7 +7417,7 @@
             },
             {
                 "id": 5,
-                "claim": "Hardwarov\u00e9 ovlada\u010de pro n\u011bkter\u00e1 za\u0159\u00edzen\u00ed nejsou dostupn\u00e9 na Linuxu.",
+                "claim": "Hardwarov\u00e9 ovlada\u010de pro nekterou za\u0159\u00edzenou nejsou dostupn\u00e9 na Linuxu.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement about driver availability can be verified by checking hardware compatibility lists.)",
                 "origin_text": "3. Hardwarov\u00e1 kompatibilita: Hardwarov\u00e9 ovlada\u010de pro ur\u010dit\u00e1 za\u0159\u00edzen\u00ed nemus\u00ed b\u00fdt k dispozici na Linuxu,",
@@ -7481,7 +7426,7 @@
             },
             {
                 "id": 6,
-                "claim": "Na Linuxu je obt\u00ed\u017en\u011bj\u0161\u00ed spr\u00e1vn\u011b nastavit v\u0161echna za\u0159\u00edzen\u00ed.",
+                "claim": "Na Linuxu je obt\u00ed\u017en\u011bj\u0161\u00ed spr\u00e1vn\u011b nastavit v\u0161echna za\u0159\u00edzeni.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is a subjective claim about difficulty level that depends on user experience and cannot be objectively verified.)",
                 "origin_text": "tak\u017ee je obt\u00ed\u017en\u011bj\u0161\u00ed dostat v\u0161e spr\u00e1vn\u011b nastaven\u00e9.",
@@ -7490,7 +7435,7 @@
             },
             {
                 "id": 7,
-                "claim": "R\u016fzn\u00e9 distribuce Linuxu zp\u016fsobuj\u00ed fragmentaci.",
+                "claim": "R\u016f\u017en\u00e9 distribuce Linuxu zp\u016fsobuj\u00ed fragmentaci.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement about Linux ecosystem fragmentation can be verified by examining the number and differences between distributions.)",
                 "origin_text": "4. Fragmentace: R\u016fzn\u00e9 dostupn\u00e9 distribuce",
@@ -7499,7 +7444,7 @@
             },
             {
                 "id": 8,
-                "claim": "Fragmentace zt\u011b\u017euje zam\u011b\u0159en\u00ed komunity na jedinou spolehlivou mo\u017enost.",
+                "claim": "Fragmentace zt\u011b\u017euje zam\u011b\u0159ov\u00e1n\u00ed komunity na jedinou spole\u010dnosti mo\u017enosti.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is an opinion about the effects of fragmentation on community focus, not an objectively verifiable claim.)",
                 "origin_text": "mohou znesnadnit komunitu zam\u011b\u0159it se na jedinou spolehlivou mo\u017enost.",
@@ -7508,7 +7453,7 @@
             },
             {
                 "id": 9,
-                "claim": "Linux m\u00e1 silnou p\u0159\u00edtomnost na trhu podniku a serveru.",
+                "claim": "Linux m\u00e1 silnou p\u0159\u00edtomnost na trhu podniku a servisu.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement about Linux's market presence can be verified through market share statistics.)",
                 "origin_text": "Nicm\u00e9n\u011b, Linux m\u00e1 silnou p\u0159\u00edtomnost na trhu podniku a serveru",
@@ -7526,7 +7471,7 @@
             },
             {
                 "id": 11,
-                "claim": "Linux je \u0161k\u00e1lovateln\u00fd opera\u010dn\u00ed syst\u00e9m.",
+                "claim": "Linux je strategick\u00fd opera\u010dn\u00ed syst\u00e9m.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (Without specific metrics or comparisons, this is a general qualitative claim that cannot be objectively verified.)",
                 "origin_text": "\u0161k\u00e1lovatelnosti",
@@ -7549,7 +7494,7 @@
         "claims": [
             {
                 "id": 0,
-                "claim": "E major chord on guitar requires first finger on first fret of third string.",
+                "claim": "E hlavn\u00ed akord na kytaru vy\u017eaduje prvn\u00ed prst na prvn\u00ed fretce t\u0159et\u00edho \u0159et\u011bzce.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement contains verifiable factual information about finger positioning for playing an E major chord on guitar, which can be checked against standard chord charts or by musicians.)",
                 "origin_text": "Chcete-li hr\u00e1t E hlavn\u00ed akord na kytaru, um\u00edst\u011bte sv\u016fj prvn\u00ed prst na prvn\u00ed fretku t\u0159et\u00edho \u0159et\u011bzce,",
@@ -7558,7 +7503,7 @@
             },
             {
                 "id": 1,
-                "claim": "E major chord on guitar requires second finger on second fret of fifth string.",
+                "claim": "E hlavn\u00ed akord na kytaru vy\u017eaduje druh\u00fd prst na druh\u00e9m fretce p\u00e1t\u00e9ho \u0159et\u011bzce.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a specific, verifiable claim about the finger positioning required for an E major chord on guitar, which can be objectively verified through chord diagrams or by playing the chord.)",
                 "origin_text": "druh\u00fd prst na druh\u00fd fret p\u00e1t\u00e9ho \u0159et\u011bzce,",
@@ -7567,7 +7512,7 @@
             },
             {
                 "id": 2,
-                "claim": "E major chord on guitar requires third finger on second fret of fourth string.",
+                "claim": "E hlavn\u00ed akord na kytaru vy\u017eaduje t\u0159et\u00ed prst na druh\u00e9m fretce \u010dtvrt\u00e9ho \u0159et\u011bzce.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement presents verifiable information about the finger placement for an E major chord on guitar, which can be checked against music theory resources or by practical demonstration.)",
                 "origin_text": "a t\u0159et\u00ed prst na druh\u00fd fretka \u010dtvrt\u00e9ho \u0159et\u011bzce.",
@@ -7581,7 +7526,7 @@
         "claims": [
             {
                 "id": 0,
-                "claim": "Katechismus is a comedy horror film.",
+                "claim": "Katechismus je komedi\u00e1ln\u00ed hororov\u00fd film.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement contains a verifiable factual claim about the genre classification of a film titled Katechismus.)",
                 "origin_text": "Katechismus je komedi\u00e1ln\u00ed hororov\u00fd film",
@@ -7590,7 +7535,7 @@
             },
             {
                 "id": 1,
-                "claim": "Katechismus is directed by Todd Rohal.",
+                "claim": "Katechismus re\u017e\u00edruje Todd Rohal.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a verifiable factual claim about who directed the film Katechismus.)",
                 "origin_text": "re\u017e\u00edrovan\u00fd Toddem Rohalem.",
@@ -7599,7 +7544,7 @@
             },
             {
                 "id": 2,
-                "claim": "Katechismus follows the story of a disenchanted and bored priest.",
+                "claim": "Katechismus sleduje p\u0159\u00edb\u011bh o roz\u010darovan\u00e9m a znud\u011bn\u00e9m kn\u011bzi.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a verifiable factual claim about the plot and main character of the film Katechismus.)",
                 "origin_text": "N\u00e1sleduje p\u0159\u00edb\u011bh roz\u010darovan\u00e9ho a znud\u011bn\u00e9ho kn\u011bze,",
@@ -7608,7 +7553,7 @@
             },
             {
                 "id": 3,
-                "claim": "The priest in Katechismus goes on a canoe trip with a former classmate.",
+                "claim": "Kn\u011bz v Katechismus jede na v\u00fdlet do k\u00e1noe s b\u00fdval\u00fdm spolu\u017e\u00e1kem.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement contains verifiable factual information about a specific plot element in the film Katechismus.)",
                 "origin_text": "kter\u00fd jede na v\u00fdlet do k\u00e1noe s b\u00fdval\u00fdm spolu\u017e\u00e1kem,",
@@ -7617,7 +7562,7 @@
             },
             {
                 "id": 4,
-                "claim": "The canoe trip in Katechismus quickly leads to a series of bizarre events.",
+                "claim": "K\u00e1noe v\u00fdlet v Katechismusu rychle vede k s\u00e9rii bizarn\u00edch ud\u00e1lost\u00ed.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement contains a verifiable factual claim about plot developments in the film, though 'bizarre' is somewhat subjective, the claim that specific events occur is verifiable.)",
                 "origin_text": "co\u017e rychle vede k s\u00e9rii bizarn\u00edch",
@@ -7626,7 +7571,7 @@
             },
             {
                 "id": 5,
-                "claim": "The canoe trip in Katechismus quickly leads to a series of terrifying events.",
+                "claim": "K\u00e1noe v\u00fdlet v Katechismusu rychle vede k s\u00e9rii d\u011bsiv\u00fdch ud\u00e1lost\u00ed.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement contains a verifiable factual claim about plot developments in the film, though 'terrifying' has subjective elements, the claim that specific events occur is verifiable.)",
                 "origin_text": "a d\u011bsiv\u00fdch ud\u00e1lost\u00ed.",
@@ -7640,7 +7585,7 @@
         "claims": [
             {
                 "id": 0,
-                "claim": "Model selection for small datasets should be appropriate for the data.",
+                "claim": "V\u00fdb\u011br modelu pro mal\u00e9 datov\u00e9 soubory by m\u011bl b\u00fdt vhodn\u00fd pro \u00fadaje.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is a normative statement suggesting a best practice rather than asserting a verifiable fact. It's a recommendation that cannot be objectively verified as true or false.)",
                 "origin_text": "P\u0159i pr\u00e1ci s mal\u00fdm datov\u00fdm souborem pro p\u0159edpov\u00edd\u00e1n\u00ed je d\u016fle\u017eit\u00e9 zvolit model, kter\u00fd je vhodn\u00fd pro data",
@@ -7649,7 +7594,7 @@
             },
             {
                 "id": 1,
-                "claim": "Model selection for small datasets should avoid overfitting.",
+                "claim": "V\u00fdb\u011br modelu pro mal\u00e9 datov\u00e9 soubory by se m\u011bl vyhnout nadm\u011brn\u00e9mu vybaven\u00ed.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is a normative statement about what one should do, not a factual claim that can be verified. It's a recommendation based on statistical principles.)",
                 "origin_text": "a vyhnout se nadm\u011brn\u00e9mu vybaven\u00ed.",
@@ -7658,7 +7603,7 @@
             },
             {
                 "id": 2,
-                "claim": "Moving averages are useful methods for small datasets.",
+                "claim": "St\u011bhovac\u00ed pr\u016fm\u011bry jsou u\u017eite\u010dn\u00e9 metody pro mal\u00e9 datov\u00e9 soubory.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This statement represents an opinion about the usefulness of a statistical method. While one could study the performance of moving averages on small datasets, 'usefulness' is subjective and depends on specific contexts and criteria.)",
                 "origin_text": "Zva\u017ete pou\u017eit\u00ed metod, jako jsou pohybliv\u00e9 pr\u016fm\u011bry,",
@@ -7667,7 +7612,7 @@
             },
             {
                 "id": 3,
-                "claim": "Exponential smoothing is useful for small datasets.",
+                "claim": "Exponen\u010dn\u00ed vyhlazov\u00e1n\u00ed je u\u017eite\u010dn\u00e9 pro mal\u00e9 datov\u00e9 soubory.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is an opinion about the usefulness of exponential smoothing that cannot be objectively verified. What constitutes 'useful' varies by context and is subjective.)",
                 "origin_text": "exponenci\u00e1ln\u00ed vyhlazov\u00e1n\u00ed",
@@ -7676,7 +7621,7 @@
             },
             {
                 "id": 4,
-                "claim": "ARIMA models are useful for small datasets.",
+                "claim": "Modely ARIMA jsou u\u017eite\u010dn\u00e9 pro mal\u00e9 datov\u00e9 soubory.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is an opinion about the usefulness of ARIMA models rather than a verifiable fact. The usefulness depends on subjective criteria and specific applications.)",
                 "origin_text": "nebo modely ARIMA.",
@@ -7685,7 +7630,7 @@
             },
             {
                 "id": 5,
-                "claim": "Additional information should be gathered for forecasting variables.",
+                "claim": "Pro p\u0159edpov\u00edd\u00e1n\u00ed prom\u011bnn\u00fdch by m\u011bly b\u00fdt shrom\u00e1\u017ed\u011bny dal\u0161\u00ed informace.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is a normative statement or recommendation about what one should do in forecasting, not a statement of verifiable fact.)",
                 "origin_text": "Tak\u00e9 se sna\u017ete shrom\u00e1\u017edit dal\u0161\u00ed informace",
@@ -7694,7 +7639,7 @@
             },
             {
                 "id": 6,
-                "claim": "External factors affecting the forecast variable should be collected.",
+                "claim": "Je t\u0159eba shroma\u017e\u010fovat vn\u011bj\u0161\u00ed faktory ovliv\u0148uj\u00edc\u00ed prom\u011bnnou progn\u00f3zy.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is a normative statement advising a best practice in forecasting rather than a statement of verifiable fact.)",
                 "origin_text": "nebo vn\u011bj\u0161\u00ed faktory, kter\u00e9 by mohly ovlivnit prom\u011bnnou, kter\u00e1 je progn\u00f3zov\u00e1na.",
@@ -7703,7 +7648,7 @@
             },
             {
                 "id": 7,
-                "claim": "Expert judgment can provide additional forecasting information.",
+                "claim": "Odborn\u00fd \u00fasudek m\u016f\u017ee poskytnout dodate\u010dn\u00e9 informace o progn\u00f3ze.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a factual claim about the capability of expert judgment to provide information, which can be verified through research and empirical evidence.)",
                 "origin_text": "To lze prov\u00e9st prost\u0159ednictv\u00edm odborn\u00e9ho \u00fasudku,",
@@ -7712,7 +7657,7 @@
             },
             {
                 "id": 8,
-                "claim": "Public data sources can provide additional forecasting information.",
+                "claim": "Zdroje ve\u0159ejn\u00fdch \u00fadaj\u016f mohou poskytnout dodate\u010dn\u00e9 informace o progn\u00f3ze.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a factual claim about the capability of public data sources to provide information, which can be verified.)",
                 "origin_text": "ve\u0159ejn\u00fdch zdroj\u016f dat",
@@ -7721,7 +7666,7 @@
             },
             {
                 "id": 9,
-                "claim": "Model accuracy should be evaluated using appropriate metrics.",
+                "claim": "P\u0159esnost modelu by m\u011bla b\u00fdt hodnocena s pou\u017eit\u00edm vhodn\u00fdch metrik.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is a normative statement about what should be done in model evaluation rather than a statement of verifiable fact.)",
                 "origin_text": "nebo mikrosledk\u016f. Nakonec vyhodno\u0165te p\u0159esnost modelu pomoc\u00ed vhodn\u00fdch metrik",
@@ -7730,7 +7675,7 @@
             },
             {
                 "id": 10,
-                "claim": "Models should be adjusted as needed based on evaluation.",
+                "claim": "Modely by m\u011bly b\u00fdt podle pot\u0159eby upraveny na z\u00e1klad\u011b hodnocen\u00ed.",
                 "checkworthy": true,
                 "checkworthy_reason": "No (This is a normative statement recommending a practice rather than asserting a verifiable fact.)",
                 "origin_text": "a podle pot\u0159eby se upravte.",
@@ -7744,7 +7689,7 @@
         "claims": [
             {
                 "id": 0,
-                "claim": "ICD-9 is a coding system.",
+                "claim": "ICD-9 je k\u00f3dovac\u00ed syst\u00e9m.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a verifiable factual claim about what ICD-9 is, which can be checked against medical documentation and resources.)",
                 "origin_text": "ICD-9 (International Classification of Diseases, Dev\u00e1t\u00e1 revize) je k\u00f3dovac\u00ed syst\u00e9m",
@@ -7753,7 +7698,7 @@
             },
             {
                 "id": 1,
-                "claim": "ICD-9 stands for International Classification of Diseases, Ninth Revision.",
+                "claim": "ICD-9 znamen\u00e1 mezin\u00e1rodn\u00ed klasifikaci nemoc\u00ed, dev\u00e1t\u00e1 revize.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a specific claim about what the acronym ICD-9 represents, which can be verified through official medical documentation.)",
                 "origin_text": "",
@@ -7762,7 +7707,7 @@
             },
             {
                 "id": 2,
-                "claim": "ICD-9 is used for healthcare billing.",
+                "claim": "ICD-9 se pou\u017e\u00edv\u00e1 k fakturaci zdravotn\u00ed p\u00e9\u010de.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a verifiable claim about one of the applications of ICD-9 in healthcare systems, which can be confirmed through healthcare administration practices.)",
                 "origin_text": "je k\u00f3dovac\u00ed syst\u00e9m pou\u017e\u00edvan\u00fd p\u0159i \u00fa\u010dtov\u00e1n\u00ed",
@@ -7771,7 +7716,7 @@
             },
             {
                 "id": 3,
-                "claim": "ICD-9 is used for coding healthcare services.",
+                "claim": "ICD-9 se pou\u017e\u00edv\u00e1 pro k\u00f3dov\u00e1n\u00ed zdravotnick\u00fdch slu\u017eeb.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a factual claim about the function of ICD-9 in healthcare that can be verified by examining healthcare coding practices.)",
                 "origin_text": "a k\u00f3dov\u00e1n\u00ed zdravotn\u00ed p\u00e9\u010de",
@@ -7780,7 +7725,7 @@
             },
             {
                 "id": 4,
-                "claim": "ICD-9 classifies diseases.",
+                "claim": "ICD-9 klasifikuje nemoci.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a verifiable claim about the purpose and function of ICD-9, which can be confirmed by reviewing the ICD-9 manual and its usage in healthcare.)",
                 "origin_text": "pro klasifikaci nemoc\u00ed,",
@@ -7789,7 +7734,7 @@
             },
             {
                 "id": 5,
-                "claim": "ICD-9 classifies injuries.",
+                "claim": "ICD-9 klasifikuje zran\u011bn\u00ed.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a specific factual claim about what ICD-9 categorizes, which can be verified by examining the content of the ICD-9 system.)",
                 "origin_text": "zran\u011bn\u00ed",
@@ -7798,7 +7743,7 @@
             },
             {
                 "id": 6,
-                "claim": "ICD-9 classifies medical procedures.",
+                "claim": "ICD-9 klasifikuje l\u00e9ka\u0159sk\u00e9 postupy.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a factual claim about the scope of ICD-9 that can be verified by examining the classification system's contents and structure.)",
                 "origin_text": "a l\u00e9ka\u0159sk\u00fdch postup\u016f",
@@ -7807,7 +7752,7 @@
             },
             {
                 "id": 7,
-                "claim": "ICD-9 is used for reimbursement purposes.",
+                "claim": "ICD-9 se pou\u017e\u00edv\u00e1 pro \u00fa\u010dely \u00fahrady.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a verifiable claim about how ICD-9 is applied in healthcare financial systems, which can be confirmed through healthcare administration practices.)",
                 "origin_text": "pro \u00fa\u010dely \u00fahrady.",
@@ -7821,7 +7766,7 @@
         "claims": [
             {
                 "id": 0,
-                "claim": "Speak & Spell is an album by Depeche Mode.",
+                "claim": "Speak & Spell je album Depeche Mode.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a verifiable claim about a specific album being created by a specific musical group, which can be objectively checked through music records and discographies.)",
                 "origin_text": "alba Depeche Mode jsou: Speak & Spell,",
@@ -7830,7 +7775,7 @@
             },
             {
                 "id": 1,
-                "claim": "A Broken Frame is an album by Depeche Mode.",
+                "claim": "Broken Frame je album Depeche Mode.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement presents factual information about a specific album's attribution to Depeche Mode, which can be verified through official music releases and records.)",
                 "origin_text": "A Broken Frame,",
@@ -7839,7 +7784,7 @@
             },
             {
                 "id": 2,
-                "claim": "Construction Time Again is an album by Depeche Mode.",
+                "claim": "Construction Time Again je album Depeche Mode.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement contains verifiable information about a specific album and its association with the band Depeche Mode, which can be checked against music databases and official discographies.)",
                 "origin_text": "Construction Time Again,",
@@ -7857,7 +7802,7 @@
             },
             {
                 "id": 4,
-                "claim": "Black Celebration is an album by Depeche Mode.",
+                "claim": "Black Celebration je album Depeche Mode.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a verifiable claim about a specific album's attribution to Depeche Mode, which can be confirmed through discographies and music archives.)",
                 "origin_text": "Black Celebration,",
@@ -7866,7 +7811,7 @@
             },
             {
                 "id": 5,
-                "claim": "Music for the Masses is an album by Depeche Mode.",
+                "claim": "Hudba pro Masses je album Depeche Mode.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement presents factual information about a specific album being created by Depeche Mode, which can be objectively verified.)",
                 "origin_text": "Music for the Masses,",
@@ -7875,7 +7820,7 @@
             },
             {
                 "id": 6,
-                "claim": "Violator is an album by Depeche Mode.",
+                "claim": "Viol\u00e1tor je album Depeche Mode.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This is a factual claim about a specific album's connection to Depeche Mode, which can be verified through music history resources.)",
                 "origin_text": "Violator,",
@@ -7884,7 +7829,7 @@
             },
             {
                 "id": 7,
-                "claim": "Songs of Faith and Devotion is an album by Depeche Mode.",
+                "claim": "Songs of Faith and Devotion je album Depeche Mode.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a verifiable claim about a specific album being released by Depeche Mode, which can be checked against music industry records.)",
                 "origin_text": "Songs of Faith and Devotion,",
@@ -7893,7 +7838,7 @@
             },
             {
                 "id": 8,
-                "claim": "Ultra is an album by Depeche Mode.",
+                "claim": "Ultra je album Depeche Mode.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement presents factual information about a specific album's attribution to Depeche Mode, which can be objectively verified through music databases.)",
                 "origin_text": "Ultra,",
@@ -7902,7 +7847,7 @@
             },
             {
                 "id": 9,
-                "claim": "Exciter is an album by Depeche Mode.",
+                "claim": "Exciter je album Depeche Mode.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This is a factual claim about a specific album being created by Depeche Mode, which can be confirmed through official discographies.)",
                 "origin_text": "Exciter,",
@@ -7911,7 +7856,7 @@
             },
             {
                 "id": 10,
-                "claim": "Playing the Angel is an album by Depeche Mode.",
+                "claim": "Hr\u00e1t Angel je album Depeche Mode.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement contains verifiable information about a specific album and its connection to Depeche Mode, which can be checked against music records.)",
                 "origin_text": "Playing the Angel,",
@@ -7920,7 +7865,7 @@
             },
             {
                 "id": 11,
-                "claim": "Sounds of the Universe is an album by Depeche Mode.",
+                "claim": "Sounds of the Universe je album Depeche Mode.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement makes a verifiable claim about a specific album being created by Depeche Mode, which can be objectively verified through music industry sources.)",
                 "origin_text": "Sounds of the Universe,",
@@ -7929,7 +7874,7 @@
             },
             {
                 "id": 12,
-                "claim": "Delta Machine is an album by Depeche Mode.",
+                "claim": "Delta Machine je album Depeche Mode.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This is a factual claim about a specific album's attribution to Depeche Mode, which can be verified through discographies and music archives.)",
                 "origin_text": "Delta Machine,",
@@ -7938,7 +7883,7 @@
             },
             {
                 "id": 13,
-                "claim": "Spirit is an album by Depeche Mode.",
+                "claim": "Spirit je album Depeche Mode.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement presents factual information about a specific album being released by Depeche Mode, which can be objectively verified through music databases and official sources.)",
                 "origin_text": "and Spirit.",
@@ -8006,7 +7951,7 @@
             },
             {
                 "id": 6,
-                "claim": "Sd\u00edlen\u00ed dovednost\u00ed je zp\u016fsob, jak si lid\u00e9 navz\u00e1jem pom\u00e1haj\u00ed.",
+                "claim": "Sd\u00edlen\u00ed n\u00e1klad\u016f je zp\u016fsob, jak si lid\u00e9 navr\u00e1til\u00edm pom\u00e1haj\u00ed.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement claims that sharing skills is a way people help each other, which is a factual assertion about skill transfer that can be observed and verified.)",
                 "origin_text": "sd\u00edlen\u00ed dovednost\u00ed",
@@ -8015,7 +7960,7 @@
             },
             {
                 "id": 7,
-                "claim": "Sd\u00edlen\u00ed odborn\u00fdch znalost\u00ed je zp\u016fsob, jak si lid\u00e9 navz\u00e1jem pom\u00e1haj\u00ed.",
+                "claim": "Sd\u00edlen\u00ed odborn\u00fdch zn\u00e1mek je zp\u016fsob, jak si lid\u00e9 navr\u00e1til\u00edm pom\u00e1h\u00e1j\u00ed.",
                 "checkworthy": true,
                 "checkworthy_reason": "Yes (This statement asserts that sharing expertise is a way people help each other, which is a verifiable claim about knowledge exchange.)",
                 "origin_text": "nebo odborn\u00fdch znalost\u00ed,",

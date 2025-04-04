@@ -6764,60 +6764,6 @@
         }
     ]
 },{
-    "source": "Chcete-li naj\u00edt nejlep\u0161\u00ed interi\u00e9rov\u00e9 dekorat\u00e9ry a nejlep\u0161\u00ed cenu, m\u016f\u017eete sledovat tyto kroky: 1. V\u00fdzkum: V\u00fdzkum on-line naj\u00edt interi\u00e9rov\u00e9 dekorat\u00e9ry ve va\u0161\u00ed oblasti. Pod\u00edvejte se na jejich portfolia, hodnocen\u00ed z\u00e1kazn\u00edk\u016f a hodnocen\u00ed. 2. Shortlist: Shortlist n\u011bkolik dekorat\u00e9\u0159i zalo\u017een\u00e9 na jejich pr\u00e1ci, zku\u0161enosti, a recenze. 3. Rozpo\u010det: Ur\u010dete sv\u016fj rozpo\u010det pro projekt a prodiskutujte tot\u00e9\u017e s ka\u017ed\u00fdm interi\u00e9rov\u00fdm dekorat\u00e9rem. 4. Porovnat: Porovnejte citace a slu\u017eby nab\u00edzen\u00e9 ka\u017ed\u00fdm interi\u00e9rov\u00fdm dekorat\u00e9rem. 5. Vyberte: Vyberte si nejlep\u0161\u00ed interi\u00e9rov\u00fd dekorat\u00e9r, kter\u00fd vyhovuje va\u0161emu stylu, pot\u0159eb\u00e1m a rozpo\u010dtu.",
-    "claims": {
-        "Finding the best interior decorators requires research online.": {
-            "text": "Chcete-li naj\u00edt nejlep\u0161\u00ed interi\u00e9rov\u00e9 dekorat\u00e9ry a nejlep\u0161\u00ed cenu, m\u016f\u017eete sledovat tyto kroky: 1. V\u00fdzkum: V\u00fdzkum on-line naj\u00edt interi\u00e9rov\u00e9 dekorat\u00e9ry ve va\u0161\u00ed oblasti.",
-            "start": 0,
-            "end": 164
-        },
-        "Research should focus on portfolios, customer ratings, and reviews.": {
-            "text": "Pod\u00edvejte se na jejich portfolia, hodnocen\u00ed z\u00e1kazn\u00edk\u016f a hodnocen\u00ed.",
-            "start": 165,
-            "end": 231
-        },
-        "Creating a shortlist of decorators is recommended.": {
-            "text": "2. Shortlist:",
-            "start": 232,
-            "end": 245
-        },
-        "Shortlisting should be based on work, experience, and reviews.": {
-            "text": "Shortlist n\u011bkolik dekorat\u00e9\u0159i zalo\u017een\u00e9 na jejich pr\u00e1ci, zku\u0161enosti, a recenze.",
-            "start": 246,
-            "end": 323
-        },
-        "Determining your budget for the project is important.": {
-            "text": "3. Rozpo\u010det: Ur\u010dete sv\u016fj rozpo\u010det pro projekt",
-            "start": 324,
-            "end": 369
-        },
-        "Budget should be discussed with each interior decorator.": {
-            "text": "a prodiskutujte tot\u00e9\u017e s ka\u017ed\u00fdm interi\u00e9rov\u00fdm dekorat\u00e9rem.",
-            "start": 370,
-            "end": 426
-        },
-        "Comparing quotes from different decorators is recommended.": {
-            "text": "4. Porovnat: Porovnejte citace",
-            "start": 427,
-            "end": 457
-        },
-        "Services offered by each decorator should be compared.": {
-            "text": "a slu\u017eby nab\u00edzen\u00e9 ka\u017ed\u00fdm interi\u00e9rov\u00fdm dekorat\u00e9rem.",
-            "start": 458,
-            "end": 508
-        },
-        "The best interior decorator should match your style.": {
-            "text": "5. Vyberte: Vyberte si nejlep\u0161\u00ed interi\u00e9rov\u00fd dekorat\u00e9r, kter\u00fd vyhovuje va\u0161emu stylu,",
-            "start": 509,
-            "end": 592
-        },
-        "The chosen decorator should meet your needs and budget.": {
-            "text": "pot\u0159eb\u00e1m a rozpo\u010dtu.",
-            "start": 593,
-            "end": 613
-        }
-    }
-},{
     "source": "Multipass distillation je proces destilace, kdy je p\u00e1ra z prvn\u00ed destilace kondenzov\u00e1na a krmena zp\u011bt do destila\u010dn\u00ed kolony pro dal\u0161\u00ed destilace ke zv\u00fd\u0161en\u00ed \u010distoty kone\u010dn\u00e9ho produktu.",
     "claims": [
         {
