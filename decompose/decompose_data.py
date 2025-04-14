@@ -1,13 +1,15 @@
+# Author: Lucia Makaiova
+# Date: 13-03-2025
+# Description: This script is 
 import json
 from factcheck import FactCheck
 from time import sleep
 
 api_cfg = {
-    'ANTHROPIC_API_KEY': 'null'
+    'LOCAL_API_URL': 'http://localhost:11434',
 }
 
-
-factcheck_instance = FactCheck(api_config=api_cfg, default_model="claude-3-7-sonnet-latest")
+factcheck_instance = FactCheck(api_config=api_cfg, default_model="phi3")
 
 #load translated data
 with open('../translate/translated.json', 'r') as file:
@@ -15,7 +17,7 @@ with open('../translate/translated.json', 'r') as file:
     #print(len(translated_data))
 file.close()
 
-data = translated_data
+data = translated_data[0:10]
 #run the fact-check pipeline for all data
 results = []
 with open('atomic_claims_FCGPT.json', 'a') as file:
@@ -25,10 +27,11 @@ with open('atomic_claims_FCGPT.json', 'a') as file:
             'source': d["response"],
             'claims': res
         }
+        print(new)
         file.write(",")
         json.dump(new, file, indent=4)
         #api limit of 5 responses/minute
-        sleep(30)
+        #sleep(30)
 file.close()
 
 
