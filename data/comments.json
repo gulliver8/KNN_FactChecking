@@ -1,0 +1,852 @@
+[
+    {
+        "comment": "... pokud chci mit data v bezpeci, tak jedine je mit sifrovana a na Linuxu.",
+        "claim": [
+            "Data jsou v bezpe\u010d\u00ed, jen pokud jsou \u0161ifrovan\u00e1 a na Linuxu."
+        ],
+        "source": "Zapomenut\u00e9 heslo k Windows m\u016f\u017eete resetovat. A\u017e na v\u00fdjimku to jde snadno",
+        "claim_token_counts": [
+            "13"
+        ],
+        "claim_id": [
+            "106959568_1"
+        ]
+    },
+    {
+        "comment": "A kde je zm\u00ednka o antivirotik\u00e1ch typu Isoprinosin a Ivermectin?",
+        "claim": [
+            "Isoprinosin je antivirotikum., Ivermektin je antivirotikum."
+        ],
+        "source": "Pneumolo\u017eka: Proti covidu pom\u016f\u017ee aspirin, u rizikov\u00fdch lid\u00ed bamlanivimab",
+        "claim_token_counts": [
+            "4",
+            "4"
+        ],
+        "claim_id": [
+            "106930801_1, 106930801_2"
+        ]
+    },
+    {
+        "comment": "A mysl\u00edte, \u017ee v Linuxu nen\u00ed jen na okrasu? Jakmile m\u00e1te fyzick\u00fd p\u0159\u00edstup k po\u010d\u00edta\u010di, tak jde nastavit rootovsk\u00e9 heslo tak\u00e9. Proto se servery zamykaj\u00ed.",
+        "claim": [
+            "Pokud m\u00e1te fyzick\u00fd p\u0159\u00edstup k po\u010d\u00edta\u010di, m\u016f\u017eete nastavit rootovsk\u00e9 heslo., Servery se zamykaj\u00ed, aby ne\u0161lo nastavit rootovsk\u00e9 heslo."
+        ],
+        "source": "Zapomenut\u00e9 heslo k Windows m\u016f\u017eete resetovat. A\u017e na v\u00fdjimku to jde snadno",
+        "claim_token_counts": [
+            "12",
+            "10"
+        ],
+        "claim_id": [
+            "106916949_1, 106916949_2"
+        ]
+    },
+    {
+        "comment": "A pen\u00edze na ty dotace si tisknou? Dotace na elektromobilitu funguj\u00ed jen dokud je elektromobilita minoritn\u00ed z\u00e1le\u017eitost\u00ed.",
+        "claim": [
+            "Dotace na elektromobilitu funguj\u00ed jen, dokud je elektromobilita men\u0161inovou z\u00e1le\u017eitost\u00ed."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "12"
+        ],
+        "claim_id": [
+            "107039332_1"
+        ]
+    },
+    {
+        "comment": "A zapomn\u011bli jste na variantu, \u017ee je disk \u0161ifrovan\u00fd Bitlockerem a vy nev\u00edte heslo. To u\u017e takhle jednodu\u0161e nejde. Proto je ve v\u011bt\u0161in\u011b firemn\u00edch politik vy\u017eadov\u00e1no \u0161ifrov\u00e1n\u00ed disku.",
+        "claim": [
+            "Pokud je disk \u0161ifrovan\u00fd BitLockerem, nelze jednodu\u0161e resetovat heslo., Ve v\u011bt\u0161in\u011b firemn\u00edch politik je vy\u017eadov\u00e1no \u0161ifrov\u00e1n\u00ed disku."
+        ],
+        "source": "Zapomenut\u00e9 heslo k Windows m\u016f\u017eete resetovat. A\u017e na v\u00fdjimku to jde snadno",
+        "claim_token_counts": [
+            "11",
+            "9"
+        ],
+        "claim_id": [
+            "106916915_1, 106916915_2"
+        ]
+    },
+    {
+        "comment": "Ale kecy, EURO 6 plat\u00ed od 1.1.2015, to znamen\u00e1, \u017ee 5 let star\u00e9 auto mus\u00ed spl\u0148ovat EURO 6",
+        "claim": [
+            "Norma EURO 6 plat\u00ed od 1. 1. 2015., 5 let star\u00e9 auto mus\u00ed spl\u0148ovat normu EURO 6."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "11",
+            "10"
+        ],
+        "claim_id": [
+            "107035869_1, 107035869_2"
+        ]
+    },
+    {
+        "comment": "Ani prihlasovani pomoci uctu Microsoftu neni extra bezpecny, stale plati, ze si taky mohu povolit ucet Administrator a pres nej se k souborum uzivatelu dostat, proto pokud chci mit data v bezpeci, tak jedine je mit sifrovana.",
+        "claim": [
+            "Pokud maj\u00ed b\u00fdt data v bezpe\u010d\u00ed, mus\u00ed b\u00fdt \u0161ifrovan\u00e1., P\u0159ihla\u0161ov\u00e1n\u00ed pomoc\u00ed \u00fa\u010dtu Microsoft nen\u00ed extra bezpe\u010dn\u00e9."
+        ],
+        "source": "Zapomenut\u00e9 heslo k Windows m\u016f\u017eete resetovat. A\u017e na v\u00fdjimku to jde snadno",
+        "claim_token_counts": [
+            "11",
+            "8"
+        ],
+        "claim_id": [
+            "106917164_1, 106917164_2"
+        ]
+    },
+    {
+        "comment": "Ano, to samoz\u0159ejm\u011b lze. Ale pokud by na silnic\u00edch z\u016fstala p\u0159ev\u00e1\u017en\u011b osobn\u00ed doprava, tak \u00fadr\u017eba bude st\u00e1t 5-10% toho, co dnes.",
+        "claim": [
+            "Pokud by na silnic\u00edch z\u016fstala p\u0159ev\u00e1\u017en\u011b osobn\u00ed doprava, \u00fadr\u017eba by st\u00e1la 5\u201310 % toho, co dnes."
+        ],
+        "source": "Miliardov\u00fd byznys vyschl, technologick\u00fd obr Kapsch se stahuje z \u010ceska",
+        "claim_token_counts": [
+            "19"
+        ],
+        "claim_id": [
+            "106918679_1"
+        ]
+    },
+    {
+        "comment": "BTW: v\u011bt\u0161ina ob\u011bt\u00ed \u0160pan\u011blsk\u00e9 ch\u0159ipky zahynula pr\u00e1v\u011b na extr\u00e9mn\u011b silnou reakci imunitn\u00edho syst\u00e9mu. Kdyby tehdy lidstvo znalo kortikoidy a byly dostupn\u00e9, tak by ob\u011bti \u0160pan\u011blsk\u00e9 ch\u0159ipky byly v\u00fdrazn\u011b ni\u017e\u0161\u00ed.",
+        "claim": [
+            "V\u011bt\u0161ina ob\u011bt\u00ed \u0161pan\u011blsk\u00e9 ch\u0159ipky zahynula na extr\u00e9mn\u011b silnou reakci imunitn\u00edho syst\u00e9mu., Kdyby lidstvo b\u011bhem \u0161pan\u011blsk\u00e9 ch\u0159ipky znalo kortikoidy, po\u010det ob\u011bt\u00ed \u0161pan\u011blsk\u00e9 ch\u0159ipky by byl ni\u017e\u0161\u00ed."
+        ],
+        "source": "Pneumolo\u017eka: Proti covidu pom\u016f\u017ee aspirin, u rizikov\u00fdch lid\u00ed bamlanivimab",
+        "claim_token_counts": [
+            "12",
+            "16"
+        ],
+        "claim_id": [
+            "106951511_1, 106951511_2"
+        ]
+    },
+    {
+        "comment": "Brzdy a pneumatiky vypust\u00ed v\u00edce pevn\u00fdch \u010d\u00e1stic.",
+        "claim": [
+            "Brzdy a pneumatiky aut vypou\u0161t\u011bj\u00ed v\u00edce pevn\u00fdch \u010d\u00e1stic ne\u017e jejich v\u00fdfuky."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "12"
+        ],
+        "claim_id": [
+            "107035641_1"
+        ]
+    },
+    {
+        "comment": "Btw ta provozn\u00ed teplota je kv\u016fli po\u0161kozen\u00ed motoru. Oni ho tam vyt\u00e1\u010d\u00ed na maxim\u00e1ln\u00ed ot\u00e1\u010dky, ud\u011blejte to v zim\u011b se studen\u00fdm a mo\u017en\u00e1 tam z\u016fstane nadobro...",
+        "claim": [
+            "Na STK se motor m\u011b\u0159\u00ed zah\u0159\u00e1t\u00fd, aby se nepo\u0161kodil."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "11"
+        ],
+        "claim_id": [
+            "107036117_1"
+        ]
+    },
+    {
+        "comment": "Cena je teda dost sebevedoma, na druhou stranu mensi Peugeot 3008 hybrid stoji 1,2 mega...",
+        "claim": [
+            "Men\u0161\u00ed Peugeot 3008 hybrid stoj\u00ed 1,2 mil. K\u010d."
+        ],
+        "source": "Hybridn\u00ed Japonec p\u0159evle\u010den\u00fd za hybridn\u00edho Japonce. Suzuki Across",
+        "claim_token_counts": [
+            "10"
+        ],
+        "claim_id": [
+            "107327782_1"
+        ]
+    },
+    {
+        "comment": "Corona zp\u016fsobila jeden zaj\u00edmav\u00fd jev. Lid\u00e9 se za\u010dali v\u00edce vyh\u00fdbat MHD a dost lid\u00ed si koupilo do rodiny dal\u0161\u00ed v\u016fz pro doj\u00ed\u017ed\u011bn\u00ed do pr\u00e1ce pr\u00e1v\u011b m\u00edsto vyu\u017eit\u00ed MHD ... a v\u011bt\u0161inou to byla star\u0161\u00ed, levn\u00e1 vozidla odpov\u00eddaj\u00edc\u00ed star\u0161\u00edm norm\u00e1m ... tedy produkuj\u00edc\u00ed v\u00edce emis\u00ed. Taky u\u017e EU dum\u00e1 nad t\u00edm, jak omezit prodej ojetin.",
+        "claim": [
+            "Korona zp\u016fsobila, \u017ee se lid\u00e9 v\u00edce za\u010dali vyh\u00fdbat MHD., Hodn\u011b lid\u00ed si po\u0159\u00eddilo do rodiny dal\u0161\u00ed v\u016fz na doj\u00ed\u017ed\u011bn\u00ed do pr\u00e1ce m\u00edsto vyu\u017e\u00edv\u00e1n\u00ed MHD., V\u011bt\u0161inou byla nov\u011b kupovan\u00e1 vozidla kv\u016fli koron\u011b star\u0161\u00ed., Levn\u00e1 star\u0161\u00ed vozidla odpov\u00eddaj\u00ed star\u0161\u00edm emisn\u00edm norm\u00e1m., Star\u0161\u00ed auta odpov\u00eddaj\u00edc\u00ed star\u0161\u00edm norm\u00e1m produkuj\u00ed v\u00edce emis\u00ed., EU p\u0159em\u00fd\u0161l\u00ed, jak omezit prodej ojet\u00fdch vozidel."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "11",
+            "16",
+            "9",
+            "8",
+            "9",
+            "9"
+        ],
+        "claim_id": [
+            "107036865_1, 107036865_2, 107036865_2, 107036865_2, 107036865_2, 107036865_2"
+        ]
+    },
+    {
+        "comment": "Evropa se zbl\u00e1znila, postihovat auta, kter\u00e1 vypou\u0161t\u00ed nula nula nic zplodin je nesmysl. Pokud EU nem\u00e1 j\u017e dop\u0159edu vybran\u00e9 levn\u00e9, smyslupln\u00e9 a ekologick\u00e9 palivo, pak opravdu nech\u00e1pu pro\u010d ni\u010d\u00ed to, co l\u00e9ta budovalo. Po l\u00e9tech evropsk\u00e9ho blahobytu n\u00e1s z\u0159ejm\u011b \u010dekaj\u00ed l\u00e9ta str\u00e1d\u00e1n\u00ed, hloupost\u00ed. Jen aby to Evropu nepolo\u017eilo!",
+        "claim": [
+            "Je nesmysl postihovat auta za produkci emis\u00ed, pokud Evropa nem\u00e1 alternativn\u00ed levn\u00e9 a ekologick\u00e9 palivo."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "17"
+        ],
+        "claim_id": [
+            "107036459_1"
+        ]
+    },
+    {
+        "comment": "Filtr pevnych castic nezachyti oxidy dusiku nebo jine zplodiny.",
+        "claim": [
+            "Filtr pevn\u00fdch \u010d\u00e1stic nezachyt\u00ed oxidy dus\u00edku., Filtr pevn\u00fdch \u010d\u00e1stic nezachyt\u00ed \u0161kodliv\u00e9 splodiny."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "7",
+            "7"
+        ],
+        "claim_id": [
+            "107037565_1, 107037565_2"
+        ]
+    },
+    {
+        "comment": "Heslo ve Windows je toti\u017e jen na okrasu.",
+        "claim": [
+            "Heslo ve Windows je jen na ozdobu."
+        ],
+        "source": "Zapomenut\u00e9 heslo k Windows m\u016f\u017eete resetovat. A\u017e na v\u00fdjimku to jde snadno",
+        "claim_token_counts": [
+            "8"
+        ],
+        "claim_id": [
+            "106915487_1"
+        ]
+    },
+    {
+        "comment": "Isoprinosine nen\u00ed antivirotikum - sv\u00fdm mechanismem \u00fa\u010dinku. I kdy\u017e se u vir\u00f3z pou\u017e\u00edv\u00e1, to ano. Nicm\u00e9n\u011b j\u00e1 jsem prod\u011blala extr\u00e9mn\u011b t\u011b\u017ek\u00fd COVID a mysl\u00edm, \u017ee Isoprinosine mi byl sp\u00ed\u0161e na \u0161kodu. V\u011b\u0159\u00edm, \u017ee m\u016f\u017ee b\u00fdt u\u017eite\u010dn\u00fd u leh\u010d\u00edch pr\u016fb\u011bh\u016f a sp\u00ed\u0161e na za\u010d\u00e1tku onemocn\u011bn\u00ed.",
+        "claim": [
+            "Isoprinosin nen\u00ed mechanismem \u00fa\u010dinku antivirotikum."
+        ],
+        "source": "Pneumolo\u017eka: Proti covidu pom\u016f\u017ee aspirin, u rizikov\u00fdch lid\u00ed bamlanivimab",
+        "claim_token_counts": [
+            "6"
+        ],
+        "claim_id": [
+            "106938057_1"
+        ]
+    },
+    {
+        "comment": "Isoprinosine posiluje imunitu, pokud m\u00e1te t\u011b\u017ek\u00fd pr\u016fb\u011bh tak je to zp\u016fsobeno vesm\u011bs p\u0159ehnanou imunitn\u00ed reakc\u00ed a mus\u00edte naopak br\u00e1t kortikoidy, kter\u00e9 imunitn\u00ed reakci zeslab\u00ed.K\u00e1mo\u0161 m\u011bl tak\u00e9 velmi t\u011b\u017ek\u00fd pr\u016fb\u011bh a po kortikoidech byl za p\u00e1r dn\u00ed celkem fit.",
+        "claim": [
+            "Isoprinosin posiluje imunitu., T\u011b\u017ek\u00fd pr\u016fb\u011bh covidu je zp\u016fsoben p\u0159ehnanou imunitn\u00ed reakc\u00ed., P\u0159i t\u011b\u017ek\u00e9m pr\u016fb\u011bhu covidu je t\u0159eba br\u00e1t kortikoidy."
+        ],
+        "source": "Pneumolo\u017eka: Proti covidu pom\u016f\u017ee aspirin, u rizikov\u00fdch lid\u00ed bamlanivimab",
+        "claim_token_counts": [
+            "4",
+            "9",
+            "9"
+        ],
+        "claim_id": [
+            "106951380_1, 106951380_2, 106951380_2"
+        ]
+    },
+    {
+        "comment": "Jako\u017ee zv\u00ed\u0159ata jin\u00fd zv\u00ed\u0159ata nemu\u010d\u00ed? Vid\u011bl jste n\u011bkdy t\u0159eba kosatky na lovu? Samoz\u0159ejm\u011b si k tomu nevyr\u00e1b\u00ed n\u00e1stroje, ov\u0161em vynal\u00e9zav\u00fd jsou a\u017e a\u017e.",
+        "claim": [
+            "Kosatky p\u0159i lovu mu\u010d\u00ed jin\u00e1 zv\u00ed\u0159ata."
+        ],
+        "source": "Krutost s exotick\u00fdmi n\u00e1zvy: \u0161pan\u011blsk\u00e9 grilov\u00e1n\u00ed i kub\u00e1nsk\u00e1 kravata",
+        "claim_token_counts": [
+            "7"
+        ],
+        "claim_id": [
+            "106928437_1"
+        ]
+    },
+    {
+        "comment": "Jasn\u011b a v\u0161echna b\u011b\u017en\u00e1 auta s cenou kolem 500tis. se vyr\u00e1b\u00ed v\u00fdhradn\u011b pro v\u00fdchodn\u00ed Evropu, se proberte.",
+        "claim": [
+            "V\u0161echna b\u011b\u017en\u00e1 auta s cenou kolem 500 tis\u00edc CZK se vyr\u00e1b\u011bj\u00ed v\u00fdhradn\u011b pro v\u00fdchodn\u00ed Evropu."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "16"
+        ],
+        "claim_id": [
+            "107036706_1"
+        ]
+    },
+    {
+        "comment": "Je to vse o n\u011bjak\u00e9 volb\u011b. J\u00e1 u\u010dinil tuhle, auto nepotrebuju, vl\u00e1da by m\u011bla \u010dinit kroky aby n\u00e1m to zjednodu\u0161ilu, t\u0159eba stav\u011bli cyklostezky ve m\u011bstech, takto jdou miliardy na p\u0159edra\u017een\u00e9 dalnice pro p\u00e1r vyvolen\u00fdch",
+        "claim": [
+            "Miliardy jdou na p\u0159edra\u017een\u00e9 d\u00e1lnice pro p\u00e1r vyvolen\u00fdch."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "9"
+        ],
+        "claim_id": [
+            "107050217_1"
+        ]
+    },
+    {
+        "comment": "Jen k up\u0159esn\u011bn\u00ed. V Evrop\u011b se dobytek samoz\u0159ejm\u011b nezab\u00edj\u00ed elektrick\u00fdm proudem. T\u00edm se jen omr\u00e1\u010d\u00ed aby ve chv\u00edli pod\u0159ez\u00e1n\u00ed nebyl p\u0159i v\u011bdom\u00ed.",
+        "claim": [
+            "V Evrop\u011b se dobytek nezab\u00edj\u00ed elektrick\u00fdm proudem., Elektrick\u00fdm proudem se dobytek jen omr\u00e1\u010d\u00ed, aby nebyl p\u0159i pod\u0159ez\u00e1n\u00ed p\u0159i v\u011bdom\u00ed."
+        ],
+        "source": "\u010cten\u00e1\u0159i cestuj\u00ed: Krev zv\u00ed\u0159at a mrtv\u00ed doma. Sulawesi n\u00e1m uk\u00e1zalo, co je smrt",
+        "claim_token_counts": [
+            "8",
+            "14"
+        ],
+        "claim_id": [
+            "107129316_1, 107129316_2"
+        ]
+    },
+    {
+        "comment": "Jen norm\u00e1ln\u00ed v\u00fdvoj civilizace/\u00ed. Chudoba-rozvoj-pokrok-blahobyt-vym\u00fd\u0161len\u00ed hloupost\u00ed-\u00fapadek-zapom\u011bn\u00ed.",
+        "claim": [
+            "Chudoba, rozvoj, pokrok, blahobyt, vym\u00fd\u0161len\u00ed, hloupost, \u00fapadek a zapomn\u011bn\u00ed jsou norm\u00e1ln\u00edm pr\u016fb\u011bhem v\u00fdvoje civilizace."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "21"
+        ],
+        "claim_id": [
+            "107037204_1"
+        ]
+    },
+    {
+        "comment": "J\u00e1 si marn\u011b vzpom\u00edn\u00e1m, kdy politici m\u00edsto restrikc\u00ed n\u011bco povolili. Snad prodlou\u017een\u00ed intervalu technick\u00e9 u motorek. Jinak se po\u0159\u00e1d zp\u0159\u00eds\u0148uje ve v\u0161ech oblastech \u017eivota. A je \u00fapln\u011b jedno kter\u00e1 strana je u vesla",
+        "claim": [
+            "Politici prodlou\u017eili interval technick\u00e9 kontroly u motocykl\u016f., Politici v\u017edy jen zp\u0159\u00eds\u0148uj\u00ed na\u0159\u00edzen\u00ed ve v\u0161ech oblastech \u017eivota., Zp\u0159\u00eds\u0148ov\u00e1n\u00ed na\u0159\u00edzen\u00ed nez\u00e1le\u017e\u00ed na tom, jac\u00ed politici jsou ve vl\u00e1d\u011b."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "8",
+            "10",
+            "12"
+        ],
+        "claim_id": [
+            "107034947_1, 107034947_2, 107034947_2"
+        ]
+    },
+    {
+        "comment": "J\u00e1 u\u017e vyzkou\u0161el hodn\u011b antivir\u016f, ale jako nejlep\u0161\u00ed se mi jev\u00ed Kasperski internet security.Ten obsahuje i spr\u00e1vu s\u00ed\u0165ov\u00e9ho provozu a umo\u017e\u0148uje ru\u010dn\u011b zak\u00e1zat program\u016fm s\u00ed\u0165ovou komunikaci, co\u017e jsem u jin\u00fdch antivir\u016f nem\u011bl.Tak\u017ee jak\u00e9mukoliv programu m\u016f\u017eete zak\u00e1zat odes\u00edlat data (ne v\u017edy je to p\u0159\u00ednosem) a taky jak\u00e9mukoliv syst\u00e9mov\u00e9mu programu. N\u011bco podobn\u00e9ho nab\u00edz\u00ed i AVG ale hodn\u011b omezen\u011b oproti Kaspersk\u00e9mu.",
+        "claim": [
+            "Kaspersky Internet Security obsahuje spr\u00e1vu s\u00ed\u0165ov\u00e9ho provozu., Kaspersky Internet Security umo\u017e\u0148uje ru\u010dn\u011b zak\u00e1zat program\u016fm s\u00ed\u0165ovou komunikaci., U jin\u00fdch antivir\u016f ne\u017e Kaspersky Internet Security nen\u00ed mo\u017en\u00e9 ru\u010dn\u011b zak\u00e1zat programu odes\u00edlat data., Ne v\u017edy je p\u0159\u00ednosem programu zak\u00e1zat odes\u00edlat data., AVG nab\u00edz\u00ed podobn\u00e9 mo\u017enosti spr\u00e1vy s\u00ed\u0165ov\u00e9ho provozu, ale omezen\u011bj\u0161\u00ed."
+        ],
+        "source": "Co vede u\u017eivatele k v\u00fdm\u011bn\u011b antiviru od Microsoftu",
+        "claim_token_counts": [
+            "8",
+            "10",
+            "15",
+            "9",
+            "11"
+        ],
+        "claim_id": [
+            "107123174_1, 107123174_2, 107123174_2, 107123174_2, 107123174_2"
+        ]
+    },
+    {
+        "comment": "Kanibalov\u00e9 na ostrov\u011b Samoa t\u011b\u017eko budou m\u00edt reggae v krvi, to vzniklo na \u00fapln\u011b jin\u00e9m ostrov\u011b, v \u00fapln\u011b jin\u00e9m mo\u0159i...Jsem na takov\u00e9 m\u00e1lo informovan\u00e9 pozn\u00e1mky trochu alergick\u00e1, ale mo\u017en\u00e1 za to m\u016f\u017ee tahle moje diagn\u00f3za:https://www.youtube.com/watch?v=7MEqaQJ9lqU",
+        "claim": [
+            "Reggae vzniklo na jin\u00e9m ostrov\u011b ne\u017e Samoa., Reggae vzniklo na ostrov\u011b v jin\u00e9m mo\u0159i ne\u017e v tom, kde se nach\u00e1z\u00ed ostrov Samoa."
+        ],
+        "source": "Samoa: ostrovy kanibal\u016f u\u017e turisty v\u00edtaj\u00ed s otev\u0159enou n\u00e1ru\u010d\u00ed",
+        "claim_token_counts": [
+            "8",
+            "17"
+        ],
+        "claim_id": [
+            "107139159_1, 107139159_2"
+        ]
+    },
+    {
+        "comment": "Komiks super, jen tak d\u00e1l! Je s podivem, \u017ee tady nikomu nevad\u00ed, \u017ee P\u0159erov p\u0159i\u0161el o miliardovou investici a 3500 pracovn\u00edch m\u00edst mimo jin\u00e9 kv\u016fli tomu, \u017ee nen\u00ed napojen\u00fd na d\u00e1lnici, proto\u017ee jej\u00ed v\u00fdstavbu blokuj\u00ed dva, mo\u017en\u00e1 t\u0159i lid\u00e9.Demokracie nen\u00ed jen o tom, abych mohl projevit sv\u016fj n\u00e1zor, ale tak\u00e9 o tom, \u017ee respektuji a akceptuji n\u00e1zor v\u011bt\u0161iny. A pokud jej neakceptuji, pak je na m\u011b, abych dal dohromady v\u011bt\u0161\u00ed v\u011bt\u0161inu",
+        "claim": [
+            "P\u0159erov p\u0159i\u0161el z d\u016fvodu, \u017ee nen\u00ed napojen na d\u00e1lnici, o miliardu investic., P\u0159erov p\u0159i\u0161el z d\u016fvodu, \u017ee nen\u00ed napojen na d\u00e1lnici, o 3500 pracovn\u00edch m\u00edst., Demokracie je i o tom, \u017ee se respektuje n\u00e1zor v\u011bt\u0161iny., V\u00fdstavbu d\u00e1lnice v P\u0159erov\u011b blokuj\u00ed 2\u20133 lid\u00e9."
+        ],
+        "source": "Za dostavbu D1 budou pro \u0158SD d\u00e1l bojovat i auto\u0159i \u00fato\u010dn\u00e9 komiksov\u00e9 kampan\u011b",
+        "claim_token_counts": [
+            "15",
+            "16",
+            "12",
+            "8"
+        ],
+        "claim_id": [
+            "106967769_1, 106967769_2, 106967769_2, 106967769_2"
+        ]
+    },
+    {
+        "comment": "Michate hrusky a jabka. Windows NT koexistovaly s klasickymi Windows az do Windows 2000.",
+        "claim": [
+            "Windows NT koexistovaly s klasick\u00fdmi Windows a\u017e do verze 2000."
+        ],
+        "source": "Zapomenut\u00e9 heslo k Windows m\u016f\u017eete resetovat. A\u017e na v\u00fdjimku to jde snadno",
+        "claim_token_counts": [
+            "11"
+        ],
+        "claim_id": [
+            "106921102_1"
+        ]
+    },
+    {
+        "comment": "Mo\u017en\u00e1 by si na CO2 m\u011bla pan\u00ed redaktorka za\u010d\u00edt d\u00e1vat velk\u00fd pozor, aby se tou toxickou zplodinou neotr\u00e1vila p\u0159i pit\u00ed bublinkov\u00e9 limon\u00e1dy, nebo sodovky.",
+        "claim": [
+            "CO2 je toxick\u00e1 zplodina., Redaktorka by se mohla s CO2 otr\u00e1vit. "
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "5",
+            "8"
+        ],
+        "claim_id": [
+            "107038684_1, 107038684_2"
+        ]
+    },
+    {
+        "comment": "Na bolestiv\u00e9 b\u0159icho \u010daj z major\u00e1nky. I na velk\u00e9 k\u0159e\u010de.",
+        "claim": [
+            "\u010caj z major\u00e1nky pom\u00e1h\u00e1 na bolest b\u0159icha., \u010caj z major\u00e1nky pom\u00e1h\u00e1 na k\u0159e\u010de v b\u0159i\u0161e."
+        ],
+        "source": "U\u017e \u017e\u00e1dn\u00e9 bolesti. Vyzkou\u0161ejte alternativn\u00ed menstrua\u010dn\u00ed pom\u016fcky",
+        "claim_token_counts": [
+            "8",
+            "9"
+        ],
+        "claim_id": [
+            "106943553_1, 106943553_2"
+        ]
+    },
+    {
+        "comment": "Neni. Linux totiz s vice uzivateli pocital od zacatku po vzoru Unixu. Windows to ma dohackovane dost bidne",
+        "claim": [
+            "Linux s v\u00edce u\u017eivateli po\u010d\u00edtal od sv\u00e9ho vzniku., Windows m\u00e1 \u0161patn\u011b vy\u0159e\u0161en\u00fd p\u0159\u00edstup v\u00edce u\u017eivatel\u016f."
+        ],
+        "source": "Zapomenut\u00e9 heslo k Windows m\u016f\u017eete resetovat. A\u017e na v\u00fdjimku to jde snadno",
+        "claim_token_counts": [
+            "9",
+            "8"
+        ],
+        "claim_id": [
+            "106918334_1, 106918334_2"
+        ]
+    },
+    {
+        "comment": "Nepadla tu je\u0161t\u011b zaj\u00edmav\u00e1 v\u011bc, \u017ee po prvn\u00edm omezen\u00ed dopravy kv\u016fli coron\u011b se tam emise zv\u00fd\u0161ily, a nikdo nev\u00ed pro\u010d... Ale nam\u011b\u0159en\u00e9 to bylo.",
+        "claim": [
+            "V N\u011bmecku se po prvn\u00edm omezen\u00ed dopravy kv\u016fli koron\u011b emise zv\u00fd\u0161ily., Nen\u00ed jasn\u00e9, pro\u010d se emise v N\u011bmecku po prvn\u00edm omezen\u00ed dopravy kv\u016fli koron\u011b zv\u00fd\u0161ily."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "12",
+            "16"
+        ],
+        "claim_id": [
+            "107036538_1, 107036538_2"
+        ]
+    },
+    {
+        "comment": "Nes\u00fahlas\u00edm. Zoberte si zvierat\u00e1 najbli\u017e\u0161ie k n\u00e1m, teda tie viac inteligentn\u00e9 (gorily, delf\u00edny a podobne). Mysl\u00edm \u017ee by toho vymysleli ove\u013ea viac. A v\u00f4bec to nemysl\u00edm tak \u017ee \"ne ne, to je o\u0161kliv\u00e9\" ..... ja tvrd\u00edm, \u017ee \u013eudia s\u00fa zlej\u0161\u00ed. \u010co chcete vym\u00fd\u0161\u013ea\u0165 na vra\u017ediacich v\u00fdprav\u00e1ch, vojsk\u00e1ch, ke\u010f sa cel\u00e1 arm\u00e1da, skupina vybrala niekam a len tak, bez ni\u010doho, dos\u0165 kruto vyni\u010dila cel\u00fa osadu, dedinu, cel\u00fd kme\u0148. \u010co je na tom o vym\u00fd\u0161\u013ean\u00ed ke\u010f sa tu ni\u010d\u00edme 5000 rokov???",
+        "claim": [
+            "Lid\u00e9 jsou hor\u0161\u00ed ne\u017e jin\u00e1 zv\u00ed\u0159ata."
+        ],
+        "source": "Krutost s exotick\u00fdmi n\u00e1zvy: \u0161pan\u011blsk\u00e9 grilov\u00e1n\u00ed i kub\u00e1nsk\u00e1 kravata",
+        "claim_token_counts": [
+            "7"
+        ],
+        "claim_id": [
+            "106934997_1"
+        ]
+    },
+    {
+        "comment": "Nezlobte se, ale i moje 8 let star\u00e1 Octavia 3 s TDi 2L 110kW pln\u00ed EURO 6...",
+        "claim": [
+            "8 let star\u00e1 Octavia 3 s TDI 2L 110 kW spl\u0148uje normu EURO 6."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "15"
+        ],
+        "claim_id": [
+            "107035918_1"
+        ]
+    },
+    {
+        "comment": "No co se vam na tom nezda? Drive mely elektroauta baterky tak puruznu (i v kufru), a hlavne je to rozdil proti benzinaku - elektro ma baterky v podlaze, a diky tomu ma nizke teziste (o je jen konstatovani faktu, neni to nejake prekvapive odhaleni)",
+        "claim": [
+            "Elektroauta maj\u00ed baterky v podlaze, a d\u00edky tomu maj\u00ed n\u00edzk\u00e9 t\u011b\u017ei\u0161t\u011b."
+        ],
+        "source": "Hybridn\u00ed Japonec p\u0159evle\u010den\u00fd za hybridn\u00edho Japonce. Suzuki Across",
+        "claim_token_counts": [
+            "13"
+        ],
+        "claim_id": [
+            "107356449_1"
+        ]
+    },
+    {
+        "comment": "No, on ten Peugeot ve skute\u010dnosti zas o tolik men\u0161\u00ed nebude. Vnit\u0159n\u00ed prostor a kufr jsou v podstat\u011b nastejno. Kompaktn\u011bj\u0161\u00ed je jen zvenku.",
+        "claim": [
+            "Peugeot 3008 hybrid m\u00e1 t\u00e9m\u011b\u0159 stejn\u00fd vnit\u0159n\u00ed prostor jako Suzuki Across., Peugeot 3008 hybrid m\u00e1 t\u00e9m\u011b\u0159 stejn\u011b velk\u00fd kufr jako Suzuki Across., Peugeot 3008 hybrid je zven\u010d\u00ed kompaktn\u011bj\u0161\u00ed ne\u017e Suzuki Across. "
+        ],
+        "source": "Hybridn\u00ed Japonec p\u0159evle\u010den\u00fd za hybridn\u00edho Japonce. Suzuki Across",
+        "claim_token_counts": [
+            "12",
+            "12",
+            "10"
+        ],
+        "claim_id": [
+            "107334327_1, 107334327_2, 107334327_2"
+        ]
+    },
+    {
+        "comment": "No, oni si ty star\u00e9 benz\u00ednov\u00e9 \u0161unky kupovali i tam, kde zak\u00e1zali \u010dist\u00e9 diesely...",
+        "claim": [
+            "Star\u00e9 benz\u00ednov\u00e9 vozy se kupovaly i tam, kde zak\u00e1zali \u010dist\u00e9 dieselov\u00e9 vozy."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "14"
+        ],
+        "claim_id": [
+            "107037316_1"
+        ]
+    },
+    {
+        "comment": "No, pokud si dob\u0159e pamatuji, tek zelen\u00ed cht\u011bj\u00ed vyb\u00edjet i hospod\u00e1\u0159sk\u00e1 zv\u00ed\u0159ata, proto\u017ee moc prd\u00ed meta a to je sklen\u00edkov\u00fd plyn ...",
+        "claim": [
+            "Zelen\u00ed cht\u011bj\u00ed zab\u00edjet hospod\u00e1\u0159sk\u00e1 zv\u00ed\u0159ata, proto\u017ee vylu\u010duj\u00ed hodn\u011b metanu., Metan je sklen\u00edkov\u00fd plyn."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "11",
+            "5"
+        ],
+        "claim_id": [
+            "107037248_1, 107037248_2"
+        ]
+    },
+    {
+        "comment": "On n\u00e1\u0161 prezident m\u00e1 tak\u00e9 \u00fapln\u011b jin\u00e9 kompetence ne\u017e ten americk\u00fd.\u017de maj\u00ed minist\u0159i vnitra r\u016fzn\u00e9 role v r\u016fzn\u00fdch st\u00e1tech, to samo o sob\u011b nen\u00ed d\u016fvod ne\u0159\u00edkat jim stejn\u011b.",
+        "claim": [
+            "\u010cesk\u00fd prezident m\u00e1 jin\u00e9 kompetence ne\u017e ten americk\u00fd., Minist\u0159i vnitra maj\u00ed v r\u016fzn\u00fdch st\u00e1tech r\u016fzn\u00e9 role."
+        ],
+        "source": "Indi\u00e1nka Haalandov\u00e1 p\u0159ich\u00e1z\u00ed do Washingtonu zm\u011bnit v\u00edc ne\u017e jen dress code",
+        "claim_token_counts": [
+            "9",
+            "9"
+        ],
+        "claim_id": [
+            "107076871_1, 107076871_2"
+        ]
+    },
+    {
+        "comment": "Ono nula nula nic kr\u00e1t milion v jednom m\u011bst\u011b d\u00e1 hodn\u011b. A nav\u00edc t\u011bch nula nula nic plat\u00ed pro zah\u0159\u00e1t\u00fd motor. V rann\u00ed \u0161pi\u010dce ve m\u011bstech popoj\u00ed\u017ed\u00ed studen\u00e9 naf\u0165\u00e1ky, kter\u00e9 maj\u00ed n\u011bkolikan\u00e1sobn\u00e9 emise.Ono jde o to, \u017ee se doba zm\u011bnila. Ka\u017ed\u00fd m\u00e1 auto, obzvl\u00e1\u0161t\u011b v N\u011bmecku je jejich koncentrace enormn\u00ed. A lid\u00ed cht\u011bj\u00ed taky d\u00fdchat a nejen si vozit zadek.Kdo bydl\u00ed u magistr\u00e1ly, v\u00ed jak\u00fd to je, jak\u00fd je tam prach a hluk. Jenom\u017ee t\u011bch magistr\u00e1l maj\u00ed v N\u011bmecku (ale i v jin\u00fdch zem\u00edch) tis\u00edce.Ne\u0159\u00edk\u00e1m, \u017ee sou\u010dasn\u00fd postup je ide\u00e1ln\u00ed. Ale nic ned\u011blat a nechat se d\u00e1l dusit, taky nen\u00ed \u0159e\u0161en\u00ed.",
+        "claim": [
+            "Studen\u00e9 naftov\u00e9 motory produkuj\u00ed n\u011bkolikan\u00e1sobn\u011b v\u00edce emis\u00ed ne\u017e b\u011b\u017en\u011b zah\u0159\u00e1t\u00e9 motory., V N\u011bmecku je enormn\u00ed koncentrace aut."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "12",
+            "7"
+        ],
+        "claim_id": [
+            "107036710_1, 107036710_2"
+        ]
+    },
+    {
+        "comment": "Ono se nikde emise nezvysily, staci neopak blbosti porad dokola :DAle jinak ano, muze se stat i to, ze namerite horsi hodnoty znecisteni v den, kdy nevyjede ani jedno auto, oproti dnu s provozem. Staci kdyz ten den bez aut bude inverze, a ten normalni den bude krasne a pofukovat vitr. Presto z takoveho mereni opravdu neplyne to, ze auta cisti vzduch :D",
+        "claim": [
+            "Emise se b\u011bhem korony nikde nezv\u00fd\u0161ily., Je mo\u017en\u00e9 nam\u011b\u0159it hor\u0161\u00ed hodnoty zne\u010di\u0161t\u011bn\u00ed v den, kdy nevyjede ani jedno auto, oproti dni s dopravou., Inverze negativn\u011b ovliv\u0148uje m\u011b\u0159en\u00ed zne\u010di\u0161t\u011bn\u00ed ovzdu\u0161\u00ed., Pov\u011btrnostn\u00ed podm\u00ednky ovliv\u0148uj\u00ed nam\u011b\u0159en\u00e9 hodnoty zne\u010di\u0161t\u011bn\u00ed vzduchu."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "7",
+            "20",
+            "7",
+            "8"
+        ],
+        "claim_id": [
+            "107037351_1, 107037351_2, 107037351_2, 107037351_2"
+        ]
+    },
+    {
+        "comment": "Pekny a trefny clanek. Osobne vyznavam tvrdy pristup jaky maji v Oregonu. Tedy extremni pokuty a postihy za znecistovani prirody a nerespektovani narizeni. Ve zminenem Oregonu treba pokuta za znecistovani az do $6250.",
+        "claim": [
+            "V Oregonu je pokuta za zne\u010di\u0161\u0165ov\u00e1n\u00ed a\u017e 6250 dolar\u016f."
+        ],
+        "source": "Hur\u00e1 jedeme na hory! N\u00e1por neohledupln\u00fdch turist\u016f ni\u010d\u00ed \u010deskou p\u0159\u00edrodu",
+        "claim_token_counts": [
+            "10"
+        ],
+        "claim_id": [
+            "106960997_1"
+        ]
+    },
+    {
+        "comment": "Pokud mate fyzicky pristup k pocitaci a disk neni sifrovany, tak linux nepomuze.Ale stale lepsi nez win, kde sifrovani je dostupne az pro verzi pro.",
+        "claim": [
+            "Pokud m\u00e1te ne\u0161ifrovan\u00fd disk a fyzick\u00fd p\u0159\u00edstup k po\u010d\u00edta\u010di, nepom\u016f\u017ee v\u00e1m, \u017ee m\u00e1te Linux., Ve Windows je \u0161ifrov\u00e1n\u00ed dostupn\u00e9 a\u017e pro Pro verzi."
+        ],
+        "source": "Zapomenut\u00e9 heslo k Windows m\u016f\u017eete resetovat. A\u017e na v\u00fdjimku to jde snadno",
+        "claim_token_counts": [
+            "17",
+            "10"
+        ],
+        "claim_id": [
+            "106922033_1, 106922033_2"
+        ]
+    },
+    {
+        "comment": "Sulawesi je velky ostrov vedle Bornea a Tana Toraja je oblast ve vnitrozemi. Ostrov spada pod Indonesia. Pred 10 lety jsem absoluoval stejny zazitek, autorka to popsala pomerne presne. Na Sulawesi jsem stravil zhruba mesic a rozhodne je to misto ktere stoji za navstevu. Zadni turiste, par batuzkaru. Sulawesi je take znamo jako jedno z nejlepsich mist na potapeni na svete.",
+        "claim": [
+            "Sulawesi je velk\u00fd ostrov vedle Bornea., Tana Toraja je oblast ve vnitrozem\u00ed., Sulawesi spad\u00e1 pod Indon\u00e9sii., Sulawesi je zn\u00e1m\u00e9 jako jedno z nejlep\u0161\u00edch m\u00edst pro pot\u00e1p\u011bn\u00ed na sv\u011bt\u011b."
+        ],
+        "source": "\u010cten\u00e1\u0159i cestuj\u00ed: Krev zv\u00ed\u0159at a mrtv\u00ed doma. Sulawesi n\u00e1m uk\u00e1zalo, co je smrt",
+        "claim_token_counts": [
+            "7",
+            "7",
+            "5",
+            "13"
+        ],
+        "claim_id": [
+            "107138641_1, 107138641_2, 107138641_2, 107138641_2"
+        ]
+    },
+    {
+        "comment": "Ta provozni teplota je kvuli tomu, ze motor ktery neni zahraty na optimalni teplotu ma vyssi emise. Napriklad kvuli tomu, ze je nutne mit bohatsi smes. A systemy jsou nastaveny na provozni teplotu motoru a optimalni otacky (katalyzator, SCR,..)",
+        "claim": [
+            "Na STK se motor m\u011b\u0159\u00ed zah\u0159\u00e1t\u00fd, aby m\u011bl ni\u017e\u0161\u00ed emise., Nezah\u0159\u00e1t\u00fd motor m\u00e1 vy\u0161\u0161\u00ed emise, proto\u017ee pot\u0159ebuje bohat\u0161\u00ed sm\u011bs paliva., Syst\u00e9my v aut\u011b jsou nastaven\u00e9 na provozn\u00ed teplotu motoru a optim\u00e1ln\u00ed ot\u00e1\u010dky."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "12",
+            "12",
+            "13"
+        ],
+        "claim_id": [
+            "107037515_1, 107037515_2, 107037515_2"
+        ]
+    },
+    {
+        "comment": "Tak moc se to neprojevilo. Daleko v\u00edce rodin bylo doma, d\u011bti nevozili do \u0161koly, celkov\u011b provoz v pr\u016fm\u011bru klesl v na\u0161em m\u011bst\u011b o 40%.",
+        "claim": [
+            "B\u011bhem korony bylo mnohem v\u00edce rodin doma., Doprava ve m\u011bstech klesla v pr\u016fm\u011bru o 40 %."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "8",
+            "10"
+        ],
+        "claim_id": [
+            "107037363_1, 107037363_2"
+        ]
+    },
+    {
+        "comment": "Tak na\u0161t\u011bst\u00ed se KDU-\u010cSL nedostalo do vl\u00e1dy, tak\u017ee nemohlo d\u00e1l za Kapsch lobovat a ten v\u00fdvar mu prodlou\u017eit ...",
+        "claim": [
+            "KDU-\u010cSL se nedostala do vl\u00e1dy., KDU-\u010cSL nemohla d\u00e1l lobovat za Kapsch."
+        ],
+        "source": "Miliardov\u00fd byznys vyschl, technologick\u00fd obr Kapsch se stahuje z \u010ceska",
+        "claim_token_counts": [
+            "6",
+            "7"
+        ],
+        "claim_id": [
+            "106919425_1, 106919425_2"
+        ]
+    },
+    {
+        "comment": "Tak t\u0159eba v \u0158\u00ed\u010danech u Prahy se nov\u00e1 \u0161kola postavila a letos za\u010dne v\u00fdstavba dal\u0161\u00ed. Z jak\u00fdch pen\u011bz nev\u00edm, ale pen\u011bz m\u011bsta tam bude men\u0161\u00ed d\u00edl, m\u011bsto na budov\u00e1n\u00ed staveb v \u00fahrnu p\u016fl miliardy nem\u00e1.",
+        "claim": [
+            "V \u0158\u00ed\u010danech u Prahy se postavila nov\u00e1 \u0161kola., \u0158\u00ed\u010dany u Prahy nemaj\u00ed p\u016fl miliardy korun na budov\u00e1n\u00ed staveb."
+        ],
+        "source": "Miliardov\u00fd byznys vyschl, technologick\u00fd obr Kapsch se stahuje z \u010ceska",
+        "claim_token_counts": [
+            "9",
+            "11"
+        ],
+        "claim_id": [
+            "106920854_1, 106920854_2"
+        ]
+    },
+    {
+        "comment": "To nen\u00ed ani o ekologii, ale o ekonomice. Nic proti vlak\u016fm, ale krom\u011b transportu z\u00e1kland\u00edch komodit nem\u00e1 u\u017e z hlediska dopravy \u017eeleznice n\u00e1rok. V\u011bt\u0161ina n\u00e1kladn\u00edch termin\u00e1l\u016f se prom\u011bnila na bownfieldy nebo u\u017e rovnou zastav\u011bla. Stav\u011bt nov\u00e9 j\u011b velmi draho a up\u0159\u00edmn\u011b nen\u00ed ani kde je stav\u011bt (chyb\u00ed napojen\u00ed na u\u017e tak trstn\u00ed silni\u010dn\u00ed infrastrukturu). A up\u0159\u00edmn\u011b firma pot\u0159ebuje logistick\u00e9 zabezpe\u010den\u00ed just-in-time a jestli se bude zbo\u017e\u00ed je\u0161t\u011b 2x p\u0159ekl\u00e1dat na/z vlaku vyjde to stejn\u011b dr\u00e1\u017e ne\u017e kamion. Bohu\u017eel doba velk\u00fdch tov\u00e1ren, kter\u00e9 m\u011bly vlastn\u00ed vle\u010dku na nejbli\u017e\u0161\u00ed n\u00e1dra\u017e\u00ed je pry\u010d a logistick\u00e9 megaare\u00e1ly u velk\u00fdch m\u011bst nemaj\u00ed v drtiv\u00e9 m\u00ed\u0159e mo\u017enost se na solidn\u00ed kapacitn\u00ed kooej v\u016fbec p\u0159ipojit.",
+        "claim": [
+            "Krom\u011b transportu z\u00e1kladn\u00edch komodit u\u017e nem\u00e1 \u017eeleznice z hlediska dopravy n\u00e1rok., V\u011bt\u0161ina n\u00e1kladn\u00edch termin\u00e1l\u016f se prom\u011bnila v brownfieldy nebo se zastav\u011bla., Je velmi drah\u00e9 stav\u011bt nov\u00e9 n\u00e1kladn\u00ed termin\u00e1ly., Nen\u00ed kde stav\u011bt nov\u00e9 vlakov\u00e9 termin\u00e1ly., Firmy pot\u0159ebuj\u00ed logistick\u00e9 zabezpe\u010den\u00ed just-in-time., Firmy vyjde p\u0159epravit zbo\u017e\u00ed vlakem dr\u00e1\u017e ne\u017e kamionem., Doba velk\u00fdch tov\u00e1ren, kter\u00e9 m\u011bly vlastn\u00ed vle\u010dku na nejbli\u017e\u0161\u00ed n\u00e1dra\u017e\u00ed, je pry\u010d., Logistick\u00e9 megaare\u00e1ly u velk\u00fdch m\u011bst nemaj\u00ed v drtiv\u00e9 m\u00ed\u0159e mo\u017enost se na solidn\u00ed kapacitn\u00ed kolej v\u016fbec p\u0159ipojit."
+        ],
+        "source": "Miliardov\u00fd byznys vyschl, technologick\u00fd obr Kapsch se stahuje z \u010ceska",
+        "claim_token_counts": [
+            "12",
+            "11",
+            "8",
+            "7",
+            "6",
+            "9",
+            "15",
+            "18"
+        ],
+        "claim_id": [
+            "106921312_1, 106921312_2, 106921312_2, 106921312_2, 106921312_2, 106921312_2, 106921312_2, 106921312_2"
+        ]
+    },
+    {
+        "comment": "To, pro\u010d n\u011bkdo vlastn\u00ed auto, je \u010di\u0161t\u011b jeho v\u011bc a to, \u017ee bydl\u00ed (v \u0161ir\u0161\u00edm) centru m\u011bsta, absolutn\u011b neznamen\u00e1, \u017ee ho nepot\u0159ebuje... Ale ch\u00e1pu, \u017ee hipste\u0159i a podobn\u00ed aktivisti, co jim sta\u010d\u00ed bat\u016f\u017eek nebo makaj n\u011bkde v Partnerstv\u00ed, tak ti maj\u00ed \u010dasu dost a m\u016f\u017eou ho ztr\u00e1cet t\u0159eba i \"ekologickou\" dopravou. Akor\u00e1t pak jsou neskute\u010dn\u011b otravn\u00ed, kdy\u017e pot\u0159ebuj\u00ed n\u011bkam za m\u011bsto a zrovna to nele\u017e\u00ed na koridoru...",
+        "claim": [
+            "To, \u017ee \u010dlov\u011bk bydl\u00ed v centru m\u011bsta, neznamen\u00e1, \u017ee nepot\u0159ebuje auto."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "15"
+        ],
+        "claim_id": [
+            "107037752_1"
+        ]
+    },
+    {
+        "comment": "V Australii zije ex-pat samoanska komunita a v australske NRL (ragbyova liga) hraje spousta Samoanu. Jeste zadne sve protivniky nesnedli.",
+        "claim": [
+            "V Austr\u00e1lii \u017eije ex-pat samo\u00e1nsk\u00e1 komunita., V australsk\u00e9 ragbyov\u00e9 lize hraje spousta Samo\u00e1nc\u016f., Samo\u00e1nci v australsk\u00e9 ragbyov\u00e9 lize nesn\u011bdli \u017e\u00e1dn\u00e9ho ze sv\u00fdch protivn\u00edk\u016f."
+        ],
+        "source": "Samoa: ostrovy kanibal\u016f u\u017e turisty v\u00edtaj\u00ed s otev\u0159enou n\u00e1ru\u010d\u00ed",
+        "claim_token_counts": [
+            "7",
+            "8",
+            "11"
+        ],
+        "claim_id": [
+            "107470302_1, 107470302_2, 107470302_2"
+        ]
+    },
+    {
+        "comment": "V monopolu nemate moznost volby a o to jde",
+        "claim": [
+            "V monopolu nen\u00ed mo\u017enost volby."
+        ],
+        "source": "Zapomenut\u00e9 heslo k Windows m\u016f\u017eete resetovat. A\u017e na v\u00fdjimku to jde snadno",
+        "claim_token_counts": [
+            "6"
+        ],
+        "claim_id": [
+            "106947824_1"
+        ]
+    },
+    {
+        "comment": "V roce 2013, tedy p\u0159ed osmi lety, se auta s normou EURO 6 nevyr\u00e1b\u011bla. Ano, motory se v z\u00e1kladu nezm\u011bnily a 2.0 TDI pak po roce 2015 spl\u0148oval iEURO 6, ale k jist\u00fdm mal\u00fdm \u00faprav\u00e1m tam do\u0161lo. V techni\u010d\u00e1ku m\u00e1te ur\u010dit\u011b uvedeno EURO 5.Nicm\u00e9n\u011b, st\u00e1t nem\u016f\u017ee zak\u00e1zat provoz n\u011b\u010deho, co odsouhlasil, \u017ee vyhovuje. Jinak riskuje soudy o od\u0161kodn\u011bn\u00ed. A \u0161rotovat t\u00e9m\u011br nov\u00e1 auta je zhovadilost.",
+        "claim": [
+            "V roce 2013 se auta s normou EURO 6 nevyr\u00e1b\u011bla., Motory se mezi lety 2013 a 2015 v z\u00e1kladu nezm\u011bnily., 2.0 TDI motor po roce 2015 spl\u0148oval tak\u00e9 normu EURO 6., St\u00e1t nem\u016f\u017ee zak\u00e1zat provoz n\u011b\u010deho, co odsouhlasil jako vyhovuj\u00edc\u00ed., Za z\u00e1kaz provozu n\u011b\u010deho, co schv\u00e1lil jako vyhovuj\u00edc\u00ed, st\u00e1t riskuje soudy a od\u0161kodn\u011bn\u00ed."
+        ],
+        "source": "Nejp\u0159\u00edsn\u011bj\u0161\u00ed z\u00e1kaz diesel\u016f N\u011bmecka stav\u00ed na odhadech. P\u011btilet\u00e1 auta na odpis",
+        "claim_token_counts": [
+            "11",
+            "11",
+            "12",
+            "11",
+            "16"
+        ],
+        "claim_id": [
+            "107039961_1, 107039961_2, 107039961_2, 107039961_2, 107039961_2"
+        ]
+    },
+    {
+        "comment": "Vetsinou to funguje tak ze Vas pruvodce je Torajan, ktery ma pristup. Oni smrt vidi jinak nez my a je to pro ne duvod k oslave neboztika. Na pohrbu ktereho jsme se zucastnili byli stovky lidi, vsichni byli velice pratelsti a brali nas spis jako hosty nez turisty. Jestli jim ten pruvodce neco da za to ze se muzete ucastnit to nevim, ale najmout si pruvodce na 3 dny nebylo vubec drahy. Uz si presne nepamatuji, je to 10 let. Nas rozhodne nikdo \u201cnezkasiroval\u201d stranou.",
+        "claim": [
+            "Torajani vid\u00ed smrt jako d\u016fvod k oslav\u011b zesnul\u00e9ho."
+        ],
+        "source": "\u010cten\u00e1\u0159i cestuj\u00ed: Krev zv\u00ed\u0159at a mrtv\u00ed doma. Sulawesi n\u00e1m uk\u00e1zalo, co je smrt",
+        "claim_token_counts": [
+            "9"
+        ],
+        "claim_id": [
+            "107138712_1"
+        ]
+    },
+    {
+        "comment": "Ze skamenelych kosti moc genetickeho materialu nevyskrabete.",
+        "claim": [
+            "Ze zkamen\u011bl\u00fdch kost\u00ed nelze vy\u0161kr\u00e1bat mnoho genetick\u00e9ho materi\u00e1lu."
+        ],
+        "source": "Americk\u00e1 univerzita hled\u00e1 n\u011bkoho, kdo by o\u017eivil mrtv\u00e9 a zachr\u00e1nil sv\u011bt",
+        "claim_token_counts": [
+            "9"
+        ],
+        "claim_id": [
+            "106915152_1"
+        ]
+    },
+    {
+        "comment": "genetick\u00fd materi\u00e1l nebude a\u017e tak probl\u00e9m, existuje hodn\u011b zmrzl\u00fdch mamut\u00edch pozustatk\u016f ...nav\u00edc genom mamuta je celkem dob\u0159e zdokumentovan\u00fd, p\u0159ed p\u00e1r lety jsem dokonce \u010detl studii \u017ee by mohl ml\u00e1d\u011b mamuta odnosit slon.",
+        "claim": [
+            "Existuje hodn\u011b zmrzl\u00fdch mamut\u00edch poz\u016fstatk\u016f., Genom mamuta je dob\u0159e zdokumentovan\u00fd., Existuje studie tvrd\u00edc\u00ed, \u017ee by mlad\u00fd mamut mohl b\u00fdt odnosit slon."
+        ],
+        "source": "Americk\u00e1 univerzita hled\u00e1 n\u011bkoho, kdo by o\u017eivil mrtv\u00e9 a zachr\u00e1nil sv\u011bt",
+        "claim_token_counts": [
+            "6",
+            "6",
+            "13"
+        ],
+        "claim_id": [
+            "106915584_1, 106915584_2, 106915584_2"
+        ]
+    },
+    {
+        "comment": "m\u00fdto je ve v\u011bt\u0161in\u011b okoln\u00edch zem\u00edch. Jen u n\u00e1s je to pijavice. Kapsch firma se stoletou tradic\u00ed. Asi v\u011bt\u0161ina kritizuj\u00edc\u00edch jsou samarit\u00e1n\u00ed co pracuj\u00ed zadarmo. St\u00e1t vyb\u00edr\u00e1 na m\u00fdtn\u00e9m p\u0159es 10 mld ro\u010dn\u011b. To je hezk\u00fd p\u0159\u00edjem do rozpo\u010dtu. Tyto pen\u00edze m\u011bly j\u00edt na v\u00fdstavbu d\u00e1lnic a modernizaci. Ale bohu\u017eel \u0161ly na koblihy. To sam\u00e9 EET. Babi\u0161 hl\u00e1sal kolik mld. se vybere nav\u00edc. Za to postav\u00edme \u0161koly, nemocnice... Nev\u00ed n\u011bkdo n\u00e1hodou o takov\u00e9 stavb\u011b...",
+        "claim": [
+            "M\u00fdto je ve v\u011bt\u0161in\u011b zem\u00ed okolo \u010ceska., Kapsch je firma se stoletou tradic\u00ed., \u010cesk\u00fd st\u00e1t vyb\u00edr\u00e1 na m\u00fdtn\u00e9m p\u0159es 10 miliard ro\u010dn\u011b., Pen\u00edze z \u010desk\u00e9ho m\u00fdta \u0161ly m\u00edsto modernizace a v\u00fdstavby d\u00e1lnic na koblihy., Babi\u0161 hl\u00e1sal, \u017ee za miliardy vybran\u00e9 nav\u00edc se postav\u00ed \u0161koly a nemocnice."
+        ],
+        "source": "Miliardov\u00fd byznys vyschl, technologick\u00fd obr Kapsch se stahuje z \u010ceska",
+        "claim_token_counts": [
+            "8",
+            "7",
+            "10",
+            "13",
+            "14"
+        ],
+        "claim_id": [
+            "106920137_1, 106920137_2, 106920137_2, 106920137_2, 106920137_2"
+        ]
+    },
+    {
+        "comment": "na internetu je asi milion n\u00e1vod\u016f jak cvi\u010dit doma nebo v okol\u00ed domu s vlastn\u00ed vahou a jednoduch\u00fdmi dostupn\u00fdmi pom\u016fckami. Ale stejn\u011b to tady vypad\u00e1, \u017ee obezita se u n\u00e1s poprv\u00e9 objevila a\u017e s uzav\u00edrkou okres\u016f",
+        "claim": [
+            "Na internetu je milion n\u00e1vod\u016f, jak cvi\u010dit doma nebo v okol\u00ed domu., Na internetu je milion n\u00e1vod\u016f, jak cvi\u010dit s vlastn\u00ed v\u00e1hou a jednoduch\u00fdmi dostupn\u00fdmi pom\u016fckami."
+        ],
+        "source": "Pneumolo\u017eka: Proti covidu pom\u016f\u017ee aspirin, u rizikov\u00fdch lid\u00ed bamlanivimab",
+        "claim_token_counts": [
+            "14",
+            "16"
+        ],
+        "claim_id": [
+            "106916125_1, 106916125_2"
+        ]
+    },
+    {
+        "comment": "take me to zarazilo, protoze typicka hudba zdejsi a novozelandske ex-pat samoanske komunity je typicky tichomorska (bubny, ukulele, kytary).Reggae je znama hudba Afro-jamajcanu , tedy uplne jiny ocean!Trochu jsem si zagoogloval. Podarilo se mi zjistit, ze na Samou se pres nedalekou Americkou Samou (soucast zamorskych teritorii USA) v novejsi dobe dostala \"havajska verze reggae\" a zpopularizovala tam, ale neprekonala puvodni tichomorskou hudebni kulturu.",
+        "claim": [
+            "Typick\u00e1 tichomo\u0159sk\u00e1 hudba m\u00e1 bubny, ukulele a kytary., Reggae je hudba Afro-Jamaican\u016f., Na Samou se dostala havajsk\u00e1 verze reggae."
+        ],
+        "source": "Samoa: ostrovy kanibal\u016f u\u017e turisty v\u00edtaj\u00ed s otev\u0159enou n\u00e1ru\u010d\u00ed",
+        "claim_token_counts": [
+            "10",
+            "5",
+            "8"
+        ],
+        "claim_id": [
+            "107470821_1, 107470821_2, 107470821_2"
+        ]
+    },
+    {
+        "comment": "\u0160impanzi pou\u017e\u00edvaj\u00ed na sousedn\u00ed tlupy odstra\u0161uj\u00edc\u00ed metody - po\u0159\u00e1daj\u00ed v\u00fdpravy na zatoulan\u00e9 jedince, kter\u00e9 mrza\u010d\u00ed, ale nezab\u00edjej\u00ed: jen a\u0165 se posti\u017een\u00fd doplaz\u00ed ke sv\u00fdm a vyd\u011bs\u00ed je. Ka\u017ed\u00fd p\u0159\u00edrodn\u00ed druh jde a\u017e na hranici toho, co dok\u00e1\u017ee vymyslet. Co vymyslet nedok\u00e1\u017ee, to ned\u011bl\u00e1. Nen\u00ed to tak, \u017ee by n\u011bco mohl, ale \u0159ekl si \"ne ne, to je o\u0161kliv\u00e9, to d\u011blat nebudeme\". Lid\u00e9 nejsou zlej\u0161\u00ed, jen toho dok\u00e1\u017e\u00ed v\u00edc vymyslet.",
+        "claim": [
+            "\u0160impanzi pou\u017e\u00edvaj\u00ed v\u016f\u010di sousedn\u00edm tlup\u00e1m zastra\u0161uj\u00edc\u00ed metody., \u0160impanzi po\u0159\u00e1daj\u00ed v\u00fdpravy na zatoulan\u00e9 jedince, kter\u00e9 mrza\u010d\u00ed, ale nezab\u00edjej\u00ed \u2013 jen a\u0165 se posti\u017een\u00fd doplaz\u00ed ke sv\u00fdm a vyd\u011bs\u00ed je., Ka\u017ed\u00fd p\u0159\u00edrodn\u00ed druh jde a\u017e na hranici toho, co dok\u00e1\u017ee vymyslet."
+        ],
+        "source": "Krutost s exotick\u00fdmi n\u00e1zvy: \u0161pan\u011blsk\u00e9 grilov\u00e1n\u00ed i kub\u00e1nsk\u00e1 kravata",
+        "claim_token_counts": [
+            "8",
+            "24",
+            "13"
+        ],
+        "claim_id": [
+            "106934748_1, 106934748_2, 106934748_2"
+        ]
+    }
+]

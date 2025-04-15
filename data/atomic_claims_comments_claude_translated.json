@@ -1,0 +1,1757 @@
+[
+    {
+        "source": "... pokud chci mit data v bezpeci, tak jedine je mit sifrovana a na Linuxu.",
+        "claim": [
+            "Data lze udr\u017eet v bezpe\u010d\u00ed prost\u0159ednictv\u00edm \u0161ifrov\u00e1n\u00ed.",
+            "Data mohou b\u00fdt na Linuxu v bezpe\u010d\u00ed.",
+            "\u0160ifrov\u00e1n\u00ed a Linux spole\u010dn\u011b poskytuj\u00ed bezpe\u010dnost dat."
+        ],
+        "checkworthy_reason": [
+            "Yes (This is a factual statement about a capability of encryption technology that can be verified through examination of technical evidence and information security principles.)",
+            "Yes (This statement makes a factual claim about Linux's data security capabilities that can be objectively investigated through technical analysis and documented security features.)",
+            "Yes (This statement makes a verifiable claim about the combined security properties of two specific technologies that can be tested and evaluated through technical assessment.)"
+        ],
+        "origin_text": [
+            "... pokud chci mit data v bezpeci, tak jedine je mit sifrovana",
+            "a na Linuxu.",
+            ""
+        ],
+        "start": [
+            "0.0",
+            "63.0",
+            "75.0"
+        ],
+        "end": [
+            "62.0",
+            "75.0",
+            "75.0"
+        ]
+    },
+    {
+        "source": "A mysl\u00edte, \u017ee v Linuxu nen\u00ed jen na okrasu? Jakmile m\u00e1te fyzick\u00fd p\u0159\u00edstup k po\u010d\u00edta\u010di, tak jde nastavit rootovsk\u00e9 heslo tak\u00e9. Proto se servery zamykaj\u00ed.",
+        "claim": [
+            "Fyzick\u00fd p\u0159\u00edstup k po\u010d\u00edta\u010di umo\u017e\u0148uje nastaven\u00ed ko\u0159enov\u00e9ho hesla.",
+            "Fyzick\u00fd p\u0159\u00edstup k Linuxov\u00fdm po\u010d\u00edta\u010d\u016fm umo\u017e\u0148uje zm\u011bny hesla.",
+            "Servery jsou zam\u010den\u00e9, aby zabr\u00e1nily neopr\u00e1vn\u011bn\u00e9mu fyzick\u00e9mu p\u0159\u00edstupu.",
+            "Bezpe\u010dnost serveru vy\u017eaduje fyzick\u00e1 ochrann\u00e1 opat\u0159en\u00ed."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a verifiable technical claim about computer security capabilities that can be objectively tested and documented.)",
+            "Yes (This statement makes a specific, testable claim about Linux security functionality that can be verified through technical documentation or demonstration.)",
+            "Yes (This statement contains verifiable information about security practices for servers that can be confirmed through industry standards and implementations.)",
+            "Yes (This statement makes a factual claim about security requirements that can be verified against industry standards, best practices, and security frameworks.)"
+        ],
+        "origin_text": [
+            "Jakmile m\u00e1te fyzick\u00fd p\u0159\u00edstup k po\u010d\u00edta\u010di, tak jde nastavit rootovsk\u00e9 heslo tak\u00e9.",
+            "",
+            "Proto se servery zamykaj\u00ed.",
+            ""
+        ],
+        "start": [
+            "43.0",
+            "122.0",
+            "123.0",
+            "149.0"
+        ],
+        "end": [
+            "122.0",
+            "122.0",
+            "149.0",
+            "149.0"
+        ]
+    },
+    {
+        "source": "A pen\u00edze na ty dotace si tisknou? Dotace na elektromobilitu funguj\u00ed jen dokud je elektromobilita minoritn\u00ed z\u00e1le\u017eitost\u00ed.",
+        "claim": [
+            "Pen\u00edze na dotace se tisknou."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a factual claim about how subsidy funds are generated, which can be verified by examining government financing methods.)"
+        ],
+        "origin_text": [
+            "A pen\u00edze na ty dotace si tisknou?"
+        ],
+        "start": [
+            "0.0"
+        ],
+        "end": [
+            "33.0"
+        ]
+    },
+    {
+        "source": "A zapomn\u011bli jste na variantu, \u017ee je disk \u0161ifrovan\u00fd Bitlockerem a vy nev\u00edte heslo. To u\u017e takhle jednodu\u0161e nejde. Proto je ve v\u011bt\u0161in\u011b firemn\u00edch politik vy\u017eadov\u00e1no \u0161ifrov\u00e1n\u00ed disku.",
+        "claim": [
+            "Jednoduch\u00e9 zotaven\u00ed nen\u00ed mo\u017en\u00e9 s Bitlocker \u0161ifrov\u00e1n\u00ed.",
+            "V\u011bt\u0161ina firemn\u00edch z\u00e1sad vy\u017eaduje \u0161ifrov\u00e1n\u00ed disk\u016f."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a technical claim about Bitlocker encryption capabilities that can be verified through technical documentation and testing.)",
+            "Yes (This statement makes a claim about the prevalence of disk encryption requirements in company policies, which could be verified through surveys, policy analysis, or industry research.)"
+        ],
+        "origin_text": [
+            "To u\u017e takhle jednodu\u0161e nejde.",
+            "Proto je ve v\u011bt\u0161in\u011b firemn\u00edch politik vy\u017eadov\u00e1no \u0161ifrov\u00e1n\u00ed disku."
+        ],
+        "start": [
+            "82.0",
+            "112.0"
+        ],
+        "end": [
+            "111.0",
+            "177.0"
+        ]
+    },
+    {
+        "source": "Ale kecy, EURO 6 plat\u00ed od 1.1.2015, to znamen\u00e1, \u017ee 5 let star\u00e9 auto mus\u00ed spl\u0148ovat EURO 6",
+        "claim": [
+            "Emisn\u00ed norma EURO 6 je platn\u00e1 od 1. ledna 2015.",
+            "P\u011btilet\u00e9 auto mus\u00ed spl\u0148ovat emisn\u00ed normu EURO 6."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement contains specific, verifiable information about the implementation date of a regulatory standard.)",
+            "Yes (This contains verifiable factual information about regulatory requirements for vehicles of a specific age.)"
+        ],
+        "origin_text": [
+            "Ale kecy, EURO 6 plat\u00ed od 1.1.2015,",
+            "to znamen\u00e1, \u017ee 5 let star\u00e9 auto mus\u00ed spl\u0148ovat EURO 6"
+        ],
+        "start": [
+            "0.0",
+            "36.0"
+        ],
+        "end": [
+            "35.0",
+            "88.0"
+        ]
+    },
+    {
+        "source": "Ani prihlasovani pomoci uctu Microsoftu neni extra bezpecny, stale plati, ze si taky mohu povolit ucet Administrator a pres nej se k souborum uzivatelu dostat, proto pokud chci mit data v bezpeci, tak jedine je mit sifrovana.",
+        "claim": [
+            "P\u0159ihl\u00e1\u0161en\u00ed k \u00fa\u010dtu Microsoft nen\u00ed nav\u00edc bezpe\u010dn\u00e9.",
+            "U\u017eivatel\u00e9 mohou povolit p\u0159\u00edstup k \u00fa\u010dtu spr\u00e1vce.",
+            "Administr\u00e1torsk\u00fd \u00fa\u010det umo\u017e\u0148uje p\u0159\u00edstup k u\u017eivatelsk\u00fdm soubor\u016fm.",
+            "Bezpe\u010dnost dat vy\u017eaduje \u0161ifrov\u00e1n\u00ed."
+        ],
+        "checkworthy_reason": [
+            "Yes (This contains a verifiable claim about the security level of Microsoft account authentication that can be tested against security standards and features.)",
+            "Yes (This is a verifiable statement about functionality in computer systems that can be confirmed by checking system settings and capabilities.)",
+            "Yes (This makes a factual claim about Administrator account permissions that can be verified by testing system capabilities.)",
+            "Yes (This contains a verifiable claim about data security requirements that can be evaluated against cybersecurity standards and practices.)"
+        ],
+        "origin_text": [
+            "Ani prihlasovani pomoci uctu Microsoftu neni extra bezpecny,",
+            "stale plati, ze si taky mohu povolit ucet Administrator",
+            "a pres nej se k souborum uzivatelu dostat,",
+            "proto pokud chci mit data v bezpeci,"
+        ],
+        "start": [
+            "0.0",
+            "61.0",
+            "117.0",
+            "160.0"
+        ],
+        "end": [
+            "60.0",
+            "116.0",
+            "159.0",
+            "196.0"
+        ]
+    },
+    {
+        "source": "Ano, to samoz\u0159ejm\u011b lze. Ale pokud by na silnic\u00edch z\u016fstala p\u0159ev\u00e1\u017en\u011b osobn\u00ed doprava, tak \u00fadr\u017eba bude st\u00e1t 5-10% toho, co dnes.",
+        "claim": [
+            "\u00dadr\u017eba silnic bude st\u00e1t 5-10% sou\u010dasn\u00e9 ceny.",
+            "\u00dadr\u017eba silnic bude levn\u011bj\u0161\u00ed s p\u0159ev\u00e1\u017en\u011b osobn\u00ed dopravou.",
+            "Osobn\u00ed doprava zp\u016fsobuje m\u00e9n\u011b po\u0161kozen\u00ed silnic."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a specific, quantifiable claim about future road maintenance costs as a percentage of current costs, which could be verified against economic projections or data.)",
+            "Yes (This statement contains a verifiable claim about the relationship between the type of traffic (predominantly personal vehicles) and road maintenance costs, which could be investigated through empirical studies.)",
+            "Yes (This statement makes a comparative claim about road damage caused by personal transportation versus other forms of transportation, which could be verified through engineering studies and data on road wear.)"
+        ],
+        "origin_text": [
+            "Ale pokud by na silnic\u00edch z\u016fstala p\u0159ev\u00e1\u017en\u011b osobn\u00ed doprava, tak \u00fadr\u017eba bude st\u00e1t 5-10% toho, co dnes.",
+            "",
+            "tak \u00fadr\u017eba bude st\u00e1t 5-10% toho, co dnes."
+        ],
+        "start": [
+            "24.0",
+            "82.0",
+            "83.0"
+        ],
+        "end": [
+            "124.0",
+            "82.0",
+            "124.0"
+        ]
+    },
+    {
+        "source": "BTW: v\u011bt\u0161ina ob\u011bt\u00ed \u0160pan\u011blsk\u00e9 ch\u0159ipky zahynula pr\u00e1v\u011b na extr\u00e9mn\u011b silnou reakci imunitn\u00edho syst\u00e9mu. Kdyby tehdy lidstvo znalo kortikoidy a byly dostupn\u00e9, tak by ob\u011bti \u0160pan\u011blsk\u00e9 ch\u0159ipky byly v\u00fdrazn\u011b ni\u017e\u0161\u00ed.",
+        "claim": [
+            "V\u011bt\u0161ina ob\u011bt\u00ed \u0161pan\u011blsk\u00e9 ch\u0159ipky zem\u0159ela na extr\u00e9mn\u011b siln\u00e9 reakce imunitn\u00edho syst\u00e9mu.",
+            "Kortikosteroidy nebyly zn\u00e1my b\u011bhem \u0161pan\u011blsk\u00e9 ch\u0159ipky pandemie.",
+            "Kortikosteroidy nebyly k dispozici b\u011bhem \u0161pan\u011blsk\u00e9 ch\u0159ipky pandemie."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a factual claim about the cause of death for Spanish flu victims that can be verified through historical medical records and research.)",
+            "Yes (This statement makes a verifiable claim about the historical timeline of medical knowledge regarding corticosteroids relative to the Spanish flu pandemic.)",
+            "Yes (This is a factual claim about the availability of a specific medical treatment during a specific historical period, which can be verified through historical records.)"
+        ],
+        "origin_text": [
+            "BTW: v\u011bt\u0161ina ob\u011bt\u00ed \u0160pan\u011blsk\u00e9 ch\u0159ipky zahynula pr\u00e1v\u011b na extr\u00e9mn\u011b silnou reakci imunitn\u00edho syst\u00e9mu.",
+            "Kdyby tehdy lidstvo znalo kortikoidy",
+            "a byly dostupn\u00e9,"
+        ],
+        "start": [
+            "0.0",
+            "98.0",
+            "135.0"
+        ],
+        "end": [
+            "97.0",
+            "134.0",
+            "151.0"
+        ]
+    },
+    {
+        "source": "Btw ta provozn\u00ed teplota je kv\u016fli po\u0161kozen\u00ed motoru. Oni ho tam vyt\u00e1\u010d\u00ed na maxim\u00e1ln\u00ed ot\u00e1\u010dky, ud\u011blejte to v zim\u011b se studen\u00fdm a mo\u017en\u00e1 tam z\u016fstane nadobro...",
+        "claim": [
+            "Provozn\u00ed teplota je d\u016fle\u017eit\u00e1 kv\u016fli po\u0161kozen\u00ed motoru.",
+            "Motor je vyt\u00e1\u010den na maxim\u00e1ln\u00ed ot\u00e1\u010dky.",
+            "Vyt\u00e1\u010den\u00ed studen\u00e9ho motoru v zim\u011b m\u016f\u017ee zp\u016fsobit trval\u00e9 po\u0161kozen\u00ed."
+        ],
+        "checkworthy_reason": [
+            "Yes (The statement contains verifiable information about the importance of operating temperature in relation to engine damage.)",
+            "Yes (This statement contains a verifiable claim about an engine being revved to maximum RPM.)",
+            "Yes (This statement makes a verifiable claim about the potential consequences of revving a cold engine in winter.)"
+        ],
+        "origin_text": [
+            "Btw ta provozn\u00ed teplota je kv\u016fli po\u0161kozen\u00ed motoru.",
+            "Oni ho tam vyt\u00e1\u010d\u00ed na maxim\u00e1ln\u00ed ot\u00e1\u010dky,",
+            "ud\u011blejte to v zim\u011b se studen\u00fdm a mo\u017en\u00e1 tam z\u016fstane nadobro..."
+        ],
+        "start": [
+            "0.0",
+            "51.0",
+            "90.0"
+        ],
+        "end": [
+            "50.0",
+            "89.0",
+            "151.0"
+        ]
+    },
+    {
+        "source": "Cena je teda dost sebevedoma, na druhou stranu mensi Peugeot 3008 hybrid stoji 1,2 mega...",
+        "claim": [
+            "Men\u0161\u00ed Peugeot 3008 hybrid stoj\u00ed 1,2 mega."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement contains verifiable factual information about the price of a specific car model, the Peugeot 3008 hybrid.)"
+        ],
+        "origin_text": [
+            "na druhou stranu mensi Peugeot 3008 hybrid stoji 1,2 mega..."
+        ],
+        "start": [
+            "30.0"
+        ],
+        "end": [
+            "90.0"
+        ]
+    },
+    {
+        "source": "Corona zp\u016fsobila jeden zaj\u00edmav\u00fd jev. Lid\u00e9 se za\u010dali v\u00edce vyh\u00fdbat MHD a dost lid\u00ed si koupilo do rodiny dal\u0161\u00ed v\u016fz pro doj\u00ed\u017ed\u011bn\u00ed do pr\u00e1ce pr\u00e1v\u011b m\u00edsto vyu\u017eit\u00ed MHD ... a v\u011bt\u0161inou to byla star\u0161\u00ed, levn\u00e1 vozidla odpov\u00eddaj\u00edc\u00ed star\u0161\u00edm norm\u00e1m ... tedy produkuj\u00edc\u00ed v\u00edce emis\u00ed. Taky u\u017e EU dum\u00e1 nad t\u00edm, jak omezit prodej ojetin.",
+        "claim": [
+            "Lid\u00e9 se za\u010dali vyh\u00fdbat ve\u0159ejn\u00e9 doprav\u011b v\u00edce.",
+            "Mnoho lid\u00ed koupil dal\u0161\u00ed vozidla pro doj\u00ed\u017ed\u011bn\u00ed do pr\u00e1ce.",
+            "Lid\u00e9 si m\u00edsto ve\u0159ejn\u00e9 dopravy kupovali dal\u0161\u00ed vozidla.",
+            "Lid\u00e9 v\u011bt\u0161inou nakupovali star\u0161\u00ed, levn\u011bj\u0161\u00ed vozidla.",
+            "Star\u0161\u00ed vozidla spl\u0148uj\u00ed star\u0161\u00ed standardy.",
+            "Star\u0161\u00ed vozidla produkuj\u00ed v\u00edce emis\u00ed.",
+            "EU zva\u017euje, jak omezit prodej ojet\u00fdch automobil\u016f."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a verifiable claim about human behavior that can be checked against transportation usage data.)",
+            "Yes (This contains a verifiable claim about vehicle purchases and their purpose that could be investigated through sales data and surveys.)",
+            "Yes (This presents a causal relationship between vehicle purchases and public transportation use that can be verified through consumer behavior studies.)",
+            "Yes (This statement makes a verifiable claim about the types of vehicles purchased that can be checked against vehicle sales data.)",
+            "Yes (This contains a verifiable factual claim about regulatory compliance that can be checked against vehicle manufacturing standards and regulations.)",
+            "Yes (This presents a verifiable claim about vehicle emissions that can be measured and compared using objective testing methods.)",
+            "Yes (This statement makes a verifiable claim about EU policy considerations that can be checked against official EU documents and statements.)"
+        ],
+        "origin_text": [
+            "Lid\u00e9 se za\u010dali v\u00edce vyh\u00fdbat MHD",
+            "a dost lid\u00ed si koupilo do rodiny dal\u0161\u00ed v\u016fz pro doj\u00ed\u017ed\u011bn\u00ed do pr\u00e1ce",
+            "pr\u00e1v\u011b m\u00edsto vyu\u017eit\u00ed MHD",
+            "... a v\u011bt\u0161inou to byla star\u0161\u00ed, levn\u00e1 vozidla",
+            "odpov\u00eddaj\u00edc\u00ed star\u0161\u00edm norm\u00e1m",
+            "... tedy produkuj\u00edc\u00ed v\u00edce emis\u00ed.",
+            "Taky u\u017e EU dum\u00e1 nad t\u00edm, jak omezit prodej ojetin."
+        ],
+        "start": [
+            "37.0",
+            "69.0",
+            "135.0",
+            "159.0",
+            "204.0",
+            "232.0",
+            "265.0"
+        ],
+        "end": [
+            "68.0",
+            "134.0",
+            "158.0",
+            "203.0",
+            "231.0",
+            "264.0",
+            "315.0"
+        ]
+    },
+    {
+        "source": "Evropa se zbl\u00e1znila, postihovat auta, kter\u00e1 vypou\u0161t\u00ed nula nula nic zplodin je nesmysl. Pokud EU nem\u00e1 j\u017e dop\u0159edu vybran\u00e9 levn\u00e9, smyslupln\u00e9 a ekologick\u00e9 palivo, pak opravdu nech\u00e1pu pro\u010d ni\u010d\u00ed to, co l\u00e9ta budovalo. Po l\u00e9tech evropsk\u00e9ho blahobytu n\u00e1s z\u0159ejm\u011b \u010dekaj\u00ed l\u00e9ta str\u00e1d\u00e1n\u00ed, hloupost\u00ed. Jen aby to Evropu nepolo\u017eilo!",
+        "claim": [
+            "EU postr\u00e1d\u00e1 p\u0159edem vybran\u00e9 levn\u00e9, rozumn\u00e9 a ekologick\u00e9 alternativy."
+        ],
+        "checkworthy_reason": [
+            "Yes (This contains a verifiable claim about the EU's available fuel alternatives, even though terms like 'sensible' add subjective elements.)"
+        ],
+        "origin_text": [
+            "Pokud EU nem\u00e1 j\u017e dop\u0159edu vybran\u00e9 levn\u00e9, smyslupln\u00e9 a ekologick\u00e9 palivo,"
+        ],
+        "start": [
+            "87.0"
+        ],
+        "end": [
+            "158.0"
+        ]
+    },
+    {
+        "source": "Filtr pevnych castic nezachyti oxidy dusiku nebo jine zplodiny.",
+        "claim": [
+            "Filtr pevnych castic nezachyti oxidy dusiku.",
+            "Filtr pevnych castic nezachyti jine zplodiny."
+        ],
+        "checkworthy_reason": [
+            "Yes (This appears to be in Czech and states that a particulate filter doesn't capture nitrogen oxides, which is a verifiable factual claim about the capabilities of a specific type of filter.)",
+            "Yes (This statement claims that a particulate filter doesn't capture other emissions/pollutants, which is a verifiable factual assertion about the filter's technical capabilities.)"
+        ],
+        "origin_text": [
+            "Filtr pevnych castic nezachyti oxidy dusiku",
+            "nebo jine zplodiny."
+        ],
+        "start": [
+            "0.0",
+            "44.0"
+        ],
+        "end": [
+            "43.0",
+            "63.0"
+        ]
+    },
+    {
+        "source": "Isoprinosine nen\u00ed antivirotikum - sv\u00fdm mechanismem \u00fa\u010dinku. I kdy\u017e se u vir\u00f3z pou\u017e\u00edv\u00e1, to ano. Nicm\u00e9n\u011b j\u00e1 jsem prod\u011blala extr\u00e9mn\u011b t\u011b\u017ek\u00fd COVID a mysl\u00edm, \u017ee Isoprinosine mi byl sp\u00ed\u0161e na \u0161kodu. V\u011b\u0159\u00edm, \u017ee m\u016f\u017ee b\u00fdt u\u017eite\u010dn\u00fd u leh\u010d\u00edch pr\u016fb\u011bh\u016f a sp\u00ed\u0161e na za\u010d\u00e1tku onemocn\u011bn\u00ed.",
+        "claim": [
+            "Isoprinosin nen\u00ed jeho mechanismem \u00fa\u010dinku antivirotikum.",
+            "Isoprinosin se pou\u017e\u00edv\u00e1 k virov\u00fdm infekc\u00edm."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement contains verifiable information about the pharmacological classification and mechanism of action of a specific drug, which can be checked against medical literature.)",
+            "Yes (This statement contains verifiable information about the clinical application of a specific drug, which can be confirmed through medical references and prescribing information.)"
+        ],
+        "origin_text": [
+            "Isoprinosine nen\u00ed antivirotikum - sv\u00fdm mechanismem \u00fa\u010dinku.",
+            "I kdy\u017e se u vir\u00f3z pou\u017e\u00edv\u00e1, to ano."
+        ],
+        "start": [
+            "0.0",
+            "59.0"
+        ],
+        "end": [
+            "58.0",
+            "93.0"
+        ]
+    },
+    {
+        "source": "Isoprinosine posiluje imunitu, pokud m\u00e1te t\u011b\u017ek\u00fd pr\u016fb\u011bh tak je to zp\u016fsobeno vesm\u011bs p\u0159ehnanou imunitn\u00ed reakc\u00ed a mus\u00edte naopak br\u00e1t kortikoidy, kter\u00e9 imunitn\u00ed reakci zeslab\u00ed.K\u00e1mo\u0161 m\u011bl tak\u00e9 velmi t\u011b\u017ek\u00fd pr\u016fb\u011bh a po kortikoidech byl za p\u00e1r dn\u00ed celkem fit.",
+        "claim": [
+            "Isoprinosin posiluje imunitn\u00ed syst\u00e9m.",
+            "T\u011b\u017ek\u00e9 onemocn\u011bn\u00ed je v\u011bt\u0161inou zp\u016fsobeno nadm\u011brnou imunitn\u00ed odpov\u011bd\u00ed.",
+            "Kortikosteroidy oslabuj\u00ed imunitn\u00ed odpov\u011b\u010f u z\u00e1va\u017en\u00fdch p\u0159\u00edpad\u016f."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a factual claim about the effect of a specific drug on the immune system that can be verified through medical research and clinical studies.)",
+            "Yes (This statement presents a verifiable claim about the causal relationship between immune response and severe illness that can be investigated through medical evidence.)",
+            "Yes (This statement makes a specific factual claim about the effects of corticosteroids on immune response in severe cases, which can be verified through medical literature.)"
+        ],
+        "origin_text": [
+            "Isoprinosine posiluje imunitu,",
+            "pokud m\u00e1te t\u011b\u017ek\u00fd pr\u016fb\u011bh tak je to zp\u016fsobeno vesm\u011bs p\u0159ehnanou imunitn\u00ed reakc\u00ed",
+            "a mus\u00edte naopak br\u00e1t kortikoidy, kter\u00e9 imunitn\u00ed reakci zeslab\u00ed."
+        ],
+        "start": [
+            "0.0",
+            "31.0",
+            "108.0"
+        ],
+        "end": [
+            "30.0",
+            "107.0",
+            "171.0"
+        ]
+    },
+    {
+        "source": "Jako\u017ee zv\u00ed\u0159ata jin\u00fd zv\u00ed\u0159ata nemu\u010d\u00ed? Vid\u011bl jste n\u011bkdy t\u0159eba kosatky na lovu? Samoz\u0159ejm\u011b si k tomu nevyr\u00e1b\u00ed n\u00e1stroje, ov\u0161em vynal\u00e9zav\u00fd jsou a\u017e a\u017e.",
+        "claim": [
+            "Zv\u00ed\u0159ata nemu\u010d\u00ed jin\u00e1 zv\u00ed\u0159ata.",
+            "Orcas nevytv\u00e1\u0159ej\u00ed n\u00e1stroje pro lov.",
+            "Orcas jsou velmi vynal\u00e9zav\u00e9 ve sv\u00fdch loveck\u00fdch metod\u00e1ch."
+        ],
+        "checkworthy_reason": [
+            "Yes (This contains a verifiable claim about animal behavior that can be investigated through observational studies or scientific research.)",
+            "Yes (This contains a verifiable claim about orca behavior that can be investigated through marine biology research.)",
+            "Yes (While it contains the subjective term 'very inventive,' the core claim about orcas having various hunting methods is objectively verifiable through scientific observation.)"
+        ],
+        "origin_text": [
+            "Jako\u017ee zv\u00ed\u0159ata jin\u00fd zv\u00ed\u0159ata nemu\u010d\u00ed?",
+            "Samoz\u0159ejm\u011b si k tomu nevyr\u00e1b\u00ed n\u00e1stroje,",
+            "ov\u0161em vynal\u00e9zav\u00fd jsou a\u017e a\u017e."
+        ],
+        "start": [
+            "0.0",
+            "76.0",
+            "116.0"
+        ],
+        "end": [
+            "35.0",
+            "115.0",
+            "144.0"
+        ]
+    },
+    {
+        "source": "Jasn\u011b a v\u0161echna b\u011b\u017en\u00e1 auta s cenou kolem 500tis. se vyr\u00e1b\u00ed v\u00fdhradn\u011b pro v\u00fdchodn\u00ed Evropu, se proberte.",
+        "claim": [
+            "B\u011b\u017en\u00e1 auta v cen\u011b kolem 500 000 nejsou vyr\u00e1b\u011bna v\u00fdhradn\u011b pro v\u00fdchodn\u00ed Evropu."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a verifiable claim about car manufacturing and regional market distribution that could be checked against industry data and production information.)"
+        ],
+        "origin_text": [
+            "Jasn\u011b a v\u0161echna b\u011b\u017en\u00e1 auta s cenou kolem 500tis. se vyr\u00e1b\u00ed v\u00fdhradn\u011b pro v\u00fdchodn\u00ed Evropu,"
+        ],
+        "start": [
+            "0.0"
+        ],
+        "end": [
+            "88.0"
+        ]
+    },
+    {
+        "source": "Je to vse o n\u011bjak\u00e9 volb\u011b. J\u00e1 u\u010dinil tuhle, auto nepotrebuju, vl\u00e1da by m\u011bla \u010dinit kroky aby n\u00e1m to zjednodu\u0161ilu, t\u0159eba stav\u011bli cyklostezky ve m\u011bstech, takto jdou miliardy na p\u0159edra\u017een\u00e9 dalnice pro p\u00e1r vyvolen\u00fdch",
+        "claim": [
+            "Miliardy jdou na p\u0159edra\u017een\u00e9 d\u00e1lnice."
+        ],
+        "checkworthy_reason": [
+            "Yes (This Czech statement translates to 'Billions go to overpriced highways' which contains a verifiable factual claim about government spending that could be investigated through budget documents and cost analyses.)"
+        ],
+        "origin_text": [
+            "takto jdou miliardy na p\u0159edra\u017een\u00e9 dalnice"
+        ],
+        "start": [
+            "150.0"
+        ],
+        "end": [
+            "191.0"
+        ]
+    },
+    {
+        "source": "Jen k up\u0159esn\u011bn\u00ed. V Evrop\u011b se dobytek samoz\u0159ejm\u011b nezab\u00edj\u00ed elektrick\u00fdm proudem. T\u00edm se jen omr\u00e1\u010d\u00ed aby ve chv\u00edli pod\u0159ez\u00e1n\u00ed nebyl p\u0159i v\u011bdom\u00ed.",
+        "claim": [
+            "Dobytek v Evrop\u011b se nezab\u00edj\u00ed elektrick\u00fdm proudem.",
+            "Elektrick\u00fd proud se pou\u017e\u00edv\u00e1 k omr\u00e1\u010den\u00ed dobytka.",
+            "Omr\u00e1\u010den\u00ed zaji\u0161\u0165uje, \u017ee dobytek nen\u00ed p\u0159i v\u011bdom\u00ed b\u011bhem pod\u0159ez\u00e1n\u00ed.",
+            "Dobytek v Evrop\u011b je pod\u0159ez\u00e1v\u00e1n po omr\u00e1\u010den\u00ed."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a verifiable claim about livestock slaughter practices in Europe, specifically that electricity is not used to kill livestock.)",
+            "Yes (This statement contains verifiable information about the use of electric current for stunning livestock, which can be fact-checked against agricultural practices.)",
+            "Yes (This statement makes a factual claim about the purpose and effect of stunning on livestock consciousness during slaughter, which can be verified through veterinary science and slaughter regulations.)",
+            "Yes (This statement presents verifiable information about the sequence of slaughter procedures in Europe, specifically that cutting occurs after stunning, which can be checked against European regulations and practices.)"
+        ],
+        "origin_text": [
+            "Jen k up\u0159esn\u011bn\u00ed. V Evrop\u011b se dobytek samoz\u0159ejm\u011b nezab\u00edj\u00ed elektrick\u00fdm proudem.",
+            "T\u00edm se jen omr\u00e1\u010d\u00ed",
+            "aby ve chv\u00edli pod\u0159ez\u00e1n\u00ed nebyl p\u0159i v\u011bdom\u00ed.",
+            ""
+        ],
+        "start": [
+            "0.0",
+            "78.0",
+            "96.0",
+            "17.0"
+        ],
+        "end": [
+            "77.0",
+            "95.0",
+            "137.0",
+            "17.0"
+        ]
+    },
+    {
+        "source": "Jen norm\u00e1ln\u00ed v\u00fdvoj civilizace/\u00ed. Chudoba-rozvoj-pokrok-blahobyt-vym\u00fd\u0161len\u00ed hloupost\u00ed-\u00fapadek-zapom\u011bn\u00ed.",
+        "claim": [
+            "Civilizace n\u00e1sleduje cyklus chudoby.",
+            "Civilizace sleduje v\u00fdvojov\u00fd cyklus.",
+            "Civilizace sleduje cyklus pokroku.",
+            "Civilizace n\u00e1sleduje cyklus prosperity.",
+            "Civilizace sleduje cyklus vym\u00fd\u0161len\u00ed nesmysl\u016f.",
+            "Civilizace n\u00e1sleduje cyklus \u00fapadku.",
+            "Civilizace n\u00e1sleduje cyklus zapomn\u011bn\u00ed."
+        ],
+        "checkworthy_reason": [
+            "Yes (This presents a factual claim about historical patterns of civilization that could be investigated through historical records and evidence.)",
+            "Yes (This makes a verifiable claim about cyclical patterns in civilization that can be examined through historical and anthropological evidence.)",
+            "Yes (This statement presents a testable historical pattern that could be verified through examining civilizational histories.)",
+            "Yes (This makes a factual assertion about cyclical economic patterns in civilizations that could be verified through historical economic data.)",
+            "Yes (Though somewhat colloquial, this makes a claim about patterns of innovation in civilizations that could be investigated historically.)",
+            "Yes (This presents a verifiable claim about historical patterns of civilizational decline that can be evaluated through evidence.)",
+            "Yes (This statement makes a factual claim about civilizations ultimately disappearing or being forgotten that can be tested against historical evidence.)"
+        ],
+        "origin_text": [
+            "Chudoba-",
+            "ozvoj-",
+            "okrok-",
+            "lahobyt-",
+            "ym\u00fd\u0161len\u00ed hloupost\u00ed-",
+            "padek-",
+            "apom\u011bn\u00ed."
+        ],
+        "start": [
+            "33.0",
+            "42.0",
+            "49.0",
+            "56.0",
+            "65.0",
+            "85.0",
+            "92.0"
+        ],
+        "end": [
+            "41.0",
+            "48.0",
+            "55.0",
+            "64.0",
+            "84.0",
+            "91.0",
+            "100.0"
+        ]
+    },
+    {
+        "source": "J\u00e1 si marn\u011b vzpom\u00edn\u00e1m, kdy politici m\u00edsto restrikc\u00ed n\u011bco povolili. Snad prodlou\u017een\u00ed intervalu technick\u00e9 u motorek. Jinak se po\u0159\u00e1d zp\u0159\u00eds\u0148uje ve v\u0161ech oblastech \u017eivota. A je \u00fapln\u011b jedno kter\u00e1 strana je u vesla",
+        "claim": [
+            "V\u00fdjimkou bylo prodlou\u017een\u00ed intervalu technick\u00e9 kontroly motocykl\u016f."
+        ],
+        "checkworthy_reason": [
+            "Yes (This references a specific policy change regarding motorcycle inspection intervals that can be verified through legislation or regulatory records.)"
+        ],
+        "origin_text": [
+            "Snad prodlou\u017een\u00ed intervalu technick\u00e9 u motorek."
+        ],
+        "start": [
+            "67.0"
+        ],
+        "end": [
+            "114.0"
+        ]
+    },
+    {
+        "source": "J\u00e1 u\u017e vyzkou\u0161el hodn\u011b antivir\u016f, ale jako nejlep\u0161\u00ed se mi jev\u00ed Kasperski internet security.Ten obsahuje i spr\u00e1vu s\u00ed\u0165ov\u00e9ho provozu a umo\u017e\u0148uje ru\u010dn\u011b zak\u00e1zat program\u016fm s\u00ed\u0165ovou komunikaci, co\u017e jsem u jin\u00fdch antivir\u016f nem\u011bl.Tak\u017ee jak\u00e9mukoliv programu m\u016f\u017eete zak\u00e1zat odes\u00edlat data (ne v\u017edy je to p\u0159\u00ednosem) a taky jak\u00e9mukoliv syst\u00e9mov\u00e9mu programu. N\u011bco podobn\u00e9ho nab\u00edz\u00ed i AVG ale hodn\u011b omezen\u011b oproti Kaspersk\u00e9mu.",
+        "claim": [
+            "Kasperski Internet Security zahrnuje s\u00ed\u0165ov\u00e9 \u0159\u00edzen\u00ed provozu.",
+            "Kasperski Internet Security umo\u017e\u0148uje manu\u00e1ln\u00ed blokov\u00e1n\u00ed s\u00ed\u0165ov\u00e9 komunikace programu.",
+            "Ostatn\u00ed antivirov\u00e9 programy postr\u00e1daly manu\u00e1ln\u00ed s\u00ed\u0165ov\u00e9 blokov\u00e1n\u00ed komunikace.",
+            "U\u017eivatel\u00e9 mohou zak\u00e1zat jak\u00fdkoliv program odes\u00edlat data s Kasperskim.",
+            "Syst\u00e9mov\u00e9 programy lze tak\u00e9 blokovat z s\u00ed\u0165ov\u00e9 komunikace v Kasperski.",
+            "AVG nab\u00edz\u00ed podobn\u00e9 funkce jako Kasperski.",
+            "Mo\u017enosti blokov\u00e1n\u00ed s\u00edt\u011b AVG jsou omezen\u011bj\u0161\u00ed ne\u017e Kasperskiho."
+        ],
+        "checkworthy_reason": [
+            "Yes (This states a verifiable feature of a specific software product that can be checked by examining the software's capabilities.)",
+            "Yes (This claims a specific functionality of the software that can be objectively verified by testing the software or checking official documentation.)",
+            "Yes (Though broad, this statement makes a verifiable claim about software functionality that could be investigated by examining other antivirus programs.)",
+            "Yes (This describes a specific capability of the software that can be verified through testing or official documentation.)",
+            "Yes (This states a specific capability regarding system programs that can be objectively tested and verified.)",
+            "Yes (Though somewhat general, this comparison between two specific software products contains factual claims that can be verified by examining both products.)",
+            "Yes (This comparative statement about specific features can be verified by examining and comparing the capabilities of both software products.)"
+        ],
+        "origin_text": [
+            "en obsahuje i spr\u00e1vu s\u00ed\u0165ov\u00e9ho provozu",
+            "a umo\u017e\u0148uje ru\u010dn\u011b zak\u00e1zat program\u016fm s\u00ed\u0165ovou komunikaci,",
+            "co\u017e jsem u jin\u00fdch antivir\u016f nem\u011bl.",
+            "ak\u017ee jak\u00e9mukoliv programu m\u016f\u017eete zak\u00e1zat odes\u00edlat data",
+            "a taky jak\u00e9mukoliv syst\u00e9mov\u00e9mu programu.",
+            "N\u011bco podobn\u00e9ho nab\u00edz\u00ed i AVG",
+            "ale hodn\u011b omezen\u011b oproti Kaspersk\u00e9mu."
+        ],
+        "start": [
+            "90.0",
+            "128.0",
+            "183.0",
+            "217.0",
+            "297.0",
+            "338.0",
+            "366.0"
+        ],
+        "end": [
+            "127.0",
+            "182.0",
+            "216.0",
+            "271.0",
+            "337.0",
+            "365.0",
+            "403.0"
+        ]
+    },
+    {
+        "source": "Kanibalov\u00e9 na ostrov\u011b Samoa t\u011b\u017eko budou m\u00edt reggae v krvi, to vzniklo na \u00fapln\u011b jin\u00e9m ostrov\u011b, v \u00fapln\u011b jin\u00e9m mo\u0159i...Jsem na takov\u00e9 m\u00e1lo informovan\u00e9 pozn\u00e1mky trochu alergick\u00e1, ale mo\u017en\u00e1 za to m\u016f\u017ee tahle moje diagn\u00f3za:https://www.youtube.com/watch?v=7MEqaQJ9lqU",
+        "claim": [
+            "Kanibalov\u00e9 na ostrov\u011b Samoa nemaj\u00ed reggae v krvi.",
+            "Reggae poch\u00e1z\u00ed z \u00fapln\u011b jin\u00e9ho ostrova.",
+            "Reggae poch\u00e1z\u00ed z \u00fapln\u011b jin\u00e9ho mo\u0159e.",
+            "Autor nazna\u010duje, \u017ee jejich alergie m\u016f\u017ee b\u00fdt zp\u016fsobena diagn\u00f3zou.",
+            "Autor odkazuje na YouTube video souvisej\u00edc\u00ed s jejich diagn\u00f3zou."
+        ],
+        "checkworthy_reason": [
+            "Yes (The statement makes a verifiable claim about a specific group of people on a specific island and their relationship to reggae music, even though it uses figurative language.)",
+            "Yes (This contains a verifiable claim about the geographic origin of reggae music, which can be researched and verified.)",
+            "Yes (This makes a verifiable claim about the geographic origin of reggae music in relation to a body of water, which can be fact-checked.)",
+            "Yes (This statement makes a verifiable claim about what the author has suggested regarding a diagnosis, which could be verified by examining the author's communications.)",
+            "Yes (This describes a verifiable action - whether the author included a link to a specific YouTube video and its relation to a diagnosis can be objectively checked.)"
+        ],
+        "origin_text": [
+            "Kanibalov\u00e9 na ostrov\u011b Samoa t\u011b\u017eko budou m\u00edt reggae v krvi,",
+            "to vzniklo na \u00fapln\u011b jin\u00e9m ostrov\u011b,",
+            "v \u00fapln\u011b jin\u00e9m mo\u0159i...",
+            "ale mo\u017en\u00e1 za to m\u016f\u017ee tahle moje diagn\u00f3za:",
+            "ttps://www.youtube.com/watch?v=7MEqaQJ9lqU"
+        ],
+        "start": [
+            "0.0",
+            "59.0",
+            "94.0",
+            "174.0",
+            "216.0"
+        ],
+        "end": [
+            "58.0",
+            "93.0",
+            "115.0",
+            "215.0",
+            "258.0"
+        ]
+    },
+    {
+        "source": "Komiks super, jen tak d\u00e1l! Je s podivem, \u017ee tady nikomu nevad\u00ed, \u017ee P\u0159erov p\u0159i\u0161el o miliardovou investici a 3500 pracovn\u00edch m\u00edst mimo jin\u00e9 kv\u016fli tomu, \u017ee nen\u00ed napojen\u00fd na d\u00e1lnici, proto\u017ee jej\u00ed v\u00fdstavbu blokuj\u00ed dva, mo\u017en\u00e1 t\u0159i lid\u00e9.Demokracie nen\u00ed jen o tom, abych mohl projevit sv\u016fj n\u00e1zor, ale tak\u00e9 o tom, \u017ee respektuji a akceptuji n\u00e1zor v\u011bt\u0161iny. A pokud jej neakceptuji, pak je na m\u011b, abych dal dohromady v\u011bt\u0161\u00ed v\u011bt\u0161inu",
+        "claim": [
+            "P\u0159erov ztratil miliardovou investici.",
+            "P\u0159erov lost 3500 jobs.",
+            "P\u0159erov nen\u00ed p\u0159ipojen k d\u00e1lnici.",
+            "Dva nebo t\u0159i lid\u00e9 blokuj\u00ed v\u00fdstavbu d\u00e1lnic."
+        ],
+        "checkworthy_reason": [
+            "Yes (This contains a specific, verifiable claim about a financial loss for a specific place that could be investigated through economic records.)",
+            "Yes (This presents a specific, quantifiable claim about job losses in P\u0159erov that could be verified through employment statistics.)",
+            "Yes (This contains a verifiable claim about infrastructure that can be checked against transportation maps and records.)",
+            "Yes (This makes a specific claim about a number of individuals taking action against highway construction that could be verified through reports or documentation.)"
+        ],
+        "origin_text": [
+            "Je s podivem, \u017ee tady nikomu nevad\u00ed, \u017ee P\u0159erov p\u0159i\u0161el o miliardovou investici",
+            "a 3500 pracovn\u00edch m\u00edst",
+            "mimo jin\u00e9 kv\u016fli tomu, \u017ee nen\u00ed napojen\u00fd na d\u00e1lnici,",
+            "proto\u017ee jej\u00ed v\u00fdstavbu blokuj\u00ed dva, mo\u017en\u00e1 t\u0159i lid\u00e9."
+        ],
+        "start": [
+            "27.0",
+            "105.0",
+            "128.0",
+            "179.0"
+        ],
+        "end": [
+            "104.0",
+            "127.0",
+            "178.0",
+            "229.0"
+        ]
+    },
+    {
+        "source": "Michate hrusky a jabka. Windows NT koexistovaly s klasickymi Windows az do Windows 2000.",
+        "claim": [
+            "Windows NT koexistovaly s klasickymi Windows.",
+            "Koexistence Windows NT s klasickymi Windows trvala az do Windows 2000."
+        ],
+        "checkworthy_reason": [
+            "Yes (Despite being in a different language, this appears to be making a verifiable claim about Windows NT coexisting with classic Windows.)",
+            "Yes (Though in a different language, this seems to be making a verifiable claim about the duration of coexistence between Windows NT and classic Windows until Windows 2000.)"
+        ],
+        "origin_text": [
+            "Windows NT koexistovaly s klasickymi Windows",
+            "az do Windows 2000."
+        ],
+        "start": [
+            "24.0",
+            "69.0"
+        ],
+        "end": [
+            "68.0",
+            "88.0"
+        ]
+    },
+    {
+        "source": "Mo\u017en\u00e1 by si na CO2 m\u011bla pan\u00ed redaktorka za\u010d\u00edt d\u00e1vat velk\u00fd pozor, aby se tou toxickou zplodinou neotr\u00e1vila p\u0159i pit\u00ed bublinkov\u00e9 limon\u00e1dy, nebo sodovky.",
+        "claim": [
+            "CO2 je ozna\u010deno jako toxick\u00e1 zplodina.",
+            "Bublinkov\u00e1 limon\u00e1da obsahuje CO2.",
+            "Sodovka obsahuje CO2."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement claims that CO2 is classified as a toxic substance, which is a verifiable claim that can be checked against scientific and regulatory classifications.)",
+            "Yes (This statement makes a verifiable claim about the chemical composition of carbonated soft drinks.)",
+            "Yes (This statement makes a verifiable claim about the chemical composition of soda water.)"
+        ],
+        "origin_text": [
+            "aby se tou toxickou zplodinou neotr\u00e1vila",
+            "p\u0159i pit\u00ed bublinkov\u00e9 limon\u00e1dy,",
+            "nebo sodovky."
+        ],
+        "start": [
+            "65.0",
+            "106.0",
+            "136.0"
+        ],
+        "end": [
+            "105.0",
+            "135.0",
+            "149.0"
+        ]
+    },
+    {
+        "source": "Na bolestiv\u00e9 b\u0159icho \u010daj z major\u00e1nky. I na velk\u00e9 k\u0159e\u010de.",
+        "claim": [
+            "\u010caj z marjoramu pom\u00e1h\u00e1 s bolestiv\u00fdm \u017ealudkem.",
+            "Marjoram \u010daj pom\u00e1h\u00e1 s t\u011b\u017ek\u00fdmi k\u0159e\u010demi."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a verifiable claim about the medicinal effects of marjoram tea on stomach pain, which can be investigated through medical studies or clinical trials.)",
+            "Yes (This statement makes a verifiable claim about the medicinal effects of marjoram tea on severe cramps, which can be objectively tested and researched through medical evidence.)"
+        ],
+        "origin_text": [
+            "Na bolestiv\u00e9 b\u0159icho \u010daj z major\u00e1nky.",
+            "I na velk\u00e9 k\u0159e\u010de."
+        ],
+        "start": [
+            "0.0",
+            "37.0"
+        ],
+        "end": [
+            "36.0",
+            "54.0"
+        ]
+    },
+    {
+        "source": "Neni. Linux totiz s vice uzivateli pocital od zacatku po vzoru Unixu. Windows to ma dohackovane dost bidne",
+        "claim": [
+            "Linux byl ur\u010den pro v\u00edce u\u017eivatel\u016f od za\u010d\u00e1tku.",
+            "Linux byl navr\u017een podle modelu Unix.",
+            "Windows m\u00e1 v\u00edce u\u017eivatelskou podporu \u0161patn\u011b nalepenou."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement contains verifiable factual information about the original design intentions of the Linux operating system.)",
+            "Yes (This statement makes a verifiable claim about Linux's design philosophy and relationship to Unix.)",
+            "Yes (This statement contains a verifiable claim about the implementation method of Windows' multi-user functionality.)"
+        ],
+        "origin_text": [
+            "Neni. Linux totiz s vice uzivateli pocital od zacatku",
+            "po vzoru Unixu.",
+            "Windows to ma dohackovane"
+        ],
+        "start": [
+            "0.0",
+            "54.0",
+            "70.0"
+        ],
+        "end": [
+            "53.0",
+            "69.0",
+            "95.0"
+        ]
+    },
+    {
+        "source": "Nepadla tu je\u0161t\u011b zaj\u00edmav\u00e1 v\u011bc, \u017ee po prvn\u00edm omezen\u00ed dopravy kv\u016fli coron\u011b se tam emise zv\u00fd\u0161ily, a nikdo nev\u00ed pro\u010d... Ale nam\u011b\u0159en\u00e9 to bylo.",
+        "claim": [
+            "Emise vzrostly po prvn\u00edm omezen\u00ed provozu zp\u016fsoben\u00e9m koronou.",
+            "Byly m\u011b\u0159eny zv\u00fd\u0161en\u00e9 emise."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a verifiable claim about emissions trends following a specific event that can be checked against emissions data.)",
+            "Yes (This statement contains a verifiable claim about measured emissions data that can be checked against scientific records.)"
+        ],
+        "origin_text": [
+            "\u017ee po prvn\u00edm omezen\u00ed dopravy kv\u016fli coron\u011b se tam emise zv\u00fd\u0161ily,",
+            "Ale nam\u011b\u0159en\u00e9 to bylo."
+        ],
+        "start": [
+            "31.0",
+            "116.0"
+        ],
+        "end": [
+            "94.0",
+            "137.0"
+        ]
+    },
+    {
+        "source": "Nes\u00fahlas\u00edm. Zoberte si zvierat\u00e1 najbli\u017e\u0161ie k n\u00e1m, teda tie viac inteligentn\u00e9 (gorily, delf\u00edny a podobne). Mysl\u00edm \u017ee by toho vymysleli ove\u013ea viac. A v\u00f4bec to nemysl\u00edm tak \u017ee \"ne ne, to je o\u0161kliv\u00e9\" ..... ja tvrd\u00edm, \u017ee \u013eudia s\u00fa zlej\u0161\u00ed. \u010co chcete vym\u00fd\u0161\u013ea\u0165 na vra\u017ediacich v\u00fdprav\u00e1ch, vojsk\u00e1ch, ke\u010f sa cel\u00e1 arm\u00e1da, skupina vybrala niekam a len tak, bez ni\u010doho, dos\u0165 kruto vyni\u010dila cel\u00fa osadu, dedinu, cel\u00fd kme\u0148. \u010co je na tom o vym\u00fd\u0161\u013ean\u00ed ke\u010f sa tu ni\u010d\u00edme 5000 rokov???",
+        "claim": [
+            "Arm\u00e1dy vyrazily na vra\u017eedn\u00e9 expedice.",
+            "Vojensk\u00e9 skupiny krut\u011b zni\u010dily cel\u00e9 osady.",
+            "Vojensk\u00e9 skupiny zni\u010dily cel\u00e9 vesnice.",
+            "Vojensk\u00e9 skupiny zni\u010dily cel\u00e9 kmeny.",
+            "Lid\u00e9 se navz\u00e1jem ni\u010d\u00ed u\u017e 5000 let."
+        ],
+        "checkworthy_reason": [
+            "Yes (This is a verifiable historical claim about military actions that can be investigated through historical records.)",
+            "Yes (The factual component about destruction of settlements can be verified, though 'cruelly' introduces a subjective element.)",
+            "Yes (This is a verifiable historical claim that can be checked against historical records.)",
+            "Yes (This makes a verifiable claim about historical events that can be researched.)",
+            "Yes (This contains a verifiable claim about the timespan of human conflict that can be investigated through archaeological and historical evidence.)"
+        ],
+        "origin_text": [
+            "\u010co chcete vym\u00fd\u0161\u013ea\u0165 na vra\u017ediacich v\u00fdprav\u00e1ch,",
+            "vojsk\u00e1ch, ke\u010f sa cel\u00e1 arm\u00e1da, skupina vybrala niekam a len tak, bez ni\u010doho, dos\u0165 kruto vyni\u010dila cel\u00fa osadu,",
+            "dedinu,",
+            "cel\u00fd kme\u0148.",
+            "\u010co je na tom o vym\u00fd\u0161\u013ean\u00ed ke\u010f sa tu ni\u010d\u00edme 5000 rokov???"
+        ],
+        "start": [
+            "233.0",
+            "278.0",
+            "386.0",
+            "394.0",
+            "405.0"
+        ],
+        "end": [
+            "277.0",
+            "385.0",
+            "393.0",
+            "404.0",
+            "460.0"
+        ]
+    },
+    {
+        "source": "Nezlobte se, ale i moje 8 let star\u00e1 Octavia 3 s TDi 2L 110kW pln\u00ed EURO 6...",
+        "claim": [
+            "\u0160koda Octavia 3 m\u00e1 motor 2.0L TDi.",
+            "Motor \u0160koda Octavia 3 m\u00e1 110 kilowatt\u016f v\u00fdkonu.",
+            "\u0160koda Octavia 3 spl\u0148uje emisn\u00ed normy EURO 6."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement contains verifiable factual information about a specific car model and its engine specifications.)",
+            "Yes (This statement makes a specific, verifiable claim about the power output of a particular car model's engine.)",
+            "Yes (This statement contains factual information about a car model's compliance with specific emission standards that can be objectively verified.)"
+        ],
+        "origin_text": [
+            "s TDi 2L",
+            "110kW",
+            "pln\u00ed EURO 6..."
+        ],
+        "start": [
+            "46.0",
+            "55.0",
+            "61.0"
+        ],
+        "end": [
+            "54.0",
+            "60.0",
+            "75.0"
+        ]
+    },
+    {
+        "source": "No co se vam na tom nezda? Drive mely elektroauta baterky tak puruznu (i v kufru), a hlavne je to rozdil proti benzinaku - elektro ma baterky v podlaze, a diky tomu ma nizke teziste (o je jen konstatovani faktu, neni to nejake prekvapive odhaleni)",
+        "claim": [
+            "Elektrick\u00e1 auta m\u011bla d\u0159\u00edve baterie um\u00edst\u011bn\u00e9 na r\u016fzn\u00fdch m\u00edstech.",
+            "Elektrick\u00e1 auta m\u011bla n\u011bkdy baterie v kufru.",
+            "Elektrick\u00e1 auta se li\u0161\u00ed od benz\u00ednov\u00fdch aut.",
+            "Elektrick\u00e9 auta maj\u00ed baterie v podlaze.",
+            "Elektrick\u00e1 auta maj\u00ed n\u00edzk\u00e9 t\u011b\u017ei\u0161t\u011b."
+        ],
+        "checkworthy_reason": [
+            "Yes (This is a verifiable historical claim about electric car design that can be checked against automotive engineering records.)",
+            "Yes (This is a verifiable claim about specific electric car designs that can be confirmed through technical specifications of various models.)",
+            "Yes (This is a broad but verifiable factual claim that can be demonstrated through technical specifications comparing the two vehicle types.)",
+            "Yes (This is a verifiable factual claim about the design of electric cars that can be checked against technical specifications.)",
+            "Yes (This is a verifiable factual claim about a physical property of electric cars that can be measured and compared.)"
+        ],
+        "origin_text": [
+            "No co se vam na tom nezda? Drive mely elektroauta baterky tak puruznu",
+            "(i v kufru),",
+            "a hlavne je to rozdil proti benzinaku -",
+            "elektro ma baterky v podlaze,",
+            "a diky tomu ma nizke teziste"
+        ],
+        "start": [
+            "0.0",
+            "70.0",
+            "83.0",
+            "123.0",
+            "153.0"
+        ],
+        "end": [
+            "69.0",
+            "82.0",
+            "122.0",
+            "152.0",
+            "181.0"
+        ]
+    },
+    {
+        "source": "No, oni si ty star\u00e9 benz\u00ednov\u00e9 \u0161unky kupovali i tam, kde zak\u00e1zali \u010dist\u00e9 diesely...",
+        "claim": [
+            "Lid\u00e9 si kupovali star\u00e1 benz\u00ednov\u00e1 auta.",
+            "Na n\u011bkter\u00fdch m\u00edstech byla zak\u00e1z\u00e1na \u010dist\u00e1 motorov\u00e1 vozidla.",
+            "Lid\u00e9 nakupovali benz\u00ednov\u00e1 vozidla v oblastech, kde byla nafta zak\u00e1z\u00e1na."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement contains a verifiable claim about historical vehicle purchasing patterns that could be checked against sales records or other evidence.)",
+            "Yes (This statement makes a verifiable claim about regulations against diesel vehicles in certain jurisdictions, which can be checked against public policy records.)",
+            "Yes (This statement makes a verifiable claim about consumer behavior in specific regulatory environments, which could be verified through sales data analysis in those regions.)"
+        ],
+        "origin_text": [
+            "No, oni si ty star\u00e9 benz\u00ednov\u00e9 \u0161unky kupovali",
+            "i tam, kde zak\u00e1zali \u010dist\u00e9 diesely",
+            ".."
+        ],
+        "start": [
+            "0.0",
+            "45.0",
+            "79.0"
+        ],
+        "end": [
+            "44.0",
+            "78.0",
+            "81.0"
+        ]
+    },
+    {
+        "source": "No, pokud si dob\u0159e pamatuji, tek zelen\u00ed cht\u011bj\u00ed vyb\u00edjet i hospod\u00e1\u0159sk\u00e1 zv\u00ed\u0159ata, proto\u017ee moc prd\u00ed meta a to je sklen\u00edkov\u00fd plyn ...",
+        "claim": [
+            "Zelen\u00ed cht\u011bj\u00ed vyb\u00edjet hospod\u00e1\u0159sk\u00e1 zv\u00ed\u0159ata podle tvrzen\u00ed autora.",
+            "D\u016fvodem pro vyb\u00edjen\u00ed zv\u00ed\u0159at je podle tvrzen\u00ed produkce metanu.",
+            "Metan je sklen\u00edkov\u00fd plyn podle tvrzen\u00ed.",
+            "Hospod\u00e1\u0159sk\u00e1 zv\u00ed\u0159ata produkuj\u00ed metan podle tvrzen\u00ed."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement contains a verifiable claim about what the Green party allegedly wants to do according to the author. While it includes 'podle tvrzen\u00ed autora' (according to the author's claim), the core assertion about the Greens' position on livestock can be factually investigated.)",
+            "Yes (This statement makes a verifiable claim about the reason given for culling animals - namely methane production. While it includes 'podle tvrzen\u00ed' (according to the claim), the causal relationship between methane production and livestock culling proposals can be factually verified.)",
+            "Yes (This statement contains the verifiable factual claim that methane is a greenhouse gas. Despite the qualifier 'podle tvrzen\u00ed' (according to the claim), the classification of methane as a greenhouse gas is something that can be objectively verified.)",
+            "Yes (This statement makes a verifiable claim about livestock producing methane. Even with the qualifier 'podle tvrzen\u00ed' (according to the claim), the biological fact about livestock methane production can be objectively verified through scientific evidence.)"
+        ],
+        "origin_text": [
+            "No, pokud si dob\u0159e pamatuji, tek zelen\u00ed cht\u011bj\u00ed vyb\u00edjet i hospod\u00e1\u0159sk\u00e1 zv\u00ed\u0159ata,",
+            "proto\u017ee moc prd\u00ed meta",
+            "a to je sklen\u00edkov\u00fd plyn ...",
+            ""
+        ],
+        "start": [
+            "0.0",
+            "78.0",
+            "100.0",
+            "99.0"
+        ],
+        "end": [
+            "77.0",
+            "99.0",
+            "127.0",
+            "99.0"
+        ]
+    },
+    {
+        "source": "On n\u00e1\u0161 prezident m\u00e1 tak\u00e9 \u00fapln\u011b jin\u00e9 kompetence ne\u017e ten americk\u00fd.\u017de maj\u00ed minist\u0159i vnitra r\u016fzn\u00e9 role v r\u016fzn\u00fdch st\u00e1tech, to samo o sob\u011b nen\u00ed d\u016fvod ne\u0159\u00edkat jim stejn\u011b.",
+        "claim": [
+            "\u010cesk\u00fd prezident m\u00e1 zcela odli\u0161n\u00e9 kompetence ne\u017e americk\u00fd prezident.",
+            "Minist\u0159i vnitra maj\u00ed v r\u016fzn\u00fdch zem\u00edch r\u016fzn\u00e9 role."
+        ],
+        "checkworthy_reason": [
+            "Yes (The statement contains verifiable factual information about the constitutional powers and responsibilities of the Czech and American presidents, which can be checked against legal documents and governmental structures.)",
+            "Yes (This statement makes a factual claim about governmental structures that can be verified by examining the official responsibilities and authorities of interior ministers across different countries.)"
+        ],
+        "origin_text": [
+            "On n\u00e1\u0161 prezident m\u00e1 tak\u00e9 \u00fapln\u011b jin\u00e9 kompetence ne\u017e ten americk\u00fd.",
+            "e maj\u00ed minist\u0159i vnitra r\u016fzn\u00e9 role v r\u016fzn\u00fdch st\u00e1tech,"
+        ],
+        "start": [
+            "0.0",
+            "65.0"
+        ],
+        "end": [
+            "64.0",
+            "117.0"
+        ]
+    },
+    {
+        "source": "Ono nula nula nic kr\u00e1t milion v jednom m\u011bst\u011b d\u00e1 hodn\u011b. A nav\u00edc t\u011bch nula nula nic plat\u00ed pro zah\u0159\u00e1t\u00fd motor. V rann\u00ed \u0161pi\u010dce ve m\u011bstech popoj\u00ed\u017ed\u00ed studen\u00e9 naf\u0165\u00e1ky, kter\u00e9 maj\u00ed n\u011bkolikan\u00e1sobn\u00e9 emise.Ono jde o to, \u017ee se doba zm\u011bnila. Ka\u017ed\u00fd m\u00e1 auto, obzvl\u00e1\u0161t\u011b v N\u011bmecku je jejich koncentrace enormn\u00ed. A lid\u00ed cht\u011bj\u00ed taky d\u00fdchat a nejen si vozit zadek.Kdo bydl\u00ed u magistr\u00e1ly, v\u00ed jak\u00fd to je, jak\u00fd je tam prach a hluk. Jenom\u017ee t\u011bch magistr\u00e1l maj\u00ed v N\u011bmecku (ale i v jin\u00fdch zem\u00edch) tis\u00edce.Ne\u0159\u00edk\u00e1m, \u017ee sou\u010dasn\u00fd postup je ide\u00e1ln\u00ed. Ale nic ned\u011blat a nechat se d\u00e1l dusit, taky nen\u00ed \u0159e\u0161en\u00ed.",
+        "claim": [
+            "Ve m\u011bstech r\u00e1no popoj\u00ed\u017ed\u00ed studen\u00e9 naf\u0165\u00e1ky.",
+            "Studen\u00e9 naf\u0165\u00e1ky maj\u00ed n\u011bkolikan\u00e1sobn\u00e9 emise.",
+            "Ka\u017ed\u00fd m\u00e1 auto.",
+            "V N\u011bmecku je koncentrace aut enormn\u00ed.",
+            "U magistr\u00e1ly je prach a hluk.",
+            "V N\u011bmecku maj\u00ed tis\u00edce magistr\u00e1l.",
+            "Jin\u00e9 zem\u011b maj\u00ed tak\u00e9 tis\u00edce magistr\u00e1l."
+        ],
+        "checkworthy_reason": [
+            "Yes (This contains a verifiable claim about diesel vehicles operating in cities in the morning.)",
+            "Yes (This makes a verifiable claim about emission levels of cold diesel engines that could be tested.)",
+            "Yes (This is a broad generalization but makes a verifiable claim about car ownership rates that could be tested against population data.)",
+            "Yes (This makes a claim about car density in Germany that could be verified with statistical data.)",
+            "Yes (This makes a verifiable claim about environmental conditions near highways that could be measured.)",
+            "Yes (This contains a quantifiable claim about the number of highways in Germany that could be verified.)",
+            "Yes (This makes a verifiable claim about highway infrastructure in other countries.)"
+        ],
+        "origin_text": [
+            "V rann\u00ed \u0161pi\u010dce ve m\u011bstech popoj\u00ed\u017ed\u00ed studen\u00e9 naf\u0165\u00e1ky,",
+            "kter\u00e9 maj\u00ed n\u011bkolikan\u00e1sobn\u00e9 emise.",
+            "Ka\u017ed\u00fd m\u00e1 auto,",
+            "obzvl\u00e1\u0161t\u011b v N\u011bmecku je jejich koncentrace enormn\u00ed.",
+            "do bydl\u00ed u magistr\u00e1ly, v\u00ed jak\u00fd to je, jak\u00fd je tam prach a hluk.",
+            "Jenom\u017ee t\u011bch magistr\u00e1l maj\u00ed v N\u011bmecku",
+            "(ale i v jin\u00fdch zem\u00edch) tis\u00edce."
+        ],
+        "start": [
+            "107.0",
+            "160.0",
+            "227.0",
+            "242.0",
+            "343.0",
+            "407.0",
+            "445.0"
+        ],
+        "end": [
+            "159.0",
+            "193.0",
+            "241.0",
+            "292.0",
+            "406.0",
+            "444.0",
+            "476.0"
+        ]
+    },
+    {
+        "source": "Ono se nikde emise nezvysily, staci neopak blbosti porad dokola :DAle jinak ano, muze se stat i to, ze namerite horsi hodnoty znecisteni v den, kdy nevyjede ani jedno auto, oproti dnu s provozem. Staci kdyz ten den bez aut bude inverze, a ten normalni den bude krasne a pofukovat vitr. Presto z takoveho mereni opravdu neplyne to, ze auta cisti vzduch :D",
+        "claim": [
+            "Emise se nikde nezv\u00fd\u0161ily.",
+            "M\u011b\u0159en\u00ed zne\u010di\u0161t\u011bn\u00ed m\u016f\u017ee b\u00fdt hor\u0161\u00ed v den bez aut.",
+            "M\u011b\u0159en\u00ed zne\u010di\u0161t\u011bn\u00ed m\u016f\u017ee b\u00fdt lep\u0161\u00ed v den s norm\u00e1ln\u00edm provozem.",
+            "Teplotn\u00ed inverze m\u016f\u017ee zp\u016fsobit vy\u0161\u0161\u00ed hodnoty zne\u010di\u0161t\u011bn\u00ed bez provozu.",
+            "V\u00edtr a dobr\u00e9 po\u010das\u00ed mohou sn\u00ed\u017eit \u00fadaje o zne\u010di\u0161t\u011bn\u00ed navzdory provozu.",
+            "Auta ne\u010dist\u00ed vzduch.",
+            "Jednotliv\u00e1 m\u011b\u0159en\u00ed nemohou dok\u00e1zat, \u017ee auta \u010dist\u00ed vzduch."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a verifiable factual claim about emission trends that can be checked against environmental data and measurements.)",
+            "Yes (This statement makes a verifiable claim about pollution measurements in relation to traffic patterns that can be tested with empirical data.)",
+            "Yes (This contains a verifiable claim about pollution measurements that can be investigated through empirical data comparison.)",
+            "Yes (This statement presents a verifiable claim about the relationship between temperature inversion and pollution readings that can be scientifically tested.)",
+            "Yes (This makes a verifiable claim about meteorological factors affecting pollution measurements that can be confirmed through environmental data.)",
+            "Yes (This statement makes a factual claim about cars' effect on air quality that can be verified through scientific studies.)",
+            "Yes (This contains a verifiable claim about the limitations of single measurements in establishing causality that can be evaluated through scientific methodology.)"
+        ],
+        "origin_text": [
+            "Ono se nikde emise nezvysily,",
+            "le jinak ano, muze se stat i to, ze namerite horsi hodnoty znecisteni v den, kdy nevyjede ani jedno auto,",
+            "oproti dnu s provozem.",
+            "Staci kdyz ten den bez aut bude inverze,",
+            "a ten normalni den bude krasne a pofukovat vitr.",
+            "Presto z takoveho mereni opravdu neplyne to, ze auta cisti vzduch :D",
+            ""
+        ],
+        "start": [
+            "0.0",
+            "67.0",
+            "173.0",
+            "196.0",
+            "237.0",
+            "286.0",
+            "354.0"
+        ],
+        "end": [
+            "29.0",
+            "172.0",
+            "195.0",
+            "236.0",
+            "285.0",
+            "354.0",
+            "354.0"
+        ]
+    },
+    {
+        "source": "Pekny a trefny clanek. Osobne vyznavam tvrdy pristup jaky maji v Oregonu. Tedy extremni pokuty a postihy za znecistovani prirody a nerespektovani narizeni. Ve zminenem Oregonu treba pokuta za znecistovani az do $6250.",
+        "claim": [
+            "Autor osobn\u011b obhajuje p\u0159\u00edsn\u00fd p\u0159\u00edstup pou\u017e\u00edvan\u00fd v Oregonu.",
+            "Oregon prov\u00e1d\u00ed extr\u00e9mn\u00ed pokuty za zne\u010di\u0161t\u011bn\u00ed p\u0159\u00edrody.",
+            "Oregon prov\u00e1d\u00ed extr\u00e9mn\u00ed sankce za nedodr\u017een\u00ed p\u0159edpis\u016f.",
+            "V Oregonu mohou pokuty za zne\u010di\u0161t\u011bn\u00ed dos\u00e1hnout a\u017e 6250 dolar\u016f."
+        ],
+        "checkworthy_reason": [
+            "Yes (This states a verifiable fact about the author's publicly expressed position that could be confirmed through their writings or statements.)",
+            "Yes (This contains a verifiable claim about Oregon's environmental policies, though the term 'extreme' adds subjectivity to an otherwise factual statement.)",
+            "Yes (This makes a factual claim about Oregon's regulatory enforcement that can be verified, despite the subjective term 'extreme'.)",
+            "Yes (This contains specific, verifiable information about the maximum pollution fine amount in Oregon that can be checked against official regulations.)"
+        ],
+        "origin_text": [
+            "Osobne vyznavam tvrdy pristup jaky maji v Oregonu.",
+            "Tedy extremni pokuty a postihy za znecistovani prirody",
+            "a nerespektovani narizeni.",
+            "Ve zminenem Oregonu treba pokuta za znecistovani az do $6250."
+        ],
+        "start": [
+            "23.0",
+            "74.0",
+            "129.0",
+            "156.0"
+        ],
+        "end": [
+            "73.0",
+            "128.0",
+            "155.0",
+            "217.0"
+        ]
+    },
+    {
+        "source": "Pokud mate fyzicky pristup k pocitaci a disk neni sifrovany, tak linux nepomuze.Ale stale lepsi nez win, kde sifrovani je dostupne az pro verzi pro.",
+        "claim": [
+            "Fyzick\u00fd p\u0159\u00edstup k po\u010d\u00edta\u010di s neza\u0161ifrovan\u00fdm diskem obch\u00e1z\u00ed Linuxovou bezpe\u010dnost.",
+            "\u0160ifrov\u00e1n\u00ed Windows je dostupn\u00e9 pouze ve verzi Pro."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a factual claim about computer security that can be tested and verified through technical analysis.)",
+            "Yes (This statement makes a specific, verifiable claim about a feature's availability in a particular version of Windows.)"
+        ],
+        "origin_text": [
+            "Pokud mate fyzicky pristup k pocitaci a disk neni sifrovany, tak linux nepomuze.",
+            "kde sifrovani je dostupne az pro verzi pro."
+        ],
+        "start": [
+            "0.0",
+            "105.0"
+        ],
+        "end": [
+            "80.0",
+            "148.0"
+        ]
+    },
+    {
+        "source": "Sulawesi je velky ostrov vedle Bornea a Tana Toraja je oblast ve vnitrozemi. Ostrov spada pod Indonesia. Pred 10 lety jsem absoluoval stejny zazitek, autorka to popsala pomerne presne. Na Sulawesi jsem stravil zhruba mesic a rozhodne je to misto ktere stoji za navstevu. Zadni turiste, par batuzkaru. Sulawesi je take znamo jako jedno z nejlepsich mist na potapeni na svete.",
+        "claim": [
+            "Sulawesi je velk\u00fd ostrov vedle Bornea.",
+            "Ostrov pat\u0159\u00ed Indon\u00e9sii.",
+            "Sulawesi m\u00e1 m\u00e1lo turist\u016f.",
+            "Sulawesi m\u00e1 n\u011bjak\u00e9 batohy.",
+            "Sulawesi je zn\u00e1m\u00fd jako jedno z nejlep\u0161\u00edch pot\u00e1p\u011b\u010dsk\u00fdch m\u00edst na sv\u011bt\u011b."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement contains geographic information about the location and size of Sulawesi relative to Borneo, which can be verified using maps and geographical data.)",
+            "Yes (This statement asserts a factual claim about the political jurisdiction of an island, which can be verified through official political boundaries and territorial records.)",
+            "Yes (This makes a claim about the relative number of tourists in Sulawesi, which can be verified through tourism statistics and visitor data.)",
+            "Yes (This statement asserts the presence of backpackers in Sulawesi, which is a factual claim that can be verified through tourism data and observations.)",
+            "Yes (This claim about Sulawesi's reputation in diving communities can be verified through diving publications, awards, expert opinions, and tourism resources.)"
+        ],
+        "origin_text": [
+            "Sulawesi je velky ostrov vedle Bornea",
+            "Ostrov spada pod Indonesia.",
+            "Zadni turiste,",
+            "par batuzkaru.",
+            "Sulawesi je take znamo jako jedno z nejlepsich mist na potapeni na svete."
+        ],
+        "start": [
+            "0.0",
+            "77.0",
+            "271.0",
+            "286.0",
+            "301.0"
+        ],
+        "end": [
+            "37.0",
+            "104.0",
+            "285.0",
+            "300.0",
+            "374.0"
+        ]
+    },
+    {
+        "source": "Ta provozni teplota je kvuli tomu, ze motor ktery neni zahraty na optimalni teplotu ma vyssi emise. Napriklad kvuli tomu, ze je nutne mit bohatsi smes. A systemy jsou nastaveny na provozni teplotu motoru a optimalni otacky (katalyzator, SCR,..)",
+        "claim": [
+            "Motory, kter\u00e9 nejsou oh\u0159\u00edv\u00e1ny na optim\u00e1ln\u00ed teplotu, maj\u00ed vy\u0161\u0161\u00ed emise.",
+            "Provozn\u00ed teplota ovliv\u0148uje emise motoru.",
+            "Nevyh\u0159\u00edvan\u00e9 motory vy\u017eaduj\u00ed bohat\u0161\u00ed palivovou sm\u011bs.",
+            "Bohat\u0161\u00ed palivov\u00e1 sm\u011bs zvy\u0161uje emise.",
+            "Katalytick\u00e9 syst\u00e9my jsou kalibrov\u00e1ny pro optim\u00e1ln\u00ed teplotu motoru.",
+            "SCR syst\u00e9my jsou navr\u017eeny pro specifick\u00e9 provozn\u00ed teploty.",
+            "Syst\u00e9my jsou konfigurov\u00e1ny pro optim\u00e1ln\u00ed ot\u00e1\u010dky rotace motoru."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a specific, testable claim about the relationship between motor temperature and emission levels that could be verified through measurements and testing.)",
+            "Yes (This statement presents a causal relationship between temperature and emissions that can be verified through experimental data and engineering research.)",
+            "Yes (This statement contains verifiable information about engine operation requirements that can be checked against engineering specifications and testing.)",
+            "Yes (This statement makes a testable claim about the relationship between fuel mixture ratios and emission levels that can be verified through measurement.)",
+            "Yes (This statement presents verifiable information about how catalytic systems are designed and calibrated that can be checked against engineering specifications.)",
+            "Yes (This statement makes a factual claim about the design parameters of Selective Catalytic Reduction systems that can be verified through technical documentation.)",
+            "Yes (While somewhat broad, this statement contains verifiable information about system configuration practices that can be checked against engineering standards and specifications.)"
+        ],
+        "origin_text": [
+            "Ta provozni teplota je kvuli tomu, ze motor ktery neni zahraty na optimalni teplotu ma vyssi emise.",
+            "",
+            "Napriklad kvuli tomu, ze je nutne mit bohatsi smes.",
+            "",
+            "A systemy jsou nastaveny na provozni teplotu motoru a optimalni otacky (katalyzator, SCR,..)",
+            "",
+            ""
+        ],
+        "start": [
+            "0.0",
+            "99.0",
+            "100.0",
+            "151.0",
+            "152.0",
+            "244.0",
+            "244.0"
+        ],
+        "end": [
+            "99.0",
+            "99.0",
+            "151.0",
+            "151.0",
+            "244.0",
+            "244.0",
+            "244.0"
+        ]
+    },
+    {
+        "source": "Tak moc se to neprojevilo. Daleko v\u00edce rodin bylo doma, d\u011bti nevozili do \u0161koly, celkov\u011b provoz v pr\u016fm\u011bru klesl v na\u0161em m\u011bst\u011b o 40%.",
+        "claim": [
+            "Daleko v\u00edce rodin bylo doma.",
+            "Rodi\u010de nevozili d\u011bti do \u0161koly.",
+            "Provoz v m\u011bst\u011b klesl o 40%."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a comparative claim about the number of families staying home, which is potentially verifiable through data collection, even without specifying the time period or comparison baseline.)",
+            "Yes (This statement makes a factual claim about parents not driving children to school, which could be verified through observation, surveys, or transportation data.)",
+            "Yes (This statement contains specific, quantifiable information about a 40% traffic decrease in a city, which can be verified through traffic measurement data.)"
+        ],
+        "origin_text": [
+            "Daleko v\u00edce rodin bylo doma,",
+            "d\u011bti nevozili do \u0161koly,",
+            "celkov\u011b provoz v pr\u016fm\u011bru klesl v na\u0161em m\u011bst\u011b o 40%."
+        ],
+        "start": [
+            "27.0",
+            "56.0",
+            "80.0"
+        ],
+        "end": [
+            "55.0",
+            "79.0",
+            "131.0"
+        ]
+    },
+    {
+        "source": "Tak na\u0161t\u011bst\u00ed se KDU-\u010cSL nedostalo do vl\u00e1dy, tak\u017ee nemohlo d\u00e1l za Kapsch lobovat a ten v\u00fdvar mu prodlou\u017eit ...",
+        "claim": [
+            "KDU-\u010cSL nedostalo do vl\u00e1dy.",
+            "KDU-\u010cSL nemohlo d\u00e1l lobovat za Kapsch.",
+            "KDU-\u010cSL nemohlo Kapsch prodlou\u017eit v\u00fdvar."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a verifiable claim about KDU-\u010cSL, a Czech political party, not getting into the government, which can be checked against official government records.)",
+            "Yes (This statement makes a factual claim about KDU-\u010cSL's inability to continue lobbying for Kapsch, which could be verified through legislative records, communications, or policy decisions.)",
+            "Yes (This statement contains a verifiable claim about KDU-\u010cSL being unable to extend something related to Kapsch, which could be researched through official documents or records of business relationships.)"
+        ],
+        "origin_text": [
+            "Tak na\u0161t\u011bst\u00ed se KDU-\u010cSL nedostalo do vl\u00e1dy,",
+            "tak\u017ee nemohlo d\u00e1l za Kapsch lobovat",
+            "a ten v\u00fdvar mu prodlou\u017eit ..."
+        ],
+        "start": [
+            "0.0",
+            "44.0",
+            "80.0"
+        ],
+        "end": [
+            "43.0",
+            "79.0",
+            "109.0"
+        ]
+    },
+    {
+        "source": "To nen\u00ed ani o ekologii, ale o ekonomice. Nic proti vlak\u016fm, ale krom\u011b transportu z\u00e1kland\u00edch komodit nem\u00e1 u\u017e z hlediska dopravy \u017eeleznice n\u00e1rok. V\u011bt\u0161ina n\u00e1kladn\u00edch termin\u00e1l\u016f se prom\u011bnila na bownfieldy nebo u\u017e rovnou zastav\u011bla. Stav\u011bt nov\u00e9 j\u011b velmi draho a up\u0159\u00edmn\u011b nen\u00ed ani kde je stav\u011bt (chyb\u00ed napojen\u00ed na u\u017e tak trstn\u00ed silni\u010dn\u00ed infrastrukturu). A up\u0159\u00edmn\u011b firma pot\u0159ebuje logistick\u00e9 zabezpe\u010den\u00ed just-in-time a jestli se bude zbo\u017e\u00ed je\u0161t\u011b 2x p\u0159ekl\u00e1dat na/z vlaku vyjde to stejn\u011b dr\u00e1\u017e ne\u017e kamion. Bohu\u017eel doba velk\u00fdch tov\u00e1ren, kter\u00e9 m\u011bly vlastn\u00ed vle\u010dku na nejbli\u017e\u0161\u00ed n\u00e1dra\u017e\u00ed je pry\u010d a logistick\u00e9 megaare\u00e1ly u velk\u00fdch m\u011bst nemaj\u00ed v drtiv\u00e9 m\u00ed\u0159e mo\u017enost se na solidn\u00ed kapacitn\u00ed kooej v\u016fbec p\u0159ipojit.",
+        "claim": [
+            "V\u011bt\u0161ina n\u00e1kladn\u00edch termin\u00e1l\u016f se prom\u011bnila v brownfieldy.",
+            "N\u011bjak\u00e9 n\u00e1kladn\u00ed termin\u00e1ly byly postaveny.",
+            "Nov\u00e9 termin\u00e1ly postr\u00e1daj\u00ed p\u0159ipojen\u00ed ke st\u00e1vaj\u00edc\u00ed silni\u010dn\u00ed infrastruktu\u0159e.",
+            "Spole\u010dnosti vy\u017eaduj\u00ed pr\u00e1v\u011b v\u010dasnou logistiku.",
+            "P\u0159evod zbo\u017e\u00ed do/z vlak\u016f stoj\u00ed v\u00edce ne\u017e n\u00e1kladn\u00ed doprava.",
+            "Logistick\u00e9 oblasti v bl\u00edzkosti m\u011bst se nemohou spojit s vysokokapacitn\u00edmi \u017eelezni\u010dn\u00edmi trat\u011bmi."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a quantifiable claim about the historical transformation of freight terminals that could be verified through historical records and land use data.)",
+            "Yes (This is a verifiable claim about what happened to freight terminals that could be confirmed through historical records and development documentation.)",
+            "Yes (This makes a specific claim about infrastructure connectivity that could be verified through examining transportation networks and terminal designs.)",
+            "Yes (This is a verifiable claim about business practices and supply chain management requirements that could be confirmed through industry standards and company policies.)",
+            "Yes (This comparative cost claim can be verified through economic analysis, shipping rate data, and transportation industry pricing.)",
+            "Yes (This contains a verifiable claim about infrastructure capabilities and physical constraints that could be confirmed through examining transportation networks and urban planning.)"
+        ],
+        "origin_text": [
+            "V\u011bt\u0161ina n\u00e1kladn\u00edch termin\u00e1l\u016f se prom\u011bnila na bownfieldy",
+            "nebo u\u017e rovnou zastav\u011bla.",
+            "(chyb\u00ed napojen\u00ed na u\u017e tak trstn\u00ed silni\u010dn\u00ed infrastrukturu).",
+            "A up\u0159\u00edmn\u011b firma pot\u0159ebuje logistick\u00e9 zabezpe\u010den\u00ed just-in-time",
+            "a jestli se bude zbo\u017e\u00ed je\u0161t\u011b 2x p\u0159ekl\u00e1dat na/z vlaku vyjde to stejn\u011b dr\u00e1\u017e ne\u017e kamion.",
+            "a logistick\u00e9 megaare\u00e1ly u velk\u00fdch m\u011bst nemaj\u00ed v drtiv\u00e9 m\u00ed\u0159e mo\u017enost se na solidn\u00ed kapacitn\u00ed kooej v\u016fbec p\u0159ipojit."
+        ],
+        "start": [
+            "143.0",
+            "199.0",
+            "285.0",
+            "344.0",
+            "406.0",
+            "577.0"
+        ],
+        "end": [
+            "198.0",
+            "224.0",
+            "343.0",
+            "405.0",
+            "491.0",
+            "690.0"
+        ]
+    },
+    {
+        "source": "To, pro\u010d n\u011bkdo vlastn\u00ed auto, je \u010di\u0161t\u011b jeho v\u011bc a to, \u017ee bydl\u00ed (v \u0161ir\u0161\u00edm) centru m\u011bsta, absolutn\u011b neznamen\u00e1, \u017ee ho nepot\u0159ebuje... Ale ch\u00e1pu, \u017ee hipste\u0159i a podobn\u00ed aktivisti, co jim sta\u010d\u00ed bat\u016f\u017eek nebo makaj n\u011bkde v Partnerstv\u00ed, tak ti maj\u00ed \u010dasu dost a m\u016f\u017eou ho ztr\u00e1cet t\u0159eba i \"ekologickou\" dopravou. Akor\u00e1t pak jsou neskute\u010dn\u011b otravn\u00ed, kdy\u017e pot\u0159ebuj\u00ed n\u011bkam za m\u011bsto a zrovna to nele\u017e\u00ed na koridoru...",
+        "claim": [
+            "N\u011bkte\u0159\u00ed aktivist\u00e9 pracuj\u00ed pro organizace \"Partnerstv\u00ed.\""
+        ],
+        "checkworthy_reason": [
+            "Yes (This contains a verifiable claim about employment of certain individuals at specific types of organizations.)"
+        ],
+        "origin_text": [
+            "nebo makaj n\u011bkde v Partnerstv\u00ed,"
+        ],
+        "start": [
+            "194.0"
+        ],
+        "end": [
+            "225.0"
+        ]
+    },
+    {
+        "source": "V Australii zije ex-pat samoanska komunita a v australske NRL (ragbyova liga) hraje spousta Samoanu. Jeste zadne sve protivniky nesnedli.",
+        "claim": [
+            "B\u00fdval\u00e1 komunita Samoan\u016f \u017eije v Austr\u00e1lii.",
+            "Mnoho Samoan\u016f hraje v australsk\u00e9 NRL (rugby liga).",
+            "Samoan\u00e9 nesn\u011bdli \u017e\u00e1dn\u00e9ho ze sv\u00fdch protivn\u00edk\u016f."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a factual claim about the existence of a Samoan expatriate community in Australia, which can be verified through demographic data and population statistics.)",
+            "Yes (This statement contains verifiable information about the participation of Samoan players in a specific sports league, which can be checked against player rosters and league records.)",
+            "Yes (While unusual, this statement makes a factual claim about the behavior of Samoans that could theoretically be verified through historical records, anthropological research, and documented incidents.)"
+        ],
+        "origin_text": [
+            "V Australii zije ex-pat samoanska komunita",
+            "a v australske NRL (ragbyova liga) hraje spousta Samoanu.",
+            "Jeste zadne sve protivniky nesnedli."
+        ],
+        "start": [
+            "0.0",
+            "43.0",
+            "101.0"
+        ],
+        "end": [
+            "42.0",
+            "100.0",
+            "137.0"
+        ]
+    },
+    {
+        "source": "V monopolu nemate moznost volby a o to jde",
+        "claim": [
+            "V monopolu nem\u00e1\u0161 na v\u00fdb\u011br."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement contains a verifiable factual claim about the nature of consumer choice in monopolistic markets, which can be assessed against economic evidence and theory.)"
+        ],
+        "origin_text": [
+            "V monopolu nemate moznost volby"
+        ],
+        "start": [
+            "0.0"
+        ],
+        "end": [
+            "31.0"
+        ]
+    },
+    {
+        "source": "V roce 2013, tedy p\u0159ed osmi lety, se auta s normou EURO 6 nevyr\u00e1b\u011bla. Ano, motory se v z\u00e1kladu nezm\u011bnily a 2.0 TDI pak po roce 2015 spl\u0148oval iEURO 6, ale k jist\u00fdm mal\u00fdm \u00faprav\u00e1m tam do\u0161lo. V techni\u010d\u00e1ku m\u00e1te ur\u010dit\u011b uvedeno EURO 5.Nicm\u00e9n\u011b, st\u00e1t nem\u016f\u017ee zak\u00e1zat provoz n\u011b\u010deho, co odsouhlasil, \u017ee vyhovuje. Jinak riskuje soudy o od\u0161kodn\u011bn\u00ed. A \u0161rotovat t\u00e9m\u011br nov\u00e1 auta je zhovadilost.",
+        "claim": [
+            "V roce 2013 nebyly vyrobeny automobily s normou EURO 6.",
+            "2013 bylo p\u0159ed osmi lety.",
+            "Motor 2.0 TDI splnil normy iEURO 6 po roce 2015.",
+            "Po roce 2015 do\u0161lo k drobn\u00fdm \u00faprav\u00e1m motor\u016f.",
+            "Doklady o registraci vozidel ur\u010dit\u011b uv\u00e1d\u011bj\u00ed EURO 5.",
+            "Vl\u00e1da nem\u016f\u017ee zak\u00e1zat provoz d\u0159\u00edve schv\u00e1len\u00fdch vozidel.",
+            "Zakazov\u00e1n\u00ed schv\u00e1len\u00fdch vozidel p\u0159edstavuje riziko kompenza\u010dn\u00edch \u017ealob."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a verifiable claim about the manufacturing timeline of EURO 6 standard vehicles that can be checked against historical production records.)",
+            "Yes (This statement contains a mathematical calculation about time that can be objectively verified by comparing the year 2013 to when the statement was made.)",
+            "Yes (This statement makes a specific, verifiable claim about when a particular engine model met certain regulatory standards.)",
+            "Yes (While somewhat broad, this statement contains a verifiable claim about modifications to engines after a specific date that could be confirmed through technical documentation.)",
+            "Yes (This statement makes a verifiable claim about the content of official vehicle registration documents that can be checked.)",
+            "Yes (This statement makes a verifiable claim about government legal authority that can be checked against laws and regulations.)",
+            "Yes (This statement contains a verifiable claim about legal consequences that can be assessed through legal precedents and expert opinions.)"
+        ],
+        "origin_text": [
+            "V roce 2013, tedy p\u0159ed osmi lety, se auta s normou EURO 6 nevyr\u00e1b\u011bla.",
+            "",
+            "a 2.0 TDI pak po roce 2015 spl\u0148oval iEURO 6,",
+            "ale k jist\u00fdm mal\u00fdm \u00faprav\u00e1m tam do\u0161lo.",
+            "V techni\u010d\u00e1ku m\u00e1te ur\u010dit\u011b uvedeno EURO 5.",
+            "icm\u00e9n\u011b, st\u00e1t nem\u016f\u017ee zak\u00e1zat provoz n\u011b\u010deho, co odsouhlasil, \u017ee vyhovuje.",
+            "Jinak riskuje soudy o od\u0161kodn\u011bn\u00ed."
+        ],
+        "start": [
+            "0.0",
+            "33.0",
+            "105.0",
+            "150.0",
+            "188.0",
+            "229.0",
+            "301.0"
+        ],
+        "end": [
+            "69.0",
+            "33.0",
+            "149.0",
+            "187.0",
+            "228.0",
+            "300.0",
+            "334.0"
+        ]
+    },
+    {
+        "source": "Vetsinou to funguje tak ze Vas pruvodce je Torajan, ktery ma pristup. Oni smrt vidi jinak nez my a je to pro ne duvod k oslave neboztika. Na pohrbu ktereho jsme se zucastnili byli stovky lidi, vsichni byli velice pratelsti a brali nas spis jako hosty nez turisty. Jestli jim ten pruvodce neco da za to ze se muzete ucastnit to nevim, ale najmout si pruvodce na 3 dny nebylo vubec drahy. Uz si presne nepamatuji, je to 10 let. Nas rozhodne nikdo \u201cnezkasiroval\u201d stranou.",
+        "claim": [
+            "Torajan\u0161t\u00ed pr\u016fvodci maj\u00ed zvl\u00e1\u0161tn\u00ed p\u0159\u00edstup k poh\u0159ebn\u00edm ob\u0159ad\u016fm.",
+            "Torajan\u00e9 se na smrt d\u00edvaj\u00ed jinak ne\u017e ostatn\u00ed.",
+            "Torajan\u00e9 pova\u017euj\u00ed smrt za d\u016fvod k oslav\u011b zesnul\u00e9ho.",
+            "Na poh\u0159bu se pod\u00edlely stovky lid\u00ed.",
+            "Autorova zku\u0161enost se odehr\u00e1la p\u0159ibli\u017en\u011b p\u0159ed deseti lety."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a verifiable claim about the access or privileges that Torajan guides have regarding funeral ceremonies.)",
+            "Yes (While somewhat broad, this claims a verifiable cultural difference in how death is perceived that could be investigated through anthropological research.)",
+            "Yes (This statement contains verifiable information about Torajan cultural practices and attitudes toward death.)",
+            "Yes (This is a verifiable factual claim about attendance at a specific event.)",
+            "Yes (This contains verifiable temporal information about when an event occurred.)"
+        ],
+        "origin_text": [
+            "Vetsinou to funguje tak ze Vas pruvodce je Torajan, ktery ma pristup.",
+            "Oni smrt vidi jinak nez my",
+            "a je to pro ne duvod k oslave neboztika.",
+            "Na pohrbu ktereho jsme se zucastnili byli stovky lidi,",
+            "Uz si presne nepamatuji, je to 10 let."
+        ],
+        "start": [
+            "0.0",
+            "70.0",
+            "97.0",
+            "138.0",
+            "387.0"
+        ],
+        "end": [
+            "69.0",
+            "96.0",
+            "137.0",
+            "192.0",
+            "425.0"
+        ]
+    },
+    {
+        "source": "Ze skamenelych kosti moc genetickeho materialu nevyskrabete.",
+        "claim": [
+            "Skamen\u011bl\u00e9 kosti neobsahuj\u00ed mnoho genetick\u00e9ho materi\u00e1lu.",
+            "Nen\u00ed mo\u017en\u00e9 z\u00edskat hodn\u011b genetick\u00e9ho materi\u00e1lu ze zkamen\u011blin kost\u00ed."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a verifiable factual claim about the amount of genetic material in fossilized bones, which can be investigated through scientific analysis.)",
+            "Yes (This statement presents a verifiable claim about the possibility of extracting genetic material from fossilized bones, which can be tested through scientific methods.)"
+        ],
+        "origin_text": [
+            "Ze skamenelych kosti moc genetickeho materialu nevyskrabete.",
+            ""
+        ],
+        "start": [
+            "0.0",
+            "60.0"
+        ],
+        "end": [
+            "60.0",
+            "60.0"
+        ]
+    },
+    {
+        "source": "genetick\u00fd materi\u00e1l nebude a\u017e tak probl\u00e9m, existuje hodn\u011b zmrzl\u00fdch mamut\u00edch pozustatk\u016f ...nav\u00edc genom mamuta je celkem dob\u0159e zdokumentovan\u00fd, p\u0159ed p\u00e1r lety jsem dokonce \u010detl studii \u017ee by mohl ml\u00e1d\u011b mamuta odnosit slon.",
+        "claim": [
+            "Mnoho zmrzl\u00fdch mamut\u016f z\u016fst\u00e1v\u00e1.",
+            "Genom mamuta je dob\u0159e zdokumentovan\u00fd.",
+            "Studie nazna\u010dovala, \u017ee slon by mohl n\u00e9st mamut\u00ed tele.",
+            "Autor \u010detl p\u0159ed n\u011bkolika lety studii o mamutsk\u00e9 reprodukci."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a factual claim about the existence and quantity of frozen mammoth remains, which can be verified through archaeological and paleontological records.)",
+            "Yes (This statement makes a factual claim about the extent of documentation of the mammoth genome, which can be verified by examining scientific literature and genetic databases.)",
+            "Yes (This statement refers to a specific scientific study with verifiable content about the biological possibility of elephants carrying mammoth calves.)",
+            "Yes (While this involves a personal experience, it contains verifiable elements - the existence of the study about mammoth reproduction and potentially when it was published.)"
+        ],
+        "origin_text": [
+            "existuje hodn\u011b zmrzl\u00fdch mamut\u00edch pozustatk\u016f ...",
+            "av\u00edc genom mamuta je celkem dob\u0159e zdokumentovan\u00fd,",
+            "p\u0159ed p\u00e1r lety jsem dokonce \u010detl studii \u017ee by mohl ml\u00e1d\u011b mamuta odnosit slon.",
+            ""
+        ],
+        "start": [
+            "42.0",
+            "90.0",
+            "140.0",
+            "216.0"
+        ],
+        "end": [
+            "89.0",
+            "139.0",
+            "216.0",
+            "216.0"
+        ]
+    },
+    {
+        "source": "m\u00fdto je ve v\u011bt\u0161in\u011b okoln\u00edch zem\u00edch. Jen u n\u00e1s je to pijavice. Kapsch firma se stoletou tradic\u00ed. Asi v\u011bt\u0161ina kritizuj\u00edc\u00edch jsou samarit\u00e1n\u00ed co pracuj\u00ed zadarmo. St\u00e1t vyb\u00edr\u00e1 na m\u00fdtn\u00e9m p\u0159es 10 mld ro\u010dn\u011b. To je hezk\u00fd p\u0159\u00edjem do rozpo\u010dtu. Tyto pen\u00edze m\u011bly j\u00edt na v\u00fdstavbu d\u00e1lnic a modernizaci. Ale bohu\u017eel \u0161ly na koblihy. To sam\u00e9 EET. Babi\u0161 hl\u00e1sal kolik mld. se vybere nav\u00edc. Za to postav\u00edme \u0161koly, nemocnice... Nev\u00ed n\u011bkdo n\u00e1hodou o takov\u00e9 stavb\u011b...",
+        "claim": [
+            "M\u00fdtn\u00e9 syst\u00e9my existuj\u00ed ve v\u011bt\u0161in\u011b sousedn\u00edch zem\u00ed.",
+            "Kapsch je spole\u010dnost se stoletou tradic\u00ed.",
+            "St\u00e1t vyb\u00edr\u00e1 z m\u00fdtn\u00e9ho v\u00edce ne\u017e 10 miliard ro\u010dn\u011b.",
+            "P\u0159\u00edjmy z m\u00fdtn\u00e9ho jsou pro rozpo\u010det v\u00fdznamn\u00fdm p\u0159\u00edjmem.",
+            "Pen\u00edze na m\u00fdtn\u00e9 byly ur\u010deny pro v\u00fdstavbu d\u00e1lnic a modernizaci.",
+            "Pen\u00edze na m\u00fdtn\u00e9 \u00fadajn\u011b \u0161li m\u00edsto toho na koblihy.",
+            "EET (Electronic Revenue Registry) m\u011bl podobn\u00e9 probl\u00e9my.",
+            "Babi\u0161 tvrdil, \u017ee miliardy budou shrom\u00e1\u017ed\u011bny nav\u00edc.",
+            "Babi\u0161 sl\u00edbil vybudovat \u0161koly a nemocnice s pen\u011bzi."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a verifiable claim about the prevalence of toll systems in neighboring countries, which can be checked against infrastructure data.)",
+            "Yes (This contains verifiable information about Kapsch's history and longevity as a company.)",
+            "Yes (This makes a specific, quantifiable claim about toll revenue that can be verified against financial records.)",
+            "Yes (Though containing an evaluative term 'significant,' this statement makes a verifiable claim about the relative importance of toll revenue to the overall budget.)",
+            "Yes (This statement about the designated purpose of toll funds can be verified through legislation or policy documents.)",
+            "Yes (Despite the use of 'allegedly,' this makes a verifiable claim about the misappropriation of funds that could be investigated.)",
+            "Yes (This statement makes a verifiable claim about problems with the EET system that can be researched.)",
+            "Yes (This attributes a specific statement to Babi\u0161 that can be verified through records of his statements.)",
+            "Yes (This attributes specific promises to Babi\u0161 that can be verified through public records or statements.)"
+        ],
+        "origin_text": [
+            "m\u00fdto je ve v\u011bt\u0161in\u011b okoln\u00edch zem\u00edch.",
+            "Kapsch firma se stoletou tradic\u00ed.",
+            "St\u00e1t vyb\u00edr\u00e1 na m\u00fdtn\u00e9m p\u0159es 10 mld ro\u010dn\u011b.",
+            "To je hezk\u00fd p\u0159\u00edjem do rozpo\u010dtu.",
+            "Tyto pen\u00edze m\u011bly j\u00edt na v\u00fdstavbu d\u00e1lnic a modernizaci.",
+            "Ale bohu\u017eel \u0161ly na koblihy.",
+            "To sam\u00e9 EET.",
+            "Babi\u0161 hl\u00e1sal kolik mld. se vybere nav\u00edc.",
+            "Za to postav\u00edme \u0161koly, nemocnice..."
+        ],
+        "start": [
+            "0.0",
+            "62.0",
+            "158.0",
+            "199.0",
+            "231.0",
+            "286.0",
+            "314.0",
+            "327.0",
+            "368.0"
+        ],
+        "end": [
+            "35.0",
+            "95.0",
+            "198.0",
+            "230.0",
+            "285.0",
+            "313.0",
+            "326.0",
+            "367.0",
+            "403.0"
+        ]
+    },
+    {
+        "source": "na internetu je asi milion n\u00e1vod\u016f jak cvi\u010dit doma nebo v okol\u00ed domu s vlastn\u00ed vahou a jednoduch\u00fdmi dostupn\u00fdmi pom\u016fckami. Ale stejn\u011b to tady vypad\u00e1, \u017ee obezita se u n\u00e1s poprv\u00e9 objevila a\u017e s uzav\u00edrkou okres\u016f",
+        "claim": [
+            "Internet m\u00e1 asi milion pr\u016fvodc\u016f pro dom\u00e1c\u00ed cvi\u010den\u00ed s t\u011blesnou hmotnost\u00ed.",
+            "Internet m\u00e1 asi milion pr\u016fvodc\u016f pro cvi\u010den\u00ed s jednoduch\u00fdm dostupn\u00fdm vybaven\u00edm.",
+            "Internet m\u00e1 asi milion pr\u016fvodc\u016f pro cvi\u010den\u00ed v okol\u00ed domova.",
+            "Lid\u00e9 se chovaj\u00ed, jako by se obezita poprv\u00e9 objevila s okresn\u00edmi uz\u00e1v\u011bry.",
+            "Obezita existovala p\u0159ed uzav\u0159en\u00edm okresu."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a factual claim about the quantity of guides available on the internet, which could be verified through comprehensive search analysis.)",
+            "Yes (This statement makes a countable, factual claim about internet content that could be verified through data collection and analysis.)",
+            "Yes (This statement presents a quantifiable claim about the number of guides available online, which is theoretically verifiable through research.)",
+            "Yes (This statement makes a claim about people's behavior and attitudes that could be verified through surveys, media analysis, or public discourse examination.)",
+            "Yes (This statement makes a straightforward historical claim about the existence of obesity prior to a specific event, which can be verified through medical records and historical documentation.)"
+        ],
+        "origin_text": [
+            "na internetu je asi milion n\u00e1vod\u016f jak cvi\u010dit doma",
+            "nebo v okol\u00ed domu s vlastn\u00ed vahou a jednoduch\u00fdmi dostupn\u00fdmi pom\u016fckami.",
+            "",
+            "s vlastn\u00ed vahou a jednoduch\u00fdmi dostupn\u00fdmi pom\u016fckami. Ale stejn\u011b to tady vypad\u00e1, \u017ee obezita se u n\u00e1s poprv\u00e9 objevila a\u017e s uzav\u00edrkou okres\u016f",
+            ""
+        ],
+        "start": [
+            "0.0",
+            "50.0",
+            "67.0",
+            "68.0",
+            "205.0"
+        ],
+        "end": [
+            "49.0",
+            "120.0",
+            "67.0",
+            "205.0",
+            "205.0"
+        ]
+    },
+    {
+        "source": "take me to zarazilo, protoze typicka hudba zdejsi a novozelandske ex-pat samoanske komunity je typicky tichomorska (bubny, ukulele, kytary).Reggae je znama hudba Afro-jamajcanu , tedy uplne jiny ocean!Trochu jsem si zagoogloval. Podarilo se mi zjistit, ze na Samou se pres nedalekou Americkou Samou (soucast zamorskych teritorii USA) v novejsi dobe dostala \"havajska verze reggae\" a zpopularizovala tam, ale neprekonala puvodni tichomorskou hudebni kulturu.",
+        "claim": [
+            "Typick\u00e1 hudba samojsk\u00e9 komunity je tichomo\u0159sk\u00e1.",
+            "Typick\u00e1 hudba novoz\u00e9landsk\u00e9 ex-pat samojsk\u00e9 komunity je tichomo\u0159sk\u00e1.",
+            "Tichomo\u0159sk\u00e1 hudba zahrnuje bubny, ukulele a kytary.",
+            "Reggae je zn\u00e1m\u00e1 hudba Afro-jamaj\u010dan\u016f.",
+            "Jamajka a Samoa jsou v odli\u0161n\u00fdch oce\u00e1nech.",
+            "Na Samou se dostala havajsk\u00e1 verze reggae.",
+            "Havajsk\u00e1 verze reggae p\u0159i\u0161la p\u0159es Americkou Samou.",
+            "Americk\u00e1 Samoa je sou\u010d\u00e1st\u00ed z\u00e1mo\u0159sk\u00fdch teritori\u00ed USA.",
+            "Havajsk\u00e1 verze reggae se na Samoi zpopularizovala.",
+            "Havajsk\u00e1 verze reggae nep\u0159ekonala p\u016fvodn\u00ed tichomo\u0159skou hudebn\u00ed kulturu."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a factual claim about the typical music of the Samoan community being Pacific, which can be verified through ethnomusicological research and cultural records.)",
+            "Yes (This statement contains verifiable information about the typical music of the New Zealand expatriate Samoan community, which can be researched through cultural studies and community documentation.)",
+            "Yes (This statement makes factual claims about specific instruments used in Pacific music, which can be verified through musicological research and cultural documentation.)",
+            "Yes (This statement contains verifiable information about reggae being a well-known music form among Afro-Jamaicans, which can be verified through music history and cultural studies.)",
+            "Yes (This statement makes a geographical claim that can be verified by checking the locations of Jamaica and Samoa on a map.)",
+            "Yes (This statement contains a verifiable claim about Hawaiian reggae reaching Samoa, which can be researched through music history and cultural exchange documentation.)",
+            "Yes (This statement makes a specific claim about the route of Hawaiian reggae's introduction to Samoa, which can be verified through historical and cultural records.)",
+            "Yes (This statement makes a factual claim about American Samoa's political status, which can be verified through official government records and international recognition.)",
+            "Yes (This statement contains verifiable information about Hawaiian reggae becoming popular in Samoa, which can be researched through music history, cultural studies, and local reception.)",
+            "Yes (This statement makes a factual claim about the relative influence of Hawaiian reggae compared to traditional Pacific music culture in Samoa, which can be verified through cultural studies and music history research.)"
+        ],
+        "origin_text": [
+            "take me to zarazilo, protoze typicka hudba zdejsi",
+            "a novozelandske ex-pat samoanske komunity je typicky tichomorska",
+            "(bubny, ukulele, kytary).",
+            "eggae je znama hudba Afro-jamajcanu",
+            ", tedy uplne jiny ocean!",
+            "rochu jsem si zagoogloval. Podarilo se mi zjistit, ze na Samou se pres nedalekou Americkou Samou (soucast zamorskych teritorii USA) v novejsi dobe dostala \"havajska verze reggae\"",
+            "",
+            "(soucast zamorskych teritorii USA)",
+            "v novejsi dobe dostala \"havajska verze reggae\" a zpopularizovala tam",
+            " ale neprekonala puvodni tichomorskou hudebni kulturu."
+        ],
+        "start": [
+            "0.0",
+            "50.0",
+            "115.0",
+            "141.0",
+            "177.0",
+            "202.0",
+            "298.0",
+            "299.0",
+            "334.0",
+            "403.0"
+        ],
+        "end": [
+            "49.0",
+            "114.0",
+            "140.0",
+            "176.0",
+            "201.0",
+            "380.0",
+            "298.0",
+            "333.0",
+            "402.0",
+            "457.0"
+        ]
+    },
+    {
+        "source": "\u0160impanzi pou\u017e\u00edvaj\u00ed na sousedn\u00ed tlupy odstra\u0161uj\u00edc\u00ed metody - po\u0159\u00e1daj\u00ed v\u00fdpravy na zatoulan\u00e9 jedince, kter\u00e9 mrza\u010d\u00ed, ale nezab\u00edjej\u00ed: jen a\u0165 se posti\u017een\u00fd doplaz\u00ed ke sv\u00fdm a vyd\u011bs\u00ed je. Ka\u017ed\u00fd p\u0159\u00edrodn\u00ed druh jde a\u017e na hranici toho, co dok\u00e1\u017ee vymyslet. Co vymyslet nedok\u00e1\u017ee, to ned\u011bl\u00e1. Nen\u00ed to tak, \u017ee by n\u011bco mohl, ale \u0159ekl si \"ne ne, to je o\u0161kliv\u00e9, to d\u011blat nebudeme\". Lid\u00e9 nejsou zlej\u0161\u00ed, jen toho dok\u00e1\u017e\u00ed v\u00edc vymyslet.",
+        "claim": [
+            "\u0160impanzi pou\u017e\u00edvaj\u00ed odstra\u0161uj\u00edc\u00ed metody na sousedn\u00ed tlupy.",
+            "\u0160impanzi po\u0159\u00e1daj\u00ed v\u00fdpravy na zatoulan\u00e9 jedince.",
+            "\u0160impanzi mrza\u010d\u00ed zatoulan\u00e9 jedince, ale nezab\u00edjej\u00ed je.",
+            "Mrza\u010den\u00ed umo\u017e\u0148uje posti\u017een\u00fdm jedinc\u016fm doplazit se ke sv\u00e9 tlup\u011b.",
+            "Mrza\u010den\u00ed slou\u017e\u00ed k vyd\u011b\u0161en\u00ed sousedn\u00edch tlup.",
+            "Ka\u017ed\u00fd p\u0159\u00edrodn\u00ed druh jde na hranici sv\u00fdch my\u0161lenkov\u00fdch schopnost\u00ed.",
+            "Druhy ned\u011blaj\u00ed, co nedok\u00e1\u017e\u00ed vymyslet.",
+            "Druhy neodm\u00edtaj\u00ed jedn\u00e1n\u00ed z mor\u00e1ln\u00edch d\u016fvod\u016f.",
+            "Lid\u00e9 dok\u00e1\u017e\u00ed vymyslet v\u00edce ne\u017e jin\u00e9 druhy."
+        ],
+        "checkworthy_reason": [
+            "Yes (This statement makes a verifiable claim about chimpanzee behavior toward neighboring groups that can be observed and documented by researchers.)",
+            "Yes (This statement claims that chimpanzees organize expeditions against stray individuals, which is a behavioral pattern that can be observed and verified through field research.)",
+            "Yes (This makes a specific, verifiable claim about chimpanzee behavior regarding how they treat stray individuals, asserting they maim but don't kill them.)",
+            "Yes (This statement makes a verifiable claim about the consequence of maiming behavior, suggesting it allows injured individuals to crawl back to their group.)",
+            "Yes (This statement makes a claim about the purpose of maiming behavior in chimpanzees that can be investigated through behavioral research.)",
+            "Yes (While broad, this statement makes a verifiable claim about the cognitive limitations of species that can be tested through comparative cognition studies.)",
+            "Yes (This statement makes a verifiable claim about the relationship between cognitive abilities and behaviors across species that can be tested through observation.)",
+            "Yes (This statement makes a claim about the absence of moral reasoning in non-human species that can be investigated through behavioral and cognitive research.)",
+            "Yes (This statement makes a claim about human cognitive capabilities compared to other species that can be verified through comparative cognitive research.)"
+        ],
+        "origin_text": [
+            "\u0160impanzi pou\u017e\u00edvaj\u00ed na sousedn\u00ed tlupy odstra\u0161uj\u00edc\u00ed metody -",
+            "po\u0159\u00e1daj\u00ed v\u00fdpravy na zatoulan\u00e9 jedince,",
+            "kter\u00e9 mrza\u010d\u00ed, ale nezab\u00edjej\u00ed:",
+            "jen a\u0165 se posti\u017een\u00fd doplaz\u00ed ke sv\u00fdm",
+            "a vyd\u011bs\u00ed je.",
+            "Ka\u017ed\u00fd p\u0159\u00edrodn\u00ed druh jde a\u017e na hranici toho, co dok\u00e1\u017ee vymyslet.",
+            "Co vymyslet nedok\u00e1\u017ee, to ned\u011bl\u00e1.",
+            "Nen\u00ed to tak, \u017ee by n\u011bco mohl, ale \u0159ekl si \"ne ne, to je o\u0161kliv\u00e9, to d\u011blat nebudeme\".",
+            "jen toho dok\u00e1\u017e\u00ed v\u00edc vymyslet."
+        ],
+        "start": [
+            "0.0",
+            "59.0",
+            "98.0",
+            "128.0",
+            "164.0",
+            "177.0",
+            "241.0",
+            "274.0",
+            "379.0"
+        ],
+        "end": [
+            "58.0",
+            "97.0",
+            "127.0",
+            "163.0",
+            "176.0",
+            "240.0",
+            "273.0",
+            "358.0",
+            "408.0"
+        ]
+    }
+]
