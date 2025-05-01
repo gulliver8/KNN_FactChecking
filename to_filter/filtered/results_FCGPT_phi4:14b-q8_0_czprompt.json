@@ -1560,7 +1560,7 @@
         "id": 5,
         "claim": "Augenstein obdržel Google PhD Fellowship v přírodě.",
         "checkworthy": false,
-        "checkworthy_reason": "Výrok je nejasný ohledně toho, kdo je 'on' a obsahuje chybu ('v přírodě'",
+        "checkworthy_reason": "Výrok je nejasný ohledně toho, kdo je 'on' a obsahuje chybu ('v přírodě'), což ho činí obtížně ověřitelným.",
         "origin_text": "Google PhD Fellowship in Natural Language Processing: V roce 2015 získal Augenstein na Facebook Fellowship v přírodě.",
         "start": 434,
         "end": 551
@@ -2031,7 +2031,7 @@
         "id": 5,
         "claim": "NLP je typ počítačové vědy.",
         "checkworthy": true,
-        "checkworthy_reason": "Výrok tvrdí faktické informace o NLP (naturální zpracování jazyka",
+        "checkworthy_reason": "Výrok tvrdí faktické informace o NLP (naturální zpracování jazyka), které lze ověřit s odkazem na akademické a technologické definice.",
         "origin_text": "",
         "start": 275,
         "end": 275

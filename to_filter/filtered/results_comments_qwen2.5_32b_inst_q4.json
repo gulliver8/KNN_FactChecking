@@ -868,7 +868,7 @@
         "id": 1,
         "claim": "Kasperski internet security je jako nejlepší.",
         "checkworthy": false,
-        "checkworthy_reason": "Prohlášení je názor a používá srovnávací jazyk ('nejlepší')",
+        "checkworthy_reason": "Prohlášení je stanovisko a používá srovnávací jazyk (\"nejlepší\"), který nelze objektivně ověřit.",
         "origin_text": "ale jako nejlepší se mi jeví Kasperski internet security.",
         "start": 32,
         "end": 89
@@ -1401,7 +1401,7 @@
         "id": 1,
         "claim": "Hospodářská zvířata moc prdí.",
         "checkworthy": false,
-        "checkworthy_reason": "To je názor nebo subjektivní prohlášení, jako 'moc' (hodně",
+        "checkworthy_reason": "Jedná se o stanovisko nebo subjektivní prohlášení, protože \"moc\" (lot) není objektivně měřitelné a neposkytuje konkrétní, ověřitelné tvrzení.",
         "origin_text": " protože moc prdí",
         "start": 77,
         "end": 94
@@ -1596,7 +1596,7 @@
         "id": 4,
         "claim": "Autam nepatri cleans vzduch.",
         "checkworthy": false,
-        "checkworthy_reason": "Toto prohlášení obsahuje jazykový mix ('autam nepatri' v češtině s 'čistými' v angličtině",
+        "checkworthy_reason": "Toto prohlášení obsahuje jazykový mix ('autam nepatri' v češtině s 'čistými' v angličtině) a gramatickou otázku, která ji činí nejasným a tudíž ne ověřitelným.",
         "origin_text": "Presto z takoveho mereni opravdu neplyne to, ze auta cisti vzduch :D",
         "start": 286,
         "end": 354

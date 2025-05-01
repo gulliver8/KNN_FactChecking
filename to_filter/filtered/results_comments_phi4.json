@@ -2487,7 +2487,7 @@
         "id": 4,
         "claim": "Postižený šimpanz má za úkol vyděsit sousedy.",
         "checkworthy": false,
-        "checkworthy_reason": "Toto prohlášení používá subjektivní jazyk ('úkol'",
+        "checkworthy_reason": "Toto prohlášení používá subjektivní jazyk (úkol) bez jasných důkazů nebo odkazů na ověřitelný zdroj, který lze zkontrolovat.",
         "origin_text": "a vyděsí je.",
         "start": 164,
         "end": 176

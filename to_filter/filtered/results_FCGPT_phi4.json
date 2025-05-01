@@ -42,7 +42,7 @@
         "id": 4,
         "claim": "In 1980, Justice Douglas could have been the oldest living justice.",
         "checkworthy": false,
-        "checkworthy_reason": "Toto prohlášení představuje hypotetický scénář ('Mohlo by\"",
+        "checkworthy_reason": "Toto prohlášení představuje hypotetický scénář ('mohlo by být') spíše než definitivní faktické tvrzení, které lze ověřit.",
         "origin_text": "a byl by nejstarší sloužící spravedlnosti na soudu v té době.",
         "start": 259,
         "end": 320
@@ -2603,7 +2603,7 @@
         "id": 0,
         "claim": "Měď reaguje s síranem železnatým.",
         "checkworthy": true,
-        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné věcné informace o chemické reakci mezi mědí a železem [II]",
+        "checkworthy_reason": "Toto tvrzení obsahuje ověřitelné věcné informace o chemické reakci mezi mědí a síranem železnatým [II].",
         "origin_text": "Když měď reaguje s síranem železnatým (FeSO4),",
         "start": 0,
         "end": 46
@@ -2630,7 +2630,7 @@
         "id": 3,
         "claim": "Síran měďnatý a elementární železo se tvoří.",
         "checkworthy": true,
-        "checkworthy_reason": "Produkty reakce mezi mědí a železem [II]",
+        "checkworthy_reason": "Výrobky reakce mezi mědí a síranem železnatým jsou ověřitelné jako síran měďnatý a elementární železo.",
         "origin_text": "tvoří síran měďnatý (CuSO4) a elementární železo.",
         "start": 146,
         "end": 195
@@ -2798,7 +2798,7 @@
         "id": 3,
         "claim": "Zkapalnělý písek je viskózní.",
         "checkworthy": true,
-        "checkworthy_reason": "Viskozita zkapalněného (liquefied)",
+        "checkworthy_reason": "Viskozita zkapalněného písku je měřitelná vlastnost, která může být vědecky prozkoumána.",
         "origin_text": "",
         "start": 99,
         "end": 99
@@ -4690,7 +4690,7 @@
         "id": 1,
         "claim": "Moduly Terraform umožňují snadné řízení, testování a nasazení.",
         "checkworthy": false,
-        "checkworthy_reason": "Výrazy \"snadné\" (snadné",
+        "checkworthy_reason": "Výrazy \"snadné\" (snadné) jsou subjektivní a odkazují na osobní zkušenosti nebo názory; obecná funkce by však mohla být ověřena v konkrétních souvislostech.",
         "origin_text": "a sdílené konfigurace, které mohou být snadno řízeny, testovány a nasazeny.",
         "start": 65,
         "end": 140
@@ -4708,7 +4708,7 @@
         "id": 3,
         "claim": "Pomáhají zjednodušit řízení komplexních infrastruktur.",
         "checkworthy": false,
-        "checkworthy_reason": "Fráze \"zjednodušit\" (zjednodušit",
+        "checkworthy_reason": "Fráze \"zjednodušit\" (zjednodušit) je subjektivní, ale myšlenka řízení komplexní infrastruktury může být prozkoumána pomocí technické analýzy a uživatelských zkušeností.",
         "origin_text": "a pomáhají zjednodušit řízení",
         "start": 182,
         "end": 211
