@@ -8,7 +8,7 @@ CLIENTS = {
     "gpt": GPTClient,
     "claude": ClaudeClient,
     "local_openai": LocalOpenAIClient,
-    "llama": LocalOpenAIClient
+    "llama": OllamaClient
 }
 # fmt: on
 
@@ -21,7 +21,7 @@ def model2client(model_name: str):
         return ClaudeClient
     elif model_name.startswith("vicuna"):
         return LocalOpenAIClient
-    elif model_name.startswith("phi") or model_name.startswith("llama"):
+    elif model_name.startswith("phi") or model_name.startswith("llama") or model_name.startswith("qwen"):
         return OllamaClient
     else:
         raise ValueError(f"Model {model_name} not supported.")
