@@ -1,4 +1,4 @@
-,{
+[{
     "source": "... pokud chci mit data v bezpeci, tak jedine je mit sifrovana a na Linuxu.",
     "claims": [
         {
@@ -2537,4 +2537,4 @@
             "end": 408
         }
     ]
-}
+}]

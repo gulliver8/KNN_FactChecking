@@ -1,0 +1,60 @@
+decompose_prompt: |
+  Tvým úkolem je rozložit text na atomické výroky.
+  Odpověď by měla být ve formátu JSON s jediným klíčem „claims“, jehož hodnota bude seznam řetězců. Každý řetězec by měl být kontextově nezávislý výrok, představující jednu faktickou informaci.
+  Poznámky:
+    
+    1. Každý výrok by měl být stručný (méně než 15 slov) a srozumitelný sám o sobě.
+    2. Vyvaruj se vágním odkazům, jako jsou „on“, „ona“, „to“, „tato společnost“, „ten muž“, a místo toho používej úplná jména.
+    3. Ke každé větě v textu vygeneruj alespoň jeden výrok.
+    
+    Například,
+    Text: Mary je pětiletá dívka, má ráda hru na klavír a nemá ráda sušenky.
+    Výstup: {{"claims": ["Mary je pětiletá dívka.", "Mary má ráda hru na klavír.", "Mary nemá ráda sušenky."]}}
+    
+    Text: {doc}
+    Output:
+
+checkworthy_prompt: |
+  Tvým úkolem je vyhodnotit každý poskytnutý výrok a určit, zda obsahuje informace, jejichž fakticita může být objektivně ověřena lidmi, bez ohledu na jeho aktuální správnost. Zvaž následující zásady:
+  1. Názory versus fakta: Rozlišuj mezi názory, které jsou subjektivní a nelze je ověřit, a výroky, které tvrdí faktické informace, i když jsou obecné či široké. Zaměř se na to, zda lze tvrzení fakticky prověřit.
+  2. Jasnost a konkrétnost: Výroky musí mít jasné a konkrétní odkazy, aby bylo možné je ověřit (např. „je profesorem“ nelze ověřit bez znalosti, o koho se jedná).
+  3. Přítomnost faktických informací: Výrok považuj za ověřitelný, pokud obsahuje faktické prvky, které lze ověřit na základě důkazů nebo spolehlivých zdrojů, i když může být celkově nepřesný či nesprávný.
+  Tvoje odpověď by měla být ve formátu JSON, kde každý výrok bude klíčem a hodnota bude buď „Yes“ nebo „No“, spolu s krátkým zdůvodněním.
+  
+  Například, u těchto výroků:
+  1. Gary Smith je uznávaný profesor ekonomie.
+  2. Je profesorem na MBZUAI.
+  3. Obama je prezidentem Spojeného království.
+  
+  Očekávaný výstup:
+  {{
+      "Gary Smith je uznávaný profesor ekonomie.": "Yes (Výrok obsahuje ověřitelné faktické informace o profesním titulu a oboru Garyho Smithe.)",
+      "Je profesorem na MBZUAI.": "No (Výrok nelze ověřit kvůli nejasné referenci na to, kdo je 'on'.)",
+      "Obama je prezidentem Spojeného království.": "Yes (Výrok obsahuje ověřitelné informace o politickém vedení země.)"
+  }}
+
+  Pro tyhle výroky:
+  {texts}
+
+  Očekávaný výstup by měl být:
+
+restore_prompt: |
+  Tvým úkolem je rozdělit text na úseky odpovídající jednotlivým faktům odvozeným z textu. 
+  Pro každý fakt najdi odpovídající souvislý úsek v původním textu, který obsahuje informace potřebné k jeho odvození.   Odpověď by měla být ve formátu JSON, kde klíče představují fakty a hodnoty jsou odpovídající úseky z původního textu.
+  Ujisti se, že výsledné úseky lze spojit dohromady tak, aby vytvořily původní text.
+
+  Například:
+  Text: Mary je pětiletá dívka, má ráda hru na klavír a nemá ráda sušenky.
+  Fakta: ["Mary je pětiletá dívka.", "Mary má ráda hru na klavír.", "Mary nemá ráda sušenky."]
+
+  Výstup: 
+  {{
+  "Mary je pětiletá dívka.": "Mary je pětiletá dívka,",
+  "Mary má ráda hru na klavír.": "má ráda hru na klavír",
+  "Mary nemá ráda sušenky.": "a nemá ráda sušenky."
+  }}
+
+  Text: {doc}
+  Facts: {claims}
+
+  Výstup: 
