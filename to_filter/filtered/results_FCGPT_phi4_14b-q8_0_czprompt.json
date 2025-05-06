@@ -37,15 +37,6 @@
         "origin_text": "Proto, v roce 1980, soudce Douglas byl stále naživu",
         "start": 207,
         "end": 258
-      },
-      {
-        "id": 4,
-        "claim": "Soudce William O. Douglas byl nejstarší sloužící spravedlností na soudu v roce 1980.",
-        "checkworthy": false,
-        "checkworthy_reason": "Vzhledem k tomu, že soudce William O. Douglas zemřel v roce 1980, nemohl být 'sloužícím' soudcem toho roku; tato tvrzení se zdá být protichůdná faktickým znalostem.",
-        "origin_text": "a byl by nejstarší sloužící spravedlnosti na soudu v té době.",
-        "start": 259,
-        "end": 320
       }
     ]
   },
@@ -116,15 +107,6 @@
         "end": 296
       },
       {
-        "id": 7,
-        "claim": "Donald Trump byl druhý černý prezident Spojených států.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok je nepřesný a neověřitelný, protože Donald Trump není černýho původu.",
-        "origin_text": "Trump byl druhý černý prezident.",
-        "start": 297,
-        "end": 329
-      },
-      {
         "id": 8,
         "claim": "Donald Trump se narodil v New Yorku.",
         "checkworthy": true,
@@ -180,15 +162,6 @@
     "source": "V roce 2021 byla Kamala Harrisová otevřena jako první žena, která zastávala funkci.",
     "claims": [
       {
-        "id": 0,
-        "claim": "V roce 2021 byla Kamala Harrisová otevřena.",
-        "checkworthy": false,
-        "checkworthy_reason": "Tento výrok obsahuje pojem 'otevřená', který je nejasný a subjektivní bez konkrétního kontextu, což ho činí nelze ověřit jako faktickou informaci.",
-        "origin_text": "V roce 2021 byla Kamala Harrisová otevřena jako",
-        "start": 0,
-        "end": 47
-      },
-      {
         "id": 1,
         "claim": "Kamala Harrisová byla první ženou, která zastávala funkci.",
         "checkworthy": true,
@@ -210,15 +183,6 @@
         "origin_text": "V historii země byly pouze čtyři prezidentky Spojených států,",
         "start": 0,
         "end": 61
-      },
-      {
-        "id": 1,
-        "claim": "Je obtížné určit průměrnou výšku čtyř prezidentek Spojených států.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok je subjektivní a obsahuje názor na obtížnost úkolu, aniž by poskytoval ověřitelné faktické prvky.",
-        "origin_text": "takže je obtížné určit průměrnou výšku této skupiny.",
-        "start": 62,
-        "end": 114
       },
       {
         "id": 2,
@@ -298,24 +262,6 @@
         "end": 266
       },
       {
-        "id": 4,
-        "claim": "Abakus computing používá jednoduché a intuitivní rozhraní.",
-        "checkworthy": false,
-        "checkworthy_reason": "Vzhledem k nejasnosti toho, co se zde považuje za 'jednoduché' nebo 'intuitivní', není výrok dostatečně konkrétní pro ověření bez dalšího kontextu.",
-        "origin_text": "Kromě toho, Abakus computing používá jednoduché a intuitivní rozhraní,",
-        "start": 267,
-        "end": 337
-      },
-      {
-        "id": 5,
-        "claim": "Jednoduché rozhraní umožňuje rychlou vstupu a zpracování dat.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je obecné a subjektivní, s 'jednoduchým' rozhraním jako neurčený koncept pro ověření.",
-        "origin_text": "takže je snadné pro uživatele, aby vstup a zpracování dat rychle.",
-        "start": 338,
-        "end": 403
-      },
-      {
         "id": 6,
         "claim": "Abakus computing je vysoce přenosný.",
         "checkworthy": true,
@@ -323,15 +269,6 @@
         "origin_text": "Abacus computing je také vysoce přenosné,",
         "start": 404,
         "end": 445
-      },
-      {
-        "id": 7,
-        "claim": "Přenosnost Abakus computingu je dobrá volba pro aplikace s výzvami ukládání a přenosu dat.",
-        "checkworthy": false,
-        "checkworthy_reason": "I když se to týká faktických aplikací, hodnocení 'dobré' je subjektivní a závislé na kontextu.",
-        "origin_text": "což je dobrá volba pro aplikace, kde ukládání dat a přenos jsou výzvou.",
-        "start": 446,
-        "end": 517
       },
       {
         "id": 8,
@@ -357,15 +294,6 @@
         "end": 129
       },
       {
-        "id": 1,
-        "claim": "Obecně se předpokládá, že Mléčná dráha produkuje asi jednu novou hvězdu ročně v průměru.",
-        "checkworthy": false,
-        "checkworthy_reason": "No reason provided, please report issue.",
-        "origin_text": "Nicméně, obecně se předpokládá, že Mléčná dráha produkuje asi jednu novou hvězdu ročně v průměru.",
-        "start": 130,
-        "end": 227
-      },
-      {
         "id": 2,
         "claim": "Mléčná dráha je obrovská galaxie s miliardami hvězd.",
         "checkworthy": true,
@@ -373,15 +301,6 @@
         "origin_text": "To se může zdát jako malé číslo, ale mějte na paměti, že Mléčná dráha je obrovská galaxie s miliardami hvězd,",
         "start": 228,
         "end": 337
-      },
-      {
-        "id": 3,
-        "claim": "Přidání malého počtu nových hvězd každý rok může rychle sečíst.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je více spekulativní a neposkytuje konkrétní, ověřitelná data nebo kontext pro posouzení jeho fakticity.",
-        "origin_text": "takže i malý počet nových hvězd přidaných každý rok může rychle sečíst.",
-        "start": 338,
-        "end": 409
       }
     ]
   },
@@ -450,15 +369,6 @@
         "origin_text": "Slučování dvou supermasivních černých děr může také způsobit jasný výbuch světla",
         "start": 458,
         "end": 538
-      },
-      {
-        "id": 7,
-        "claim": "Tento výbuch světla se nazývá kvasar.",
-        "checkworthy": false,
-        "checkworthy_reason": "Vzhledem k tomu, že kvasary jsou soustavy černých děr s akreční diskem a nejsou přímo výsledkem fúze dvou supermasivních černých děr jako je to popsáno, tento terminologický spojení není správné.",
-        "origin_text": "zvané kvasar.",
-        "start": 539,
-        "end": 552
       },
       {
         "id": 8,
@@ -588,24 +498,6 @@
         "end": 286
       },
       {
-        "id": 5,
-        "claim": "Obří planety mohou točit rychle kvůli své větší setrvačnosti.",
-        "checkworthy": false,
-        "checkworthy_reason": "Tento výrok je hypotetický a zavádí možnou příčinnou souvislost, která není objektivně ověřitelná bez dalších podmínek.",
-        "origin_text": "To je důvod, proč obří planety jsou schopny točit tak rychle",
-        "start": 287,
-        "end": 347
-      },
-      {
-        "id": 6,
-        "claim": "Velikost obřích planet umožňuje, že se točí rychle i přes jejich velké velikosti.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok navrhuje hypotetickou korelaci mezi velikostí a rotací, která není jednoznačně ověřitelná bez kontextu.",
-        "origin_text": "i přes jejich velké velikosti.",
-        "start": 348,
-        "end": 378
-      },
-      {
         "id": 7,
         "claim": "Obří planety jsou pravděpodobnější ovlivnit gravitační tah jiných objektů v sluneční soustavě.",
         "checkworthy": true,
@@ -613,15 +505,6 @@
         "origin_text": "Navíc, obří planety jsou také pravděpodobnější, že bude ovlivněna gravitační tah jiných objektů v sluneční soustavě,",
         "start": 379,
         "end": 495
-      },
-      {
-        "id": 8,
-        "claim": "Gravitační tah může způsobit, že obří planety se otáčejí rychleji.",
-        "checkworthy": false,
-        "checkworthy_reason": "Tento výrok uvádí hypotetickou příčinnou souvislost mezi gravitačním tahem a rotací planet, kterou nelze bez dalšího objektivně ověřit.",
-        "origin_text": "což může způsobit, že se otáčí rychleji v průběhu času.",
-        "start": 496,
-        "end": 551
       }
     ]
   },
@@ -699,33 +582,6 @@
         "origin_text": "modifikace histonu a nekódující RNA molekuly.",
         "start": 404,
         "end": 449
-      },
-      {
-        "id": 8,
-        "claim": "Záporné epigenetické dědictví se nazývá transgenerační epigenetické dědictví.",
-        "checkworthy": false,
-        "checkworthy_reason": "I když obsahuje názvy konceptů, tato vlastnost je nejasná a pravděpodobně zavádějící bez další kontextu.",
-        "origin_text": "Záporné epigenetické dědictví, také známé jako transgenerační epigenetické dědictví,",
-        "start": 450,
-        "end": 534
-      },
-      {
-        "id": 9,
-        "claim": "Toto odkazuje na přenos epigenetických změn z budoucích generací zpět na předchozí.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok je nejasný a pravděpodobně nesprávný, protože obecné definice neodrážejí vědecky uznávaný koncept.",
-        "origin_text": "odkazuje na přenos epigenetických změn z budoucích generací zpět na předchozí.",
-        "start": 535,
-        "end": 613
-      },
-      {
-        "id": 10,
-        "claim": "Zkušenosti potomků mohou ovlivnit epigenom předků.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je v rozporu s tradičními pochopeními genetiky a epigenetiky bez jasného kontextu nebo důkazů.",
-        "origin_text": "Tato myšlenka naznačuje, že zkušenosti jednotlivých potomků mohou ovlivnit epigenom těchto předků.",
-        "start": 614,
-        "end": 712
       },
       {
         "id": 11,
@@ -898,33 +754,6 @@
         "origin_text": "které jsou následně určeny podle typu plynu a prachu, které tvoří hvězdu.",
         "start": 486,
         "end": 559
-      },
-      {
-        "id": 8,
-        "claim": "Jaderné reakce jsou regulovány konkrétními geny.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je fakticky nesprávné, protože jaderné reakce v hvězdách nejsou regulovány geny.",
-        "origin_text": "Tyto plyny a prachy jsou tvořeny z prvků, které jsou vytvořeny prostřednictvím různých jaderných reakcí,",
-        "start": 560,
-        "end": 664
-      },
-      {
-        "id": 9,
-        "claim": "Různé typy hvězd jsou výsledkem exprese různých genů.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je fakticky nesprávné, protože geny neovlivňují formování a charakteristiky hvězd.",
-        "origin_text": "které jsou regulovány konkrétními geny.",
-        "start": 665,
-        "end": 704
-      },
-      {
-        "id": 10,
-        "claim": "Geny kontrolují výrobu proteinů, které usnadňují procesy a interakce v prostoru.",
-        "checkworthy": false,
-        "checkworthy_reason": "Zatímco první část je faktická, vysvětlení 'interakcí v prostoru' bez konkrétního kontextu zavádí nejasnost, což znemožňuje ověření.",
-        "origin_text": "Proto, různé typy hvězd, které vidíme na obloze, jsou výsledkem exprese různých genů, které kontrolují výrobu proteinů, které usnadňují různé procesy a interakce, které se odehrávají v prostoru.",
-        "start": 705,
-        "end": 899
       }
     ]
   },
@@ -948,15 +777,6 @@
         "origin_text": "který vyslýchá r. Nejvyšší soud Spojených států, který se zabýval ústavností newyorského státního zákona upravujícího držení střelných zbraní.",
         "start": 68,
         "end": 210
-      },
-      {
-        "id": 2,
-        "claim": "Newyorský zákon uložil omezení přepravy střelných zbraní mimo domov.",
-        "checkworthy": false,
-        "checkworthy_reason": "No reason provided, please report issue.",
-        "origin_text": "Dotyčný zákon uložil omezení přepravy střelných zbraní mimo domov,",
-        "start": 211,
-        "end": 277
       },
       {
         "id": 3,
@@ -1002,24 +822,6 @@
         "origin_text": "a nepatřičně zatěžoval právo na držení a nošení zbraní.",
         "start": 524,
         "end": 579
-      },
-      {
-        "id": 8,
-        "claim": "Rozhodnutí bylo vítězstvím pro zastánce kontroly zbraní.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je subjektivní interpretace, která se týká názorů a konotací spíše než ověřitelného faktu.",
-        "origin_text": "Rozhodnutí bylo považováno za významné vítězství zastánců kontroly zbraní",
-        "start": 580,
-        "end": 653
-      },
-      {
-        "id": 9,
-        "claim": "Dopad rozhodnutí pravděpodobně formuje budoucí diskuse o kontrolních zákonech o zbraní ve Spojených státech.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je spekulativní tvrzení, které nelze objektivně ověřit jako fakt v současné době.",
-        "origin_text": "a neúspěch pro stoupence zbraní. Dopad tohoto rozhodnutí je pravděpodobně formovat budoucí diskuse o zákonech o kontrole zbraní ve Spojených státech.",
-        "start": 654,
-        "end": 803
       }
     ]
   },
@@ -1097,15 +899,6 @@
         "origin_text": "Intelliview: nástroj pro vizualizaci a zkoumání rozsáhlých,",
         "start": 650,
         "end": 709
-      },
-      {
-        "id": 8,
-        "claim": "Intelliview podporuje vícejazyčné ontologie a taxonomy.",
-        "checkworthy": false,
-        "checkworthy_reason": "No reason provided, please report issue.",
-        "origin_text": "",
-        "start": 307,
-        "end": 307
       },
       {
         "id": 9,
@@ -1304,15 +1097,6 @@
         "end": 191
       },
       {
-        "id": 3,
-        "claim": "Gary Smith je lídrem v oblasti ekonomické teorie.",
-        "checkworthy": false,
-        "checkworthy_reason": "To je subjektivní názor, který nelze objektivně ověřit bez konkrétních kritérií nebo hodnocení.",
-        "origin_text": "Je lídrem v oblasti ekonomické teorie",
-        "start": 192,
-        "end": 229
-      },
-      {
         "id": 4,
         "claim": "Gary Smith byl publikován v American Economic Review.",
         "checkworthy": true,
@@ -1340,51 +1124,6 @@
         "end": 378
       },
       {
-        "id": 7,
-        "claim": "Výzkum Garyho Smithe se zaměřuje na makroekonomii.",
-        "checkworthy": false,
-        "checkworthy_reason": "Zatímco to naznačuje oblast zájmu, je subjektivní a neověřitelné bez specifických důkazů.",
-        "origin_text": "Jeho výzkum se zaměřuje na makroekonomii,",
-        "start": 379,
-        "end": 420
-      },
-      {
-        "id": 8,
-        "claim": "Výzkum Garyho Smithe se zaměřuje na průmyslové organizace.",
-        "checkworthy": false,
-        "checkworthy_reason": "Stejně jako předchozí výrok, obsahuje obecnou referenci neověřitelnou bez podrobností.",
-        "origin_text": "průmyslové organizace,",
-        "start": 421,
-        "end": 443
-      },
-      {
-        "id": 9,
-        "claim": "Výzkum Garyho Smithe se zaměřuje na veřejné finance.",
-        "checkworthy": false,
-        "checkworthy_reason": "Je to široká tvrzení a nelze ji ověřit bez konkrétních důkazů.",
-        "origin_text": "veřejné finance,",
-        "start": 444,
-        "end": 460
-      },
-      {
-        "id": 10,
-        "claim": "Výzkum Garyho Smithe se zaměřuje na mezinárodní obchod.",
-        "checkworthy": false,
-        "checkworthy_reason": "Tvrzení není objektivně ověřitelné bez specifických detailů o jeho výzkumu.",
-        "origin_text": "mezinárodní obchod a",
-        "start": 461,
-        "end": 481
-      },
-      {
-        "id": 11,
-        "claim": "Výzkum Garyho Smithe se zaměřuje na rozvoj a ekonomické historie.",
-        "checkworthy": false,
-        "checkworthy_reason": "Obecná tvrzení o oblastech zájmu, která nelze ověřit bez specifických důkazů.",
-        "origin_text": "rozvoj a ekonomické historie.",
-        "start": 482,
-        "end": 511
-      },
-      {
         "id": 12,
         "claim": "Gary Smith obdržel Nobelovu cenu za památku v ekonomických vědách v roce 2018.",
         "checkworthy": true,
@@ -1392,57 +1131,12 @@
         "origin_text": "On také obdržel různé ocenění a accolades pro svůj výzkum, včetně Nobelovy ceny za památku v ekonomických vědách v roce 2018.",
         "start": 512,
         "end": 637
-      },
-      {
-        "id": 13,
-        "claim": "Gary Smith je vysoce respektován svými studenty pro oddanost k výuce a výzkumu.",
-        "checkworthy": false,
-        "checkworthy_reason": "Subjektivní tvrzení o reputaci, které nelze objektivně ověřit bez kvantifikovatelných měření.",
-        "origin_text": "Smith je vysoce respektován jak jeho studenty",
-        "start": 638,
-        "end": 683
-      },
-      {
-        "id": 14,
-        "claim": "Gary Smith je vysoce respektován vrstevníky pro oddanost k výuce a výzkumu.",
-        "checkworthy": false,
-        "checkworthy_reason": "Je to subjektivní názor na reputaci, který nelze ověřit bez konkrétních hodnocení nebo průzkumů.",
-        "origin_text": "a vrstevníky pro svou oddanost k výuce a výzkumu.",
-        "start": 684,
-        "end": 733
-      },
-      {
-        "id": 15,
-        "claim": "Gary Smith je aktivním členem.",
-        "checkworthy": false,
-        "checkworthy_reason": "Nejasné tvrzení bez specifikace organizace nebo kontextu členství, což ztěžuje ověření.",
-        "origin_text": "Je také aktivním členem.",
-        "start": 734,
-        "end": 758
       }
     ]
   },
   {
     "source": "Nejpopulárnější značka balené vody v Izraeli je \"MAYIM\" (dále jen \"MAYIM\"), což znamená \"voda\" v hebrejštině. Vyrábí ji společnost Mey Eden, která je jednou z největších lahvových vodáren v Izraeli. Mey Eden nabízí řadu nehybných a šumivých vodních produktů, stejně jako ochucené vody a funkční vody s přidanými minerály a vitamíny. Další populární značky balené vody v Izraeli patří \"Neve Ilan\" a \"Ein Gedi.\"",
     "claims": [
-      {
-        "id": 0,
-        "claim": "Nejpopulárnější značka balené vody v Izraeli je \"MAYIM\".",
-        "checkworthy": false,
-        "checkworthy_reason": "No reason provided, please report issue.",
-        "origin_text": "Nejpopulárnější značka balené vody v Izraeli je \"MAYIM\" (dále jen \"MAYIM\"),",
-        "start": 0,
-        "end": 75
-      },
-      {
-        "id": 1,
-        "claim": "\"MAYIM\" znamená \"voda\" v hebrejštině.",
-        "checkworthy": false,
-        "checkworthy_reason": "No reason provided, please report issue.",
-        "origin_text": "což znamená \"voda\" v hebrejštině.",
-        "start": 76,
-        "end": 109
-      },
       {
         "id": 2,
         "claim": "Společnost Mey Eden vyrábí balenou vodu 'MAYIM'.",
@@ -1487,48 +1181,12 @@
         "origin_text": "a funkční vody s přidanými minerály a vitamíny.",
         "start": 285,
         "end": 332
-      },
-      {
-        "id": 7,
-        "claim": "Další populární značka balené vody v Izraeli je \"Neve Ilan\".",
-        "checkworthy": false,
-        "checkworthy_reason": "No reason provided, please report issue.",
-        "origin_text": "Další populární značky balené vody v Izraeli patří \"Neve Ilan\"",
-        "start": 333,
-        "end": 395
-      },
-      {
-        "id": 8,
-        "claim": "Další populární značka balené vody v Izraeli je \"Ein Gedi\".",
-        "checkworthy": false,
-        "checkworthy_reason": "No reason provided, please report issue.",
-        "origin_text": "a \"Ein Gedi.\"",
-        "start": 396,
-        "end": 409
       }
     ]
   },
   {
     "source": "Isabelle Augenstein je přední výzkumnou pracovnicí v oblasti zpracování přirozeného jazyka. V průběhu své kariéry získala několik ocenění a vyznamenání. Zde jsou některé z nich: Best Paper Award na EMNLP 2017: Augenstein obdržel cenu za nejlepší knihu na konferenci o empirických metodách zpracování přirozeného jazyka (EMNLP) v roce 2017 za svůj příspěvek s názvem \"Multi-Task Learning for Named Possier Uznání v neformálním textu.\" Google PhD Fellowship in Natural Language Processing: V roce 2015 získal Augenstein na Facebook Fellowship v přírodě. Společenstvo je uděleno PhD studentům, kteří provádějí výzkum v oblastech souvisejících s počítačovou vědou a inženýrstvím. ACL Best Demo Paper Award 2021: Augenmo Paper Award na výročním setkání sdružení pro informační výzkum (CLA) Fellowlientship.",
     "claims": [
-      {
-        "id": 0,
-        "claim": "Isabelle Augenstein je přední výzkumnou pracovnicí v oblasti zpracování přirozeného jazyka.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje subjektivní hodnocení a není konkrétně ověřitelný bez důkazů nebo spolehlivých zdrojů, které by definují 'přední'.",
-        "origin_text": "Isabelle Augenstein je přední výzkumnou pracovnicí v oblasti zpracování přirozeného jazyka.",
-        "start": 0,
-        "end": 91
-      },
-      {
-        "id": 1,
-        "claim": "Získala několik ocenění a vyznamenání během své kariéry.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok je příliš neurčitý pro ověření bez specifikace, která ocenění byla získána.",
-        "origin_text": "V průběhu své kariéry získala několik ocenění a vyznamenání.",
-        "start": 92,
-        "end": 152
-      },
       {
         "id": 2,
         "claim": "Obdržela Best Paper Award na EMNLP 2017.",
@@ -1555,15 +1213,6 @@
         "origin_text": "za svůj příspěvek s názvem \"Multi-Task Learning for Named Possier Uznání v neformálním textu.\"",
         "start": 339,
         "end": 433
-      },
-      {
-        "id": 5,
-        "claim": "Augenstein obdržel Google PhD Fellowship v přírodě.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok je nejasný ohledně toho, kdo je 'on' a obsahuje chybu ('v přírodě'), což ho činí obtížně ověřitelným.",
-        "origin_text": "Google PhD Fellowship in Natural Language Processing: V roce 2015 získal Augenstein na Facebook Fellowship v přírodě.",
-        "start": 434,
-        "end": 551
       },
       {
         "id": 6,
@@ -1650,51 +1299,6 @@
         "origin_text": "Publikovala několik dokumentů a článků na tato témata,",
         "start": 416,
         "end": 470
-      },
-      {
-        "id": 7,
-        "claim": "Výzkum Dr. Marloese Arts ovlivnil akademickou diskusi.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je subjektivní a nejasné, protože 'ovlivnění' může být obtížné k kvantifikaci bez konkrétních důkazů.",
-        "origin_text": "a její výzkum byl vlivný při formování akademické a politické diskuse kolem těchto otázek.",
-        "start": 471,
-        "end": 561
-      },
-      {
-        "id": 8,
-        "claim": "Politická diskuse byla formována výzkumem Dr. Marloese Arts.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je subjektivní a obecné, neobsahuje specifika, která lze přímo ověřit.",
-        "origin_text": "",
-        "start": 0,
-        "end": 0
-      },
-      {
-        "id": 9,
-        "claim": "Je obtížné určit jednu nejvíce vlivnou práci Dr. Artse.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je subjektivní a zahrnuje hodnocení, které se může lišit mezi různými posuzovateli.",
-        "origin_text": "ako model jazyka AI nemám přístup k aktuálním informacím a novinkám mimo mé znalosti v září 2021, a nemám specifické znalosti jednotlivců a jejich práce, pokud nejsou široce uznávány. Nicméně, na základě mých všeobecných znalostí, Dr. Marloes Arts je sociální antropolog, který provedl výzkum na různých tématech týkajících se sociální a environmentální udržitelnosti, jako je správa vody, změna klimatu a ochrana. Publikovala několik dokumentů a článků na tato témata, a její výzkum byl vlivný při formování akademické a politické diskuse kolem těchto otázek. Je obtížné určit jednu nejvíce vlivnou práci Dr. Artse,",
-        "start": 1,
-        "end": 617
-      },
-      {
-        "id": 10,
-        "claim": "Příspěvky Dr. Artse do oblasti jsou různorodé.",
-        "checkworthy": false,
-        "checkworthy_reason": "No reason provided, please report issue.",
-        "origin_text": "jak její příspěvky do oblasti jsou různorodé a",
-        "start": 618,
-        "end": 664
-      },
-      {
-        "id": 11,
-        "claim": "Příspěvky Dr. Artse jsou významné.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je subjektivní a měření 'významnosti' není standardizované nebo konkrétní.",
-        "origin_text": "významné.",
-        "start": 665,
-        "end": 674
       }
     ]
   },
@@ -1797,15 +1401,6 @@
         "end": 119
       },
       {
-        "id": 3,
-        "claim": "Jako jazykový model nemám přístup k vizuálním informacím, jako jsou barvy.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je tvrzení o vlastnostich asistenta a neobsahuje externě ověřitelné faktické informace.",
-        "origin_text": "Jako jazykový model nemám přístup k vizuálním informacím, jako jsou barvy,",
-        "start": 120,
-        "end": 194
-      },
-      {
         "id": 4,
         "claim": "Papír byl zveřejněn v Proceedings of 31st Conference on Neurral Information Processing Systems (NeurIPS 2017).",
         "checkworthy": true,
@@ -1813,24 +1408,6 @@
         "origin_text": "takže vám nemohu říct barvu papíru. Nicméně, papír byl zveřejněn v Proceedings of 31st Conference on Neurral Information Processing Systems (NeurIPS 2017),",
         "start": 195,
         "end": 350
-      },
-      {
-        "id": 5,
-        "claim": "Titulní strana jednací knihy měla rok modrý.",
-        "checkworthy": false,
-        "checkworthy_reason": "Barva titulní strany je subjektivní a není objektivně ověřitelná bez vizuální referenční informace.",
-        "origin_text": "a na titulní straně jednací knihy, že rok byl modrý.",
-        "start": 351,
-        "end": 403
-      },
-      {
-        "id": 6,
-        "claim": "Je možné, že titulní strana papíru byla také modrá.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je spekulativní a neobsahuje konkrétní faktickou informaci k ověření.",
-        "origin_text": "Takže je možné, že titulní strana papíru byla také modrá,",
-        "start": 404,
-        "end": 461
       },
       {
         "id": 7,
@@ -1863,15 +1440,6 @@
         "origin_text": "který byl oceněn tři Michelin hvězdy a",
         "start": 59,
         "end": 97
-      },
-      {
-        "id": 2,
-        "claim": "Geranium je zařazen jako jedna z nejlepších restaurací na světě.",
-        "checkworthy": false,
-        "checkworthy_reason": "I když se to týká faktického uznání, specifické pozice 'nejlepších' může být subjektivní a lišit se v různých hodnoceních nebo seznamech.",
-        "origin_text": "je důsledně zařazen jako jedna z nejlepších restaurací na světě.",
-        "start": 98,
-        "end": 162
       },
       {
         "id": 3,
@@ -1960,15 +1528,6 @@
         "end": 135
       },
       {
-        "id": 3,
-        "claim": "Můžete najít 'země' na Zemi, Jupiteru a Marsi.",
-        "checkworthy": false,
-        "checkworthy_reason": "No reason provided, please report issue.",
-        "origin_text": "a Slunce jsou plynná těla bez pevných povrchů. Proto můžete najít \"země\" na Zemi, Jupiter, a Mars,",
-        "start": 136,
-        "end": 234
-      },
-      {
         "id": 4,
         "claim": "'Země' není nalezena na Neptunu ani Slunci.",
         "checkworthy": true,
@@ -1982,15 +1541,6 @@
   {
     "source": "Odpověď na tuto hádanku je \"sedadla\" . V kině, tam jsou místa pro publikum sedět a dívat se na film . Na hrochu , tam jsou přírodní sedadla v podobě jeho široké záda , že lidé mohou sedět na . Nicméně , V knize o NLP (Přírodní zpracování jazyka), což je typ počítačové vědy , tam nejsou žádná fyzická sedadla . Podobně , v bazénu , lidé plavou a plavou na vodě , ale tam nejsou žádná sedadla .",
     "claims": [
-      {
-        "id": 0,
-        "claim": "Odpověď na tuto hádanku je 'sedadla'.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok je specifický pro kontext hádanky a nemá ověřitelné faktické informace mimo tento kontext.",
-        "origin_text": "Odpověď na tuto hádanku je \"sedadla\" .",
-        "start": 0,
-        "end": 38
-      },
       {
         "id": 1,
         "claim": "V kině jsou místa pro publikum sedět a dívat se na film.",
@@ -2044,15 +1594,6 @@
         "origin_text": "tam nejsou žádná fyzická sedadla . Podobně , v bazénu , lidé plavou a plavou na vodě ,",
         "start": 276,
         "end": 362
-      },
-      {
-        "id": 7,
-        "claim": "V bazénu nejsou žádná sedadla.",
-        "checkworthy": false,
-        "checkworthy_reason": "Zatímco v některých bazénech nemusí být sedadla, toto tvrzení není univerzálně pravdivé a nelze ho ověřit bez konkrétního odkazu na konkrétní bazén.",
-        "origin_text": "ale tam nejsou žádná sedadla .",
-        "start": 363,
-        "end": 393
       }
     ]
   },
@@ -2128,15 +1669,6 @@
         "end": 262
       },
       {
-        "id": 4,
-        "claim": "Mezi příznivé klimatické a půdní podmínky Gruzie je ideálním místem pro pěstování broskví.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení obsahuje subjektivní hodnocení 'ideálního místa', které závisí na kritériích a není jednoznačně ověřitelné.",
-        "origin_text": "Mezi příznivé klimatické a půdní podmínky Gruzie je ideálním místem pro pěstování broskví,",
-        "start": 263,
-        "end": 353
-      },
-      {
         "id": 5,
         "claim": "Gruzie je významným producentem ovoce od roku 1800.",
         "checkworthy": true,
@@ -2159,15 +1691,6 @@
   {
     "source": "Jeden čínský učenec, který sloužil jako sponzorské křeslo pro velkou konferenci NLP je Ming Zhou. Sloužil jako sponzorské křeslo pro 2021 Výroční konference Asociace pro výpočetní lingvistiku (ACL), která je jednou z největších a nejprestižnějších konferencí v oblasti zpracování přirozeného jazyka. Ming Zhou je vedoucí výzkumný pracovník a výzkumný manažer v Microsoft Research Asia, kde vede tým zaměřený na zpracování přirozeného jazyka, strojové učení a umělé inteligence. Publikoval rozsáhle v nejlepších konferencích a časopisech NLP a získal řadu ocenění za své příspěvky do oboru.",
     "claims": [
-      {
-        "id": 0,
-        "claim": "Ming Zhou je učenec.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje subjektivní tvrzení bez konkrétních, ověřitelných informací o kvalifikaci nebo pozici Ming Zhouho.",
-        "origin_text": "Jeden čínský učenec, který sloužil jako sponzorské křeslo pro velkou konferenci NLP je Ming Zhou.",
-        "start": 0,
-        "end": 97
-      },
       {
         "id": 1,
         "claim": "Ming Zhou sloužil jako sponzorské křeslo pro velkou konferenci NLP.",
@@ -2228,15 +1751,6 @@
     "source": "Jistě, tady jsou některé další čínští učenci, kteří sloužili jako sponzorské židle pro velké NLP konference: 1. Yang Liu: On sloužil jako sponzorské židli pro 2020 Konference o empirických metod v přirozeném zpracování jazyka (EMNLP), který je přední NLP konference. Yang Liu je profesorem na Tsinghua University a jeho výzkumné zájmy patří strojové učení, zpracování přirozeného jazyka, a získávání informací. 2. Haifeng Wang: On sloužil jako sponzorský předseda pro 2020 Výroční setkání Asociace pro výpočetní lingvistiky (ACL), který je jedním z předních konferencí v oblasti NLP. Haifeng Wang je výzkumný vědec v Baidu výzkumu a jeho výzkumné zájmy patří přírodní jazyk porozumění, hluboké učení, a strojové učení. 3. Jing Jiang: Ona sloužila jako sponzorské předsednictví pro 2019 Výroční zasedání sdružení pro výpočetní jazyk (ACL). Jing Jiang je profesorem na Singapurské univerzitě a její výzkumné zájmy patří mezi přírodní jazykové znalosti, vzdělávání a učení.",
     "claims": [
       {
-        "id": 0,
-        "claim": "Konference EMNLP je přední NLP konference.",
-        "checkworthy": false,
-        "checkworthy_reason": "Izolovaný názor o 'přednosti' je subjektivní a nelze ho objektivně ověřit bez konkrétního měřítka nebo kritérií.",
-        "origin_text": "Jistě, tady jsou některé další čínští učenci, kteří sloužili jako sponzorské židle pro velké NLP konference: 1. Yang Liu: On sloužil jako sponzorské židli pro 2020 Konference o empirických metod v přirozeném zpracování jazyka (EMNLP), který je přední NLP konference.",
-        "start": 0,
-        "end": 266
-      },
-      {
         "id": 1,
         "claim": "Yang Liu je profesorem na Tsinghua University.",
         "checkworthy": true,
@@ -2253,15 +1767,6 @@
         "origin_text": "jeho výzkumné zájmy patří strojové učení, zpracování přirozeného jazyka, a získávání informací.",
         "start": 315,
         "end": 410
-      },
-      {
-        "id": 3,
-        "claim": "Setkání ACL je jedno z předních konferencí v oblasti NLP.",
-        "checkworthy": false,
-        "checkworthy_reason": "Izolovaný názor o 'přednosti' je subjektivní a nelze ho objektivně ověřit bez konkrétního měřítka nebo kritérií.",
-        "origin_text": "2. Haifeng Wang: On sloužil jako sponzorský předseda pro 2020 Výroční setkání Asociace pro výpočetní lingvistiky (ACL), který je jedním z předních konferencí v oblasti NLP.",
-        "start": 411,
-        "end": 583
       },
       {
         "id": 4,
@@ -2362,24 +1867,6 @@
         "origin_text": "byl Dan Jurafsky. Dan Jurafsky je proslulý profesor lingvistiky a informatiky na Stanford University",
         "start": 84,
         "end": 184
-      },
-      {
-        "id": 2,
-        "claim": "Dan Jurafsky učinil významné příspěvky do oblasti zpracování přirozeného jazyka (NLP).",
-        "checkworthy": false,
-        "checkworthy_reason": "I když tvrzení naznačuje faktickou informaci, slovo 'významné' je subjektivní a nelze ho objektivně ověřit.",
-        "origin_text": "a učinil významné příspěvky do oblasti zpracování přirozeného jazyka (NLP)",
-        "start": 185,
-        "end": 259
-      },
-      {
-        "id": 3,
-        "claim": "Dan Jurafsky učinil významné příspěvky do oblasti výpočetní lingvistiky.",
-        "checkworthy": false,
-        "checkworthy_reason": "Stejně jako u předchozího výroku, slovo 'významné' způsobuje subjektivitu a nedovoluje objektivní ověření.",
-        "origin_text": "a výpočetní lingvistiky.",
-        "start": 260,
-        "end": 284
       }
     ]
   },
@@ -2390,15 +1877,6 @@
   {
     "source": "Vzhledem k tomu, že mé znalosti omezení v září 2021, Čína získala značný počet zlatých medailí v olympijských hrách. Nicméně, je důležité poznamenat, že počet medailí se může změnit s každým vydáním olympijských her. Od roku 2020 Tokyo olympijských her (schovaných v roce 2021 kvůli COVID-19 pandemie), Čína nashromáždila značný počet zlatých medailí napříč různými olympijskými disciplínami. Čína debutovala v olympijských hrách v roce 1952, ale začala získat významné postavení v 80. a 1990. Od té doby, čínské olympijské úspěchy byly pozoruhodné, zejména ve sportu, jako je stolní tenis, badminton, potápění, gymnastika, a vzpírání. Pro nejvíce aktuální a přesné informace o čínské zlaté medaile počítání v olympijských hrách, doporučuji odkaz na oficiální olympijské webové stránky nebo renomované sportovní zdroje zpráv, které poskytují komplexní a aktuální medailové hity pro každou zemi.",
     "claims": [
-      {
-        "id": 0,
-        "claim": "Autorovy znalosti jsou omezeny do září 2021.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení vyjadřuje subjektivní omezení autora a neobsahuje ověřitelné faktické informace.",
-        "origin_text": "Vzhledem k tomu, že mé znalosti omezení v září 2021,",
-        "start": 0,
-        "end": 52
-      },
       {
         "id": 1,
         "claim": "Čína získala značný počet zlatých medailí v olympijských hrách.",
@@ -2445,15 +1923,6 @@
         "end": 493
       },
       {
-        "id": 6,
-        "claim": "Čínské úspěchy na olympijských hrách byly pozoruhodné od té doby.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení vyjadřuje názor a není objektivně ověřitelné.",
-        "origin_text": "Od té doby, čínské olympijské úspěchy byly pozoruhodné,",
-        "start": 494,
-        "end": 549
-      },
-      {
         "id": 7,
         "claim": "Sporty, ve kterých Čína exceluje, zahrnují stolní tenis, badminton, potápění, gymnastiku a vzpírání.",
         "checkworthy": true,
@@ -2461,15 +1930,6 @@
         "origin_text": "zejména ve sportu, jako je stolní tenis, badminton, potápění, gymnastika, a vzpírání.",
         "start": 550,
         "end": 635
-      },
-      {
-        "id": 8,
-        "claim": "Autor doporučuje odkazovat na oficiální olympijské webové stránky pro aktuální informace o medailových počtech.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je návrh nebo doporučení, nikoli ověřitelná faktická tvrzení.",
-        "origin_text": "Pro nejvíce aktuální a přesné informace o čínské zlaté medaile počítání v olympijských hrách, doporučuji odkaz na oficiální olympijské webové stránky",
-        "start": 636,
-        "end": 785
       },
       {
         "id": 9,
@@ -2529,15 +1989,6 @@
         "origin_text": "Když je zlato vystaveno samotné kyselině chlorovodíkové, neexistuje žádná pozorovatelná chemická reakce.",
         "start": 132,
         "end": 236
-      },
-      {
-        "id": 5,
-        "claim": "Kyselina dusičná je určitá druh kyseliny.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok je příliš neurčitý a neposkytuje faktické informace o druhu kyseliny.",
-        "origin_text": "Nicméně, pokud smícháte kyselinu chlorovodíkovou s jinou kyselinou, jako je kyselina dusičná,",
-        "start": 237,
-        "end": 330
       },
       {
         "id": 6,
@@ -2724,30 +2175,12 @@
         "origin_text": "Studoval medicínu na univerzitě v Jeně",
         "start": 119,
         "end": 157
-      },
-      {
-        "id": 3,
-        "claim": "Začal si klást otázky o přírodních vědách a geologii.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení vyjadřuje subjektivní proces myšlení, který nelze objektivně ověřit.",
-        "origin_text": "v Německu, kde se také začal zajímat o přírodní vědy a geologii.",
-        "start": 158,
-        "end": 222
       }
     ]
   },
   {
     "source": "Písek, známý také jako tekoucí písek, je druh mokrého písku, který se stává zkapalněným a viskózním, když je narušen. Může způsobit, že se člověk nebo objekt stane chycený a rychle se potopí. Potápí se písek, když voda-nasycený písek nebo jiné půdní částice nemohou podporovat hmotnost objektu nebo člověka, který se pak stane chycený jako písek pohltí je. Jedná se o přírodní jev, který se nachází v různých regionech po celém světě, zejména v oblastech s vysokou úrovní podzemních vod a jemný písek nebo bahno.",
     "claims": [
-      {
-        "id": 0,
-        "claim": "Písek je také znám jako tekoucí písek.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení předpokládá synonymní spojení bez objektivního podkladu; 'tekoucí písek' se odkazuje na konkrétní jev, ne na běžný typ písku.",
-        "origin_text": "Písek, známý také jako tekoucí písek,",
-        "start": 0,
-        "end": 37
-      },
       {
         "id": 1,
         "claim": "Tekoucí písek se stává zkapalněným a viskózním, když je narušen.",
@@ -2851,15 +2284,6 @@
         "origin_text": "Nicméně, LiveScript byl nakonec přejmenován na JavaScript,",
         "start": 122,
         "end": 180
-      },
-      {
-        "id": 3,
-        "claim": "Přejmenování na JavaScript pomohlo LiveScriptu vyhnout se populárnosti Javy.",
-        "checkworthy": false,
-        "checkworthy_reason": "I když obsahuje pravdivé prvky, výrok zahrnuje názor nebo spekulaci o důsledcích, které nelze objektivně ověřit.",
-        "origin_text": "aby se v té době zbavil popularity Javy.",
-        "start": 181,
-        "end": 221
       }
     ]
   },
@@ -2883,24 +2307,6 @@
         "origin_text": "Věříme, že brambory byly představeny Španělsku v 16. století,",
         "start": 178,
         "end": 239
-      },
-      {
-        "id": 2,
-        "claim": "Není jasné, kdy by brambory poprvé použily v misce jako je patatas bravas.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení obsahuje subjektivní nejasnost a nenabízí konkrétní ověřitelnou informaci.",
-        "origin_text": "ale není jasné, kdy by byly poprvé použity v misce, jako je patatas bravas.",
-        "start": 240,
-        "end": 315
-      },
-      {
-        "id": 3,
-        "claim": "Červená omáčka používaná pro patatas bravas mohla existovat ve formě v roce 1490.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je spekulativní a obsahuje nejasnost kvůli použití 'mohla'.",
-        "origin_text": "Červená omáčka obvykle používané v patatas bravas, nicméně, by mohly existovat v určité podobě v roce 1490",
-        "start": 316,
-        "end": 422
       },
       {
         "id": 4,
@@ -3030,15 +2436,6 @@
         "end": 320
       },
       {
-        "id": 4,
-        "claim": "Evropští obchodníci se více zajímali o využívání přírodních zdrojů Afriky než jejích obyvatel.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je subjektivní a uvádí názory, které nelze jednoznačně ověřit bez specifických historických studií o motivacích.",
-        "origin_text": "",
-        "start": 320,
-        "end": 320
-      },
-      {
         "id": 5,
         "claim": "Abolicionistické hnutí v Evropě vedlo ke zvýšené poptávce po afrických surovinách.",
         "checkworthy": true,
@@ -3080,15 +2477,6 @@
     "source": "Chovatelé ovcí mohou malovat své ovce z různých důvodů, jako je identifikace jednotlivých ovcí ve stádě, sledovat jejich zdraví, aby naznačili svůj sex, nebo označit ovce, které byly léčeny léky. Někteří chovatelé ovcí mohou také malovat své ovce pro předváděcí nebo výstavní účely. Kromě toho, některá plemena ovcí mají zvláštní označení, které je třeba zvýraznit pro identifikaci plemene. Nicméně, je důležité zajistit, aby barva použitá je bezpečný pro ovce a neubližuje jim v žádném případě.",
     "claims": [
       {
-        "id": 0,
-        "claim": "Chovatelé ovcí mohou malovat své ovce z různých důvodů.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je obecné tvrzení bez konkrétních faktických informací k ověření.",
-        "origin_text": "Chovatelé ovcí mohou malovat své ovce z různých důvodů,",
-        "start": 0,
-        "end": 55
-      },
-      {
         "id": 1,
         "claim": "Účely pro malování ovcí zahrnují identifikaci jednotlivých ovcí ve stádě.",
         "checkworthy": true,
@@ -3123,15 +2511,6 @@
         "origin_text": "nebo označit ovce, které byly léčeny léky.",
         "start": 153,
         "end": 195
-      },
-      {
-        "id": 5,
-        "claim": "Chovatelé ovcí malují ovce pro předváděcí účely.",
-        "checkworthy": false,
-        "checkworthy_reason": "No reason provided, please report issue.",
-        "origin_text": "Někteří chovatelé ovcí mohou také malovat své ovce pro předváděcí",
-        "start": 196,
-        "end": 261
       },
       {
         "id": 6,
@@ -3329,15 +2708,6 @@
         "end": 56
       },
       {
-        "id": 1,
-        "claim": "ECharts Java poskytuje snadno použitelné rozhraní pro vytváření grafů a dalších vizuálních prvků.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je subjektivní kvůli slovu 'snadno' a neodkazuje na specifickou faktickou informaci.",
-        "origin_text": "Poskytuje snadno použitelné rozhraní pro vytváření grafů, grafů a dalších vizuálních prvků pro reprezentaci dat.",
-        "start": 57,
-        "end": 169
-      },
-      {
         "id": 2,
         "claim": "ECharts Java je založena na ECharts JavaScript knihovna.",
         "checkworthy": true,
@@ -3362,15 +2732,6 @@
         "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o funkcionalitě, kterou poskytuje ECharts Java.",
         "origin_text": "Pomocí ECharts Java, vývojáři mohou vytvářet interaktivní a přizpůsobitelné grafy a grafy pro zobrazení dat více vizuálně přitažlivým způsobem.",
         "start": 294,
-        "end": 437
-      },
-      {
-        "id": 5,
-        "claim": "ECharts Java umožňuje přizpůsobení grafů pro vizuálně přitažlivé zobrazení dat.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je částečně subjektivní kvůli slovu 'vizuálně přitažlivé'.",
-        "origin_text": "",
-        "start": 437,
         "end": 437
       },
       {
@@ -3456,15 +2817,6 @@
         "end": 113
       },
       {
-        "id": 1,
-        "claim": "Kromě komprese může BPE být použit pro šifrovací účely.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je spekulativní, protože BPE není primárně navrženo pro šifrování.",
-        "origin_text": "Kromě komprese, BPE může být také použit pro šifrování účely.",
-        "start": 114,
-        "end": 175
-      },
-      {
         "id": 2,
         "claim": "BPE nahrazuje často se vyskytující sekvence znaků novým symbolem.",
         "checkworthy": true,
@@ -3474,15 +2826,6 @@
         "end": 242
       },
       {
-        "id": 3,
-        "claim": "BPE může vytvořit šifrovací schéma obtížné pro outsidery dekódovat.",
-        "checkworthy": false,
-        "checkworthy_reason": "Idea použití BPE jako šifrovacího schématu je hypotetická a neospravedlňuje, že by to vytvořilo skutečně obtížné šifrovací schéma.",
-        "origin_text": "může vytvořit šifrovací schéma, které je obtížné pro outsidery dekódovat.",
-        "start": 243,
-        "end": 316
-      },
-      {
         "id": 4,
         "claim": "Mapování původního textu do kódované podoby se mění s každou iterací BPE algoritmu.",
         "checkworthy": true,
@@ -3490,15 +2833,6 @@
         "origin_text": "To je proto, že mapování původního textu do jeho kódované podobě změny s každým iterace BPE algoritmu,",
         "start": 317,
         "end": 419
-      },
-      {
-        "id": 5,
-        "claim": "BPE přidává prvek nahodilosti do šifrování.",
-        "checkworthy": false,
-        "checkworthy_reason": "Tvrzení spojuje BPE s šifrováním a nezmiňuje známou funkci, kterou by toto mělo v praktických aplikacích.",
-        "origin_text": "přidáním prvek nahodilosti do šifrování.",
-        "start": 420,
-        "end": 460
       },
       {
         "id": 6,
@@ -3526,15 +2860,6 @@
         "origin_text": "což usnadňuje a rychlejší přenos přes sítě.",
         "start": 569,
         "end": 612
-      },
-      {
-        "id": 9,
-        "claim": "BPE nabízí výhody z hlediska důvěrnosti, účinnosti a snížení využití dat.",
-        "checkworthy": false,
-        "checkworthy_reason": "Zatímco účinnost a snížení využití dat jsou ověřitelné, 'důvěrnost' je hypotetická ve kontextu použití BPE.",
-        "origin_text": "Celkově, BPE nabízí výhody z hlediska důvěrnosti, účinnosti, a snížení využití dat.",
-        "start": 613,
-        "end": 696
       }
     ]
   },
@@ -3678,15 +3003,6 @@
         "end": 171
       },
       {
-        "id": 4,
-        "claim": "Jmenování Parlamentního komisaře pro normy je nestranné.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje hodnocení 'nestrannost', což je subjektivní název, který nelze objektivně ověřit.",
-        "origin_text": "Jmenování je nestranné",
-        "start": 172,
-        "end": 194
-      },
-      {
         "id": 5,
         "claim": "Parlamentní komisař pro normy je nezávislý výkonem svých funkcí.",
         "checkworthy": true,
@@ -3773,15 +3089,6 @@
         "end": 331
       },
       {
-        "id": 8,
-        "claim": "Autonomní budovy poskytují bezpečné a udržitelné útočiště.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je subjektivní tvrzení, protože 'bezpečné' a 'udržitelné' mohou se lišit podle kontextu a není jednoznačně ověřitelné.",
-        "origin_text": "poskytovat bezpečné a udržitelné útočiště pro lidi uvnitř.",
-        "start": 332,
-        "end": 390
-      },
-      {
         "id": 9,
         "claim": "Soběstačné systémy mohou být odolnější vůči poškození.",
         "checkworthy": true,
@@ -3789,30 +3096,12 @@
         "origin_text": "Navíc, jejich soběstačné systémy mohou být odolnější vůči poškození způsobenému během útoku,",
         "start": 391,
         "end": 483
-      },
-      {
-        "id": 10,
-        "claim": "Obyvatelé autonomních budov mají bezpečnější výsledek.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je subjektivní tvrzení, protože 'bezpečnější výsledek' se může lišit podle různých kritérií a neexistuje jednoznačné ověření.",
-        "origin_text": "což vede k bezpečnějšímu výsledku pro obyvatele.",
-        "start": 484,
-        "end": 532
       }
     ]
   },
   {
     "source": "\"Více\" je populární křesťanská píseň, kterou napsal Matthew West. Podle výzkumu dosáhla číslo jedna na křesťanských rádiových grafech 15. srpna 2003 a udržela si svou pozici devět po sobě jdoucích týdnů.",
     "claims": [
-      {
-        "id": 0,
-        "claim": "\"Více\" je populární křesťanská píseň.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je subjektivní; 'populární' není konkrétní ani měřitelné bez dalšího kontextu.",
-        "origin_text": "\"Více\" je populární křesťanská píseň,",
-        "start": 0,
-        "end": 37
-      },
       {
         "id": 1,
         "claim": "Matthew West napsal píseň \"Více\".",
@@ -3855,15 +3144,6 @@
         "end": 99
       },
       {
-        "id": 1,
-        "claim": "Výrobní množství kašmíru se může značně lišit.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení vyjadřuje obecnou pravděpodobnost bez konkrétních dat nebo okolností, které by umožnily jeho objektivní ověření.",
-        "origin_text": "Výrobní množství se však může značně lišit",
-        "start": 100,
-        "end": 142
-      },
-      {
         "id": 2,
         "claim": "Povětrnostní podmínky ovlivňují výrobu kašmíru.",
         "checkworthy": true,
@@ -3871,39 +3151,12 @@
         "origin_text": "v závislosti na povětrnostních podmínkách",
         "start": 143,
         "end": 184
-      },
-      {
-        "id": 3,
-        "claim": "Další faktory ovlivňují výrobní množství kašmíru.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je obecné tvrzení bez specifikace těchto faktorů, což znemožňuje objektivní ověření.",
-        "origin_text": "a dalších faktorech.",
-        "start": 185,
-        "end": 205
       }
     ]
   },
   {
     "source": "\"Lawson\" je řetězec obchodů v Japonsku, podobně jako 7-Eleven nebo Family Mart. To bylo poprvé zřízeno v roce 1975 a od té doby vyrostl do velké sítě obchodů se nachází v celé zemi. Kromě potravin, Lawson obchody často nosí různé produkty, jako je občerstvení, nápoje, toaletní potřeby a další denní potřeby. Lawson také provozuje oddělení potravin, které nabízí čerstvě připravené jídlo a občerstvení pro zákazníky na cestách.",
     "claims": [
-      {
-        "id": 0,
-        "claim": "\"Lawson\" je řetězec obchodů v Japonsku.",
-        "checkworthy": false,
-        "checkworthy_reason": "No reason provided, please report issue.",
-        "origin_text": "\"Lawson\" je řetězec obchodů v Japonsku,",
-        "start": 0,
-        "end": 39
-      },
-      {
-        "id": 1,
-        "claim": "Řetězec podobně jako 7-Eleven nebo Family Mart.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok je nejasný a neposkytuje konkrétní faktickou informaci, kterou by se dalo ověřit; porovnávání obchodního řetězce s jinými není konkrétním tvrzením.",
-        "origin_text": "podobně jako 7-Eleven nebo Family Mart.",
-        "start": 40,
-        "end": 79
-      },
       {
         "id": 2,
         "claim": "Lawson bylo poprvé zřízeno v roce 1975.",
@@ -3923,15 +3176,6 @@
         "end": 181
       },
       {
-        "id": 4,
-        "claim": "Obchody Lawson často nosí potraviny.",
-        "checkworthy": false,
-        "checkworthy_reason": "Termín 'často' je subjektivní a nejasný, což ztěžuje jeho objektivní ověření; nabídka produktů se může lišit.",
-        "origin_text": "Kromě potravin,",
-        "start": 182,
-        "end": 197
-      },
-      {
         "id": 5,
         "claim": "Lawson obchody také nesou různé produkty jako je občerstvení, nápoje a toaletní potřeby.",
         "checkworthy": true,
@@ -3939,15 +3183,6 @@
         "origin_text": "Lawson obchody často nosí různé produkty, jako je občerstvení, nápoje, toaletní potřeby",
         "start": 198,
         "end": 285
-      },
-      {
-        "id": 6,
-        "claim": "Lawson nabízí další denní potřeby.",
-        "checkworthy": false,
-        "checkworthy_reason": "Termín 'další denní potřeby' je neurčitý a nekonkrétní, což ztěžuje objektivní ověření bez konkrétních příkladů.",
-        "origin_text": "a další denní potřeby.",
-        "start": 286,
-        "end": 308
       },
       {
         "id": 7,
@@ -3989,15 +3224,6 @@
         "origin_text": "Australský Grand Prix v roce 1932 byl závod motorsportu,",
         "start": 0,
         "end": 56
-      },
-      {
-        "id": 1,
-        "claim": "Závod se konal na okruhu Phillip Island Grand Prix Circuit ve Victorii v Austrálii.",
-        "checkworthy": false,
-        "checkworthy_reason": "I když je název okruhu ověřitelný, neexistuje historická záznamová podpora pro to, že by Phillip Island Grand Prix Circuit hostil Grand Prix v roce 1932.",
-        "origin_text": "který se konal na dirt tracku na okruhu Phillip Island Grand Prix Circuit ve Victorii v Austrálii.",
-        "start": 57,
-        "end": 155
       },
       {
         "id": 2,
@@ -4093,24 +3319,6 @@
         "origin_text": " protože preferují většinou slunné oblasti.",
         "start": 251,
         "end": 294
-      },
-      {
-        "id": 4,
-        "claim": "Divoké květiny by nikdy neměly být vytrženy nebo vykořeněny z divočiny.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje etickou doporučení a principy ochrany životního prostředí, které jsou subjektivní a nelze je ověřit.",
-        "origin_text": "Nicméně, je důležité si uvědomit, že divoké květiny by nikdy neměly být vytrženy nebo vykořeněny z divočiny",
-        "start": 295,
-        "end": 402
-      },
-      {
-        "id": 5,
-        "claim": "Divoké květiny by měly být užívány z dálky.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je další etická doporučení k ochraně divočiny, která jsou subjektivní a nelze je objektivně ověřit.",
-        "origin_text": "a měly by se těšit z dálky.",
-        "start": 403,
-        "end": 430
       }
     ]
   },
@@ -4197,15 +3405,6 @@
         "origin_text": "která poskytuje vycpávky",
         "start": 350,
         "end": 374
-      },
-      {
-        "id": 9,
-        "claim": "Vrstva pěny poskytuje úchop pro surfaře.",
-        "checkworthy": false,
-        "checkworthy_reason": "Zatímco vrstva pěny může přispívat k celkovému návrhu prkna, tvrzení o poskytování 'úchopu' je nejasné bez konkrétního mechanismu nebo materiálu, který by to explicitně dělal.",
-        "origin_text": "a úchop pro surfaře.",
-        "start": 375,
-        "end": 395
       }
     ]
   },
@@ -4238,15 +3437,6 @@
         "origin_text": "Název byl změněn na ministr pro potraviny, zemědělství a rybolov v roce 2001,",
         "start": 132,
         "end": 209
-      },
-      {
-        "id": 3,
-        "claim": "Nový název lépe odrážel širší odpovědnost ministerstva.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je subjektivní tvrzení o tom, co 'lépe' znamená a co představuje 'širší odpovědnost', což nelze objektivně ověřit.",
-        "origin_text": "aby lépe odrážel širší odpovědnost ministerstva.",
-        "start": 210,
-        "end": 258
       }
     ]
   },
@@ -4261,15 +3451,6 @@
         "origin_text": "Podle referenčního textu byli hlavními důvody, proč lidé bez domova mimo San Francisco odjeli do San Francisca, pro lepší povětrnostní podmínky,",
         "start": 0,
         "end": 144
-      },
-      {
-        "id": 1,
-        "claim": "Větší soucit a podpora obyvatel bez domova přitahovali lidi do San Francisca.",
-        "checkworthy": false,
-        "checkworthy_reason": "Tento výrok obsahuje subjektivní názor o 'soucitnosti' a 'podpoře', které nelze objektivně ověřit.",
-        "origin_text": "větší soucit a podporu obyvatel bez domova",
-        "start": 145,
-        "end": 187
       },
       {
         "id": 2,
@@ -4422,33 +3603,6 @@
     "source": "Autor navrhuje nový přístup k rozvoji AI, který upřednostňuje sladění systémů AI s lidskými hodnotami a cíli, a nikoli jen optimalizaci dané objektivní funkce. To zahrnuje začlenění zpětné vazby od lidí během celého procesu vývoje a zajištění toho, aby systém AI chápal lidské záměry a preference. Autor tvrdí, že tento přístup je nezbytný k řešení možných rizik, která představují systémy AI, a k zajištění toho, aby byly prospěšné pro lidstvo.",
     "claims": [
       {
-        "id": 0,
-        "claim": "Autor navrhuje nový přístup k rozvoji AI.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje subjektivní tvrzení o návrhu a nenabízí konkrétní ověřitelné detaily, které by bylo možné prověřit.",
-        "origin_text": "Autor navrhuje nový přístup k rozvoji AI,",
-        "start": 0,
-        "end": 41
-      },
-      {
-        "id": 1,
-        "claim": "Tento přístup upřednostňuje sladění systémů AI s lidskými hodnotami a cíli.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok uvádí obecné zaměření, ale neobsahuje konkrétní faktické prvky, které by mohly být ověřeny.",
-        "origin_text": "který upřednostňuje sladění systémů AI s lidskými hodnotami a cíli,",
-        "start": 42,
-        "end": 109
-      },
-      {
-        "id": 2,
-        "claim": "Nový přístup neoptimalizuje jen danou objektivní funkci.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je obecné a neposkytuje konkrétní detaily pro ověření, na rozdíl od specifických metod nebo modelů.",
-        "origin_text": "a nikoli jen optimalizaci dané objektivní funkce.",
-        "start": 110,
-        "end": 159
-      },
-      {
         "id": 3,
         "claim": "Přístup zahrnuje začlenění zpětné vazby od lidí během procesu vývoje.",
         "checkworthy": true,
@@ -4456,33 +3610,6 @@
         "origin_text": "To zahrnuje začlenění zpětné vazby od lidí během celého procesu vývoje",
         "start": 160,
         "end": 230
-      },
-      {
-        "id": 4,
-        "claim": "Systém AI by měl chápat lidské záměry a preference.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok vyjadřuje názor na to, co systém AI by měl být schopen udělat, ale nenabízí ověřitelnou metodu nebo fakta.",
-        "origin_text": "a zajištění toho, aby systém AI chápal lidské záměry a preference.",
-        "start": 231,
-        "end": 297
-      },
-      {
-        "id": 5,
-        "claim": "Autor tvrdí, že tento přístup je nezbytný k řešení možných rizik systémů AI.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení vyjadřuje názor na důležitost a nutnost určitého přístupu, ale nenabízí ověřitelné faktické podklady.",
-        "origin_text": "Autor tvrdí, že tento přístup je nezbytný k řešení možných rizik, která představují systémy AI,",
-        "start": 298,
-        "end": 393
-      },
-      {
-        "id": 6,
-        "claim": "Cílem je zajistit, aby systémy AI byly prospěšné pro lidstvo.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok uvádí obecnou cílovou vizi, ale neobsahuje konkrétní faktické prvky, které by mohly být ověřeny.",
-        "origin_text": "a k zajištění toho, aby byly prospěšné pro lidstvo.",
-        "start": 394,
-        "end": 445
       }
     ]
   },
@@ -4621,24 +3748,6 @@
         "end": 192
       },
       {
-        "id": 3,
-        "claim": "Zemědělství hrálo významnou roli v domestikaci skotu.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok je obecný a subjektivní, používá termín 'významnou', což nemusí být objektivně měřitelné.",
-        "origin_text": "Zemědělství hrálo významnou roli v domestikaci a chovu skotu,",
-        "start": 193,
-        "end": 254
-      },
-      {
-        "id": 4,
-        "claim": "Zemědělské postupy poskytovaly stabilní dodávky potravin pro rané lidské komunity.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok je všeobecný a používá nejasné termíny jako 'stabilní', které nelze přesně ověřit bez konkrétnějších důkazů.",
-        "origin_text": "protože zemědělské postupy poskytovaly stabilní dodávky potravin pro rané lidské komunity,",
-        "start": 255,
-        "end": 345
-      },
-      {
         "id": 5,
         "claim": "Lidské komunity chovaly a chovaly zvířata za účelem výroby mléka, masa a orání polí.",
         "checkworthy": true,
@@ -4696,15 +3805,6 @@
         "origin_text": "Nakonec, promíchejte směs",
         "start": 179,
         "end": 204
-      },
-      {
-        "id": 5,
-        "claim": "Užijte si svůj ledový matcha latte.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok vyjadřuje osobní vyzvání nebo doporučení, které je subjektivní a nelze jej objektivně ověřit.",
-        "origin_text": "a užijte si svůj ledový matcha latte!",
-        "start": 205,
-        "end": 242
       }
     ]
   },
@@ -4730,15 +3830,6 @@
         "end": 124
       },
       {
-        "id": 2,
-        "claim": "Je vyjádřen jako poměr.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok je příliš neurčitý bez konkrétního kontextu nebo referenčních informací o tom, co je 'vyjádřeno'.",
-        "origin_text": "Je vyjádřen jako poměr,",
-        "start": 125,
-        "end": 148
-      },
-      {
         "id": 3,
         "claim": "Vyšší čísla ukazují, že letadlo může cestovat dál.",
         "checkworthy": true,
@@ -4746,15 +3837,6 @@
         "origin_text": "s vyššími čísly ukazujícími, že letadlo může cestovat dále,",
         "start": 149,
         "end": 208
-      },
-      {
-        "id": 4,
-        "claim": "Letadlo ztrácí menší výšku.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok je příliš neurčitý bez konkrétního kontextu nebo specifikace srovnávací situace, která by umožnila ověření.",
-        "origin_text": "zatímco ztrácí menší výšku.",
-        "start": 209,
-        "end": 236
       }
     ]
   },
@@ -4771,42 +3853,6 @@
         "end": 87
       },
       {
-        "id": 1,
-        "claim": "Účelem použití modulů Terraform je vytvořit sdílené konfigurace.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok uvádí účel, který by mohl být interpretován jako sdílení nebo spolupráce prostřednictvím konfigurací. Nicméně, použití 'sdílených' zde není jasné a standardní dokumentace Terraform obvykle popisuje moduly v souvislosti s opakovaným použitím, nikoli sdílením.",
-        "origin_text": "které mohou být snadno řízeny, testovány a nasazeny.",
-        "start": 88,
-        "end": 140
-      },
-      {
-        "id": 2,
-        "claim": "Moduly Terraform umožňují snadné řízení.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje subjektivní hodnocení 'snadné', což nelze objektivně ověřit, protože závisí na individuálních zkušenostech uživatele.",
-        "origin_text": "Umožňují abstrakci zdrojů infrastruktury a pomáhají zjednodušit řízení",
-        "start": 141,
-        "end": 211
-      },
-      {
-        "id": 3,
-        "claim": "Moduly Terraform umožňují snadné testování.",
-        "checkworthy": false,
-        "checkworthy_reason": "Stejně jako v předchozím výroku, 'snadné' je subjektivní a neobjektivně ověřitelné hodnocení.",
-        "origin_text": "a škálování komplexních infrastruktur.",
-        "start": 212,
-        "end": 250
-      },
-      {
-        "id": 4,
-        "claim": "Moduly Terraform umožňují snadné nasazování.",
-        "checkworthy": false,
-        "checkworthy_reason": "Stejně jako u předchozích výroků, 'snadné' je subjektivní termín a není objektivně ověřitelné.",
-        "origin_text": "",
-        "start": 118,
-        "end": 118
-      },
-      {
         "id": 5,
         "claim": "Moduly Terraform umožňují abstrakci zdrojů infrastruktury.",
         "checkworthy": true,
@@ -4814,15 +3860,6 @@
         "origin_text": "testovány a nasazeny. Umožňují abstrakci zdrojů infrastruktury a pomáhají zjednodušit",
         "start": 119,
         "end": 204
-      },
-      {
-        "id": 6,
-        "claim": "Moduly Terraform pomáhají zjednodušit řízení komplexních infrastruktur.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje subjektivní termín 'zjednodušit', který nelze objektivně ověřit.",
-        "origin_text": "řízení a škálování komplexních infrastruktur.",
-        "start": 205,
-        "end": 250
       },
       {
         "id": 7,
@@ -4881,15 +3918,6 @@
         "checkworthy_reason": "Výrok uvádí konkrétní výkonnou roli, kterou lze ověřit prostřednictvím firemních organizačních struktur.",
         "origin_text": "finanční ředitel (šéf finanční ředitel),",
         "start": 133,
-        "end": 173
-      },
-      {
-        "id": 5,
-        "claim": "Finanční ředitel je také znám jako šéf finanční ředitel.",
-        "checkworthy": false,
-        "checkworthy_reason": "No reason provided, please report issue.",
-        "origin_text": "",
-        "start": 173,
         "end": 173
       },
       {
@@ -5106,24 +4134,6 @@
     "source": "1. Vyhodnocení a pochopení systému Legacy: Posouzení a pochopení stávající struktury, schémat a dat stávajícího systému datových skladů. 2.Vypracování migračního plánu: Vytvoření migračního plánu, který nastiňuje různé fáze migračního procesu, upřednostňuje migrační aktivity, identifikuje potenciální rizika a nastiňuje požadavky na zdroje pro každou fázi. 3. Data Extrakce a integrace: Získávání dat z původního systému a jejich začlenění do moderní architektury jezer. 4. Transformace a migrace dat: Transformace historických dat do moderního formátu, který je kompatibilní s novým prostředím pro lakehouse a ověřuje přesnost migrovaných dat. 5. Optimalizace a údržba: Neustálé jemné doladění nového prostředí Lakehouse sledováním kvality, výkonnosti a bezpečnosti dat, aby se zajistilo, že funguje při maximální optimalizaci a pravidelně se udržuje a zlepšuje.",
     "claims": [
       {
-        "id": 0,
-        "claim": "Posouzení stávající struktury systému Legacy je nezbytné.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je subjektivní a založeno na názoru o nutnosti, nikoli na ověřitelných faktech.",
-        "origin_text": "1. Vyhodnocení a pochopení systému Legacy: Posouzení a pochopení stávající struktury,",
-        "start": 0,
-        "end": 85
-      },
-      {
-        "id": 1,
-        "claim": "Pochopení schémat a dat stávajícího systému datových skladů je klíčové.",
-        "checkworthy": false,
-        "checkworthy_reason": "Zatímco se jedná o faktický proces, nedostatek konkrétnosti činí tvrzení neověřitelným bez kontextu.",
-        "origin_text": "schémat a dat stávajícího systému datových skladů.",
-        "start": 86,
-        "end": 136
-      },
-      {
         "id": 2,
         "claim": "Migrace vyžaduje migrační plán, který definuje různé fáze procesu.",
         "checkworthy": true,
@@ -5131,15 +4141,6 @@
         "origin_text": "2.Vypracování migračního plánu: Vytvoření migračního plánu, který nastiňuje různé fáze migračního procesu,",
         "start": 137,
         "end": 243
-      },
-      {
-        "id": 3,
-        "claim": "Plán musí upřednostňovat migrační aktivity a identifikovat potenciální rizika.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je obecné návrhové postupy, které nelze ověřit bez konkrétního kontextu nebo plánu.",
-        "origin_text": "upřednostňuje migrační aktivity, identifikuje potenciální rizika",
-        "start": 244,
-        "end": 308
       },
       {
         "id": 4,
@@ -5151,15 +4152,6 @@
         "end": 421
       },
       {
-        "id": 5,
-        "claim": "Moderní architektura jezera začleňuje extrahovaná data.",
-        "checkworthy": false,
-        "checkworthy_reason": "I když může být pravda, tato tvrzení jsou příliš obecná bez konkrétního kontextu nebo příkladu.",
-        "origin_text": "a jejich začlenění do moderní architektury jezer.",
-        "start": 422,
-        "end": 471
-      },
-      {
         "id": 6,
         "claim": "Historická data jsou transformována do kompatibilního formátu s Lakehouse.",
         "checkworthy": true,
@@ -5169,24 +4161,6 @@
         "end": 609
       },
       {
-        "id": 7,
-        "claim": "Přesnost migrovaných dat musí být ověřena.",
-        "checkworthy": false,
-        "checkworthy_reason": "I když je to standardní postup, nedostatek konkrétního kontextu činí tvrzení neověřitelným.",
-        "origin_text": "a ověřuje přesnost migrovaných dat.",
-        "start": 610,
-        "end": 645
-      },
-      {
-        "id": 8,
-        "claim": "Nové prostředí Lakehouse vyžaduje neustálé jemné doladění.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je obecné návrhové postupy, které jsou subjektivní a nelze ověřit bez konkrétního kontextu.",
-        "origin_text": "5. Optimalizace a údržba: Neustálé jemné doladění nového prostředí Lakehouse",
-        "start": 646,
-        "end": 722
-      },
-      {
         "id": 9,
         "claim": "Kvalita, výkonnost a bezpečnost dat jsou sledovány pro optimální funkci.",
         "checkworthy": true,
@@ -5194,15 +4168,6 @@
         "origin_text": "sledováním kvality, výkonnosti a bezpečnosti dat, aby se zajistilo, že funguje při maximální optimalizaci",
         "start": 723,
         "end": 828
-      },
-      {
-        "id": 10,
-        "claim": "Optimalizace nového prostředí Lakehouse je klíčová pro jeho úspěch.",
-        "checkworthy": false,
-        "checkworthy_reason": "I když je to přijatelná myšlenka, zůstává obecnou názorovou tvrzením bez konkrétního kontextu.",
-        "origin_text": "",
-        "start": 0,
-        "end": 0
       },
       {
         "id": 11,
@@ -5346,24 +4311,6 @@
     "source": "Chcete-li najít nejlepší interiérové dekoratéry a nejlepší cenu, můžete sledovat tyto kroky: 1. Výzkum: Výzkum on-line najít interiérové dekoratéry ve vaší oblasti. Podívejte se na jejich portfolia, hodnocení zákazníků a hodnocení. 2. Shortlist: Shortlist několik dekoratéři založené na jejich práci, zkušenosti, a recenze. 3. Rozpočet: Určete svůj rozpočet pro projekt a prodiskutujte totéž s každým interiérovým dekoratérem. 4. Porovnat: Porovnejte citace a služby nabízené každým interiérovým dekoratérem. 5. Vyberte: Vyberte si nejlepší interiérový dekoratér, který vyhovuje vašemu stylu, potřebám a rozpočtu.",
     "claims": [
       {
-        "id": 0,
-        "claim": "Chcete-li najít nejlepší interiérové dekoratéry a nejlepší cenu.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje subjektivní hodnocení o čem je 'nejlepší', což nelze objektivně ověřit bez konkrétních kritérií.",
-        "origin_text": "Chcete-li najít nejlepší interiérové dekoratéry a nejlepší cenu,",
-        "start": 0,
-        "end": 64
-      },
-      {
-        "id": 1,
-        "claim": "Výzkum online najděte interiérové dekoratéry ve vaší oblasti.",
-        "checkworthy": false,
-        "checkworthy_reason": "Instrukce neobsahuje specifickou faktickou informaci o jednotlivých osobách nebo podnikatelích.",
-        "origin_text": "můžete sledovat tyto kroky: 1. Výzkum: Výzkum on-line najít interiérové dekoratéry ve vaší oblasti.",
-        "start": 65,
-        "end": 164
-      },
-      {
         "id": 2,
         "claim": "Podívejte se na portfolia, hodnocení zákazníků a hodnocení interiérových dekoratérů.",
         "checkworthy": true,
@@ -5373,15 +4320,6 @@
         "end": 231
       },
       {
-        "id": 3,
-        "claim": "Shortlistujte několik interiérových dekoratérů.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje akční pokyn bez faktických informací k ověření.",
-        "origin_text": "2. Shortlist: Shortlist několik dekoratéři",
-        "start": 232,
-        "end": 274
-      },
-      {
         "id": 4,
         "claim": "Budete shortlistovat interiérové dekoratéry na základě jejich práce, zkušeností a recenzí.",
         "checkworthy": true,
@@ -5389,24 +4327,6 @@
         "origin_text": "založené na jejich práci, zkušenosti, a recenze.",
         "start": 275,
         "end": 323
-      },
-      {
-        "id": 5,
-        "claim": "Určete rozpočet pro projekt.",
-        "checkworthy": false,
-        "checkworthy_reason": "Instrukce neobsahuje specifickou faktickou informaci.",
-        "origin_text": "3. Rozpočet: Určete svůj rozpočet pro projekt",
-        "start": 324,
-        "end": 369
-      },
-      {
-        "id": 6,
-        "claim": "Prodiskutujte svůj rozpočet s každým interiérovým dekoratérem.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje akci bez konkrétních faktických informací k ověření.",
-        "origin_text": "a prodiskutujte totéž s každým interiérovým dekoratérem.",
-        "start": 370,
-        "end": 426
       },
       {
         "id": 7,
@@ -5425,24 +4345,6 @@
         "origin_text": "a služby nabízené každým interiérovým dekoratérem.",
         "start": 458,
         "end": 508
-      },
-      {
-        "id": 9,
-        "claim": "Vyberte nejlepšího interiérového dekoratéra.",
-        "checkworthy": false,
-        "checkworthy_reason": "Subjektivní hodnocení 'nejlepší' bez konkrétních kritérií pro ověření.",
-        "origin_text": "5. Vyberte: Vyberte si nejlepší interiérový dekoratér,",
-        "start": 509,
-        "end": 563
-      },
-      {
-        "id": 10,
-        "claim": "Výběr by měl být založen na stylu, potřebám a rozpočtu.",
-        "checkworthy": false,
-        "checkworthy_reason": "No reason provided, please report issue.",
-        "origin_text": "který vyhovuje vašemu stylu, potřebám a rozpočtu.",
-        "start": 564,
-        "end": 613
       }
     ]
   },
@@ -5552,30 +4454,12 @@
         "origin_text": "",
         "start": 202,
         "end": 202
-      },
-      {
-        "id": 6,
-        "claim": "Mexiko je oblíbená země v Jižní Americe.",
-        "checkworthy": false,
-        "checkworthy_reason": "I když 'Mexiko' a 'Jižní Amerika' jsou konkrétní, tvrzení je fakticky nesprávné, jelikož Mexiko není ve Jižní Americe.",
-        "origin_text": "a Mexiko.",
-        "start": 203,
-        "end": 212
       }
     ]
   },
   {
     "source": "Láska je komplexní a hluboké citové pouto, které zahrnuje několik aspektů, jako je závazek, intimita, vášeň a péče. Náklonnost, na druhé straně, je pocit vřelosti, náklonnosti, a líbí k někomu nebo něco. Zatímco láska je širší a hlubší emocionální spojení, náklonnost je obvykle mírnější vyjádření náklonnosti nebo náklonnosti.",
     "claims": [
-      {
-        "id": 0,
-        "claim": "Láska je komplexní a hluboké citové pouto.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok vyjadřuje názor na povahu lásky, který je subjektivní a nelze jej ověřit.",
-        "origin_text": "Láska je komplexní a hluboké citové pouto,",
-        "start": 0,
-        "end": 42
-      },
       {
         "id": 1,
         "claim": "Láska zahrnuje závazek, intimitu, vášeň a péči.",
@@ -5602,24 +4486,6 @@
         "origin_text": "a líbí k někomu nebo něco.",
         "start": 177,
         "end": 203
-      },
-      {
-        "id": 4,
-        "claim": "Láska je širší emocionální spojení než náklonnost.",
-        "checkworthy": false,
-        "checkworthy_reason": "I když lze tuto obecnou tvrzenku diskutovat, obsahuje subjektivní hodnocení rozdílu mezi láskou a náklonností.",
-        "origin_text": "Zatímco láska je širší a hlubší emocionální spojení,",
-        "start": 204,
-        "end": 256
-      },
-      {
-        "id": 5,
-        "claim": "Náklonnost je mírnější vyjádření náklonnosti.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení obsahuje logické opakování, které poskytuje přehled o povaze náklonnosti, ale nenabízí ověřitelný fakt.",
-        "origin_text": "náklonnost je obvykle mírnější vyjádření náklonnosti nebo náklonnosti.",
-        "start": 257,
-        "end": 327
       }
     ]
   },
@@ -5809,15 +4675,6 @@
     "source": "C# je moderní, multiparadigm programovací jazyk vyvinutý společností Microsoft jako součást platformy .NET. Je navržen tak, aby byl jednoduchý, výkonný, a objektově orientovaný, s funkcemi, jako je bezpečnost typu, sběr odpadu, a zjednodušené a efektivní správu paměti. C# může být použit pro různé účely, včetně webové a mobilní aplikace vývoj, vývoj hry, a desktop aplikace.",
     "claims": [
       {
-        "id": 0,
-        "claim": "C# je moderní programovací jazyk.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje subjektivní hodnocení 'moderní' bez konkrétních kritérií nebo dat, která by umožnila objektivní ověření.",
-        "origin_text": "C# je moderní, multiparadigm programovací jazyk vyvinutý společností Microsoft jako součást platformy .NET.",
-        "start": 0,
-        "end": 107
-      },
-      {
         "id": 1,
         "claim": "C# je multiparadigm programovací jazyk.",
         "checkworthy": true,
@@ -5834,24 +4691,6 @@
         "origin_text": "vyvinutý společností Microsoft jako součást platformy .NET.",
         "start": 48,
         "end": 107
-      },
-      {
-        "id": 3,
-        "claim": "C# byl navržen tak, aby byl jednoduchý.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje subjektivní hodnocení 'jednoduchý' bez konkrétních kritérií nebo návrhových cílů podložených důkazy, které by umožnily objektivní ověření.",
-        "origin_text": "Je navržen tak, aby byl jednoduchý,",
-        "start": 108,
-        "end": 143
-      },
-      {
-        "id": 4,
-        "claim": "C# byl navržen tak, aby byl výkonný.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje subjektivní hodnocení 'výkonný' bez konkrétních metrik nebo kritérií, která by umožnila objektivní ověření.",
-        "origin_text": "výkonný,",
-        "start": 144,
-        "end": 152
       },
       {
         "id": 5,
@@ -5879,15 +4718,6 @@
         "origin_text": "sběr odpadu,",
         "start": 215,
         "end": 227
-      },
-      {
-        "id": 8,
-        "claim": "C# zjednodušuje a efektivizuje správu paměti.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok obsahuje subjektivní hodnocení 'zjednodušuje' a 'efektivizuje', které nelze objektivně ověřit bez konkrétních měr nebo údajů.",
-        "origin_text": "a zjednodušené a efektivní správu paměti.",
-        "start": 228,
-        "end": 269
       },
       {
         "id": 9,
@@ -5931,15 +4761,6 @@
     "source": "Linux nemusí nutně \"selhat\" jako desktop, ale jeho přijetí bylo relativně omezené ve srovnání s jinými operačními systémy, jako jsou Windows a macOS. Některé důvody k tomu patří: 1. Nedostatek známého softwaru: Mnoho populárních aplikací používaných na Windows nebo Mac nejsou k dispozici na Linuxu nebo mají omezené funkčnosti. 2. Obtížnost pro začátečníky: Linux může být obtížnější použít pro začátečníky ve srovnání s jinými operačními systémy. 3. Hardwarová kompatibilita: Hardwarové ovladače pro určitá zařízení nemusí být k dispozici na Linuxu, takže je obtížnější dostat vše správně nastavené. 4. Fragmentace: Různé dostupné distribuce mohou znesnadnit komunitu zaměřit se na jedinou spolehlivou možnost. Nicméně, Linux má silnou přítomnost na trhu podniku a serveru díky své stabilitě, škálovatelnosti a bezpečnosti.",
     "claims": [
       {
-        "id": 0,
-        "claim": "Linux nemusí nutně selhat jako desktop.",
-        "checkworthy": false,
-        "checkworthy_reason": "Výrok je subjektivní, protože selhání je názorové a závisí na osobních kritériích.",
-        "origin_text": "Linux nemusí nutně \"selhat\" jako desktop,",
-        "start": 0,
-        "end": 41
-      },
-      {
         "id": 1,
         "claim": "Přijetí Linuxu bylo relativně omezené ve srovnání s Windows a macOS.",
         "checkworthy": true,
@@ -5947,15 +4768,6 @@
         "origin_text": "ale jeho přijetí bylo relativně omezené ve srovnání s jinými operačními systémy, jako jsou Windows a macOS.",
         "start": 42,
         "end": 149
-      },
-      {
-        "id": 2,
-        "claim": "Nedostatek známého softwaru přispívá k omezenému přijetí Linuxu.",
-        "checkworthy": false,
-        "checkworthy_reason": "Zatímco to naznačuje faktickou situaci, výrok je založen na interpretaci příčin a následků, což činí subjektivním.",
-        "origin_text": "Některé důvody k tomu patří: 1. Nedostatek známého softwaru:",
-        "start": 150,
-        "end": 210
       },
       {
         "id": 3,
@@ -5967,15 +4779,6 @@
         "end": 328
       },
       {
-        "id": 4,
-        "claim": "Linux může být obtížnější použít pro začátečníky ve srovnání s jinými operačními systémy.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je subjektivní tvrzení založené na názoru a může se lišit podle jednotlivců.",
-        "origin_text": "2. Obtížnost pro začátečníky: Linux může být obtížnější použít pro začátečníky ve srovnání s jinými operačními systémy.",
-        "start": 329,
-        "end": 448
-      },
-      {
         "id": 5,
         "claim": "Hardwarové ovladače pro určitá zařízení nemusí být k dispozici na Linuxu.",
         "checkworthy": true,
@@ -5985,24 +4788,6 @@
         "end": 551
       },
       {
-        "id": 6,
-        "claim": "Dostupnost hardwarových ovladačů může komplikovat nastavení Linuxu.",
-        "checkworthy": false,
-        "checkworthy_reason": "Zatímco výrok naznačuje faktickou situaci, vztah mezi dostupností a komplikacemi je interpretativní.",
-        "origin_text": "takže je obtížnější dostat vše správně nastavené.",
-        "start": 552,
-        "end": 601
-      },
-      {
-        "id": 7,
-        "claim": "Fragmentace distribucí může znesnadnit zaměření komunity na jednu spolehlivou možnost.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení zahrnuje subjektivní posudek o vlivu fragmentace.",
-        "origin_text": "4. Fragmentace: Různé dostupné distribuce mohou znesnadnit komunitu zaměřit se na jedinou spolehlivou možnost.",
-        "start": 602,
-        "end": 712
-      },
-      {
         "id": 8,
         "claim": "Linux má silnou přítomnost na trhu podniku a serveru.",
         "checkworthy": true,
@@ -6010,15 +4795,6 @@
         "origin_text": "Nicméně, Linux má silnou přítomnost na trhu podniku a serveru",
         "start": 713,
         "end": 774
-      },
-      {
-        "id": 9,
-        "claim": "Stabilita, škálovatelnost a bezpečnost Linuxu přispívají k jeho popularitě na trhu podniků.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je interpretativní tvrzení o příčinách a následcích popularity, což ztěžuje objektivní ověření.",
-        "origin_text": "díky své stabilitě, škálovatelnosti a bezpečnosti.",
-        "start": 775,
-        "end": 825
       }
     ]
   },
@@ -6135,42 +4911,6 @@
     "source": "Při práci s malým datovým souborem pro předpovídání je důležité zvolit model, který je vhodný pro data a vyhnout se nadměrnému vybavení. Zvažte použití metod, jako jsou pohyblivé průměry, exponenciální vyhlazování nebo modely ARIMA. Také se snažte shromáždit další informace nebo vnější faktory, které by mohly ovlivnit proměnnou, která je prognózována. To lze provést prostřednictvím odborného úsudku, veřejných zdrojů dat nebo mikrosledků. Nakonec vyhodnoťte přesnost modelu pomocí vhodných metrik a podle potřeby se upravte.",
     "claims": [
       {
-        "id": 0,
-        "claim": "Při práci s malým datovým souborem je důležité zvolit vhodný model pro data.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení představuje obecnou radu o procesech v analýze dat, která nejsou konkrétně ověřitelná jako faktická.",
-        "origin_text": "Při práci s malým datovým souborem pro předpovídání je důležité zvolit model, který je vhodný pro data",
-        "start": 0,
-        "end": 102
-      },
-      {
-        "id": 1,
-        "claim": "Vyhněte se nadměrnému vybavení při práci s malým datovým souborem.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je strategická rada, která nelze objektivně ověřit jako faktická, protože závisí na interpretaci situace.",
-        "origin_text": "a vyhnout se nadměrnému vybavení.",
-        "start": 103,
-        "end": 136
-      },
-      {
-        "id": 2,
-        "claim": "Zvažte použití metod, jako jsou pohyblivé průměry.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je rada ohledně možností analytických technik a nelze ji ověřit konkrétně fakticky.",
-        "origin_text": "Zvažte použití metod, jako jsou pohyblivé průměry",
-        "start": 137,
-        "end": 186
-      },
-      {
-        "id": 3,
-        "claim": "Zvažte použití exponenciálního vyhlazování pro předpovídání malých datových sad.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení nabízí možnost, ale neobsahuje ověřitelné faktické informace.",
-        "origin_text": " exponenciální vyhlazování nebo modely ARIMA.",
-        "start": 187,
-        "end": 232
-      },
-      {
         "id": 4,
         "claim": "Modely ARIMA lze zvážit pro předpovídání malých datových sad.",
         "checkworthy": true,
@@ -6178,33 +4918,6 @@
         "origin_text": "",
         "start": 136,
         "end": 136
-      },
-      {
-        "id": 5,
-        "claim": "Shromáždění dalších informací může ovlivnit prognózu proměnné.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto tvrzení je obecnou myšlenkou o vlivu dat na analýzu a nelze jej ověřit konkrétně fakticky.",
-        "origin_text": "Zvažte použití metod, jako jsou pohyblivé průměry, exponenciální vyhlazování nebo modely ARIMA. Také se snažte shromáždit další informace nebo vnější faktory, které by mohly ovlivnit proměnnou, která je prognózována.",
-        "start": 137,
-        "end": 353
-      },
-      {
-        "id": 6,
-        "claim": "Vnější faktory mohou ovlivnit proměnnou, která je prognózována.",
-        "checkworthy": false,
-        "checkworthy_reason": "I když to je obecná pravda v analýze dat, není specifické a konkrétní pro ověření.",
-        "origin_text": "",
-        "start": 0,
-        "end": 0
-      },
-      {
-        "id": 7,
-        "claim": "Odborný úsudek může pomoci shromáždit informace pro předpověď.",
-        "checkworthy": false,
-        "checkworthy_reason": "Toto je subjektivní názor na roli odborného hodnocení v analýze dat a nelze jej ověřit fakticky.",
-        "origin_text": "ři práci s malým datovým souborem pro předpovídání je důležité zvolit model, který je vhodný pro data a vyhnout se nadměrnému vybavení. Zvažte použití metod, jako jsou pohyblivé průměry, exponenciální vyhlazování nebo modely ARIMA. Také se snažte shromáždit další informace nebo vnější faktory, které by mohly ovlivnit proměnnou, která je prognózována. To lze provést prostřednictvím odborného úsudku,",
-        "start": 1,
-        "end": 402
       },
       {
         "id": 8,
@@ -6216,15 +4929,6 @@
         "end": 441
       },
       {
-        "id": 9,
-        "claim": "Mikrosledky mohou být použity k shromažďování informací o proměnné.",
-        "checkworthy": false,
-        "checkworthy_reason": "Zatímco to je možnost, není specifická nebo konkrétní pro ověření bez dalších kontextových detailů.",
-        "origin_text": "",
-        "start": 0,
-        "end": 0
-      },
-      {
         "id": 10,
         "claim": "Přesnost modelu by měla být vyhodnocena pomocí vhodných metrik.",
         "checkworthy": true,
@@ -6232,15 +4936,6 @@
         "origin_text": "ři práci s malým datovým souborem pro předpovídání je důležité zvolit model, který je vhodný pro data a vyhnout se nadměrnému vybavení. Zvažte použití metod, jako jsou pohyblivé průměry, exponenciální vyhlazování nebo modely ARIMA. Také se snažte shromáždit další informace nebo vnější faktory, které by mohly ovlivnit proměnnou, která je prognózována. To lze provést prostřednictvím odborného úsudku, veřejných zdrojů dat nebo mikrosledků. Nakonec vyhodnoťte přesnost modelu pomocí vhodných metrik",
         "start": 1,
         "end": 499
-      },
-      {
-        "id": 11,
-        "claim": "Model lze upravit podle potřeby na základě jeho přesnosti.",
-        "checkworthy": false,
-        "checkworthy_reason": "To je obecné doporučení o procesu modelování a není konkrétně ověřitelné bez dalších kontextů.",
-        "origin_text": "a podle potřeby se upravte.",
-        "start": 500,
-        "end": 527
       }
     ]
   },
@@ -6282,15 +4977,6 @@
         "origin_text": "",
         "start": 163,
         "end": 163
-      },
-      {
-        "id": 4,
-        "claim": "ICD-9 klasifikuje lékařské postupy.",
-        "checkworthy": false,
-        "checkworthy_reason": "Izolovaně z hlediska historie a struktury ICD-9 tato tvrzení neodpovídá jeho primárním funkcím; přestože může být součástí širší klasifikace, toto specifické tvrzení je přesnější pro systémy jako ICD-10-CM.",
-        "origin_text": "a lékařských postupů pro účely úhrady.",
-        "start": 164,
-        "end": 202
       }
     ]
   },
@@ -6413,15 +5099,6 @@
         "origin_text": "Delta Machine,",
         "start": 238,
         "end": 252
-      },
-      {
-        "id": 13,
-        "claim": "Spirit je alba Depeche Mode.",
-        "checkworthy": false,
-        "checkworthy_reason": "Chybná gramatika: \"alba\" by mělo být singular \"album\", ale to neovlivňuje faktickou ověřitelnost, protože výrok obsahuje ověřitelné informace o albu Depeche Mode.",
-        "origin_text": "and Spirit.",
-        "start": 253,
-        "end": 264
       }
     ]
   },
