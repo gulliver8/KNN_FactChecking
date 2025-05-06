@@ -1,0 +1,2362 @@
+[{
+    "source": "... pokud chci mit data v bezpeci, tak jedine je mit sifrovana a na Linuxu.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Data security requires encryption.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a factual claim about an aspect of data security that can be investigated and analyzed through cybersecurity research and expert opinion.)",
+            "origin_text": "... pokud chci mit data v bezpeci, tak jedine je mit sifrovana",
+            "start": 0,
+            "end": 62
+        },
+        {
+            "id": 1,
+            "claim": "Linux is suitable for secure data.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement lacks specificity and clarity regarding what aspects or implementations make Linux suitable, thus it leans more towards being an opinion rather than a verifiable fact.)",
+            "origin_text": "a na Linuxu.",
+            "start": 63,
+            "end": 75
+        }
+    ]
+},{
+    "source": "A kde je zm\u00ednka o antivirotik\u00e1ch typu Isoprinosin a Ivermectin?",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Isoprinosin is mentioned as an antiviral.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement asserts a factual claim about the classification or use of Isoprinosin that can be verified through scientific literature and medical sources.)",
+            "origin_text": "A kde je zm\u00ednka o antivirotik\u00e1ch typu Isoprinosin",
+            "start": 0,
+            "end": 49
+        },
+        {
+            "id": 1,
+            "claim": "Ivermectin is mentioned as an antiviral.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a verifiable factual claim regarding Ivermectin's classification or use, which can be checked against pharmacological data and research studies.)",
+            "origin_text": "a Ivermectin?",
+            "start": 50,
+            "end": 63
+        }
+    ]
+},{
+    "source": "A mysl\u00edte, \u017ee v Linuxu nen\u00ed jen na okrasu? Jakmile m\u00e1te fyzick\u00fd p\u0159\u00edstup k po\u010d\u00edta\u010di, tak jde nastavit rootovsk\u00e9 heslo tak\u00e9. Proto se servery zamykaj\u00ed.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Linux is not just for decoration.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is an opinion or metaphorical expression and does not present verifiable factual information.)",
+            "origin_text": "A mysl\u00edte, \u017ee v Linuxu nen\u00ed jen na okrasu?",
+            "start": 0,
+            "end": 42
+        },
+        {
+            "id": 1,
+            "claim": "With physical access to a computer, it's possible to set the root password.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement contains a technical claim that can be objectively verified by testing if setting the root password is feasible with physical access.)",
+            "origin_text": "Jakmile m\u00e1te fyzick\u00fd p\u0159\u00edstup k po\u010d\u00edta\u010di, tak jde nastavit rootovsk\u00e9 heslo tak\u00e9.",
+            "start": 43,
+            "end": 122
+        },
+        {
+            "id": 2,
+            "claim": "Servers lock.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is too vague and lacks specificity regarding what 'lock' means or under which conditions servers might lock, making it not directly verifiable without additional context.)",
+            "origin_text": "Proto se servery zamykaj\u00ed.",
+            "start": 123,
+            "end": 149
+        }
+    ]
+},{
+    "source": "A pen\u00edze na ty dotace si tisknou? Dotace na elektromobilitu funguj\u00ed jen dokud je elektromobilita minoritn\u00ed z\u00e1le\u017eitost\u00ed.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Some people print money from subsidies.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains a factual claim that can be investigated: whether individuals or entities have been involved in illicit activities related to subsidies, such as fraudulently creating or manipulating funds.)",
+            "origin_text": "A pen\u00edze na ty dotace si tisknou?",
+            "start": 0,
+            "end": 33
+        },
+        {
+            "id": 1,
+            "claim": "Subsidies for electromobility work when it is a minority interest.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is vague and subjective; 'work' in this context is not clearly defined, nor is the impact of being a 'minority interest,' making it an opinion rather than a verifiable fact.)",
+            "origin_text": "Dotace na elektromobilitu funguj\u00ed jen dokud je elektromobilita minoritn\u00ed z\u00e1le\u017eitost\u00ed.",
+            "start": 34,
+            "end": 119
+        }
+    ]
+},{
+    "source": "A zapomn\u011bli jste na variantu, \u017ee je disk \u0161ifrovan\u00fd Bitlockerem a vy nev\u00edte heslo. To u\u017e takhle jednodu\u0161e nejde. Proto je ve v\u011bt\u0161in\u011b firemn\u00edch politik vy\u017eadov\u00e1no \u0161ifrov\u00e1n\u00ed disku.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "There is a version where the disk is encrypted with BitLocker.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement asserts a factual scenario about the presence of BitLocker encryption on a disk, which can be verified by checking if such an encryption exists.)",
+            "origin_text": "A zapomn\u011bli jste na variantu, \u017ee je disk \u0161ifrovan\u00fd Bitlockerem",
+            "start": 0,
+            "end": 62
+        },
+        {
+            "id": 1,
+            "claim": "The password for the BitLocker encryption is unknown.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (Without specifying whose or what specific BitLocker encryption's password is unknown, this statement lacks specificity and cannot be objectively verified.)",
+            "origin_text": "a vy nev\u00edte heslo.",
+            "start": 63,
+            "end": 81
+        },
+        {
+            "id": 2,
+            "claim": "Without knowing the password, it cannot be easily accessed.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains a factual claim about the accessibility of an encrypted disk without the correct password, which can be evaluated based on how BitLocker operates.)",
+            "origin_text": "To u\u017e takhle jednodu\u0161e nejde.",
+            "start": 82,
+            "end": 111
+        },
+        {
+            "id": 3,
+            "claim": "Most corporate policies require disk encryption.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement makes a general factual claim about corporate security practices that can be investigated through surveys or policy analyses within companies.)",
+            "origin_text": "Proto je ve v\u011bt\u0161in\u011b firemn\u00edch politik vy\u017eadov\u00e1no \u0161ifrov\u00e1n\u00ed disku.",
+            "start": 112,
+            "end": 177
+        }
+    ]
+},{
+    "source": "Ale kecy, EURO 6 plat\u00ed od 1.1.2015, to znamen\u00e1, \u017ee 5 let star\u00e9 auto mus\u00ed spl\u0148ovat EURO 6",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Euro 6 regulation is applicable from 1.1.2015.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement asserts a specific date for the applicability of Euro 6 regulations, which can be verified through official regulatory documents or historical records.)",
+            "origin_text": "Ale kecy, EURO 6 plat\u00ed od 1.1.2015,",
+            "start": 0,
+            "end": 35
+        },
+        {
+            "id": 1,
+            "claim": "Cars five years old must comply with Euro 6.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement lacks clarity on whether it refers to new cars or existing ones and does not specify a jurisdiction, making it unverifiable without additional context.)",
+            "origin_text": "to znamen\u00e1, \u017ee 5 let star\u00e9 auto mus\u00ed spl\u0148ovat EURO 6",
+            "start": 36,
+            "end": 88
+        }
+    ]
+},{
+    "source": "Ani prihlasovani pomoci uctu Microsoftu neni extra bezpecny, stale plati, ze si taky mohu povolit ucet Administrator a pres nej se k souborum uzivatelu dostat, proto pokud chci mit data v bezpeci, tak jedine je mit sifrovana.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Logging in with a Microsoft account is not extra secure.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement asserts a factual claim about the security level of using a Microsoft account, which can be investigated by reviewing security features and expert analysis.)",
+            "origin_text": "Ani prihlasovani pomoci uctu Microsoftu neni extra bezpecny,",
+            "start": 0,
+            "end": 60
+        },
+        {
+            "id": 1,
+            "claim": "It's still possible to create an Administrator account to access user files.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement makes a verifiable factual claim regarding the ability to create an administrator account on a system for accessing files; this can be checked through technical documentation or practical testing.)",
+            "origin_text": "stale plati, ze si taky mohu povolit ucet Administrator a pres nej se k souborum uzivatelu dostat,",
+            "start": 61,
+            "end": 159
+        },
+        {
+            "id": 2,
+            "claim": "To keep data secure, it must be encrypted.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is more of a general guideline than a factual assertion that can be verified. Encryption is one method among many for securing data and saying 'it must be' implies an opinion on best practices rather than an objective fact.)",
+            "origin_text": "proto pokud chci mit data v bezpeci, tak jedine je mit sifrovana.",
+            "start": 160,
+            "end": 225
+        }
+    ]
+},{
+    "source": "Ano, to samoz\u0159ejm\u011b lze. Ale pokud by na silnic\u00edch z\u016fstala p\u0159ev\u00e1\u017en\u011b osobn\u00ed doprava, tak \u00fadr\u017eba bude st\u00e1t 5-10% toho, co dnes.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Silnice can be used primarily for personal transportation.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains a factual claim about the primary use of 'silnice,' which can be investigated using sources like traffic regulations or transportation planning documents.)",
+            "origin_text": "Ano, to samoz\u0159ejm\u011b lze.",
+            "start": 0,
+            "end": 23
+        },
+        {
+            "id": 1,
+            "claim": "If silnice are mainly for personal transportation, maintenance costs will rise by 5-10% of current costs.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a hypothetical scenario with conditional logic and lacks specific context or data to verify the predicted impact on maintenance costs.)",
+            "origin_text": "Ale pokud by na silnic\u00edch z\u016fstala p\u0159ev\u00e1\u017en\u011b osobn\u00ed doprava, tak \u00fadr\u017eba bude st\u00e1t 5-10% toho, co dnes.",
+            "start": 24,
+            "end": 124
+        }
+    ]
+},{
+    "source": "BTW: v\u011bt\u0161ina ob\u011bt\u00ed \u0160pan\u011blsk\u00e9 ch\u0159ipky zahynula pr\u00e1v\u011b na extr\u00e9mn\u011b silnou reakci imunitn\u00edho syst\u00e9mu. Kdyby tehdy lidstvo znalo kortikoidy a byly dostupn\u00e9, tak by ob\u011bti \u0160pan\u011blsk\u00e9 ch\u0159ipky byly v\u00fdrazn\u011b ni\u017e\u0161\u00ed.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "V\u011bt\u0161ina ob\u011bt\u00ed \u0160pan\u011blsk\u00e9 ch\u0159ipky zahynula na silnou reakci imunitn\u00edho syst\u00e9mu.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement makes a specific claim about the cause of death for the majority of victims of the Spanish Flu, which is a historical fact that can be investigated.)",
+            "origin_text": "BTW: v\u011bt\u0161ina ob\u011bt\u00ed \u0160pan\u011blsk\u00e9 ch\u0159ipky zahynula pr\u00e1v\u011b na extr\u00e9mn\u011b silnou reakci imunitn\u00edho syst\u00e9mu.",
+            "start": 0,
+            "end": 97
+        },
+        {
+            "id": 1,
+            "claim": "Kortikoidy by sn\u00ed\u017eily po\u010det ob\u011bt\u00ed \u0160pan\u011blsk\u00e9 ch\u0159ipky, kdyby byly zn\u00e1my a dostupn\u00e9.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement posits a hypothetical scenario based on historical knowledge about corticosteroids and their potential impact during the Spanish Flu pandemic, which is verifiable through medical history research.)",
+            "origin_text": "Kdyby tehdy lidstvo znalo kortikoidy a byly dostupn\u00e9, tak by ob\u011bti \u0160pan\u011blsk\u00e9 ch\u0159ipky byly v\u00fdrazn\u011b ni\u017e\u0161\u00ed.",
+            "start": 98,
+            "end": 202
+        }
+    ]
+},{
+    "source": "Brzdy a pneumatiky vypust\u00ed v\u00edce pevn\u00fdch \u010d\u00e1stic.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Brzdy vypou\u0161t\u011bj\u00ed v\u00edce pevn\u00fdch \u010d\u00e1stic.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement presents a factual claim about the emission of solid particles by brakes, which can be investigated through scientific research or studies on vehicle emissions.)",
+            "origin_text": "Brzdy",
+            "start": 0,
+            "end": 5
+        },
+        {
+            "id": 1,
+            "claim": "Pneumatiky vypou\u0161t\u011bj\u00ed v\u00edce pevn\u00fdch \u010d\u00e1stic.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (Similar to the first statement, this one asserts a factual claim about tire emissions that can be verified through empirical evidence and environmental studies.)",
+            "origin_text": "a pneumatiky",
+            "start": 6,
+            "end": 18
+        }
+    ]
+},{
+    "source": "Btw ta provozn\u00ed teplota je kv\u016fli po\u0161kozen\u00ed motoru. Oni ho tam vyt\u00e1\u010d\u00ed na maxim\u00e1ln\u00ed ot\u00e1\u010dky, ud\u011blejte to v zim\u011b se studen\u00fdm a mo\u017en\u00e1 tam z\u016fstane nadobro...",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Operational temperature is affected by engine damage.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a factual claim about the relationship between operational temperature and engine damage, which can be investigated or verified through mechanical knowledge or empirical evidence.)",
+            "origin_text": "Btw ta provozn\u00ed teplota je kv\u016fli po\u0161kozen\u00ed motoru.",
+            "start": 0,
+            "end": 50
+        },
+        {
+            "id": 1,
+            "claim": "Engine runs at maximum RPM.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement lacks specificity regarding which engine is being referred to; thus, it cannot be objectively verified without additional context.)",
+            "origin_text": "Oni ho tam vyt\u00e1\u010d\u00ed na maxim\u00e1ln\u00ed ot\u00e1\u010dky,",
+            "start": 51,
+            "end": 89
+        },
+        {
+            "id": 2,
+            "claim": "Operation in winter with cold conditions may worsen the issue.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement presents a factual claim about the impact of cold conditions on an unspecified 'issue,' which can be investigated by examining how cold weather affects mechanical or operational systems.)",
+            "origin_text": "ud\u011blejte to v zim\u011b se studen\u00fdm a mo\u017en\u00e1 tam z\u016fstane nadobro...",
+            "start": 90,
+            "end": 151
+        }
+    ]
+},{
+    "source": "Cena je teda dost sebevedoma, na druhou stranu mensi Peugeot 3008 hybrid stoji 1,2 mega...",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "The discussion is about a self-aware car.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement lacks specificity and verifiable details, such as who or what the discussion involves, making it an opinion rather than a factual claim.)",
+            "origin_text": "Cena je teda dost sebevedoma,",
+            "start": 0,
+            "end": 29
+        },
+        {
+            "id": 1,
+            "claim": "A smaller Peugeot 3008 hybrid costs 1.2 million.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains specific information about the price of a specific car model which can be verified through market data and pricing lists from manufacturers or dealerships.)",
+            "origin_text": "na druhou stranu mensi Peugeot 3008 hybrid stoji 1,2 mega...",
+            "start": 30,
+            "end": 90
+        }
+    ]
+},{
+    "source": "Corona zp\u016fsobila jeden zaj\u00edmav\u00fd jev. Lid\u00e9 se za\u010dali v\u00edce vyh\u00fdbat MHD a dost lid\u00ed si koupilo do rodiny dal\u0161\u00ed v\u016fz pro doj\u00ed\u017ed\u011bn\u00ed do pr\u00e1ce pr\u00e1v\u011b m\u00edsto vyu\u017eit\u00ed MHD ... a v\u011bt\u0161inou to byla star\u0161\u00ed, levn\u00e1 vozidla odpov\u00eddaj\u00edc\u00ed star\u0161\u00edm norm\u00e1m ... tedy produkuj\u00edc\u00ed v\u00edce emis\u00ed. Taky u\u017e EU dum\u00e1 nad t\u00edm, jak omezit prodej ojetin.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Corona caused an interesting phenomenon.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is vague and subjective, lacking specific factual information that can be objectively verified.)",
+            "origin_text": "Corona zp\u016fsobila jeden zaj\u00edmav\u00fd jev.",
+            "start": 0,
+            "end": 36
+        },
+        {
+            "id": 1,
+            "claim": "People started avoiding public transport more.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a verifiable claim about changes in behavior related to public transport usage during the pandemic period, which can be checked using data on public transport ridership.)",
+            "origin_text": "Lid\u00e9 se za\u010dali v\u00edce vyh\u00fdbat MHD",
+            "start": 37,
+            "end": 68
+        },
+        {
+            "id": 2,
+            "claim": "Many people bought another vehicle for commuting to work instead of using public transport.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement asserts a factual trend regarding consumer behavior that could be verified through sales data and surveys.)",
+            "origin_text": "a dost lid\u00ed si koupilo do rodiny dal\u0161\u00ed v\u016fz pro doj\u00ed\u017ed\u011bn\u00ed do pr\u00e1ce pr\u00e1v\u011b m\u00edsto vyu\u017eit\u00ed MHD",
+            "start": 69,
+            "end": 158
+        },
+        {
+            "id": 3,
+            "claim": "Mostly older, cheaper vehicles were purchased.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This claim can be checked against automotive sales data from the relevant time period to verify if there was an increase in purchases of older or less expensive vehicles.)",
+            "origin_text": "... a v\u011bt\u0161inou to byla star\u0161\u00ed, levn\u00e1 vozidla",
+            "start": 159,
+            "end": 203
+        },
+        {
+            "id": 4,
+            "claim": "These vehicles corresponded with older norms.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is vague as it does not specify what 'older norms' refer to, making it difficult to objectively verify.)",
+            "origin_text": "odpov\u00eddaj\u00edc\u00ed star\u0161\u00edm norm\u00e1m",
+            "start": 204,
+            "end": 231
+        },
+        {
+            "id": 5,
+            "claim": "They produced more emissions.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This can be verified by comparing emission data from newer versus older vehicle models that were reportedly purchased in larger numbers during this period.)",
+            "origin_text": "... tedy produkuj\u00edc\u00ed v\u00edce emis\u00ed.",
+            "start": 232,
+            "end": 264
+        },
+        {
+            "id": 6,
+            "claim": "The EU is considering limiting the sale of used cars.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a claim about policy considerations within the EU, which can be checked against official EU communications or legislative proposals.)",
+            "origin_text": "Taky u\u017e EU dum\u00e1 nad t\u00edm, jak omezit prodej ojetin.",
+            "start": 265,
+            "end": 315
+        }
+    ]
+},{
+    "source": "Evropa se zbl\u00e1znila, postihovat auta, kter\u00e1 vypou\u0161t\u00ed nula nula nic zplodin je nesmysl. Pokud EU nem\u00e1 j\u017e dop\u0159edu vybran\u00e9 levn\u00e9, smyslupln\u00e9 a ekologick\u00e9 palivo, pak opravdu nech\u00e1pu pro\u010d ni\u010d\u00ed to, co l\u00e9ta budovalo. Po l\u00e9tech evropsk\u00e9ho blahobytu n\u00e1s z\u0159ejm\u011b \u010dekaj\u00ed l\u00e9ta str\u00e1d\u00e1n\u00ed, hloupost\u00ed. Jen aby to Evropu nepolo\u017eilo!",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Evropa is experiencing irrational policies.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The term 'irrational' is subjective, and the statement lacks specificity about what constitutes these policies.)",
+            "origin_text": "Evropa se zbl\u00e1znila,",
+            "start": 0,
+            "end": 20
+        },
+        {
+            "id": 1,
+            "claim": "Affecting cars with zero emissions is nonsensical.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The word 'nonsensical' is subjective; there's no specific, verifiable fact presented about policy or impact on zero-emission cars.)",
+            "origin_text": "postihovat auta, kter\u00e1 vypou\u0161t\u00ed nula nula nic zplodin je nesmysl.",
+            "start": 21,
+            "end": 86
+        },
+        {
+            "id": 2,
+            "claim": "EU lacks a pre-selected affordable and eco-friendly fuel.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a factual claim regarding the EU's status concerning an affordable and eco-friendly fuel which can be verified.)",
+            "origin_text": "Pokud EU nem\u00e1 j\u017e dop\u0159edu vybran\u00e9 levn\u00e9, smyslupln\u00e9 a ekologick\u00e9 palivo,",
+            "start": 87,
+            "end": 158
+        },
+        {
+            "id": 3,
+            "claim": "Destruction occurs without a clear alternative fuel plan.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The term 'destruction' is vague, and there's no specific reference to what or where this destruction is occurring that can be checked.)",
+            "origin_text": "pak opravdu nech\u00e1pu pro\u010d ni\u010d\u00ed to, co l\u00e9ta budovalo.",
+            "start": 159,
+            "end": 210
+        },
+        {
+            "id": 4,
+            "claim": "Years of European prosperity could lead to years of suffering.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is speculative about future outcomes based on conditions, making it non-verifiable as currently presented.)",
+            "origin_text": "Po l\u00e9tech evropsk\u00e9ho blahobytu n\u00e1s z\u0159ejm\u011b \u010dekaj\u00ed l\u00e9ta str\u00e1d\u00e1n\u00ed,",
+            "start": 211,
+            "end": 274
+        },
+        {
+            "id": 5,
+            "claim": "Europe may face years of hardship due to foolish policies.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The use of 'foolish' and the projection into the future make this opinion-based rather than a fact that can be presently verified.)",
+            "origin_text": "hloupost\u00ed.",
+            "start": 275,
+            "end": 285
+        },
+        {
+            "id": 6,
+            "claim": "The actions aim not to ruin Europe.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement contains an intention, which is subjective and not verifiable without additional context or evidence of what specific actions are referred to.)",
+            "origin_text": "Jen aby to Evropu nepolo\u017eilo!",
+            "start": 286,
+            "end": 315
+        }
+    ]
+},{
+    "source": "Filtr pevnych castic nezachyti oxidy dusiku nebo jine zplodiny.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Filtr pevnych castic nezachyt\u00ed oxidy dusiku.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains a verifiable claim about the effectiveness of solid particle filters in capturing nitrogen oxides, which can be checked through scientific research and studies on air filtration technologies.)",
+            "origin_text": "Filtr pevnych castic nezachyti oxidy dusiku",
+            "start": 0,
+            "end": 43
+        },
+        {
+            "id": 1,
+            "claim": "Filtr pevnych castic nezachyt\u00ed jin\u00e9 zne\u010di\u0161\u0165uj\u00edc\u00ed l\u00e1tky.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement claims that solid particle filters do not capture other pollutants, which is a verifiable assertion that can be investigated by examining the specific capabilities and limitations of such filtration systems.)",
+            "origin_text": "nebo jine zplodiny",
+            "start": 44,
+            "end": 62
+        }
+    ]
+},{
+    "source": "Heslo ve Windows je toti\u017e jen na okrasu.",
+    "claims": {
+        "The password in Windows is just for decoration.": {
+            "text": "Heslo ve Windows je toti\u017e jen na okrasu.",
+            "start": 0,
+            "end": 40
+        }
+    }
+},{
+    "source": "Isoprinosine nen\u00ed antivirotikum - sv\u00fdm mechanismem \u00fa\u010dinku. I kdy\u017e se u vir\u00f3z pou\u017e\u00edv\u00e1, to ano. Nicm\u00e9n\u011b j\u00e1 jsem prod\u011blala extr\u00e9mn\u011b t\u011b\u017ek\u00fd COVID a mysl\u00edm, \u017ee Isoprinosine mi byl sp\u00ed\u0161e na \u0161kodu. V\u011b\u0159\u00edm, \u017ee m\u016f\u017ee b\u00fdt u\u017eite\u010dn\u00fd u leh\u010d\u00edch pr\u016fb\u011bh\u016f a sp\u00ed\u0161e na za\u010d\u00e1tku onemocn\u011bn\u00ed.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Isoprinosine is not an antiviral by its mechanism of action.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement presents a factual claim about the mechanism of action of Isoprinosine, which can be verified through scientific literature and expert analysis.)",
+            "origin_text": "Isoprinosine nen\u00ed antivirotikum - sv\u00fdm mechanismem \u00fa\u010dinku.",
+            "start": 0,
+            "end": 58
+        },
+        {
+            "id": 1,
+            "claim": "Isoprinosine is used for viral infections.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement asserts that Isoprinosine is used for treating viral infections, which is verifiable by looking at medical guidelines or pharmaceutical information.)",
+            "origin_text": "I kdy\u017e se u vir\u00f3z pou\u017e\u00edv\u00e1, to ano.",
+            "start": 59,
+            "end": 93
+        },
+        {
+            "id": 2,
+            "claim": "Extr\u00e9mn\u011b t\u011b\u017ek\u00fd COVID was experienced.",
+            "checkworthy": true,
+            "checkworthy_reason": "No reason provided, please report issue.",
+            "origin_text": "Nicm\u00e9n\u011b j\u00e1 jsem prod\u011blala extr\u00e9mn\u011b t\u011b\u017ek\u00fd COVID",
+            "start": 94,
+            "end": 140
+        },
+        {
+            "id": 3,
+            "claim": "Isoprinosine may have been harmful during extr\u00e9mn\u011b t\u011b\u017ek\u00fd COVID.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This is a factual claim regarding the potential effects of Isoprinosine on patients with severe COVID-19, which can be investigated through clinical studies or medical records.)",
+            "origin_text": "a mysl\u00edm, \u017ee Isoprinosine mi byl sp\u00ed\u0161e na \u0161kodu.",
+            "start": 141,
+            "end": 189
+        },
+        {
+            "id": 4,
+            "claim": "Isoprinosine might be useful in milder courses of illness.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement suggests a potential utility of Isoprinosine for milder illnesses, which is verifiable by examining clinical research and usage cases.)",
+            "origin_text": "V\u011b\u0159\u00edm, \u017ee m\u016f\u017ee b\u00fdt u\u017eite\u010dn\u00fd u leh\u010d\u00edch pr\u016fb\u011bh\u016f",
+            "start": 190,
+            "end": 235
+        },
+        {
+            "id": 5,
+            "claim": "Isoprinosine could be beneficial at the beginning of the illness.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This claim about the timing of potential benefit from using Isoprinosine can be verified through medical studies or treatment protocols.)",
+            "origin_text": "a sp\u00ed\u0161e na za\u010d\u00e1tku onemocn\u011bn\u00ed.",
+            "start": 236,
+            "end": 266
+        }
+    ]
+},{
+    "source": "Isoprinosine posiluje imunitu, pokud m\u00e1te t\u011b\u017ek\u00fd pr\u016fb\u011bh tak je to zp\u016fsobeno vesm\u011bs p\u0159ehnanou imunitn\u00ed reakc\u00ed a mus\u00edte naopak br\u00e1t kortikoidy, kter\u00e9 imunitn\u00ed reakci zeslab\u00ed.K\u00e1mo\u0161 m\u011bl tak\u00e9 velmi t\u011b\u017ek\u00fd pr\u016fb\u011bh a po kortikoidech byl za p\u00e1r dn\u00ed celkem fit.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Isoprinosine strengthens the immune system.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a factual claim about isoprinosine's effects on the immune system, which can be verified through scientific studies and research.)",
+            "origin_text": "Isoprinosine posiluje imunitu,",
+            "start": 0,
+            "end": 30
+        },
+        {
+            "id": 1,
+            "claim": "Severe illness progression may be due to excessive immune reaction.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement presents a factual hypothesis that can be investigated by reviewing medical literature and case studies regarding immune response in illnesses.)",
+            "origin_text": "pokud m\u00e1te t\u011b\u017ek\u00fd pr\u016fb\u011bh tak je to zp\u016fsobeno vesm\u011bs p\u0159ehnanou imunitn\u00ed reakc\u00ed",
+            "start": 31,
+            "end": 107
+        },
+        {
+            "id": 2,
+            "claim": "Kortikoids weaken the immune response.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This is a verifiable claim about the effects of corticosteroids (kortikoids) on the immune system, supported by pharmacological data and research.)",
+            "origin_text": "a mus\u00edte naopak br\u00e1t kortikoidy, kter\u00e9 imunitn\u00ed reakci zeslab\u00ed.",
+            "start": 108,
+            "end": 171
+        },
+        {
+            "id": 3,
+            "claim": "A friend had a severe illness progression.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement lacks specificity regarding who 'a friend' refers to and does not provide objective criteria for verifying the severity or progression of an illness.)",
+            "origin_text": "\u00e1mo\u0161 m\u011bl tak\u00e9 velmi t\u011b\u017ek\u00fd pr\u016fb\u011bh",
+            "start": 172,
+            "end": 204
+        },
+        {
+            "id": 4,
+            "claim": "After taking kortikoids, the friend recovered in a few days.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The lack of specific details about who 'the friend' is and the absence of precise timelines or conditions makes this statement unverifiable.)",
+            "origin_text": "a po kortikoidech byl za p\u00e1r dn\u00ed celkem fit.",
+            "start": 205,
+            "end": 249
+        }
+    ]
+},{
+    "source": "Jako\u017ee zv\u00ed\u0159ata jin\u00fd zv\u00ed\u0159ata nemu\u010d\u00ed? Vid\u011bl jste n\u011bkdy t\u0159eba kosatky na lovu? Samoz\u0159ejm\u011b si k tomu nevyr\u00e1b\u00ed n\u00e1stroje, ov\u0161em vynal\u00e9zav\u00fd jsou a\u017e a\u017e.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Zv\u00ed\u0159ata mu\u010d\u00ed jin\u00e1 zv\u00ed\u0159ata.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a broad statement that lacks specificity and cannot be universally verified across all animal interactions.)",
+            "origin_text": "Jako\u017ee zv\u00ed\u0159ata jin\u00fd zv\u00ed\u0159ata nemu\u010d\u00ed?",
+            "start": 0,
+            "end": 35
+        },
+        {
+            "id": 1,
+            "claim": "Kosatky lov\u00ed.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement presents factual information about the behavior of cats, which can be verified by observing or researching cat hunting behaviors.)",
+            "origin_text": "Vid\u011bl jste n\u011bkdy t\u0159eba kosatky na lovu?",
+            "start": 36,
+            "end": 75
+        },
+        {
+            "id": 2,
+            "claim": "Kosatky si k lovu nevyr\u00e1b\u00ed n\u00e1stroje.",
+            "checkworthy": true,
+            "checkworthy_reason": "No reason provided, please report issue.",
+            "origin_text": "Samoz\u0159ejm\u011b si k tomu nevyr\u00e1b\u00ed n\u00e1stroje,",
+            "start": 76,
+            "end": 115
+        },
+        {
+            "id": 3,
+            "claim": "Kosatky jsou velmi vynal\u00e9zav\u00e9.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is an opinion-based statement assessing the level of creativity in cats, which is subjective and not objectively verifiable.)",
+            "origin_text": "ov\u0161em vynal\u00e9zav\u00fd jsou a\u017e a\u017e.",
+            "start": 116,
+            "end": 144
+        }
+    ]
+},{
+    "source": "Jasn\u011b a v\u0161echna b\u011b\u017en\u00e1 auta s cenou kolem 500tis. se vyr\u00e1b\u00ed v\u00fdhradn\u011b pro v\u00fdchodn\u00ed Evropu, se proberte.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Most cars with a price around 500 thousand are manufactured exclusively for Eastern Europe.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement makes a factual claim about the manufacturing and target market of certain cars, which can be investigated through industry reports, manufacturer data, and market analyses.)",
+            "origin_text": "Jasn\u011b a v\u0161echna b\u011b\u017en\u00e1 auta s cenou kolem 500tis.",
+            "start": 0,
+            "end": 48
+        }
+    ]
+},{
+    "source": "Je to vse o n\u011bjak\u00e9 volb\u011b. J\u00e1 u\u010dinil tuhle, auto nepotrebuju, vl\u00e1da by m\u011bla \u010dinit kroky aby n\u00e1m to zjednodu\u0161ilu, t\u0159eba stav\u011bli cyklostezky ve m\u011bstech, takto jdou miliardy na p\u0159edra\u017een\u00e9 dalnice pro p\u00e1r vyvolen\u00fdch",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "The text is about an election.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement can be verified by examining the content of the text to see if it discusses an election.)",
+            "origin_text": "Je to vse o n\u011bjak\u00e9 volb\u011b.",
+            "start": 0,
+            "end": 25
+        },
+        {
+            "id": 1,
+            "claim": "Auto is unnecessary for the speaker.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The term 'auto' and 'speaker' are vague without specific context or identity, making verification difficult.)",
+            "origin_text": "J\u00e1 u\u010dinil tuhle, auto nepotrebuju,",
+            "start": 26,
+            "end": 60
+        },
+        {
+            "id": 2,
+            "claim": "Government should simplify matters related to auto use.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement expresses an opinion about what governments ought to do rather than a factual claim that can be verified.)",
+            "origin_text": "vl\u00e1da by m\u011bla \u010dinit kroky aby n\u00e1m to zjednodu\u0161ilu,",
+            "start": 61,
+            "end": 111
+        },
+        {
+            "id": 3,
+            "claim": "Example suggestion: building cycle paths in cities.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (While the idea of building cycle paths is a factual topic, this particular phrasing lacks context and specificity for verification as it stands alone without indicating who suggests it or where.)",
+            "origin_text": "t\u0159eba stav\u011bli cyklostezky ve m\u011bstech,",
+            "start": 112,
+            "end": 149
+        },
+        {
+            "id": 4,
+            "claim": "Billions are spent on overpriced highways for a few.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement includes quantifiable elements that can be investigated, such as the amount of money spent on highways and whether they are considered 'overpriced' or benefit only a small group.)",
+            "origin_text": "takto jdou miliardy na p\u0159edra\u017een\u00e9 dalnice pro p\u00e1r vyvolen\u00fdch",
+            "start": 150,
+            "end": 210
+        }
+    ]
+},{
+    "source": "Jen k up\u0159esn\u011bn\u00ed. V Evrop\u011b se dobytek samoz\u0159ejm\u011b nezab\u00edj\u00ed elektrick\u00fdm proudem. T\u00edm se jen omr\u00e1\u010d\u00ed aby ve chv\u00edli pod\u0159ez\u00e1n\u00ed nebyl p\u0159i v\u011bdom\u00ed.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Jen k up\u0159esn\u011bn\u00ed.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement lacks any factual content or specific reference that can be verified.)",
+            "origin_text": "Jen k up\u0159esn\u011bn\u00ed.",
+            "start": 0,
+            "end": 16
+        },
+        {
+            "id": 1,
+            "claim": "Dobytek v Evrop\u011b se nezab\u00edj\u00ed elektrick\u00fdm proudem.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement presents a verifiable fact regarding livestock slaughter methods in Europe, which can be investigated through regulations and practices.)",
+            "origin_text": "V Evrop\u011b se dobytek samoz\u0159ejm\u011b nezab\u00edj\u00ed elektrick\u00fdm proudem.",
+            "start": 17,
+            "end": 77
+        },
+        {
+            "id": 2,
+            "claim": "Elektrick\u00fd proud omr\u00e1\u010d\u00ed dobytka p\u0159ed pod\u0159ez\u00e1n\u00edm.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement claims a factual method of rendering livestock unconscious before slaughter using electric current, which is verifiable by looking into animal handling and welfare standards.)",
+            "origin_text": "T\u00edm se jen omr\u00e1\u010d\u00ed aby ve chv\u00edli pod\u0159ez\u00e1n\u00ed nebyl p\u0159i v\u011bdom\u00ed.",
+            "start": 78,
+            "end": 137
+        }
+    ]
+},{
+    "source": "Jen norm\u00e1ln\u00ed v\u00fdvoj civilizace/\u00ed. Chudoba-rozvoj-pokrok-blahobyt-vym\u00fd\u0161len\u00ed hloupost\u00ed-\u00fapadek-zapom\u011bn\u00ed.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Jen is a norm of civilization development.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is vague and lacks specificity, making it unclear what 'Jen' refers to or how it can be verified.)",
+            "origin_text": "Jen norm\u00e1ln\u00ed v\u00fdvoj",
+            "start": 0,
+            "end": 18
+        },
+        {
+            "id": 1,
+            "claim": "Chudoba relates to civilizational development.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement contains factual information about the relationship between poverty ('chudoba') and civilizational development that can be investigated through sociological studies.)",
+            "origin_text": "civilizace/\u00ed. Chudoba-",
+            "start": 19,
+            "end": 41
+        },
+        {
+            "id": 2,
+            "claim": "Rozvoj-pokrok involves development and progress in civilizations.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The terms 'rozvoj' and 'pokrok' relate to concepts of development and progress, which are factual elements that can be evaluated within the context of civilizational studies.)",
+            "origin_text": "ozvoj-pokrok-",
+            "start": 42,
+            "end": 55
+        },
+        {
+            "id": 3,
+            "claim": "Blahobyt is associated with well-being in societal development.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement links 'blahobyt' (well-being) to societal development, a verifiable relationship through sociological or economic analysis.)",
+            "origin_text": "lahobyt-",
+            "start": 56,
+            "end": 64
+        },
+        {
+            "id": 4,
+            "claim": "Vym\u00fd\u0161len\u00ed hloupost\u00ed refers to the invention of foolishness.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is an idiomatic expression and not a factual claim about a specific event or entity that can be verified objectively.)",
+            "origin_text": "ym\u00fd\u0161len\u00ed hloupost\u00ed-",
+            "start": 65,
+            "end": 84
+        },
+        {
+            "id": 5,
+            "claim": "\u00dapadek indicates decline in civilization.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The term '\u00fapadek' means decline, which is a verifiable concept when discussing changes in civilizations through historical analysis.)",
+            "origin_text": "padek-",
+            "start": 85,
+            "end": 91
+        },
+        {
+            "id": 6,
+            "claim": "Zapom\u011bn\u00ed suggests forgetting in civilizational context.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a factual claim about the role of forgetting ('zapom\u011bn\u00ed') in civilization that can be explored and verified through studies on collective memory or history.)",
+            "origin_text": "apom\u011bn\u00ed.",
+            "start": 92,
+            "end": 100
+        }
+    ]
+},{
+    "source": "J\u00e1 si marn\u011b vzpom\u00edn\u00e1m, kdy politici m\u00edsto restrikc\u00ed n\u011bco povolili. Snad prodlou\u017een\u00ed intervalu technick\u00e9 u motorek. Jinak se po\u0159\u00e1d zp\u0159\u00eds\u0148uje ve v\u0161ech oblastech \u017eivota. A je \u00fapln\u011b jedno kter\u00e1 strana je u vesla",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "The speaker tries in vain to remember when politicians allowed something instead of imposing restrictions.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement reflects a personal memory attempt and lacks specific, verifiable information about a particular event or policy.)",
+            "origin_text": "J\u00e1 si marn\u011b vzpom\u00edn\u00e1m, kdy politici m\u00edsto restrikc\u00ed n\u011bco povolili.",
+            "start": 0,
+            "end": 66
+        },
+        {
+            "id": 1,
+            "claim": "Possibly, an extension of the technical interval for motorbikes was allowed.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement implies that there might be factual information regarding policy changes related to motorbike technical intervals that could be verified.)",
+            "origin_text": "Snad prodlou\u017een\u00ed intervalu technick\u00e9 u motorek.",
+            "start": 67,
+            "end": 114
+        },
+        {
+            "id": 2,
+            "claim": "In all life areas, conditions are continuously becoming stricter.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a broad and subjective assertion without specific details or references that can be objectively verified.)",
+            "origin_text": "Jinak se po\u0159\u00e1d zp\u0159\u00eds\u0148uje ve v\u0161ech oblastech \u017eivota.",
+            "start": 115,
+            "end": 166
+        },
+        {
+            "id": 3,
+            "claim": "It does not matter which party is in power regarding these strictnesses.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement expresses an opinion on the impact of political parties on policy strictness, lacking verifiable specifics.)",
+            "origin_text": "A je \u00fapln\u011b jedno kter\u00e1 strana je u vesla",
+            "start": 167,
+            "end": 207
+        }
+    ]
+},{
+    "source": "J\u00e1 u\u017e vyzkou\u0161el hodn\u011b antivir\u016f, ale jako nejlep\u0161\u00ed se mi jev\u00ed Kasperski internet security.Ten obsahuje i spr\u00e1vu s\u00ed\u0165ov\u00e9ho provozu a umo\u017e\u0148uje ru\u010dn\u011b zak\u00e1zat program\u016fm s\u00ed\u0165ovou komunikaci, co\u017e jsem u jin\u00fdch antivir\u016f nem\u011bl.Tak\u017ee jak\u00e9mukoliv programu m\u016f\u017eete zak\u00e1zat odes\u00edlat data (ne v\u017edy je to p\u0159\u00ednosem) a taky jak\u00e9mukoliv syst\u00e9mov\u00e9mu programu. N\u011bco podobn\u00e9ho nab\u00edz\u00ed i AVG ale hodn\u011b omezen\u011b oproti Kaspersk\u00e9mu.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "J\u00e1 u\u017e vyzkou\u0161el hodn\u011b antivir\u016f.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a personal statement about individual experience and cannot be objectively verified.)",
+            "origin_text": "J\u00e1 u\u017e vyzkou\u0161el",
+            "start": 0,
+            "end": 15
+        },
+        {
+            "id": 1,
+            "claim": "Kasperski internet security je nejlep\u0161\u00ed.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is an opinion regarding the quality of a product, which is subjective.)",
+            "origin_text": "hodn\u011b antivir\u016f, ale jako nejlep\u0161\u00ed se mi jev\u00ed Kasperski internet security.",
+            "start": 16,
+            "end": 89
+        },
+        {
+            "id": 2,
+            "claim": "Ten obsahuje spr\u00e1vu s\u00ed\u0165ov\u00e9ho provozu.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement can be checked against the features of a specific software or program if 'ten' is specified.)",
+            "origin_text": "en obsahuje i spr\u00e1vu s\u00ed\u0165ov\u00e9ho provozu",
+            "start": 90,
+            "end": 127
+        },
+        {
+            "id": 3,
+            "claim": "Umo\u017e\u0148uje zak\u00e1zat program\u016fm s\u00ed\u0165ovou komunikaci.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This is a verifiable claim about the functionality of a specific software, provided the software in question is identified.)",
+            "origin_text": "a umo\u017e\u0148uje ru\u010dn\u011b zak\u00e1zat program\u016fm s\u00ed\u0165ovou komunikaci,",
+            "start": 128,
+            "end": 182
+        },
+        {
+            "id": 4,
+            "claim": "Jin\u00e9 antiviry to nemaj\u00ed.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement lacks specificity regarding which other antivirus programs are being referred to and cannot be universally verified.)",
+            "origin_text": "co\u017e jsem u jin\u00fdch antivir\u016f nem\u011bl.",
+            "start": 183,
+            "end": 216
+        },
+        {
+            "id": 5,
+            "claim": "M\u016f\u017eete zak\u00e1zat jak\u00e9mukoliv programu odes\u00edlat data.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The functionality of specific software or operating systems can be checked to verify if they allow disabling network communication for any program.)",
+            "origin_text": "ak\u017ee jak\u00e9mukoliv programu m\u016f\u017eete zak\u00e1zat odes\u00edlat data",
+            "start": 217,
+            "end": 271
+        },
+        {
+            "id": 6,
+            "claim": "N\u011bco podobn\u00e9ho nab\u00edz\u00ed i AVG.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This is a factual claim about the features offered by AVG, which can be verified through documentation or product comparisons.)",
+            "origin_text": "(ne v\u017edy je to p\u0159\u00ednosem) a taky jak\u00e9mukoliv syst\u00e9mov\u00e9mu programu. N\u011bco podobn\u00e9ho nab\u00edz\u00ed i AVG",
+            "start": 272,
+            "end": 365
+        },
+        {
+            "id": 7,
+            "claim": "AVG nab\u00edz\u00ed funkce omezen\u011b.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement lacks specificity regarding what functions are limited, making it unverifiable in its current form.)",
+            "origin_text": "ale hodn\u011b omezen\u011b",
+            "start": 366,
+            "end": 383
+        }
+    ]
+},{
+    "source": "Kanibalov\u00e9 na ostrov\u011b Samoa t\u011b\u017eko budou m\u00edt reggae v krvi, to vzniklo na \u00fapln\u011b jin\u00e9m ostrov\u011b, v \u00fapln\u011b jin\u00e9m mo\u0159i...Jsem na takov\u00e9 m\u00e1lo informovan\u00e9 pozn\u00e1mky trochu alergick\u00e1, ale mo\u017en\u00e1 za to m\u016f\u017ee tahle moje diagn\u00f3za:https://www.youtube.com/watch?v=7MEqaQJ9lqU",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Cannibals on the island of Samoa will likely not have reggae in their veins.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is metaphorical and does not contain verifiable factual information.)",
+            "origin_text": "Kanibalov\u00e9 na ostrov\u011b Samoa t\u011b\u017eko budou m\u00edt reggae v krvi,",
+            "start": 0,
+            "end": 58
+        },
+        {
+            "id": 1,
+            "claim": "Reggae originated on a completely different island, in a completely different sea.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The origin of reggae can be verified as it pertains to a specific historical fact about the music genre's geographical roots.)",
+            "origin_text": "to vzniklo na \u00fapln\u011b jin\u00e9m ostrov\u011b, v \u00fapln\u011b jin\u00e9m mo\u0159i...",
+            "start": 59,
+            "end": 115
+        },
+        {
+            "id": 2,
+            "claim": "The speaker is allergic to such poorly informed remarks.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is subjective and cannot be objectively verified without additional context regarding who 'the speaker' is.)",
+            "origin_text": "sem na takov\u00e9 m\u00e1lo informovan\u00e9 pozn\u00e1mky trochu alergick\u00e1,",
+            "start": 116,
+            "end": 173
+        },
+        {
+            "id": 3,
+            "claim": "A possible explanation for this allergy can be found at a provided link.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (While the existence of an explanation might be verifiable, the statement itself lacks specific information to verify due to the absence of a link or further detail.)",
+            "origin_text": "ale mo\u017en\u00e1 za to m\u016f\u017ee tahle moje diagn\u00f3za:https://www.youtube.com/watch?v=7MEqaQJ9lqU",
+            "start": 174,
+            "end": 258
+        }
+    ]
+},{
+    "source": "Komiks super, jen tak d\u00e1l! Je s podivem, \u017ee tady nikomu nevad\u00ed, \u017ee P\u0159erov p\u0159i\u0161el o miliardovou investici a 3500 pracovn\u00edch m\u00edst mimo jin\u00e9 kv\u016fli tomu, \u017ee nen\u00ed napojen\u00fd na d\u00e1lnici, proto\u017ee jej\u00ed v\u00fdstavbu blokuj\u00ed dva, mo\u017en\u00e1 t\u0159i lid\u00e9.Demokracie nen\u00ed jen o tom, abych mohl projevit sv\u016fj n\u00e1zor, ale tak\u00e9 o tom, \u017ee respektuji a akceptuji n\u00e1zor v\u011bt\u0161iny. A pokud jej neakceptuji, pak je na m\u011b, abych dal dohromady v\u011bt\u0161\u00ed v\u011bt\u0161inu",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Komiks super, jen tak d\u00e1l.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is an opinion about something being 'super' without any specific or verifiable factual content.)",
+            "origin_text": "Komiks super, jen tak d\u00e1l!",
+            "start": 0,
+            "end": 26
+        },
+        {
+            "id": 1,
+            "claim": "P\u0159erov lost a billion investment and 3500 jobs partly because it is not connected to the highway.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement includes specific claims regarding financial loss, job losses, and connectivity issues that can be investigated with data and reports.)",
+            "origin_text": "Je s podivem, \u017ee tady nikomu nevad\u00ed, \u017ee P\u0159erov p\u0159i\u0161el o miliardovou investici a 3500 pracovn\u00edch m\u00edst mimo jin\u00e9 kv\u016fli tomu, \u017ee nen\u00ed napojen\u00fd na d\u00e1lnici",
+            "start": 27,
+            "end": 177
+        },
+        {
+            "id": 2,
+            "claim": "The highway construction was blocked by two or three people.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains a verifiable factual claim about an event involving people blocking highway construction.)",
+            "origin_text": " proto\u017ee jej\u00ed v\u00fdstavbu blokuj\u00ed dva, mo\u017en\u00e1 t\u0159i lid\u00e9.",
+            "start": 178,
+            "end": 229
+        },
+        {
+            "id": 3,
+            "claim": "Democracy involves respecting and accepting majority opinion.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a general description of democracy, which can be interpreted in various ways and lacks specific, verifiable elements.)",
+            "origin_text": "emokracie nen\u00ed jen o tom, abych mohl projevit sv\u016fj n\u00e1zor, ale tak\u00e9 o tom, \u017ee respektuji a akceptuji n\u00e1zor v\u011bt\u0161iny.",
+            "start": 230,
+            "end": 344
+        },
+        {
+            "id": 4,
+            "claim": "If one disagrees with the majority, they must gather a larger majority.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is more about procedural or theoretical aspects of decision-making in groups rather than a factual claim that can be objectively verified.)",
+            "origin_text": "A pokud jej neakceptuji, pak je na m\u011b, abych dal dohromady v\u011bt\u0161\u00ed v\u011bt\u0161inu",
+            "start": 345,
+            "end": 417
+        }
+    ]
+},{
+    "source": "Michate hrusky a jabka. Windows NT koexistovaly s klasickymi Windows az do Windows 2000.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Windows NT and classic Windows coexisted.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains verifiable factual information regarding the timeline of operating systems, as it can be checked whether both Windows NT and classic versions were available during the same period.)",
+            "origin_text": "Michate hrusky a jabka. Windows NT koexistovaly s klasickymi Windows",
+            "start": 0,
+            "end": 68
+        },
+        {
+            "id": 1,
+            "claim": "Classic Windows was compatible with Windows 2000.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The term 'classic Windows' is vague without specific references to particular versions or iterations of Windows operating systems, making it difficult to verify compatibility claims objectively.)",
+            "origin_text": "az do Windows 2000.",
+            "start": 69,
+            "end": 88
+        }
+    ]
+},{
+    "source": "Mo\u017en\u00e1 by si na CO2 m\u011bla pan\u00ed redaktorka za\u010d\u00edt d\u00e1vat velk\u00fd pozor, aby se tou toxickou zplodinou neotr\u00e1vila p\u0159i pit\u00ed bublinkov\u00e9 limon\u00e1dy, nebo sodovky.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Redaktorka should monitor CO2 intake.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is prescriptive rather than factual, and lacks clarity on who 'Redaktorka' specifically refers to.)",
+            "origin_text": "Mo\u017en\u00e1 by si na CO2 m\u011bla pan\u00ed redaktorka za\u010d\u00edt d\u00e1vat velk\u00fd pozor,",
+            "start": 0,
+            "end": 64
+        },
+        {
+            "id": 1,
+            "claim": "Excessive CO2 can be toxic.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement makes a factual claim about the effects of excessive CO2 that can be verified through scientific studies on carbon dioxide toxicity.)",
+            "origin_text": "aby se tou toxickou zplodinou neotr\u00e1vila",
+            "start": 65,
+            "end": 105
+        },
+        {
+            "id": 2,
+            "claim": "Toxicity may occur from drinking soda or sparkling lemonade.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains verifiable information regarding potential health effects associated with consuming carbonated beverages, which can be investigated scientifically.)",
+            "origin_text": "p\u0159i pit\u00ed bublinkov\u00e9 limon\u00e1dy, nebo sodovky.",
+            "start": 106,
+            "end": 149
+        }
+    ]
+},{
+    "source": "Na bolestiv\u00e9 b\u0159icho \u010daj z major\u00e1nky. I na velk\u00e9 k\u0159e\u010de.",
+    "claims": {
+        "Na bolestiv\u00e9 b\u0159icho \u010daj z major\u00e1nky.": {
+            "text": "Na bolestiv\u00e9 b\u0159icho \u010daj z major\u00e1nky.",
+            "start": 0,
+            "end": 36
+        },
+        "Na velk\u00e9 k\u0159e\u010de.": {
+            "text": "I na velk\u00e9 k\u0159e\u010de.",
+            "start": 37,
+            "end": 54
+        }
+    }
+},{
+    "source": "Neni. Linux totiz s vice uzivateli pocital od zacatku po vzoru Unixu. Windows to ma dohackovane dost bidne",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Linux was designed for multiple users.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains verifiable factual information regarding the design and intended use of the Linux operating system.)",
+            "origin_text": "Neni. Linux totiz s vice uzivateli",
+            "start": 0,
+            "end": 34
+        },
+        {
+            "id": 1,
+            "claim": "Linux is based on the Unix model.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement presents a factual claim about the origins and design philosophy of Linux, which can be verified through historical and technical documentation.)",
+            "origin_text": "pocital od zacatku po vzoru Unixu.",
+            "start": 35,
+            "end": 69
+        },
+        {
+            "id": 2,
+            "claim": "Windows has been poorly modified.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is an opinion; it lacks specific references or criteria for what constitutes 'poorly modified,' making it subjective and not objectively verifiable.)",
+            "origin_text": "Windows to ma dohackovane dost bidne",
+            "start": 70,
+            "end": 106
+        }
+    ]
+},{
+    "source": "Nepadla tu je\u0161t\u011b zaj\u00edmav\u00e1 v\u011bc, \u017ee po prvn\u00edm omezen\u00ed dopravy kv\u016fli coron\u011b se tam emise zv\u00fd\u0161ily, a nikdo nev\u00ed pro\u010d... Ale nam\u011b\u0159en\u00e9 to bylo.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "There is an interesting fact that emissions increased after the first travel restriction due to COVID-19.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains a factual claim about emissions levels following travel restrictions, which can be verified through environmental data and reports from relevant periods.)",
+            "origin_text": "Nepadla tu je\u0161t\u011b zaj\u00edmav\u00e1 v\u011bc, \u017ee po prvn\u00edm omezen\u00ed dopravy kv\u016fli coron\u011b se tam emise zv\u00fd\u0161ily,",
+            "start": 0,
+            "end": 94
+        },
+        {
+            "id": 1,
+            "claim": "The reason for the increase in emissions is unknown.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement expresses uncertainty about the cause of an observed phenomenon, making it an opinion rather than a verifiable fact.)",
+            "origin_text": "a nikdo nev\u00ed pro\u010d",
+            "start": 95,
+            "end": 112
+        }
+    ]
+},{
+    "source": "Nes\u00fahlas\u00edm. Zoberte si zvierat\u00e1 najbli\u017e\u0161ie k n\u00e1m, teda tie viac inteligentn\u00e9 (gorily, delf\u00edny a podobne). Mysl\u00edm \u017ee by toho vymysleli ove\u013ea viac. A v\u00f4bec to nemysl\u00edm tak \u017ee \"ne ne, to je o\u0161kliv\u00e9\" ..... ja tvrd\u00edm, \u017ee \u013eudia s\u00fa zlej\u0161\u00ed. \u010co chcete vym\u00fd\u0161\u013ea\u0165 na vra\u017ediacich v\u00fdprav\u00e1ch, vojsk\u00e1ch, ke\u010f sa cel\u00e1 arm\u00e1da, skupina vybrala niekam a len tak, bez ni\u010doho, dos\u0165 kruto vyni\u010dila cel\u00fa osadu, dedinu, cel\u00fd kme\u0148. \u010co je na tom o vym\u00fd\u0161\u013ean\u00ed ke\u010f sa tu ni\u010d\u00edme 5000 rokov???",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "The speaker disagrees.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a subjective opinion reflecting the speaker's stance, with no factual information to verify.)",
+            "origin_text": "Nes\u00fahlas\u00edm.",
+            "start": 0,
+            "end": 11
+        },
+        {
+            "id": 1,
+            "claim": "Consider intelligent animals like gorillas and dolphins nearby.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (There are factual elements regarding the intelligence of certain animals which can be verified through scientific research.)",
+            "origin_text": "Zoberte si zvierat\u00e1 najbli\u017e\u0161ie k n\u00e1m, teda tie viac inteligentn\u00e9 (gorily, delf\u00edny a podobne).",
+            "start": 12,
+            "end": 105
+        },
+        {
+            "id": 2,
+            "claim": "Intelligent animals could be more innovatively imagined.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a speculative statement about imagination, lacking specific verifiable facts.)",
+            "origin_text": "Mysl\u00edm \u017ee by toho vymysleli ove\u013ea viac.",
+            "start": 106,
+            "end": 145
+        },
+        {
+            "id": 3,
+            "claim": "People are worse than what the speaker considers 'ugly'.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is subjective and reflects personal opinion rather than verifiable factual information.)",
+            "origin_text": "A v\u00f4bec to nemysl\u00edm tak \u017ee \"ne ne, to je o\u0161kliv\u00e9\" ..... ja tvrd\u00edm, \u017ee \u013eudia s\u00fa zlej\u0161\u00ed.",
+            "start": 146,
+            "end": 232
+        },
+        {
+            "id": 4,
+            "claim": "The speaker argues against creating ideas for murderous expeditions.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This describes the speaker's argument without providing specific, verifiable facts.)",
+            "origin_text": "\u010co chcete vym\u00fd\u0161\u013ea\u0165 na vra\u017ediacich v\u00fdprav\u00e1ch,",
+            "start": 233,
+            "end": 277
+        },
+        {
+            "id": 5,
+            "claim": "An army or group can destroy an entire settlement cruelly.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (While generalized, this statement refers to a type of event that is historically and factually possible and can be verified through historical records.)",
+            "origin_text": "vojsk\u00e1ch, ke\u010f sa cel\u00e1 arm\u00e1da, skupina vybrala niekam a len tak, bez ni\u010doho, dos\u0165 kruto vyni\u010dila cel\u00fa osadu, dedinu, cel\u00fd kme\u0148.",
+            "start": 278,
+            "end": 404
+        },
+        {
+            "id": 6,
+            "claim": "Human destruction has occurred for 5000 years.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The claim relates to human history which can be investigated and verified using archaeological and historical evidence.)",
+            "origin_text": "\u010co je na tom o vym\u00fd\u0161\u013ean\u00ed ke\u010f sa tu ni\u010d\u00edme 5000 rokov???",
+            "start": 405,
+            "end": 460
+        }
+    ]
+},{
+    "source": "Nezlobte se, ale i moje 8 let star\u00e1 Octavia 3 s TDi 2L 110kW pln\u00ed EURO 6...",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "The speaker apologizes for the information.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement expresses an action of apology, which is subjective and not verifiable as a factual claim.)",
+            "origin_text": "Nezlobte se, ale i moje",
+            "start": 0,
+            "end": 23
+        },
+        {
+            "id": 1,
+            "claim": "Octavia is eight years old.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (If 'Octavia' refers to a specific person or entity, this age can be verified with appropriate evidence such as birth records or reliable data sources.)",
+            "origin_text": "8 let star\u00e1 Octavia 3",
+            "start": 24,
+            "end": 45
+        },
+        {
+            "id": 2,
+            "claim": "Octavia has a TDI 2L engine with 110kW.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a factual claim about the specifications of an engine in 'Octavia', which can be checked against automotive specifications if 'Octavia' is clearly defined, such as referring to a specific car model.)",
+            "origin_text": "s TDi 2L 110kW pln\u00ed",
+            "start": 46,
+            "end": 65
+        },
+        {
+            "id": 3,
+            "claim": "It meets the EURO 6 standard.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement lacks specificity on what 'it' refers to; without clear reference, it cannot be verified whether a particular vehicle or engine meets this emission standard.)",
+            "origin_text": "EURO 6",
+            "start": 66,
+            "end": 72
+        }
+    ]
+},{
+    "source": "No co se vam na tom nezda? Drive mely elektroauta baterky tak puruznu (i v kufru), a hlavne je to rozdil proti benzinaku - elektro ma baterky v podlaze, a diky tomu ma nizke teziste (o je jen konstatovani faktu, neni to nejake prekvapive odhaleni)",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Drive mely elektroauta baterky tak puruznu.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains a factual claim about the range of electric vehicles' batteries that can be verified by checking the actual driving range data.)",
+            "origin_text": "No co se vam na tom nezda? Drive mely elektroauta baterky tak puruznu (i v kufru),",
+            "start": 0,
+            "end": 82
+        },
+        {
+            "id": 1,
+            "claim": "Elektroauta baterky jsou i v kufru.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is vague and lacks specificity on which electric vehicle or brand it refers to, making it difficult to verify without additional context.)",
+            "origin_text": "",
+            "start": 82,
+            "end": 82
+        },
+        {
+            "id": 2,
+            "claim": "Rozdil proti benzinaku je, ze elektro ma baterky v podlaze.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains a factual claim about the location of batteries in some electric vehicles compared to gasoline cars, which can be verified by examining vehicle designs.)",
+            "origin_text": "a hlavne je to rozdil proti benzinaku - elektro ma baterky v podlaze,",
+            "start": 83,
+            "end": 152
+        },
+        {
+            "id": 3,
+            "claim": "Diky tomu ma elektro nizke teziste.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is vague and does not specify which electric vehicle or model it refers to, making it difficult to verify without further context.)",
+            "origin_text": "a diky tomu ma nizke teziste (o je jen konstatovani faktu,",
+            "start": 153,
+            "end": 211
+        },
+        {
+            "id": 4,
+            "claim": "N\u00edzk\u00e9 te\u017e\u00edt\u011b nen\u00ed nejake prekvapive odhalen\u00ed.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is an opinion about the perception of low weight in vehicles, rather than a factual claim that can be objectively verified.)",
+            "origin_text": "neni to nejake prekvapive odhaleni)",
+            "start": 212,
+            "end": 247
+        }
+    ]
+},{
+    "source": "No, on ten Peugeot ve skute\u010dnosti zas o tolik men\u0161\u00ed nebude. Vnit\u0159n\u00ed prostor a kufr jsou v podstat\u011b nastejno. Kompaktn\u011bj\u0161\u00ed je jen zvenku.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Interior space and trunk remain nearly the same.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (These statements are making specific claims about the interior space and trunk dimensions that can be verified by comparing measurements or specifications for different versions or models of the car.)",
+            "origin_text": "No, on ten Peugeot ve skute\u010dnosti zas o tolik men\u0161\u00ed nebude. Vnit\u0159n\u00ed prostor a kufr jsou v podstat\u011b nastejno.",
+            "start": 0,
+            "end": 108
+        },
+        {
+            "id": 1,
+            "claim": "It will not be significantly smaller by ten Peugeot.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement lacks clarity and specificity. It is unclear what 'significantly smaller' refers to in measurable terms, and it does not specify which model or aspect of size is being compared against other Peugeot vehicles.)",
+            "origin_text": "",
+            "start": 59,
+            "end": 59
+        }
+    ]
+},{
+    "source": "No, oni si ty star\u00e9 benz\u00ednov\u00e9 \u0161unky kupovali i tam, kde zak\u00e1zali \u010dist\u00e9 diesely...",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "People bought old petrol cars where clean diesels were banned.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains factual information about the purchase of old petrol cars and the existence of areas where 'clean' diesels are banned, both of which can be verified through market studies or regulatory reports.)",
+            "origin_text": "No, oni si ty star\u00e9 benz\u00ednov\u00e9 \u0161unky kupovali i tam, kde zak\u00e1zali \u010dist\u00e9 diesely...",
+            "start": 0,
+            "end": 81
+        },
+        {
+            "id": 1,
+            "claim": "Old petrol cars were purchased in places with diesel bans.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement makes a verifiable claim regarding the purchase of old petrol cars in locations where there are bans on diesel vehicles, information that could potentially be confirmed by sales data and local legislation.)",
+            "origin_text": "",
+            "start": 81,
+            "end": 81
+        }
+    ]
+},{
+    "source": "No, pokud si dob\u0159e pamatuji, tek zelen\u00ed cht\u011bj\u00ed vyb\u00edjet i hospod\u00e1\u0159sk\u00e1 zv\u00ed\u0159ata, proto\u017ee moc prd\u00ed meta a to je sklen\u00edkov\u00fd plyn ...",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Tek zelen\u00ed wants economic animals culled.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement contains an unclear reference to 'Tek zelen\u00ed' and 'economic animals', making it difficult to verify without additional context.)",
+            "origin_text": "No, pokud si dob\u0159e pamatuji, tek zelen\u00ed cht\u011bj\u00ed vyb\u00edjet i hospod\u00e1\u0159sk\u00e1 zv\u00ed\u0159ata,",
+            "start": 0,
+            "end": 77
+        },
+        {
+            "id": 1,
+            "claim": "Economic animals produce much methane.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This is a factual claim about the production of methane by certain animals, which can be verified through scientific studies on livestock emissions.)",
+            "origin_text": "proto\u017ee moc prd\u00ed meta",
+            "start": 78,
+            "end": 99
+        },
+        {
+            "id": 2,
+            "claim": "Methane is a greenhouse gas.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement presents verifiable information regarding methane's role as a greenhouse gas, supported by scientific evidence and research.)",
+            "origin_text": "a to je sklen\u00edkov\u00fd plyn",
+            "start": 100,
+            "end": 123
+        }
+    ]
+},{
+    "source": "On n\u00e1\u0161 prezident m\u00e1 tak\u00e9 \u00fapln\u011b jin\u00e9 kompetence ne\u017e ten americk\u00fd.\u017de maj\u00ed minist\u0159i vnitra r\u016fzn\u00e9 role v r\u016fzn\u00fdch st\u00e1tech, to samo o sob\u011b nen\u00ed d\u016fvod ne\u0159\u00edkat jim stejn\u011b.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "N\u00e1\u0161 prezident m\u00e1 \u00fapln\u011b jin\u00e9 kompetence ne\u017e americk\u00fd.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is subjective and lacks specific references to particular individuals or their competencies, making it an opinion rather than a verifiable fact.)",
+            "origin_text": "On n\u00e1\u0161 prezident m\u00e1 tak\u00e9 \u00fapln\u011b jin\u00e9 kompetence ne\u017e ten americk\u00fd.",
+            "start": 0,
+            "end": 64
+        },
+        {
+            "id": 1,
+            "claim": "Minist\u0159i vnitra maj\u00ed r\u016fzn\u00e9 role v r\u016fzn\u00fdch st\u00e1tech.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement contains factual information that can be verified by examining the roles and responsibilities of interior ministers in different countries.)",
+            "origin_text": "e maj\u00ed minist\u0159i vnitra r\u016fzn\u00e9 role v r\u016fzn\u00fdch st\u00e1tech,",
+            "start": 65,
+            "end": 117
+        },
+        {
+            "id": 2,
+            "claim": "Rozd\u00edly v rol\u00edch ministra vnitra nejsou d\u016fvodem \u0159\u00edkat jim stejn\u011b.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is an opinion regarding how differences in roles should affect perceptions, rather than a verifiable fact about the roles themselves.)",
+            "origin_text": "to samo o sob\u011b nen\u00ed d\u016fvod ne\u0159\u00edkat jim stejn\u011b.",
+            "start": 118,
+            "end": 163
+        }
+    ]
+},{
+    "source": "Ono nula nula nic kr\u00e1t milion v jednom m\u011bst\u011b d\u00e1 hodn\u011b. A nav\u00edc t\u011bch nula nula nic plat\u00ed pro zah\u0159\u00e1t\u00fd motor. V rann\u00ed \u0161pi\u010dce ve m\u011bstech popoj\u00ed\u017ed\u00ed studen\u00e9 naf\u0165\u00e1ky, kter\u00e9 maj\u00ed n\u011bkolikan\u00e1sobn\u00e9 emise.Ono jde o to, \u017ee se doba zm\u011bnila. Ka\u017ed\u00fd m\u00e1 auto, obzvl\u00e1\u0161t\u011b v N\u011bmecku je jejich koncentrace enormn\u00ed. A lid\u00ed cht\u011bj\u00ed taky d\u00fdchat a nejen si vozit zadek.Kdo bydl\u00ed u magistr\u00e1ly, v\u00ed jak\u00fd to je, jak\u00fd je tam prach a hluk. Jenom\u017ee t\u011bch magistr\u00e1l maj\u00ed v N\u011bmecku (ale i v jin\u00fdch zem\u00edch) tis\u00edce.Ne\u0159\u00edk\u00e1m, \u017ee sou\u010dasn\u00fd postup je ide\u00e1ln\u00ed. Ale nic ned\u011blat a nechat se d\u00e1l dusit, taky nen\u00ed \u0159e\u0161en\u00ed.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Nula nula nic kr\u00e1t milion v jednom m\u011bst\u011b d\u00e1 hodn\u011b.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is ambiguous and lacks specific factual information that can be verified.)",
+            "origin_text": "Ono nula nula nic kr\u00e1t milion v jednom m\u011bst\u011b d\u00e1 hodn\u011b.",
+            "start": 0,
+            "end": 54
+        },
+        {
+            "id": 1,
+            "claim": "T\u011bch nula nula nic plat\u00ed pro zah\u0159\u00e1t\u00fd motor.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement contains a verifiable claim about engine emissions under certain conditions, which can be investigated scientifically.)",
+            "origin_text": "A nav\u00edc t\u011bch nula nula nic plat\u00ed pro zah\u0159\u00e1t\u00fd motor.",
+            "start": 55,
+            "end": 106
+        },
+        {
+            "id": 2,
+            "claim": "V rann\u00ed \u0161pi\u010dce ve m\u011bstech popoj\u00ed\u017ed\u00ed studen\u00e9 naf\u0165\u00e1ky,",
+            "checkworthy": true,
+            "checkworthy_reason": "No reason provided, please report issue.",
+            "origin_text": "V rann\u00ed \u0161pi\u010dce ve m\u011bstech popoj\u00ed\u017ed\u00ed studen\u00e9 naf\u0165\u00e1ky,",
+            "start": 107,
+            "end": 159
+        },
+        {
+            "id": 3,
+            "claim": "Studen\u00e9 naf\u0165\u00e1ky maj\u00ed n\u011bkolikan\u00e1sobn\u00e9 emise.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement claims that cold starts have higher emissions, which can be verified through automotive studies.)",
+            "origin_text": "kter\u00e9 maj\u00ed n\u011bkolikan\u00e1sobn\u00e9 emise.",
+            "start": 160,
+            "end": 193
+        },
+        {
+            "id": 4,
+            "claim": "Doba se zm\u011bnila.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is too vague and broad to determine specific verifiable facts without additional context.)",
+            "origin_text": "no jde o to, \u017ee se doba zm\u011bnila.",
+            "start": 194,
+            "end": 226
+        },
+        {
+            "id": 5,
+            "claim": "V N\u011bmecku i jin\u00fdch zem\u00edch je tis\u00edc\u016f magistr\u00e1l.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This claim about the number of highways in Germany and other countries can be checked using geographical and infrastructural data.)",
+            "origin_text": "Ka\u017ed\u00fd m\u00e1 auto, obzvl\u00e1\u0161t\u011b v N\u011bmecku je jejich koncentrace enormn\u00ed. A lid\u00ed cht\u011bj\u00ed taky d\u00fdchat a nejen si vozit zadek.Kdo bydl\u00ed u magistr\u00e1ly, v\u00ed jak\u00fd to je, jak\u00fd je tam prach a hluk. Jenom\u017ee t\u011bch magistr\u00e1l maj\u00ed v N\u011bmecku (ale i v jin\u00fdch zem\u00edch) tis\u00edce.",
+            "start": 227,
+            "end": 476
+        },
+        {
+            "id": 6,
+            "claim": "Sou\u010dasn\u00fd postup nen\u00ed ide\u00e1ln\u00ed.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is an opinion on the quality of a process, not a verifiable fact.)",
+            "origin_text": "e\u0159\u00edk\u00e1m, \u017ee sou\u010dasn\u00fd postup je ide\u00e1ln\u00ed.",
+            "start": 477,
+            "end": 515
+        },
+        {
+            "id": 7,
+            "claim": "Nic ned\u011blat a nechat se d\u00e1l dusit, taky nen\u00ed \u0159e\u0161en\u00ed.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a subjective opinion about inaction as a solution and cannot be objectively verified.)",
+            "origin_text": "Ale nic ned\u011blat a nechat se d\u00e1l dusit, taky nen\u00ed \u0159e\u0161en\u00ed.",
+            "start": 516,
+            "end": 572
+        }
+    ]
+},{
+    "source": "Ono se nikde emise nezvysily, staci neopak blbosti porad dokola :DAle jinak ano, muze se stat i to, ze namerite horsi hodnoty znecisteni v den, kdy nevyjede ani jedno auto, oproti dnu s provozem. Staci kdyz ten den bez aut bude inverze, a ten normalni den bude krasne a pofukovat vitr. Presto z takoveho mereni opravdu neplyne to, ze auta cisti vzduch :D",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Emissions did not increase anywhere.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains a factual claim about emissions levels that can be verified using environmental data or reports.)",
+            "origin_text": "Ono se nikde emise nezvysily,",
+            "start": 0,
+            "end": 29
+        },
+        {
+            "id": 1,
+            "claim": "It's enough to avoid repeating nonsense around the clock.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is subjective and does not contain verifiable factual information; it expresses an opinion on communication practices.)",
+            "origin_text": "staci neopak blbosti porad dokola :D",
+            "start": 30,
+            "end": 66
+        },
+        {
+            "id": 2,
+            "claim": "Worse air pollution values can occur on days with no car traffic.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a claim about air pollution levels that can be verified by analyzing environmental data related to different sources of pollution.)",
+            "origin_text": "le jinak ano, muze se stat i to, ze namerite horsi hodnoty znecisteni v den, kdy nevyjede ani jedno auto,",
+            "start": 67,
+            "end": 172
+        },
+        {
+            "id": 3,
+            "claim": "Such measurements do not imply cars clean the air.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement makes a claim about the interpretation of environmental data or measurements that can be examined and verified by experts in environmental science.)",
+            "origin_text": "oproti dnu s provozem. Staci kdyz ten den bez aut bude inverze, a ten normalni den bude krasne a pofukovat vitr. Presto z takoveho mereni opravdu neplyne to, ze auta cisti vzduch :D",
+            "start": 173,
+            "end": 354
+        }
+    ]
+},{
+    "source": "Pekny a trefny clanek. Osobne vyznavam tvrdy pristup jaky maji v Oregonu. Tedy extremni pokuty a postihy za znecistovani prirody a nerespektovani narizeni. Ve zminenem Oregonu treba pokuta za znecistovani az do $6250.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "The article is considered charming and nice.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement expresses an opinion about the article's qualities, which are subjective and not objectively verifiable.)",
+            "origin_text": "Pekny a trefny clanek.",
+            "start": 0,
+            "end": 22
+        },
+        {
+            "id": 1,
+            "claim": "A strict approach to pollution is acknowledged.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is vague and lacks specificity regarding who acknowledges a strict approach or what specific measures are being referred to.)",
+            "origin_text": "Osobne vyznavam tvrdy pristup",
+            "start": 23,
+            "end": 52
+        },
+        {
+            "id": 2,
+            "claim": "Severe penalties exist for environmental damage in Oregon.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This is a factual claim about the legal consequences of environmental damage in Oregon, which can be verified through state laws and regulations.)",
+            "origin_text": "jaky maji v Oregonu. Tedy extremni pokuty a postihy za znecistovani prirody",
+            "start": 53,
+            "end": 128
+        },
+        {
+            "id": 3,
+            "claim": "Disrespecting wildlife laws in Oregon is notable.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement uses subjective language ('notable') without specific information that could be objectively verified.)",
+            "origin_text": "a nerespektovani narizeni.",
+            "start": 129,
+            "end": 155
+        },
+        {
+            "id": 4,
+            "claim": "Oregon imposes fines up to $6250 for littering.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This provides a specific legal penalty related to an action, which can be confirmed by reviewing Oregon's environmental or public order statutes.)",
+            "origin_text": "Ve zminenem Oregonu treba pokuta za znecistovani az do $6250.",
+            "start": 156,
+            "end": 217
+        }
+    ]
+},{
+    "source": "Pokud mate fyzicky pristup k pocitaci a disk neni sifrovany, tak linux nepomuze.Ale stale lepsi nez win, kde sifrovani je dostupne az pro verzi pro.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Linux does not encrypt disks by default.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a factual claim about the default behavior of Linux operating systems regarding disk encryption, which can be verified by examining system settings or documentation.)",
+            "origin_text": "Pokud mate fyzicky pristup k pocitaci a disk neni sifrovany, tak linux nepomuze",
+            "start": 0,
+            "end": 79
+        },
+        {
+            "id": 1,
+            "claim": "Win offers encryption only in paid versions.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The term 'Win' is ambiguous and could refer to multiple products; without further specificity, it is unclear whether this statement refers to Windows operating systems or another product. Moreover, Microsoft does offer some level of encryption (e.g., BitLocker) in free versions of Windows Pro.)",
+            "origin_text": "Ale stale lepsi nez win, kde sifrovani je dostupne az pro verzi pro",
+            "start": 80,
+            "end": 147
+        }
+    ]
+},{
+    "source": "Sulawesi je velky ostrov vedle Bornea a Tana Toraja je oblast ve vnitrozemi. Ostrov spada pod Indonesia. Pred 10 lety jsem absoluoval stejny zazitek, autorka to popsala pomerne presne. Na Sulawesi jsem stravil zhruba mesic a rozhodne je to misto ktere stoji za navstevu. Zadni turiste, par batuzkaru. Sulawesi je take znamo jako jedno z nejlepsich mist na potapeni na svete.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Sulawesi is a large island near Bornea.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement presents factual information about the geographical location and relative size of Sulawesi, which can be verified.)",
+            "origin_text": "Sulawesi je velky ostrov vedle Bornea",
+            "start": 0,
+            "end": 37
+        },
+        {
+            "id": 1,
+            "claim": "Tana Toraja is an area in the interior of Sulawesi.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains verifiable geographic information about Tana Toraja's location within Sulawesi.)",
+            "origin_text": "a Tana Toraja je oblast ve vnitrozemi",
+            "start": 38,
+            "end": 75
+        },
+        {
+            "id": 2,
+            "claim": "Sulawesi is part of Indonesia.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement provides factual information regarding Sulawesi\u2019s political affiliation, which can be verified.)",
+            "origin_text": " Ostrov spada pod Indonesia.",
+            "start": 76,
+            "end": 104
+        },
+        {
+            "id": 3,
+            "claim": "Ten years ago, the author experienced something similar.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement contains personal experience that cannot be objectively verified without additional context about what 'something' refers to or who 'the author' is.)",
+            "origin_text": "Pred 10 lety jsem absoluoval stejny zazitek",
+            "start": 105,
+            "end": 148
+        },
+        {
+            "id": 4,
+            "claim": "The author spent about one month on Sulawesi.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The duration of a stay is presented as part of a personal account and lacks specific reference to verify it.)",
+            "origin_text": " autorka to popsala pomerne presne. Na Sulawesi jsem stravil zhruba mesic",
+            "start": 149,
+            "end": 222
+        },
+        {
+            "id": 5,
+            "claim": "Sulawesi is definitely worth visiting according to the author.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement reflects an opinion rather than verifiable factual information.)",
+            "origin_text": "a rozhodne je to misto ktere stoji za navstevu.",
+            "start": 223,
+            "end": 270
+        },
+        {
+            "id": 6,
+            "claim": "There are few tourists in Sulawesi.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (While subjective, this statement makes a claim about tourism levels which can be verified through data and statistics.)",
+            "origin_text": "Zadni turiste, par batuzkaru.",
+            "start": 271,
+            "end": 300
+        },
+        {
+            "id": 7,
+            "claim": "There are some backpackers in Sulawesi.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This is a factual claim about the presence of backpackers that can be investigated or corroborated with evidence.)",
+            "origin_text": "",
+            "start": 300,
+            "end": 300
+        },
+        {
+            "id": 8,
+            "claim": "Sulawesi is known as one of the best places for diving in the world.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement contains an opinion-based assessment which cannot be objectively verified, though individual aspects like quality of dive sites may be factual but are not verifiable here due to subjectivity.)",
+            "origin_text": "Sulawesi je take znamo jako jedno z nejlepsich mist na potapeni na svete.",
+            "start": 301,
+            "end": 374
+        }
+    ]
+},{
+    "source": "Ta provozni teplota je kvuli tomu, ze motor ktery neni zahraty na optimalni teplotu ma vyssi emise. Napriklad kvuli tomu, ze je nutne mit bohatsi smes. A systemy jsou nastaveny na provozni teplotu motoru a optimalni otacky (katalyzator, SCR,..)",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Operational temperature is affected by engine not at optimal temperature.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a factual claim about the relationship between operational temperature and engine conditions that can be scientifically investigated.)",
+            "origin_text": "Ta provozni teplota je kvuli tomu, ze motor ktery neni zahraty na optimalni teplotu",
+            "start": 0,
+            "end": 83
+        },
+        {
+            "id": 1,
+            "claim": "Higher emissions occur when engines are not at optimal temperatures.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement asserts a specific effect of suboptimal engine temperatures on emissions, which is verifiable through scientific testing or research data.)",
+            "origin_text": "ma vyssi emise.",
+            "start": 84,
+            "end": 99
+        },
+        {
+            "id": 2,
+            "claim": "Richer fuel mixture is necessary when engines aren't at optimal temperatures.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This provides a specific claim about the adjustment of fuel mixtures under certain engine conditions that can be verified with technical knowledge and automotive engineering principles.)",
+            "origin_text": "Napriklad kvuli tomu, ze je nutne mit bohatsi smes.",
+            "start": 100,
+            "end": 151
+        }
+    ]
+},{
+    "source": "Tak moc se to neprojevilo. Daleko v\u00edce rodin bylo doma, d\u011bti nevozili do \u0161koly, celkov\u011b provoz v pr\u016fm\u011bru klesl v na\u0161em m\u011bst\u011b o 40%.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "The situation was not significantly evident.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is vague and subjective; it lacks specific information that can be objectively verified.)",
+            "origin_text": "Tak moc se to neprojevilo.",
+            "start": 0,
+            "end": 26
+        },
+        {
+            "id": 1,
+            "claim": "Many more families stayed at home.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (Although broad, this statement implies a verifiable fact regarding family behavior that could be measured or reported by studies or statistics.)",
+            "origin_text": "Daleko v\u00edce rodin bylo doma,",
+            "start": 27,
+            "end": 55
+        },
+        {
+            "id": 2,
+            "claim": "Children did not go to school.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This is a factual claim that can be checked against educational records or government announcements about school closures.)",
+            "origin_text": "d\u011bti nevozili do \u0161koly,",
+            "start": 56,
+            "end": 79
+        },
+        {
+            "id": 3,
+            "claim": "This decrease occurred in our city.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (Similar to the previous point, this statement is too vague as it does not specify what kind of decrease or provide a clear reference to a specific city.)",
+            "origin_text": "celkov\u011b provoz v pr\u016fm\u011bru klesl v na\u0161em m\u011bst\u011b",
+            "start": 80,
+            "end": 124
+        }
+    ]
+},{
+    "source": "Tak na\u0161t\u011bst\u00ed se KDU-\u010cSL nedostalo do vl\u00e1dy, tak\u017ee nemohlo d\u00e1l za Kapsch lobovat a ten v\u00fdvar mu prodlou\u017eit ...",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "KDU-\u010cSL did not join the government.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains verifiable factual information about a political party's participation in a government formation.)",
+            "origin_text": "Tak na\u0161t\u011bst\u00ed se KDU-\u010cSL nedostalo do vl\u00e1dy,",
+            "start": 0,
+            "end": 43
+        },
+        {
+            "id": 1,
+            "claim": "KDU-\u010cSL could no longer lobby for Kapsch.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement lacks specificity and clarity regarding who or what prevented KDU-\u010cSL from lobbying for Kapsch, making it unverifiable without additional context.)",
+            "origin_text": "tak\u017ee nemohlo d\u00e1l za Kapsch lobovat",
+            "start": 44,
+            "end": 79
+        },
+        {
+            "id": 2,
+            "claim": "Kapsch wanted to extend the contract.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains verifiable factual information about a company's interest in extending a contract, assuming there is specific evidence or documentation related to this claim.)",
+            "origin_text": "a ten v\u00fdvar mu prodlou\u017eit ...",
+            "start": 80,
+            "end": 109
+        }
+    ]
+},{
+    "source": "Tak t\u0159eba v \u0158\u00ed\u010danech u Prahy se nov\u00e1 \u0161kola postavila a letos za\u010dne v\u00fdstavba dal\u0161\u00ed. Z jak\u00fdch pen\u011bz nev\u00edm, ale pen\u011bz m\u011bsta tam bude men\u0161\u00ed d\u00edl, m\u011bsto na budov\u00e1n\u00ed staveb v \u00fahrnu p\u016fl miliardy nem\u00e1.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "A new school was built in \u0158\u00ed\u010dany near Prague.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement contains verifiable factual information about a specific event or structure being built at a specific location.)",
+            "origin_text": "Tak t\u0159eba v \u0158\u00ed\u010danech u Prahy se nov\u00e1 \u0161kola postavila",
+            "start": 0,
+            "end": 52
+        },
+        {
+            "id": 1,
+            "claim": "Construction of another building will start this year there.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is future-oriented and lacks specificity, making it unverifiable until the time specified has passed.)",
+            "origin_text": "a letos za\u010dne v\u00fdstavba dal\u0161\u00ed.",
+            "start": 53,
+            "end": 82
+        },
+        {
+            "id": 2,
+            "claim": "The source of funds is unknown.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement presents verifiable information regarding the status or availability of information about funding sources.)",
+            "origin_text": "Z jak\u00fdch pen\u011bz nev\u00edm,",
+            "start": 83,
+            "end": 104
+        },
+        {
+            "id": 3,
+            "claim": "The city's share of the funding will be smaller.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement makes a speculative claim about future financial arrangements without specific details, making it unverifiable in its current form.)",
+            "origin_text": "ale pen\u011bz m\u011bsta tam bude men\u0161\u00ed d\u00edl,",
+            "start": 105,
+            "end": 140
+        },
+        {
+            "id": 4,
+            "claim": "The city does not have half a billion for construction.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains verifiable factual information regarding the city's budget or financial capacity related to construction projects.)",
+            "origin_text": "m\u011bsto na budov\u00e1n\u00ed staveb v \u00fahrnu p\u016fl miliardy nem\u00e1.",
+            "start": 141,
+            "end": 192
+        }
+    ]
+},{
+    "source": "To nen\u00ed ani o ekologii, ale o ekonomice. Nic proti vlak\u016fm, ale krom\u011b transportu z\u00e1kland\u00edch komodit nem\u00e1 u\u017e z hlediska dopravy \u017eeleznice n\u00e1rok. V\u011bt\u0161ina n\u00e1kladn\u00edch termin\u00e1l\u016f se prom\u011bnila na bownfieldy nebo u\u017e rovnou zastav\u011bla. Stav\u011bt nov\u00e9 j\u011b velmi draho a up\u0159\u00edmn\u011b nen\u00ed ani kde je stav\u011bt (chyb\u00ed napojen\u00ed na u\u017e tak trstn\u00ed silni\u010dn\u00ed infrastrukturu). A up\u0159\u00edmn\u011b firma pot\u0159ebuje logistick\u00e9 zabezpe\u010den\u00ed just-in-time a jestli se bude zbo\u017e\u00ed je\u0161t\u011b 2x p\u0159ekl\u00e1dat na/z vlaku vyjde to stejn\u011b dr\u00e1\u017e ne\u017e kamion. Bohu\u017eel doba velk\u00fdch tov\u00e1ren, kter\u00e9 m\u011bly vlastn\u00ed vle\u010dku na nejbli\u017e\u0161\u00ed n\u00e1dra\u017e\u00ed je pry\u010d a logistick\u00e9 megaare\u00e1ly u velk\u00fdch m\u011bst nemaj\u00ed v drtiv\u00e9 m\u00ed\u0159e mo\u017enost se na solidn\u00ed kapacitn\u00ed kooej v\u016fbec p\u0159ipojit.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "The topic is about economics, not ecology.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement expresses an opinion on the subject matter without providing specific verifiable information.)",
+            "origin_text": "To nen\u00ed ani o ekologii, ale o ekonomice.",
+            "start": 0,
+            "end": 40
+        },
+        {
+            "id": 1,
+            "claim": "No objection to trains for transportation.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a subjective viewpoint and lacks specificity or clear reference to who holds this belief.)",
+            "origin_text": "Nic proti vlak\u016fm,",
+            "start": 41,
+            "end": 58
+        },
+        {
+            "id": 2,
+            "claim": "Railways have no claim except for transporting bulk goods.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement makes a factual assertion about the function of railways that can be investigated with evidence regarding their uses.)",
+            "origin_text": "ale krom\u011b transportu z\u00e1kland\u00edch komodit nem\u00e1 u\u017e z hlediska dopravy \u017eeleznice n\u00e1rok.",
+            "start": 59,
+            "end": 142
+        },
+        {
+            "id": 3,
+            "claim": "Most freight terminals turned into brownfields or were developed.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The term 'most' is vague and without specific reference to which freight terminals, making it unverifiable as stated.)",
+            "origin_text": "V\u011bt\u0161ina n\u00e1kladn\u00edch termin\u00e1l\u016f se prom\u011bnila na bownfieldy nebo u\u017e rovnou zastav\u011bla.",
+            "start": 143,
+            "end": 224
+        },
+        {
+            "id": 4,
+            "claim": "Challenging to connect to the existing road network.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is an opinion on connectivity challenges without specific reference to location or details that can be verified.)",
+            "origin_text": "Stav\u011bt nov\u00e9 j\u011b velmi draho a up\u0159\u00edmn\u011b nen\u00ed ani kde je stav\u011bt (chyb\u00ed napojen\u00ed na u\u017e tak trstn\u00ed silni\u010dn\u00ed infrastrukturu).",
+            "start": 225,
+            "end": 343
+        },
+        {
+            "id": 5,
+            "claim": "Logistics mega-areas near cities lack access to significant capacity.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement lacks specific reference to which logistics areas are being discussed, making it unverifiable as stated.)",
+            "origin_text": "A up\u0159\u00edmn\u011b firma pot\u0159ebuje logistick\u00e9 zabezpe\u010den\u00ed just-in-time a jestli se bude zbo\u017e\u00ed je\u0161t\u011b 2x p\u0159ekl\u00e1dat na/z vlaku vyjde to stejn\u011b dr\u00e1\u017e ne\u017e kamion. Bohu\u017eel doba velk\u00fdch tov\u00e1ren, kter\u00e9 m\u011bly vlastn\u00ed vle\u010dku na nejbli\u017e\u0161\u00ed n\u00e1dra\u017e\u00ed je pry\u010d a logistick\u00e9 megaare\u00e1ly u velk\u00fdch m\u011bst nemaj\u00ed v drtiv\u00e9 m\u00ed\u0159e mo\u017enost se na solidn\u00ed kapacitn\u00ed kooej v\u016fbec p\u0159ipojit.",
+            "start": 344,
+            "end": 690
+        }
+    ]
+},{
+    "source": "To, pro\u010d n\u011bkdo vlastn\u00ed auto, je \u010di\u0161t\u011b jeho v\u011bc a to, \u017ee bydl\u00ed (v \u0161ir\u0161\u00edm) centru m\u011bsta, absolutn\u011b neznamen\u00e1, \u017ee ho nepot\u0159ebuje... Ale ch\u00e1pu, \u017ee hipste\u0159i a podobn\u00ed aktivisti, co jim sta\u010d\u00ed bat\u016f\u017eek nebo makaj n\u011bkde v Partnerstv\u00ed, tak ti maj\u00ed \u010dasu dost a m\u016f\u017eou ho ztr\u00e1cet t\u0159eba i \"ekologickou\" dopravou. Akor\u00e1t pak jsou neskute\u010dn\u011b otravn\u00ed, kdy\u017e pot\u0159ebuj\u00ed n\u011bkam za m\u011bsto a zrovna to nele\u017e\u00ed na koridoru...",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Owning an auto depends on individual needs.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a general opinion about the factors influencing car ownership, not a specific factual claim.)",
+            "origin_text": "To, pro\u010d n\u011bkdo vlastn\u00ed auto, je \u010di\u0161t\u011b jeho v\u011bc a to, \u017ee bydl\u00ed (v \u0161ir\u0161\u00edm) centru m\u011bsta, absolutn\u011b neznamen\u00e1, \u017ee ho nepot\u0159ebuje...",
+            "start": 0,
+            "end": 128
+        },
+        {
+            "id": 1,
+            "claim": "Living in city center does not eliminate need for car.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement asserts a fact about urban living and transportation needs that can be verified with data or studies on urban mobility patterns.)",
+            "origin_text": "",
+            "start": 128,
+            "end": 128
+        }
+    ]
+},{
+    "source": "V Australii zije ex-pat samoanska komunita a v australske NRL (ragbyova liga) hraje spousta Samoanu. Jeste zadne sve protivniky nesnedli.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "An ex-pat Samoan community lives in Australia.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement contains verifiable factual information about the existence of an expatriate community.)",
+            "origin_text": "V Australii zije ex-pat samoanska komunita a",
+            "start": 0,
+            "end": 44
+        },
+        {
+            "id": 1,
+            "claim": "Many Samoans play in the Australian NRL (rugby league).",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement provides a factual claim regarding the presence of Samoan players in the Australian National Rugby League, which can be verified with player statistics and records.)",
+            "origin_text": "v australske NRL (ragbyova liga) hraje spousta Samoanu.",
+            "start": 45,
+            "end": 100
+        },
+        {
+            "id": 2,
+            "claim": "No opponents have taken them on recently.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement lacks clarity and specificity about who 'them' refers to, making it unverifiable without additional context.)",
+            "origin_text": "Jeste zadne sve protivniky nesnedli.",
+            "start": 101,
+            "end": 137
+        }
+    ]
+},{
+    "source": "V monopolu nemate moznost volby a o to jde",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "V monopolu nem\u00e1te mo\u017enost volby.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a factual claim about the nature of a monopoly, specifically that it lacks choice options, which can be verified by economic principles and definitions.)",
+            "origin_text": "V monopolu nemate moznost volby",
+            "start": 0,
+            "end": 31
+        },
+        {
+            "id": 1,
+            "claim": "O tomto jde.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The phrase 'O tomto jde' translates to 'It's about this,' which is vague and lacks specific information or context to verify against factual evidence.)",
+            "origin_text": "a o to jde",
+            "start": 32,
+            "end": 42
+        }
+    ]
+},{
+    "source": "V roce 2013, tedy p\u0159ed osmi lety, se auta s normou EURO 6 nevyr\u00e1b\u011bla. Ano, motory se v z\u00e1kladu nezm\u011bnily a 2.0 TDI pak po roce 2015 spl\u0148oval iEURO 6, ale k jist\u00fdm mal\u00fdm \u00faprav\u00e1m tam do\u0161lo. V techni\u010d\u00e1ku m\u00e1te ur\u010dit\u011b uvedeno EURO 5.Nicm\u00e9n\u011b, st\u00e1t nem\u016f\u017ee zak\u00e1zat provoz n\u011b\u010deho, co odsouhlasil, \u017ee vyhovuje. Jinak riskuje soudy o od\u0161kodn\u011bn\u00ed. A \u0161rotovat t\u00e9m\u011br nov\u00e1 auta je zhovadilost.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "In 2013, cars with EURO 6 standard were not manufactured.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement can be verified by checking historical records of car manufacturing and emission standards.)",
+            "origin_text": "V roce 2013, tedy p\u0159ed osmi lety, se auta s normou EURO 6 nevyr\u00e1b\u011bla.",
+            "start": 0,
+            "end": 69
+        },
+        {
+            "id": 1,
+            "claim": "Motors remained largely unchanged before EURO 6.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is too broad and lacks specificity about which motors are being referred to, making it unverifiable without additional context.)",
+            "origin_text": "Ano, motory se v z\u00e1kladu nezm\u011bnily",
+            "start": 70,
+            "end": 104
+        },
+        {
+            "id": 2,
+            "claim": "2.0 TDI engines met the iEURO 6 standard after 2015.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This can be verified by checking specifications and compliance documents for 2.0 TDI engines post-2015.)",
+            "origin_text": "a 2.0 TDI pak po roce 2015 spl\u0148oval iEURO 6",
+            "start": 105,
+            "end": 148
+        },
+        {
+            "id": 3,
+            "claim": "Minor modifications were made to some engines.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is vague without specifying which engines or what modifications are being referred to, thus it's unverifiable.)",
+            "origin_text": " ale k jist\u00fdm mal\u00fdm \u00faprav\u00e1m tam do\u0161lo.",
+            "start": 149,
+            "end": 187
+        },
+        {
+            "id": 4,
+            "claim": "Technical specifications likely mention EURO 5.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The use of 'likely' makes this an opinion rather than a factual assertion, and it lacks specificity about which technical specifications are being discussed.)",
+            "origin_text": "V techni\u010d\u00e1ku m\u00e1te ur\u010dit\u011b uvedeno EURO 5.",
+            "start": 188,
+            "end": 228
+        },
+        {
+            "id": 5,
+            "claim": "The state cannot ban something it approved.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a broad legal or policy claim that requires specific context or jurisdiction to be verified.)",
+            "origin_text": "icm\u00e9n\u011b, st\u00e1t nem\u016f\u017ee zak\u00e1zat provoz n\u011b\u010deho, co odsouhlasil, \u017ee vyhovuje.",
+            "start": 229,
+            "end": 300
+        },
+        {
+            "id": 6,
+            "claim": "Banning could lead to compensation lawsuits.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement contains a factual element regarding potential legal outcomes of government actions, which can be examined through legal precedents and frameworks.)",
+            "origin_text": "Jinak riskuje soudy o od\u0161kodn\u011bn\u00ed.",
+            "start": 301,
+            "end": 334
+        },
+        {
+            "id": 7,
+            "claim": "Scraping nearly new cars is considered wasteful.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The term 'considered' indicates this is an opinion or value judgment rather than a verifiable fact.)",
+            "origin_text": "A \u0161rotovat t\u00e9m\u011br nov\u00e1 auta je zhovadilost.",
+            "start": 335,
+            "end": 377
+        }
+    ]
+},{
+    "source": "Vetsinou to funguje tak ze Vas pruvodce je Torajan, ktery ma pristup. Oni smrt vidi jinak nez my a je to pro ne duvod k oslave neboztika. Na pohrbu ktereho jsme se zucastnili byli stovky lidi, vsichni byli velice pratelsti a brali nas spis jako hosty nez turisty. Jestli jim ten pruvodce neco da za to ze se muzete ucastnit to nevim, ale najmout si pruvodce na 3 dny nebylo vubec drahy. Uz si presne nepamatuji, je to 10 let. Nas rozhodne nikdo \u201cnezkasiroval\u201d stranou.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Vetsinou involves a Torajan guide with access.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is unclear and lacks specificity about what 'Vetsinou' refers to, making it unverifiable.)",
+            "origin_text": "Vetsinou to funguje tak ze Vas pruvodce je Torajan, ktery ma pristup.",
+            "start": 0,
+            "end": 69
+        },
+        {
+            "id": 1,
+            "claim": "Torajans have a different view of death as a celebration.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a factual claim about the cultural practices or beliefs of Torajan people that can be investigated through anthropological studies.)",
+            "origin_text": "Oni smrt vidi jinak nez my a je to pro ne duvod k oslave neboztika.",
+            "start": 70,
+            "end": 137
+        },
+        {
+            "id": 2,
+            "claim": "A funeral had hundreds of people present.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement lacks specificity regarding which funeral and where it occurred, making it unverifiable.)",
+            "origin_text": "Na pohrbu ktereho jsme se zucastnili byli stovky lidi,",
+            "start": 138,
+            "end": 192
+        },
+        {
+            "id": 3,
+            "claim": "Everyone at the funeral was very friendly.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a subjective opinion about the behavior of individuals, not verifiable factual information.)",
+            "origin_text": "vsichni byli velice pratelsti a brali nas spis jako hosty nez turisty.",
+            "start": 193,
+            "end": 263
+        },
+        {
+            "id": 4,
+            "claim": "Attendees were treated more like guests than tourists.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement suggests an observable fact about how attendees were treated, which could be verified through accounts or interviews.)",
+            "origin_text": "",
+            "start": 263,
+            "end": 263
+        },
+        {
+            "id": 5,
+            "claim": "The guide may receive something for allowing participation.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a speculative statement and does not assert a verifiable factual claim.)",
+            "origin_text": "Jestli jim ten pruvodce neco da za to ze se muzete ucastnit to nevim,",
+            "start": 264,
+            "end": 333
+        },
+        {
+            "id": 6,
+            "claim": "Hiring a guide for three days was not expensive.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (Without context on location, time, or what 'not expensive' means to the speaker, this opinion cannot be verified objectively.)",
+            "origin_text": "ale najmout si pruvodce na 3 dny nebylo vubec drahy.",
+            "start": 334,
+            "end": 386
+        },
+        {
+            "id": 7,
+            "claim": "The event occurred approximately ten years ago.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement provides a specific timeframe that can be cross-referenced with other information to verify its accuracy.)",
+            "origin_text": "Uz si presne nepamatuji, je to 10 let.",
+            "start": 387,
+            "end": 425
+        },
+        {
+            "id": 8,
+            "claim": "No one attempted to spoil or overshadow the experience.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This is a subjective opinion about the nature of interactions during an unspecified event, not verifiable factual information.)",
+            "origin_text": "Nas rozhodne nikdo \u201cnezkasiroval\u201d stranou.",
+            "start": 426,
+            "end": 468
+        }
+    ]
+},{
+    "source": "Ze skamenelych kosti moc genetickeho materialu nevyskrabete.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Ze skamen\u011bl\u00fdch koster nevy\u0161kub\u00e1te genetick\u00fd materi\u00e1l.",
+            "checkworthy": true,
+            "checkworthy_reason": "No reason provided, please report issue.",
+            "origin_text": "Ze skamenelych kosti moc genetickeho materialu nevyskrabete.",
+            "start": 0,
+            "end": 60
+        }
+    ]
+},{
+    "source": "genetick\u00fd materi\u00e1l nebude a\u017e tak probl\u00e9m, existuje hodn\u011b zmrzl\u00fdch mamut\u00edch pozustatk\u016f ...nav\u00edc genom mamuta je celkem dob\u0159e zdokumentovan\u00fd, p\u0159ed p\u00e1r lety jsem dokonce \u010detl studii \u017ee by mohl ml\u00e1d\u011b mamuta odnosit slon.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Genetick\u00fd materi\u00e1l nebude a\u017e tak probl\u00e9m.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement is vague and lacks specificity, making it an opinion rather than a verifiable fact.)",
+            "origin_text": "genetick\u00fd materi\u00e1l nebude a\u017e tak probl\u00e9m,",
+            "start": 0,
+            "end": 41
+        },
+        {
+            "id": 1,
+            "claim": "Existuje hodn\u011b zmrzl\u00fdch mamut\u00edch poz\u016fstatk\u016f.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement contains a factual claim that can be verified by looking at records or studies of preserved mammoth remains.)",
+            "origin_text": "existuje hodn\u011b zmrzl\u00fdch mamut\u00edch pozustatk\u016f ...",
+            "start": 42,
+            "end": 89
+        },
+        {
+            "id": 2,
+            "claim": "Mamut\u016fv genom je dob\u0159e zdokumentovan\u00fd.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This is a verifiable statement about the extent to which scientific literature documents the mammoth genome.)",
+            "origin_text": "av\u00edc genom mamuta je celkem dob\u0159e zdokumentovan\u00fd,",
+            "start": 90,
+            "end": 139
+        },
+        {
+            "id": 3,
+            "claim": "Autor \u010detl studii o ml\u00e1d\u011bti mamuta, kter\u00e9 by mohlo slona odn\u00e9st.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement contains personal information ('autor' means 'author') without specifying who, and the claim is based on a hypothetical scenario rather than an objective fact.)",
+            "origin_text": "p\u0159ed p\u00e1r lety jsem dokonce \u010detl studii \u017ee by mohl ml\u00e1d\u011b mamuta odnosit slon.",
+            "start": 140,
+            "end": 216
+        }
+    ]
+},{
+    "source": "m\u00fdto je ve v\u011bt\u0161in\u011b okoln\u00edch zem\u00edch. Jen u n\u00e1s je to pijavice. Kapsch firma se stoletou tradic\u00ed. Asi v\u011bt\u0161ina kritizuj\u00edc\u00edch jsou samarit\u00e1n\u00ed co pracuj\u00ed zadarmo. St\u00e1t vyb\u00edr\u00e1 na m\u00fdtn\u00e9m p\u0159es 10 mld ro\u010dn\u011b. To je hezk\u00fd p\u0159\u00edjem do rozpo\u010dtu. Tyto pen\u00edze m\u011bly j\u00edt na v\u00fdstavbu d\u00e1lnic a modernizaci. Ale bohu\u017eel \u0161ly na koblihy. To sam\u00e9 EET. Babi\u0161 hl\u00e1sal kolik mld. se vybere nav\u00edc. Za to postav\u00edme \u0161koly, nemocnice... Nev\u00ed n\u011bkdo n\u00e1hodou o takov\u00e9 stavb\u011b...",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "In this country, it's considered a money grab.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement reflects an opinion or subjective perception without specifying which country or providing measurable criteria for verification.)",
+            "origin_text": "m\u00fdto je ve v\u011bt\u0161in\u011b okoln\u00edch zem\u00edch. Jen u n\u00e1s je to pijavice.",
+            "start": 0,
+            "end": 61
+        },
+        {
+            "id": 1,
+            "claim": "The state collects over 10 billion annually from tolls.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This is a factual claim about the amount of money collected by a state that can be verified through financial records or government reports.)",
+            "origin_text": "Kapsch firma se stoletou tradic\u00ed. Asi v\u011bt\u0161ina kritizuj\u00edc\u00edch jsou samarit\u00e1n\u00ed co pracuj\u00ed zadarmo. St\u00e1t vyb\u00edr\u00e1 na m\u00fdtn\u00e9m p\u0159es 10 mld ro\u010dn\u011b.",
+            "start": 62,
+            "end": 198
+        },
+        {
+            "id": 2,
+            "claim": "Funds were intended for highway construction and modernization.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement asserts specific intended uses of funds that can be verified by reviewing governmental plans or project allocations.)",
+            "origin_text": "To je hezk\u00fd p\u0159\u00edjem do rozpo\u010dtu. Tyto pen\u00edze m\u011bly j\u00edt na v\u00fdstavbu d\u00e1lnic a modernizaci.",
+            "start": 199,
+            "end": 285
+        },
+        {
+            "id": 3,
+            "claim": "Instead, money was spent on amusement rides.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This claims a factual misallocation of funds that can be investigated through financial audits or public records.)",
+            "origin_text": "Ale bohu\u017eel \u0161ly na koblihy.",
+            "start": 286,
+            "end": 313
+        },
+        {
+            "id": 4,
+            "claim": "EET funds suffered a similar misallocation.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement about EET fund allocation is verifiable by examining specific cases or financial reports detailing the use of these funds.)",
+            "origin_text": "To sam\u00e9 EET.",
+            "start": 314,
+            "end": 326
+        },
+        {
+            "id": 5,
+            "claim": "Babi\u0161 announced how many billions would be additionally collected.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (Without specifying which Babi\u0161 and the amount in question, this claim lacks clear factual reference points for verification.)",
+            "origin_text": "Babi\u0161 hl\u00e1sal kolik mld. se vybere nav\u00edc.",
+            "start": 327,
+            "end": 367
+        },
+        {
+            "id": 6,
+            "claim": "He claimed those funds would build schools and hospitals...",
+            "checkworthy": true,
+            "checkworthy_reason": "No reason provided, please report issue.",
+            "origin_text": "Za to postav\u00edme \u0161koly, nemocnice...",
+            "start": 368,
+            "end": 403
+        },
+        {
+            "id": 7,
+            "claim": "There is uncertainty about the completion of such constructions.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The term 'uncertainty' is subjective, and without specifying which constructions are in question, it lacks the specificity needed for verification.)",
+            "origin_text": "Nev\u00ed n\u011bkdo n\u00e1hodou o takov\u00e9 stavb\u011b...",
+            "start": 404,
+            "end": 441
+        }
+    ]
+},{
+    "source": "na internetu je asi milion n\u00e1vod\u016f jak cvi\u010dit doma nebo v okol\u00ed domu s vlastn\u00ed vahou a jednoduch\u00fdmi dostupn\u00fdmi pom\u016fckami. Ale stejn\u011b to tady vypad\u00e1, \u017ee obezita se u n\u00e1s poprv\u00e9 objevila a\u017e s uzav\u00edrkou okres\u016f",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "There are about one million online workout guides.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement makes a specific numerical claim that can be investigated by searching for and counting online workout guides.)",
+            "origin_text": "na internetu je asi milion n\u00e1vod\u016f",
+            "start": 0,
+            "end": 33
+        },
+        {
+            "id": 1,
+            "claim": "Workouts can be done at home or nearby with personal weights and simple tools.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is an opinion or general advice rather than a verifiable fact; it does not present specific information that can be objectively checked.)",
+            "origin_text": "jak cvi\u010dit doma nebo v okol\u00ed domu s vlastn\u00ed vahou a jednoduch\u00fdmi dostupn\u00fdmi pom\u016fckami.",
+            "start": 34,
+            "end": 120
+        },
+        {
+            "id": 2,
+            "claim": "Obesity in this context was first noticed after lockdowns of regions.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement asserts a temporal relationship between the rise in obesity and regional lockdowns, which can be verified by reviewing historical data on obesity rates and corresponding lockdown timelines.)",
+            "origin_text": "Ale stejn\u011b to tady vypad\u00e1, \u017ee obezita se u n\u00e1s poprv\u00e9 objevila a\u017e s uzav\u00edrkou okres\u016f",
+            "start": 121,
+            "end": 205
+        }
+    ]
+},{
+    "source": "take me to zarazilo, protoze typicka hudba zdejsi a novozelandske ex-pat samoanske komunity je typicky tichomorska (bubny, ukulele, kytary).Reggae je znama hudba Afro-jamajcanu , tedy uplne jiny ocean!Trochu jsem si zagoogloval. Podarilo se mi zjistit, ze na Samou se pres nedalekou Americkou Samou (soucast zamorskych teritorii USA) v novejsi dobe dostala \"havajska verze reggae\" a zpopularizovala tam, ale neprekonala puvodni tichomorskou hudebni kulturu.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "Take to Zarazilo for typical island music.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (The statement is vague and lacks specific references or context, making it unverifiable.)",
+            "origin_text": "take me to zarazilo, protoze typicka hudba zdejsi",
+            "start": 0,
+            "end": 49
+        },
+        {
+            "id": 1,
+            "claim": "Novelty in Samoan ex-pat community is typical island music.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement contains subjective elements about what is 'typical,' lacking specificity to be objectively verified.)",
+            "origin_text": "a novozelandske ex-pat samoanske komunity je typicky tichomorska (bubny, ukulele, kytary)",
+            "start": 50,
+            "end": 139
+        },
+        {
+            "id": 2,
+            "claim": "Reggae is known Afro-Jamaican music, distinct from oceanic styles.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement presents verifiable factual information regarding the origin and cultural distinction of reggae music.)",
+            "origin_text": "Reggae je znama hudba Afro-jamajcanu , tedy uplne jiny ocean!",
+            "start": 140,
+            "end": 201
+        },
+        {
+            "id": 3,
+            "claim": "A new version of reggae popularized on Samoa.",
+            "checkworthy": true,
+            "checkworthy_reason": "No (This statement lacks specific details or context, such as when or what this new version is, making it unverifiable.)",
+            "origin_text": "rochu jsem si zagoogloval. Podarilo se mi zjistit, ze na Samou se pres nedalekou Americkou Samou (soucast zamorskych teritorii USA) v novejsi dobe dostala \"havajska verze reggae\" a zpopularizovala tam",
+            "start": 202,
+            "end": 402
+        },
+        {
+            "id": 4,
+            "claim": "Traditional island music culture remains dominant in Samoa.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement contains verifiable factual information about the cultural dominance of traditional music in a specific region.)",
+            "origin_text": " ale neprekonala puvodni tichomorskou hudebni kulturu",
+            "start": 403,
+            "end": 456
+        }
+    ]
+},{
+    "source": "\u0160impanzi pou\u017e\u00edvaj\u00ed na sousedn\u00ed tlupy odstra\u0161uj\u00edc\u00ed metody - po\u0159\u00e1daj\u00ed v\u00fdpravy na zatoulan\u00e9 jedince, kter\u00e9 mrza\u010d\u00ed, ale nezab\u00edjej\u00ed: jen a\u0165 se posti\u017een\u00fd doplaz\u00ed ke sv\u00fdm a vyd\u011bs\u00ed je. Ka\u017ed\u00fd p\u0159\u00edrodn\u00ed druh jde a\u017e na hranici toho, co dok\u00e1\u017ee vymyslet. Co vymyslet nedok\u00e1\u017ee, to ned\u011bl\u00e1. Nen\u00ed to tak, \u017ee by n\u011bco mohl, ale \u0159ekl si \"ne ne, to je o\u0161kliv\u00e9, to d\u011blat nebudeme\". Lid\u00e9 nejsou zlej\u0161\u00ed, jen toho dok\u00e1\u017e\u00ed v\u00edc vymyslet.",
+    "claims": [
+        {
+            "id": 0,
+            "claim": "\u0160impanzi pou\u017e\u00edvaj\u00ed odstra\u0161uj\u00edc\u00ed metody na sousedn\u00ed tlupy.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This statement presents a factual claim about chimpanzee behavior that can be investigated through observational studies and research.)",
+            "origin_text": "\u0160impanzi pou\u017e\u00edvaj\u00ed na sousedn\u00ed tlupy odstra\u0161uj\u00edc\u00ed metody -",
+            "start": 0,
+            "end": 58
+        },
+        {
+            "id": 1,
+            "claim": "\u0160impanzi po\u0159\u00e1daj\u00ed v\u00fdpravy na zatoulan\u00e9 jedince.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (The statement makes a verifiable factual claim regarding specific behaviors of chimpanzees, which can be checked against ethological studies or documented observations.)",
+            "origin_text": "po\u0159\u00e1daj\u00ed v\u00fdpravy na zatoulan\u00e9 jedince,",
+            "start": 59,
+            "end": 97
+        },
+        {
+            "id": 2,
+            "claim": "\u0160impanzi mrza\u010d\u00ed, ale nezab\u00edjej\u00ed zatoulan\u00e9 jedince.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This is a factual assertion about the behavior of chimpanzees towards captured individuals that could be verified through scientific research and observation records.)",
+            "origin_text": "kter\u00e9 mrza\u010d\u00ed, ale nezab\u00edjej\u00ed:",
+            "start": 98,
+            "end": 127
+        },
+        {
+            "id": 3,
+            "claim": "Zatoulan\u00e9 jedince se mus\u00ed doplazit ke sv\u00fdm.",
+            "checkworthy": true,
+            "checkworthy_reason": "No reason provided, please report issue.",
+            "origin_text": "jen a\u0165 se posti\u017een\u00fd doplaz\u00ed ke sv\u00fdm",
+            "start": 128,
+            "end": 163
+        },
+        {
+            "id": 4,
+            "claim": "Zatoulan\u00ed jedinci vyd\u011bs\u00ed sousedy.",
+            "checkworthy": true,
+            "checkworthy_reason": "Yes (This is a verifiable claim regarding the behavior of captured individuals and their effect on neighboring groups, which can be observed and documented in studies.)",
+            "origin_text": "a vyd\u011bs\u00ed je.",
+            "start": 164,
+            "end": 176
+        },
+        {
+            "id": 5,
+            "claim": "Nen\u00ed, \u017ee by n\u011bco mohly d\u011blat, ale si \u0159eknou 'ne' kv\u016fli o\u0161klivosti.",
+            "checkworthy": true,
+            "checkworthy_reason": "No reason provided, please report issue.",
+            "origin_text": "Ka\u017ed\u00fd p\u0159\u00edrodn\u00ed druh jde a\u017e na hranici toho, co dok\u00e1\u017ee vymyslet. Co vymyslet nedok\u00e1\u017ee, to ned\u011bl\u00e1. Nen\u00ed to tak, \u017ee by n\u011bco mohl, ale \u0159ekl si \"ne ne, to je o\u0161kliv\u00e9, to d\u011blat nebudeme\".",
+            "start": 177,
+            "end": 358
+        },
+        {
+            "id": 6,
+            "claim": "Lid\u00e9 nejsou zlej\u0161\u00ed, jen vym\u00fd\u0161lej\u00ed v\u00edce.",
+            "checkworthy": true,
+            "checkworthy_reason": "No reason provided, please report issue.",
+            "origin_text": "Lid\u00e9 nejsou zlej\u0161\u00ed, jen toho dok\u00e1\u017e\u00ed v\u00edc vymyslet.",
+            "start": 359,
+            "end": 408
+        }
+    ]
+}]
