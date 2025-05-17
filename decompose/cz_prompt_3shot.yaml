@@ -1,0 +1,69 @@
+decompose_prompt: |
+  Tvým úkolem je rozložit text na atomické výroky.
+  Odpověď by měla být ve formátu JSON s jediným klíčem „claims“, jehož hodnota bude seznam řetězců. Každý řetězec by měl být kontextově nezávislý výrok, představující jednu faktickou informaci.
+  Poznámky:
+    
+    1. Každý výrok by měl být stručný (méně než 15 slov) a srozumitelný sám o sobě. 
+    2. V případě potřeby výrok přeformuluj tak, aby obsahoval potřebný kontext. Pokud z kontextu věty vyplývá něco, co ve větě není zmíněno, můžeš to do výroku doplnit.
+    3. Vyvaruj se vágním odkazům, jako jsou „on“, „ona“, „to“, „tato společnost“, „ten muž“, a místo toho používej úplná jména.
+    4. Ke každé větě v textu vygeneruj alespoň jeden výrok.
+    5. Pokud z věty nelze vytvořit výrok, vrať prázdný seznam.
+    
+    Například,
+    Text: To je pravda, vždyť například nakupovat se dá dneska přece přes internet.
+    Výstup: {{"claims": ["Nakupovat se dá dneska přes internet."]}}
+    
+    Text: Moc nechápu tady ty negativní komentáře. Ač fanoušek Sparty, tak jsem rád že máme v anglické lize hráče a to že jsou ze Slavie mi vůbec nevadí.
+    Výstup: {{"claims": ["Autor nechápe negativní komentáře.", "Autor je fanoušek tímu Sparta.", "V anglické lize jsou hráči fotbalu z tímu Slávie.", "Autor je rád, že Česko má v anglické fotbalové lize hráče."]}}
+
+    Text: Asi tak jako jiné firmy.
+    Výstup: {{"claims": []}}
+    
+    Text: {doc}
+    Výstup:
+
+checkworthy_prompt: |
+  Tvým úkolem je vyhodnotit každý poskytnutý výrok a určit, zda obsahuje informace, jejichž fakticita může být objektivně ověřena lidmi, bez ohledu na jeho aktuální správnost. Zvaž následující zásady:
+  1. Názory versus fakta: Rozlišuj mezi názory, které jsou subjektivní a nelze je ověřit, a výroky, které tvrdí faktické informace, i když jsou obecné či široké. Zaměř se na to, zda lze tvrzení fakticky prověřit.
+  2. Jasnost a konkrétnost: Výroky musí mít jasné a konkrétní odkazy, aby bylo možné je ověřit (např. „je profesorem“ nelze ověřit bez znalosti, o koho se jedná).
+  3. Přítomnost faktických informací: Výrok považuj za ověřitelný, pokud obsahuje faktické prvky, které lze ověřit na základě důkazů nebo spolehlivých zdrojů, i když může být celkově nepřesný či nesprávný.
+  Tvoje odpověď by měla být ve formátu JSON, kde každý výrok bude klíčem a hodnota bude buď „Yes“ nebo „No“, spolu s krátkým zdůvodněním.
+  
+  Například, u těchto výroků:
+  1. Nakupovat se dá dneska přes internet.
+  2. Autor je fanoušek tímu Sparta.
+  3. V anglické lize jsou hráči ze Slávie.
+  
+  Očekávaný výstup:
+  {{
+      "Nakupovat se dá dneska přes internet.": "Yes (Výrok obsahuje ověřitelné faktické informace o možnosti nákupu přes internet.)",
+      "Autor je fanoušek tímu sparta.": "No (Výrok mluví o názorech autora, které jsou subjektivní a nelze je ověřit)",
+      "V anglické lize jsou hráči fotbalu z tímu Slávie.": "Yes (Výrok obsahuje ověřitelné informace o přítomnosti českých fotbalových hráčú v anglické lize.)"
+  }}
+
+  Pro tyhle výroky:
+  {texts}
+
+  Očekávaný výstup by měl být:
+
+restore_prompt: |
+  Tvým úkolem je rozdělit text na úseky odpovídající jednotlivým faktům odvozeným z textu. 
+  Pro každý fakt najdi odpovídající souvislý úsek v původním textu, který obsahuje informace potřebné k jeho odvození.   Odpověď by měla být ve formátu JSON, kde klíče představují fakty a hodnoty jsou odpovídající úseky z původního textu.
+  Ujisti se, že výsledné úseky lze spojit dohromady tak, aby vytvořily původní text.
+
+  Například:
+  Text: Moc nechápu tady ty negativní komentáře. Ač fanoušek Sparty, tak jsem rád že máme v anglické lize hráče a to že jsou ze Slavie mi vůbec nevadí.
+  Fakta:  ["Autor nechápe negativní komentáře.", "Autor je fanoušek tímu Sparta.", "V anglické lize jsou hráči fotbalu z tímu Slávie.", "Autor je rád, že Česko má v anglické fotbalové lize hráče."]
+
+  Výstup: 
+  {{ 
+  "Autor nechápe negativní komentáře.": "Moc nechápu tady ty negativní komentáře",
+  "Autor je fanoušek tímu Sparta.": "Ač fanoušek Sparty",
+  "V anglické lize jsou hráči fotbalu z tímu Slávie.": "máme v anglické lize hráče a to že jsou ze Slavie mi vůbec nevadí",
+  "Autor je rád, že Česko má v anglické fotbalové lize hráče.":"jsem rád že máme v anglické lize hráče"
+  }}
+
+  Text: {doc}
+  Facts: {claims}
+
+  Výstup: 
