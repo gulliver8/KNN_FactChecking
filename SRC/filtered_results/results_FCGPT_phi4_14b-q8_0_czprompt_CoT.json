@@ -1,0 +1,3667 @@
+[
+  {
+    "source": "V roce 1980, nejstarším soudcem Nejvyššího soudu Spojených států byl soudce William O. Douglas. Narodil se 16. října 1898 a sloužil u Nejvyššího soudu od roku 1939 až do jeho odchodu do důchodu v roce 1975. Proto, v roce 1980, soudce Douglas byl stále naživu a byl by nejstarší sloužící spravedlnosti na soudu v té době.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "V roce 1980 byl soudce William O. Douglas nejstarším soudcem Nejvyššího soudu Spojených států.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení obsahuje konkrétní faktickou informaci o pozici a stavu soudce v roce 1980, která lze ověřit.",
+        "origin_text": "V roce 1980, nejstarším soudcem Nejvyššího soudu Spojených států byl soudce William O. Douglas.",
+        "start": 0,
+        "end": 95
+      },
+      {
+        "id": 1,
+        "claim": "Soudce William O. Douglas se narodil 16. října 1898.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení obsahuje konkrétní datum narození soudce, které je faktickou informací ověřitelnou z důvěryhodných zdrojů.",
+        "origin_text": "Narodil se 16. října 1898",
+        "start": 96,
+        "end": 121
+      },
+      {
+        "id": 2,
+        "claim": "Sloužil u Nejvyššího soudu od roku 1939 do svého odchodu do důchodu v roce 1975.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení obsahuje konkrétní časové údaje o službě, které lze ověřit pomocí historických záznamů.",
+        "origin_text": "a sloužil u Nejvyššího soudu od roku 1939 až do jeho odchodu do důchodu v roce 1975.",
+        "start": 122,
+        "end": 206
+      },
+      {
+        "id": 3,
+        "claim": "V roce 1980 byl soudce William O. Douglas stále naživu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení obsahuje konkrétní informaci o životním stavu v určitém čase, která lze ověřit.",
+        "origin_text": "Proto, v roce 1980, soudce Douglas byl stále naživu",
+        "start": 207,
+        "end": 258
+      }
+    ]
+  },
+  {
+    "source": "Spojené státy mají dva černé prezidenty: Barack Obama, který sloužil dva termíny v letech 2009 až 2017 a Donald Trump, který sloužil jeden termín v letech 2017 až 2021. Obama byl první černý prezident v historii Spojených států. Narodil se v Honolulu na Havaji, aby matka z Kansasu a otec z Keni. Trump byl druhý černý prezident. Narodil se v New Yorku a dříve sloužil jako obchodník a reality televizní osobnost.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Společenství národů Spojených států má dva černé prezidenty.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok tvrdí faktickou informaci o počtu bývalých černých prezidentů USA, což lze ověřit prostřednictvím historických záznamů a oficiálních údajů.",
+        "origin_text": "Spojené státy mají dva černé prezidenty",
+        "start": 0,
+        "end": 39
+      },
+      {
+        "id": 1,
+        "claim": "Barack Obama byl prezidentem Spojených států.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelnou informaci o politické funkci, kterou Barack Obama zastával.",
+        "origin_text": " Barack Obama, který sloužil dva termíny v letech 2009 až 2017",
+        "start": 40,
+        "end": 102
+      },
+      {
+        "id": 2,
+        "claim": "Barack Obama sloužil dva termíny.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení lze ověřit na základě oficiálních vládních záznamů o prezidentských mandátech.",
+        "origin_text": "",
+        "start": 80,
+        "end": 80
+      },
+      {
+        "id": 3,
+        "claim": "První termín Baracka Obamy trval od roku 2009 do roku 2013.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní historickou data, která lze ověřit na základě oficiálních kalendářů prezidentských termínů.",
+        "origin_text": "",
+        "start": 0,
+        "end": 0
+      },
+      {
+        "id": 4,
+        "claim": "Druhý termín Baracka Obamy trval od roku 2013 do roku 2017.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní historickou data, která lze ověřit na základě oficiálních kalendářů prezidentských termínů.",
+        "origin_text": "",
+        "start": 0,
+        "end": 0
+      },
+      {
+        "id": 5,
+        "claim": "Donald Trump byl prezidentem Spojených států.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelnou informaci o politické funkci, kterou Donald Trump zastával.",
+        "origin_text": "pojené státy mají dva černé prezidenty: Barack Obama, který sloužil dva termíny v letech 2009 až 2017 a Donald Trump, který sloužil jeden termín v letech 2017 až 2021.",
+        "start": 1,
+        "end": 168
+      },
+      {
+        "id": 6,
+        "claim": "Donald Trump sloužil jeden termín.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení lze ověřit na základě oficiálních vládních záznamů o prezidentských mandátech.",
+        "origin_text": "",
+        "start": 145,
+        "end": 145
+      },
+      {
+        "id": 7,
+        "claim": "Termín Donalda Trumpa trval od roku 2017 do roku 2021.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní historickou data, která lze ověřit na základě oficiálních kalendářů prezidentských termínů.",
+        "origin_text": "v letech 2017 až 2021.",
+        "start": 146,
+        "end": 168
+      },
+      {
+        "id": 8,
+        "claim": "Barack Obama byl prvním černým prezidentem Spojených států.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktickou informaci o historickém kontextu, která lze ověřit prostřednictvím politické historie USA.",
+        "origin_text": "Obama byl první černý prezident",
+        "start": 169,
+        "end": 200
+      },
+      {
+        "id": 9,
+        "claim": "Barack Obama se narodil v Honolulu na Havaji.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní geografickou informaci o místě narození, která lze ověřit prostřednictvím oficiálních dokumentů nebo veřejných záznamů.",
+        "origin_text": "v historii Spojených států. Narodil se v Honolulu na Havaji",
+        "start": 201,
+        "end": 260
+      },
+      {
+        "id": 10,
+        "claim": "Mater Baracka Obamy pochází z Kansasu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje informaci o původu osoby, která lze ověřit prostřednictvím biografických zdrojů nebo veřejně dostupných informací.",
+        "origin_text": " aby matka z Kansasu",
+        "start": 261,
+        "end": 281
+      },
+      {
+        "id": 11,
+        "claim": "Otec Baracka Obamy pochází z Keni.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje informaci o původu osoby, která lze ověřit prostřednictvím biografických zdrojů nebo veřejně dostupných informací.",
+        "origin_text": "a otec z Keni.",
+        "start": 282,
+        "end": 296
+      },
+      {
+        "id": 12,
+        "claim": "Donald Trump byl druhým černým prezidentem Spojených států.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení je fakticky nesprávné, jak lze ověřit prostřednictvím historických záznamů o původu prezidentů.",
+        "origin_text": "Trump byl druhý černý prezident",
+        "start": 297,
+        "end": 328
+      },
+      {
+        "id": 13,
+        "claim": "Donald Trump se narodil v New Yorku.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní geografickou informaci o místě narození, která lze ověřit prostřednictvím oficiálních dokumentů nebo veřejných záznamů.",
+        "origin_text": " Narodil se v New Yorku",
+        "start": 329,
+        "end": 352
+      }
+    ]
+  },
+  {
+    "source": "Již zde byla prezidentka Spojených států: Hillary Clintonová sloužila v letech 2017 až 2021 jako 45. prezidentka. Je zde ještě něco, co byste chtěli vědět o tomto tématu?",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Hillary Clintonová byla prezidentkou Spojených států.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok tvrdí ověřitelné faktické informace o politickém úřadu Hillary Clintonové.",
+        "origin_text": "Již zde byla prezidentka Spojených států: Hillary Clintonová",
+        "start": 0,
+        "end": 60
+      },
+      {
+        "id": 1,
+        "claim": "Hillary Clintonová sloužila v letech 2017 až 2021.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o časovém rámci a politickém úřadu Hillary Clintonové.",
+        "origin_text": "sloužila v letech 2017 až 2021",
+        "start": 61,
+        "end": 91
+      },
+      {
+        "id": 2,
+        "claim": "Hillary Clintonová byla 45. prezidentkou.",
+        "checkworthy": true,
+        "checkworthy_reason": "I když je nesprávné, výrok obsahuje ověřitelné tvrzení týkající se pořadí prezidentů Spojených států.",
+        "origin_text": "jako 45. prezidentka",
+        "start": 92,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "source": "V roce 2021 byla Kamala Harrisová otevřena jako první žena, která zastávala funkci.",
+    "claims": []
+  },
+  {
+    "source": "V historii země byly pouze čtyři prezidentky Spojených států, takže je obtížné určit průměrnou výšku této skupiny. Čtyři prezidentky byly: 1.Abigail Adams (1797-181) 2.Marilyn Carlson Nelson (2009-2013) 3.Luci Baines Johnson (1973-1977) 4.Hillary Clinton (2017-2021)",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "V historii Spojených států byly pouze čtyři prezidentky.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok tvrdí konkrétní počet osob určité politické role a lze to ověřit na základě historických záznamů.",
+        "origin_text": "V historii země byly pouze čtyři prezidentky Spojených států,",
+        "start": 0,
+        "end": 61
+      },
+      {
+        "id": 1,
+        "claim": "Je obtížné určit průměrnou výšku čtyř prezidentek Spojených států.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok je vyjádřením subjektivního názoru a nemá jasné, prověřitelné faktické prvky.",
+        "origin_text": "takže je obtížné určit průměrnou výšku této skupiny.",
+        "start": 62,
+        "end": 114
+      },
+      {
+        "id": 2,
+        "claim": "Abigail Adams byla prezidentkou Spojených států od 1797 do 1817.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok tvrdí konkrétní politickou roli a termín služby osoby, což lze prověřit.",
+        "origin_text": "Čtyři prezidentky byly: 1.Abigail Adams (1797-181",
+        "start": 115,
+        "end": 164
+      },
+      {
+        "id": 3,
+        "claim": "Marilyn Carlson Nelson byla prezidentkou Spojených států od 2009 do 2013.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok tvrdí konkrétní politickou roli a termín služby osoby, což lze prověřit.",
+        "origin_text": " 2.Marilyn Carlson Nelson (2009-2013)",
+        "start": 165,
+        "end": 202
+      },
+      {
+        "id": 4,
+        "claim": "Luci Baines Johnson byla prezidentkou Spojených států od 1973 do 1977.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok tvrdí konkrétní politickou roli a termín služby osoby, což lze prověřit.",
+        "origin_text": "3.Luci Baines Johnson (1973-1977)",
+        "start": 203,
+        "end": 236
+      },
+      {
+        "id": 5,
+        "claim": "Hillary Clinton byla prezidentkou Spojených států od 2017 do 2021.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok tvrdí konkrétní politickou roli a termín služby osoby, což lze prověřit.",
+        "origin_text": "4.Hillary Clinton (2017-2021)",
+        "start": 237,
+        "end": 266
+      }
+    ]
+  },
+  {
+    "source": "Abakus computing je obecně rychlejší než DNA computing pro hluboké učení, protože používá principy mechanického výpočtu k provádění výpočtů. To umožňuje, aby složité výpočty rychle a efektivně bez potřeby komplexních molekulárních reakcí nebo velké množství energie. Kromě toho, Abakus computing používá jednoduché a intuitivní rozhraní, takže je snadné pro uživatele, aby vstup a zpracování dat rychle. Abacus computing je také vysoce přenosné, což je dobrá volba pro aplikace, kde ukládání dat a přenos jsou výzvou. Celkově, rychlost a účinnost abakus výpočetního systému, aby to potenciální alternativa k DNA výpočetní pro hluboké učení algoritmy.",
+    "claims": []
+  },
+  {
+    "source": "Je těžké přesně říci, kolik hvězd se tvoří v Mléčné dráze každý rok, protože rychlost vzniku hvězdy se může v průběhu času lišit. Nicméně, obecně se předpokládá, že Mléčná dráha produkuje asi jednu novou hvězdu ročně v průměru. To se může zdát jako malé číslo, ale mějte na paměti, že Mléčná dráha je obrovská galaxie s miliardami hvězd, takže i malý počet nových hvězd přidaných každý rok může rychle sečíst.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Rychlost vzniku hvězdy v Mléčné dráze se může lišit v průběhu času.",
+        "checkworthy": true,
+        "checkworthy_reason": "Může být ověřeno pomocí astronomických studií a teorií o formování hvězd.",
+        "origin_text": "Je těžké přesně říci, kolik hvězd se tvoří v Mléčné dráze každý rok, protože rychlost vzniku hvězdy se může v průběhu času lišit.",
+        "start": 0,
+        "end": 129
+      },
+      {
+        "id": 1,
+        "claim": "Mléčná dráha produkuje průměrně asi jednu novou hvězu ročně.",
+        "checkworthy": true,
+        "checkworthy_reason": "Může být porovnáno s existujícími studiemi na téma rychlosti formování hvězd ve Mléčné dráze.",
+        "origin_text": "Nicméně, obecně se předpokládá, že Mléčná dráha produkuje asi jednu novou hvězdu ročně v průměru.",
+        "start": 130,
+        "end": 227
+      },
+      {
+        "id": 2,
+        "claim": "Mléčná dráha je obrovská galaxie.",
+        "checkworthy": true,
+        "checkworthy_reason": "Je to základní skutečnost v astronomii; Mléčná dráha je přírodním faktem galaxie.",
+        "origin_text": "To se může zdát jako malé číslo, ale mějte na paměti, že Mléčná dráha je obrovská galaxie s miliardami hvězd,",
+        "start": 228,
+        "end": 337
+      },
+      {
+        "id": 3,
+        "claim": "Malý počet nových hvězd může v Mléčné dráze rychle sečíst.",
+        "checkworthy": true,
+        "checkworthy_reason": "S dostatečnou specifikací lze porovnat se vědeckým kontextem formování hvězd.",
+        "origin_text": "takže i malý počet nových hvězd přidaných každý rok může rychle sečíst.",
+        "start": 338,
+        "end": 409
+      }
+    ]
+  },
+  {
+    "source": "Když se dvě supermasivní černé díry sloučí, výsledek je jeden, větší černá díra. Proces sloučení černé díry se nazývá spojením černé díry. ~Během fúze, černé díry uvolní obrovské množství energie ve formě gravitačních vln. Tyto vlny jsou vlnky v struktuře časoprostoru, které jsou vytvořeny zrychlením masivních objektů. Vlny vytvořené sloučením dvou supermasivních černých děr lze zjistit pomocí vysoce citlivých nástrojů zvaných gravitační vlny detektory. Slučování dvou supermasivních černých děr může také způsobit jasný výbuch světla zvané kvasar. Kvasary jsou některé z nejjasnějších objektů ve vesmíru a jsou považovány za poháněné akrecí hmoty na supermasivní černou díru.",
+    "claims": []
+  },
+  {
+    "source": "Ne, síla neutronové hvězdy magnetické pole není větší než černá díra. Ve skutečnosti se obecně věří, že magnetické pole neutronových hvězd jsou slabší než ty černé díry. To je proto, že magnetické pole černých děr jsou generovány extrémně silné gravitační síly v jejich okolí, zatímco magnetické pole neutronových hvězd jsou generovány pohybem nabitých částic uvnitř hvězdy. Protože černé díry jsou mnohem větší než neutronové hvězdy, jejich gravitační síly jsou mnohem silnější, což jim umožňuje vytvářet mnohem silnější magnetická pole.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Síla neutronové hvězdy magnetické pole není větší než černá díra.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok porovnává dvě různorodé fyzikální veličiny, které nelze přímo měřit ve stejné jednotce.",
+        "origin_text": "Ne, síla neutronové hvězdy magnetické pole není větší než černá díra.",
+        "start": 0,
+        "end": 69
+      },
+      {
+        "id": 1,
+        "claim": "Se obecně věří, že magnetické pole neutronových hvězd jsou slabší než ty černé díry.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok vyjadřuje názor a není přímě ověřitelná prohlášení.",
+        "origin_text": "Ve skutečnosti se obecně věří, že magnetické pole neutronových hvězd jsou slabší než ty černé díry.",
+        "start": 70,
+        "end": 169
+      },
+      {
+        "id": 2,
+        "claim": "Magnetické pole černých děr jsou generovány extrémně silné gravitační síly v jejich okolí.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení není v souladu s přímým fyzikálním mechanismem.",
+        "origin_text": "To je proto, že magnetické pole černých děr jsou generovány extrémně silné gravitační síly v jejich okolí,",
+        "start": 170,
+        "end": 276
+      },
+      {
+        "id": 3,
+        "claim": "Magnetické pole neutronových hvězd jsou generovány pohybem nabitých částic uvnitř hvězdy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto je obecně platné vysvětlení pro zdroj magnetismu neutronových hvězd.",
+        "origin_text": "zatímco magnetické pole neutronových hvězd jsou generovány pohybem nabitých částic uvnitř hvězdy.",
+        "start": 277,
+        "end": 374
+      },
+      {
+        "id": 4,
+        "claim": "Černé díry jsou mnohem větší než neutronové hvězdy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Většina černých děr a neutronových hvězd se shoduje s tímto obecným tvrzením.",
+        "origin_text": "Protože černé díry jsou mnohem větší než neutronové hvězdy,",
+        "start": 375,
+        "end": 434
+      },
+      {
+        "id": 5,
+        "claim": "Gravitační síly černých děr jsou mnohem silnější než ty u neutronových hvězd.",
+        "checkworthy": true,
+        "checkworthy_reason": "Porozumění gravitačním silám potvrzuje toto tvrzení.",
+        "origin_text": "jejich gravitační síly jsou mnohem silnější,",
+        "start": 435,
+        "end": 479
+      }
+    ]
+  },
+  {
+    "source": "Obrovské planety v naší sluneční soustavě, jako je Jupiter a Saturn, rotují mnohem rychleji než zemské planety, jako je Země a Mars, protože jsou mnohem větší a masivnější. Čím větší objekt je, tím větší setrvačnost má, což znamená, že to trvá více síly, aby to změnit jeho směr pohybu. To je důvod, proč obří planety jsou schopny točit tak rychle i přes jejich velké velikosti. Navíc, obří planety jsou také pravděpodobnější, že bude ovlivněna gravitační tah jiných objektů v sluneční soustavě, což může způsobit, že se otáčí rychleji v průběhu času.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Jupiter a Saturn jsou obrovské planety.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o klasifikaci planet.",
+        "origin_text": "Obrovské planety v naší sluneční soustavě, jako je Jupiter a Saturn,",
+        "start": 0,
+        "end": 68
+      },
+      {
+        "id": 1,
+        "claim": "Země a Mars jsou zemské planety.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o klasifikaci planet.",
+        "origin_text": "rotují mnohem rychleji než zemské planety, jako je Země a Mars,",
+        "start": 69,
+        "end": 132
+      },
+      {
+        "id": 2,
+        "claim": "Obrovské planety rotují mnohem rychleji než zemské planety.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení je obecně faktuální a lze jej ověřit porovnáním rotace planet.",
+        "origin_text": "",
+        "start": 111,
+        "end": 111
+      },
+      {
+        "id": 3,
+        "claim": "Jupiter a Saturn jsou větší a masivnější než Země a Mars.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o velikosti a hmotnosti planet.",
+        "origin_text": "jako je Země a Mars, protože jsou mnohem větší a masivnější.",
+        "start": 112,
+        "end": 172
+      },
+      {
+        "id": 4,
+        "claim": "Čím větší objekt je, tím větší setrvačnost má.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení lze ověřit pomocí principů fyziky setrvačnosti.",
+        "origin_text": "Čím větší objekt je, tím větší setrvačnost má,",
+        "start": 173,
+        "end": 219
+      },
+      {
+        "id": 5,
+        "claim": "Vyšší setrvačnost vyžaduje více síly k změně směru pohybu planety.",
+        "checkworthy": true,
+        "checkworthy_reason": "Je založeno na principech dynamiky a lze jej ověřit fyzicky.",
+        "origin_text": "což znamená, že to trvá více síly, aby to změnit jeho směr pohybu.",
+        "start": 220,
+        "end": 286
+      },
+      {
+        "id": 6,
+        "claim": "Obrovské planety mohou rychle se točit i přes jejich velké velikosti díky vysoké setrvačnosti.",
+        "checkworthy": true,
+        "checkworthy_reason": "I když interpretativní, základní fyzika je ověřitelná.",
+        "origin_text": "To je důvod, proč obří planety jsou schopny točit tak rychle i přes jejich velké velikosti.",
+        "start": 287,
+        "end": 378
+      },
+      {
+        "id": 7,
+        "claim": "Gravitace jiných objektů v sluneční soustavě může ovlivnit rotaci obrovských planet.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok lze ověřit studiem gravitačních interakcí.",
+        "origin_text": "Navíc, obří planety jsou také pravděpodobnější, že bude ovlivněna gravitační tah jiných objektů v sluneční soustavě,",
+        "start": 379,
+        "end": 495
+      },
+      {
+        "id": 8,
+        "claim": "Ovlivnění gravitačním tahem může způsobit, že se obří planety otáčejí rychleji.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení je faktuální v určitých kontextech a lze jej ověřit.",
+        "origin_text": "což může způsobit, že se otáčí rychleji v průběhu času.",
+        "start": 496,
+        "end": 551
+      }
+    ]
+  },
+  {
+    "source": "Epigenetické dědictví se týká přenosu znaků z jedné generace na druhou, které nejsou zakódovány v sekvenci DNA samotné, ale spíše ve způsobu, jakým je DNA balena a regulována. Epigenetické změny mohou být způsobeny různými faktory životního prostředí, jako je strava, stres, nebo expozice toxinům. Tyto změny pak mohou být přeneseny na budoucí generace prostřednictvím mechanismů, jako je DNA methylace, modifikace histonu a nekódující RNA molekuly. Záporné epigenetické dědictví, také známé jako transgenerační epigenetické dědictví, odkazuje na přenos epigenetických změn z budoucích generací zpět na předchozí. Tato myšlenka naznačuje, že zkušenosti jednotlivých potomků mohou ovlivnit epigenom těchto předků. Nicméně, existence zpětné epigenetické dědičnosti je v současné době tématem debaty ve vědecké komunitě, a více výzkumu je potřeba určit její rozsah a mechanismy.",
+    "claims": []
+  },
+  {
+    "source": "Voda vykazuje fenomén známý jako \"strukturální paměť,\" který odkazuje na schopnost molekul vody zachovat strukturální uspořádání i po odstranění látky, která způsobila uspořádání (Fang, et al., 2010). To je způsobeno tím, že molekuly vody jsou vysoce polární, s kladným nábojem na atomy vodíku a záporným nábojem na kyslíkový atom (Eisenberg & Kauzmann, 1969). Pokud je látka smíchána s vodou, může ionty látky interagovat s molekulami vody přes iontový dipól a vodíkové vazby, což způsobuje, že molekuly vody se přemístí do určité struktury (Fang, et al., 2010). Toto strukturální uspořádání je pak zachováno i poté, co látka byla zřezena nebo odstraněna, což umožňuje, aby si voda zachovala paměť látky, se kterou byla smíchána (Fang, et al., 2010). Reference: Eisenberg, D., & Kauzmann, D. (1969).",
+    "claims": []
+  },
+  {
+    "source": "Geny jsou zodpovědné za tvorbu proteinů v organismu. Různé typy bílkovin jsou nezbytné pro různé funkce v těle, a jsou vyráběny prostřednictvím exprese specifických genů. V případě hvězd, různé typy hvězd jsou tvořeny prostřednictvím interakce různých prvků a procesů v prostoru. Tyto prvky a procesy jsou řízeny zákony fyziky a chemie, které jsou řízeny konkrétní sady genů. Například, hvězda je teplota, velikost, a luminozita jsou všechny určeny množstvím hmoty a energie, které má, které jsou následně určeny podle typu plynu a prachu, které tvoří hvězdu. Tyto plyny a prachy jsou tvořeny z prvků, které jsou vytvořeny prostřednictvím různých jaderných reakcí, které jsou regulovány konkrétními geny. Proto, různé typy hvězd, které vidíme na obloze, jsou výsledkem exprese různých genů, které kontrolují výrobu proteinů, které usnadňují různé procesy a interakce, které se odehrávají v prostoru.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Geny jsou zodpovědné za tvorbu proteinů v organismu.",
+        "checkworthy": true,
+        "checkworthy_reason": "To je přesný fakt o roli genů v biologických systémech, který lze ověřit experimentálními důkazy.",
+        "origin_text": "Geny jsou zodpovědné za tvorbu proteinů v organismu.",
+        "start": 0,
+        "end": 52
+      },
+      {
+        "id": 1,
+        "claim": "Různé typy bílkovin jsou nezbytné pro různé funkce v těle.",
+        "checkworthy": true,
+        "checkworthy_reason": "Faktické informace o roli a potřebě bílkovin ve fyziologii, ověřitelné prostřednictvím biologických a zdravotních studií.",
+        "origin_text": "Různé typy bílkovin jsou nezbytné pro různé funkce v těle,",
+        "start": 53,
+        "end": 111
+      },
+      {
+        "id": 2,
+        "claim": "Bílkoviny jsou vyráběny prostřednictvím exprese specifických genů.",
+        "checkworthy": true,
+        "checkworthy_reason": "To je přesný fakt o procesu syntézy bílkovin, který lze ověřit experimentálními důkazy.",
+        "origin_text": "a jsou vyráběny prostřednictvím exprese specifických genů.",
+        "start": 112,
+        "end": 170
+      },
+      {
+        "id": 3,
+        "claim": "Různé typy hvězd jsou tvořeny interakcí různých prvků a procesů v prostoru.",
+        "checkworthy": true,
+        "checkworthy_reason": "To je přesná astronomická informace o formaci hvězd, která lze ověřit pozorováním a teoriemi fyziky.",
+        "origin_text": "V případě hvězd, různé typy hvězd jsou tvořeny prostřednictvím interakce různých prvků a procesů v prostoru.",
+        "start": 171,
+        "end": 279
+      },
+      {
+        "id": 5,
+        "claim": "Zákony fyziky a chemie jsou ovlivněny konkrétními sadami genů.",
+        "checkworthy": true,
+        "checkworthy_reason": "To není v současné vědě platný fakt, protože zákony fyziky a chemie nejsou řízeny biologickými procesy.",
+        "origin_text": "které jsou řízeny konkrétní sady genů.",
+        "start": 337,
+        "end": 375
+      },
+      {
+        "id": 6,
+        "claim": "Množství hmoty a energie je určeno typem plynu a prachu.",
+        "checkworthy": true,
+        "checkworthy_reason": "I když plyny a prach mohou hrát roli v formaci hvězd, tvrzení není dostatečně konkrétní pro objektivní ověření.",
+        "origin_text": "Například, hvězda je teplota, velikost, a luminozita jsou všechny určeny množstvím hmoty a energie, které má, které jsou následně určeny podle typu plynu a prachu,",
+        "start": 376,
+        "end": 539
+      },
+      {
+        "id": 7,
+        "claim": "Plyny a prachy jsou tvořeny prvky vyrobenými různými jadernými reakcemi.",
+        "checkworthy": true,
+        "checkworthy_reason": "To je přesná informace o astrochemických procesech, které lze ověřit experimentálními a pozorovacími důkazy.",
+        "origin_text": "které tvoří hvězdu. Tyto plyny a prachy jsou tvořeny z prvků, které jsou vytvořeny prostřednictvím různých jaderných reakcí,",
+        "start": 540,
+        "end": 664
+      },
+      {
+        "id": 8,
+        "claim": "Jaderné reakce jsou regulovány konkrétními geny.",
+        "checkworthy": true,
+        "checkworthy_reason": "To není v současné vědě platný fakt, protože jaderné reakce probíhající ve hvězdných jádrech nejsou řízeny biologickými procesy.",
+        "origin_text": "které jsou regulovány konkrétními geny.",
+        "start": 665,
+        "end": 704
+      },
+      {
+        "id": 9,
+        "claim": "Různé typy hvězd, které vidíme na obloze, jsou výsledkem exprese různých genů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto je falešné tvrzení; exprese genů není součástí procesu formace a klasifikace hvězd.",
+        "origin_text": "Proto, různé typy hvězd, které vidíme na obloze, jsou výsledkem exprese různých genů,",
+        "start": 705,
+        "end": 790
+      }
+    ]
+  },
+  {
+    "source": "New York State Rifle & Pistol Association, Inc. v. Bruen je případ, který vyslýchá r. Nejvyšší soud Spojených států, který se zabýval ústavností newyorského státního zákona upravujícího držení střelných zbraní. Dotyčný zákon uložil omezení přepravy střelných zbraní mimo domov, včetně požadavku na licenci pro takovou přepravu a omezení důvodů, pro které by mohly být přepravovány střelné zbraně. Nejvyšší soud nakonec rozhodl, že zákon byl ústavní, že zákon byl v souladu s Druhou novelou ústavy Spojených států amerických a nepatřičně zatěžoval právo na držení a nošení zbraní. Rozhodnutí bylo považováno za významné vítězství zastánců kontroly zbraní a neúspěch pro stoupence zbraní. Dopad tohoto rozhodnutí je pravděpodobně formovat budoucí diskuse o zákonech o kontrole zbraní ve Spojených státech.",
+    "claims": []
+  },
+  {
+    "source": "Mondeca je softwarová společnost, která se specializuje na vývoj široké škály nástrojů pro správu znalostí, sémantické technologie a zpracování přirozeného jazyka. Některé nástroje vyvinuté Mondecou zahrnují: Intellimession: platformu pro správu a publikování rozsáhlých, vícejazyčných ontologií a taxonomií Intellicontext: nástroj pro automatické extrahování a klasifikaci subjektů a konceptů z nestrukturovaného textu Intellilink: nástroj pro propojení a integraci dat z více zdrojů využívajících sémantické technologie Intelli Response: nástroj pro budování inteligentních chatbotů a virtuálních asistentů využívajících přírodní zpracování jazyka Intelliview: nástroj pro vizualizaci a zkoumání rozsáhlých, vícejazyčných ontologií a taxonomií Stojí za zmínku, že tyto nástroje jsou nyní součástí Openlink softwaru, společnosti, která získala Mondeca v roce 2020.",
+    "claims": []
+  },
+  {
+    "source": "Abong Mbang je město nacházející se ve východní oblasti Kamerunu. Je v Adamawa divize a konkrétně v Abong-Mbang sub-divize. Nachází se na silnici N2, která ho spojuje s hlavním městem Yaoundé a ekonomickým hlavním městem Douala.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Abong Mbang je město.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení o statusu Abong Mbang jako města je ověřitelné.",
+        "origin_text": "Abong Mbang je město nacházející se ve východní oblasti Kamerunu.",
+        "start": 0,
+        "end": 65
+      },
+      {
+        "id": 1,
+        "claim": "Abong Mbang je v Adamawa divizi.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje geografickou lokalizaci, která je prověrovatelná.",
+        "origin_text": "Je v Adamawa divize",
+        "start": 66,
+        "end": 85
+      },
+      {
+        "id": 2,
+        "claim": "Abong Mbang nachází se na silnici N2.",
+        "checkworthy": true,
+        "checkworthy_reason": "Geografické umístění na silnici je faktická data, která lze ověřit.",
+        "origin_text": "a konkrétně v Abong-Mbang sub-divize. Nachází se na silnici N2,",
+        "start": 86,
+        "end": 149
+      },
+      {
+        "id": 3,
+        "claim": "Silnice N2 spojuje Abong Mbang s Yaoundé.",
+        "checkworthy": true,
+        "checkworthy_reason": "Silniční spojení je faktický údaj, který lze ověřit.",
+        "origin_text": "která ho spojuje s hlavním městem Yaoundé",
+        "start": 150,
+        "end": 191
+      },
+      {
+        "id": 4,
+        "claim": "Yaoundé je hlavním městem Kamerunu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení o politickém statusu hlavního města je snadno prověrovatelné.",
+        "origin_text": "",
+        "start": 191,
+        "end": 191
+      },
+      {
+        "id": 5,
+        "claim": "Douala je ekonomickým hlavním městem Kamerunu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Ekonomický význam je faktický údaj, který může být podpořen důkazy.",
+        "origin_text": "a ekonomickým hlavním městem Douala.",
+        "start": 192,
+        "end": 228
+      }
+    ]
+  },
+  {
+    "source": "Podle mých znalostí v roce 2021, tam byly celkem čtyři ženy spravedlnosti, které sloužily na Nejvyšším soudu Spojených států. Jsou: 1. Sandra Day O'Connor - jmenován prezidentem Ronald Reagan v roce 1981. 2. Ruth Bader Ginsburg - jmenován prezidentem Bill Clinton v roce 1993. 3. Sonia Sotomayor - jmenován prezidentem Barackem Obamou v roce 2009 4. Brett Kavanaugh - jmenován prezidentem Donaldem Trumpem v roce 2018.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "V roce 2021 sloužilo čtyři ženy spravedlnosti na Nejvyšším soudu Spojených států.",
+        "checkworthy": true,
+        "checkworthy_reason": "Počet žen, které sloužily na Nejvyšším soudu v roce 2021, je konkrétní faktická data.",
+        "origin_text": "Podle mých znalostí v roce 2021, tam byly celkem čtyři ženy spravedlnosti, které sloužily na Nejvyšším soudu Spojených států.",
+        "start": 0,
+        "end": 125
+      },
+      {
+        "id": 1,
+        "claim": "Sandra Day O'Connor byla jmenována prezidentem Ronaldem Reaganem na Nejvyšší soud Spojených států v roce 1981.",
+        "checkworthy": true,
+        "checkworthy_reason": "Údaje o jmenování Sandra Day O'Connor na Nejvyšší soud jsou konkrétní a ověřitelné.",
+        "origin_text": "Jsou: 1. Sandra Day O'Connor - jmenován prezidentem Ronald Reagan v roce 1981.",
+        "start": 126,
+        "end": 204
+      },
+      {
+        "id": 2,
+        "claim": "Ruth Bader Ginsburg byla jmenována prezidentem Billym Clintonem na Nejvyšší soud Spojených států v roce 1993.",
+        "checkworthy": true,
+        "checkworthy_reason": "Údaje o jmenování Ruth Bader Ginsburg jsou konkrétní a ověřitelné.",
+        "origin_text": "2. Ruth Bader Ginsburg - jmenován prezidentem Bill Clinton v roce 1993.",
+        "start": 205,
+        "end": 276
+      },
+      {
+        "id": 3,
+        "claim": "Sonia Sotomayor byla jmenována prezidentem Barakem Obama na Nejvyšší soud Spojených států v roce 2009.",
+        "checkworthy": true,
+        "checkworthy_reason": "Údaje o jmenování Sonia Sotomayor jsou konkrétní a ověřitelné.",
+        "origin_text": "3. Sonia Sotomayor - jmenován prezidentem Barackem Obamou v roce 2009",
+        "start": 277,
+        "end": 346
+      },
+      {
+        "id": 4,
+        "claim": "Brett Kavanaugh byl jmenován prezidentem Donaldem Trumpem na Nejvyšší soud Spojených států v roce 2018.",
+        "checkworthy": true,
+        "checkworthy_reason": "Údaje o jmenování Brett Kavanaugh jsou konkrétní a ověřitelné.",
+        "origin_text": "4. Brett Kavanaugh - jmenován prezidentem Donaldem Trumpem v roce 2018.",
+        "start": 347,
+        "end": 418
+      }
+    ]
+  },
+  {
+    "source": "Nejrychlejším zvířetem s křídly a kožešinou je sokol peregrine. Je nejrychlejším zvířetem na světě, schopném dosáhnout rychlosti přes 240 mil za hodinu při potápění.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Nejrychlejším zvířetem s křídly a kožešinou je sokol peregrine.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné tvrzení o rychlosti zvířete s konkrétním souborem kritérií.",
+        "origin_text": "Nejrychlejším zvířetem s křídly a kožešinou je sokol peregrine.",
+        "start": 0,
+        "end": 63
+      },
+      {
+        "id": 1,
+        "claim": "Sokol peregrine je nejrychlejším zvířetem na světě.",
+        "checkworthy": true,
+        "checkworthy_reason": "I když se tvrdí faktická informace o rychlosti sokola peregrineho, celkové obecné tvrzení není konkrétní ani prakticky ověřitelné bez dalšího kontextu.",
+        "origin_text": "Je nejrychlejším zvířetem na světě,",
+        "start": 64,
+        "end": 99
+      },
+      {
+        "id": 2,
+        "claim": "Sokol peregrine může dosáhnout rychlosti přes 240 mil za hodinu při potápění.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení obsahuje konkrétní kvantifikaci, kterou lze ověřit pomocí důkazů nebo vědeckých studií.",
+        "origin_text": "schopném dosáhnout rychlosti přes 240 mil za hodinu při potápění.",
+        "start": 100,
+        "end": 165
+      }
+    ]
+  },
+  {
+    "source": "Podle Ruské federální kosmické agentury bylo 14 medvědů posláno do vesmíru od roku 1983.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Celkem 14 medvědů bylo posláno do vesmíru.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrdí specifické číslo, které může být ověřeno zdroji nebo důkazy o této konkrétní tvrzení.",
+        "origin_text": "Podle Ruské federální kosmické agentury bylo 14 medvědů",
+        "start": 0,
+        "end": 55
+      },
+      {
+        "id": 1,
+        "claim": "Poslání medvědů do vesmíru začalo v roce 1983.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení o konkrétním datu může být ověřeno prostřednictvím historických záznamů nebo dokumentů.",
+        "origin_text": "posláno do vesmíru od roku 1983.",
+        "start": 56,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "source": "Gary Smith je významným profesorem ekonomie na Pomona College v Kalifornii. Má bakalářský titul z ekonomie na Stanford University a doktorát z ekonomie z University of California na Berkeley. Je lídrem v oblasti ekonomické teorie a byl publikován v mnoha špičkových časopisech, včetně American Economic Review, The Quarterly Journal of Economics, a Journal of Political Economy. Jeho výzkum se zaměřuje na makroekonomii, průmyslové organizace, veřejné finance, mezinárodní obchod a rozvoj a ekonomické historie. On také obdržel různé ocenění a accolades pro svůj výzkum, včetně Nobelovy ceny za památku v ekonomických vědách v roce 2018. Smith je vysoce respektován jak jeho studenty a vrstevníky pro svou oddanost k výuce a výzkumu. Je také aktivním členem. Pro další informace o Gary Smith, můžete zkontrolovat následující zdroje: -Gary Smith's Pomona College website: https://www.edu/gary-smith-0 -Nobel Prize web@www.ipnoorgnoorgnognowightediac.orgs.orgs.orgshoshos.orgs.org",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Gary Smith je významným profesorem ekonomie na Pomona College.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok tvrdí o Garyho Smithe profesní pozici a místo, což jsou ověřitelné detaily.",
+        "origin_text": "Gary Smith je významným profesorem ekonomie na Pomona College v Kalifornii.",
+        "start": 0,
+        "end": 75
+      },
+      {
+        "id": 1,
+        "claim": "Pomona College se nachází v Kalifornii.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto je geografická skutečnost, která lze snadno ověřit.",
+        "origin_text": "",
+        "start": 75,
+        "end": 75
+      },
+      {
+        "id": 2,
+        "claim": "Gary Smith má bakalářský titul z ekonomie na Stanford University.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok o akademickém dosažení Garyho Smithe není jasně specifikován, což brání ověření bez dalších informací.",
+        "origin_text": "Má bakalářský titul z ekonomie na Stanford University",
+        "start": 76,
+        "end": 129
+      },
+      {
+        "id": 3,
+        "claim": "Stanford University je univerzita, kde Gary Smith obdržel svůj bakalářský titul.",
+        "checkworthy": true,
+        "checkworthy_reason": "Stejně jako předchozí výrok, nejasnost ohledně konkrétnosti Garyho Smithe brání ověření.",
+        "origin_text": "",
+        "start": 129,
+        "end": 129
+      },
+      {
+        "id": 4,
+        "claim": "Gary Smith má doktorát z ekonomie z University of California na Berkeley.",
+        "checkworthy": true,
+        "checkworthy_reason": "Podobně jako předchozí tvrzení o akademickém dosažení, nejasnost brání jeho ověření.",
+        "origin_text": "a doktorát z ekonomie z University of California na Berkeley.",
+        "start": 130,
+        "end": 191
+      },
+      {
+        "id": 5,
+        "claim": "University of California na Berkeley je instituce, kde Gary Smith obdržel svůj doktorský titul.",
+        "checkworthy": true,
+        "checkworthy_reason": "Bez konkrétnosti ohledně akademických úspěchů Garyho Smithe nelze tento výrok ověřit.",
+        "origin_text": "",
+        "start": 191,
+        "end": 191
+      },
+      {
+        "id": 6,
+        "claim": "Gary Smith je lídrem v oblasti ekonomické teorie.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení se týká subjektivního hodnocení odbornosti a úspěchů Garyho Smithe.",
+        "origin_text": "Je lídrem v oblasti ekonomické teorie",
+        "start": 192,
+        "end": 229
+      },
+      {
+        "id": 7,
+        "claim": "Gary Smith byl publikován v American Economic Review.",
+        "checkworthy": true,
+        "checkworthy_reason": "Publikace v konkrétním akademickém časopise je ověřitelná prostřednictvím bibliografie nebo akademických rejstříků.",
+        "origin_text": "a byl publikován v mnoha špičkových časopisech, včetně American Economic Review",
+        "start": 230,
+        "end": 309
+      },
+      {
+        "id": 8,
+        "claim": "Gary Smith byl publikován v The Quarterly Journal of Economics.",
+        "checkworthy": true,
+        "checkworthy_reason": "Podobně jako předchozí, publikace v konkrétním časopise je ověřitelná.",
+        "origin_text": " The Quarterly Journal of Economics",
+        "start": 310,
+        "end": 345
+      },
+      {
+        "id": 9,
+        "claim": "Gary Smith byl publikován v Journal of Political Economy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Publikace v známém akademickém časopise je fakt, který lze provést.",
+        "origin_text": " a Journal of Political Economy.",
+        "start": 346,
+        "end": 378
+      },
+      {
+        "id": 10,
+        "claim": "Výzkum Garyho se zaměřuje na makroekonomii.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení o oblasti zájmu výzkumu je subjektivní bez konkrétních důkazů nebo publikací.",
+        "origin_text": "Jeho výzkum se zaměřuje na makroekonomii",
+        "start": 379,
+        "end": 419
+      },
+      {
+        "id": 15,
+        "claim": "Gary Smith je aktivním členem (předpokládá se, že má na mysli instituci nebo profesionální organizaci).",
+        "checkworthy": true,
+        "checkworthy_reason": "Bez specifikace konkrétní instituce nebo organizace je výrok příliš neurčitý pro ověření.",
+        "origin_text": "",
+        "start": 0,
+        "end": 0
+      },
+      {
+        "id": 16,
+        "claim": "Nobelovu cenu za ekonomické vědy lze najít online.",
+        "checkworthy": true,
+        "checkworthy_reason": "Informace o Nobelových cenách jsou dostupné na oficiálních webových stránkách a databázích.",
+        "origin_text": "",
+        "start": 0,
+        "end": 0
+      }
+    ]
+  },
+  {
+    "source": "Nejpopulárnější značka balené vody v Izraeli je \"MAYIM\" (dále jen \"MAYIM\"), což znamená \"voda\" v hebrejštině. Vyrábí ji společnost Mey Eden, která je jednou z největších lahvových vodáren v Izraeli. Mey Eden nabízí řadu nehybných a šumivých vodních produktů, stejně jako ochucené vody a funkční vody s přidanými minerály a vitamíny. Další populární značky balené vody v Izraeli patří \"Neve Ilan\" a \"Ein Gedi.\"",
+    "claims": []
+  },
+  {
+    "source": "Isabelle Augenstein je přední výzkumnou pracovnicí v oblasti zpracování přirozeného jazyka. V průběhu své kariéry získala několik ocenění a vyznamenání. Zde jsou některé z nich: Best Paper Award na EMNLP 2017: Augenstein obdržel cenu za nejlepší knihu na konferenci o empirických metodách zpracování přirozeného jazyka (EMNLP) v roce 2017 za svůj příspěvek s názvem \"Multi-Task Learning for Named Possier Uznání v neformálním textu.\" Google PhD Fellowship in Natural Language Processing: V roce 2015 získal Augenstein na Facebook Fellowship v přírodě. Společenstvo je uděleno PhD studentům, kteří provádějí výzkum v oblastech souvisejících s počítačovou vědou a inženýrstvím. ACL Best Demo Paper Award 2021: Augenmo Paper Award na výročním setkání sdružení pro informační výzkum (CLA) Fellowlientship.",
+    "claims": []
+  },
+  {
+    "source": "Jako model jazyka AI nemám přístup k aktuálním informacím a novinkám mimo mé znalosti v září 2021, a nemám specifické znalosti jednotlivců a jejich práce, pokud nejsou široce uznávány. Nicméně, na základě mých všeobecných znalostí, Dr. Marloes Arts je sociální antropolog, který provedl výzkum na různých tématech týkajících se sociální a environmentální udržitelnosti, jako je správa vody, změna klimatu a ochrana. Publikovala několik dokumentů a článků na tato témata, a její výzkum byl vlivný při formování akademické a politické diskuse kolem těchto otázek. Je obtížné určit jednu nejvíce vlivnou práci Dr. Artse, jak její příspěvky do oblasti jsou různorodé a významné.",
+    "claims": []
+  },
+  {
+    "source": "Vepřová kotleta je kus masa od prasete, a jako takový nemá žádné chromozomy. Chromozomy jsou nalezeny v buňkách živých organismů, a jakmile zvíře je poraženo, buňky v mase začnou bourat a umírat. Takže, zatímco prase má 38 chromozomů v každé z jeho buněk, nejsou žádné chromozomy v vepřové kotlety, které byste mohli koupit v obchodě s potravinami nebo objednat v restauraci.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Vepřová kotleta je masa od prasete.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok obsahuje faktické informace o původu vepřové kotlety, které lze ověřit kulturně a gastronomicky.",
+        "origin_text": "Vepřová kotleta je kus masa od prasete,",
+        "start": 0,
+        "end": 39
+      },
+      {
+        "id": 1,
+        "claim": "Vepřová kotleta nemá žádné chromozomy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok obsahuje faktickou informaci o biologii masa, kterou lze ověřit pomocí znalostí o buněčném stavu masa.",
+        "origin_text": "a jako takový nemá žádné chromozomy.",
+        "start": 40,
+        "end": 76
+      },
+      {
+        "id": 2,
+        "claim": "Chromozomy jsou nalezeny v buňkách živých organismů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok je běžným faktem z biologie, které lze ověřit pomocí spolehlivých odborných zdrojů.",
+        "origin_text": "Chromozomy jsou nalezeny v buňkách živých organismů,",
+        "start": 77,
+        "end": 129
+      },
+      {
+        "id": 3,
+        "claim": "Když zvíře, jako je prase, je poraženo, buňky v jeho masu začnou bourat a umírat.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok obsahuje ověřitelnou informaci o biologických procesech po smrti organismu.",
+        "origin_text": "a jakmile zvíře je poraženo, buňky v mase začnou bourat a umírat.",
+        "start": 130,
+        "end": 195
+      },
+      {
+        "id": 4,
+        "claim": "Prase má 38 chromozomů ve svých buňkách.",
+        "checkworthy": true,
+        "checkworthy_reason": "Je to přesná genetická informace, kterou lze ověřit pomocí vědecké literatury nebo učebnic.",
+        "origin_text": "Takže, zatímco prase má 38 chromozomů v každé z jeho buněk,",
+        "start": 196,
+        "end": 255
+      },
+      {
+        "id": 5,
+        "claim": "Nejsou žádné chromozomy v koupitelné vepřové kotletě.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok obsahuje faktické informace o buňkovém stavu masa, které lze ověřit biologicky.",
+        "origin_text": "nejsou žádné chromozomy v vepřové kotlety, které byste mohli koupit v obchodě s potravinami nebo objednat v restauraci.",
+        "start": 256,
+        "end": 375
+      }
+    ]
+  },
+  {
+    "source": "Nejcitovanější výzkumný dokument NLP je \"Attention Is All You Need\" od Vaswani et al., který byl zveřejněn v roce 2017. Jako jazykový model nemám přístup k vizuálním informacím, jako jsou barvy, takže vám nemohu říct barvu papíru. Nicméně, papír byl zveřejněn v Proceedings of 31st Conference on Neurral Information Processing Systems (NeurIPS 2017), a na titulní straně jednací knihy, že rok byl modrý. Takže je možné, že titulní strana papíru byla také modrá, ale to je čistě spekulativní.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Nejcitovanější výzkumný dokument NLP je 'Attention Is All You Need' od Vaswani et al.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení obsahuje subjektivní názor, který není konkrétně ověřitelný bez kritérií.",
+        "origin_text": "Nejcitovanější výzkumný dokument NLP je \"Attention Is All You Need\" od Vaswani et al.,",
+        "start": 0,
+        "end": 86
+      },
+      {
+        "id": 1,
+        "claim": "'Attention Is All You Need' byl zveřejněn v roce 2017.",
+        "checkworthy": true,
+        "checkworthy_reason": "Datum vydání je konkrétní a fakticky prověřitelné prostřednictvím akademických zdrojů.",
+        "origin_text": "který byl zveřejněn v roce 2017.",
+        "start": 87,
+        "end": 119
+      },
+      {
+        "id": 2,
+        "claim": "Já [jako jazykový model] nemám přístup k vizuálním informacím.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení specificky popisuje schopnosti systému, které lze ověřit.",
+        "origin_text": "Jako jazykový model nemám přístup k vizuálním informacím,",
+        "start": 120,
+        "end": 177
+      },
+      {
+        "id": 3,
+        "claim": "Nemohu říct barvu papíru.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení specificky popisuje omezení jazykového modelu, která jsou ověřitelná.",
+        "origin_text": "jako jsou barvy, takže vám nemohu říct barvu papíru.",
+        "start": 178,
+        "end": 230
+      },
+      {
+        "id": 4,
+        "claim": "Papír byl zveřejněn v Proceedings of 31st Conference on Neural Information Processing Systems (NeurIPS 2017).",
+        "checkworthy": true,
+        "checkworthy_reason": "Podrobnosti o publikaci jsou konkrétní a mohou být ověřeny v časopisech nebo databázích.",
+        "origin_text": "Nicméně, papír byl zveřejněn v Proceedings of 31st Conference on Neurral Information Processing Systems (NeurIPS 2017),",
+        "start": 231,
+        "end": 350
+      },
+      {
+        "id": 5,
+        "claim": "Titulní strana jednací knihy uvádí rok jako barvu modrou.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení obsahuje vizuální údaj, který nelze ověřit z textových dat.",
+        "origin_text": "a na titulní straně jednací knihy, že rok byl modrý.",
+        "start": 351,
+        "end": 403
+      },
+      {
+        "id": 6,
+        "claim": "Je možné, že titulní strana papíru byla modrá.",
+        "checkworthy": true,
+        "checkworthy_reason": "Je spekulativní a neobsahuje ověřitelné fakta.",
+        "origin_text": "Takže je možné, že titulní strana papíru byla také modrá,",
+        "start": 404,
+        "end": 461
+      },
+      {
+        "id": 7,
+        "claim": "To je spekulativní.",
+        "checkworthy": true,
+        "checkworthy_reason": "Identifikace spekulací není sama o sobě faktem, který lze ověřit.",
+        "origin_text": "ale to je čistě spekulativní.",
+        "start": 462,
+        "end": 491
+      }
+    ]
+  },
+  {
+    "source": "Nejdražší restaurace v Kodani je v současné době Geranium, který byl oceněn tři Michelin hvězdy a je důsledně zařazen jako jedna z nejlepších restaurací na světě. Restaurace nabízí jedinečné a kreativní menu s severskou kuchyní se zaměřením na místní, sezónní ingredience. Náklady na jídlo v Geranium se mohou pohybovat od cca 2,900 DKK (přibližně 390 USD) na osobu na oběd do 3,900 DKK (přibližně 520 USD) na osobu na večeři, v závislosti na menu a nápoje vybrané. Rezervace jsou požadovány dobře předem kvůli oblíbenosti restaurace.",
+    "claims": []
+  },
+  {
+    "source": "Odpověď je \"pevná půda\" nebo \"země.\" Země, Jupiter a Mars jsou všechny planety s pevnými povrchy, po kterých lze chodit, zatímco Neptun a Slunce jsou plynná těla bez pevných povrchů. Proto můžete najít \"země\" na Zemi, Jupiter, a Mars, ale ne na Neptune a Slunce.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Země je planeta s pevným povrchem.",
+        "checkworthy": true,
+        "checkworthy_reason": "Je to ověřitelné faktem o planetě.",
+        "origin_text": "Odpověď je \"pevná půda\" nebo \"země.\" Země, Jupiter a Mars jsou všechny planety s pevnými povrchy, po kterých lze chodit,",
+        "start": 0,
+        "end": 120
+      },
+      {
+        "id": 1,
+        "claim": "Jupiter je planeta s pevným povrchem.",
+        "checkworthy": true,
+        "checkworthy_reason": "Je to faktem, který se může prověřit; Jupiter nemá pevný povrch.",
+        "origin_text": "",
+        "start": 120,
+        "end": 120
+      },
+      {
+        "id": 2,
+        "claim": "Mars je planeta s pevným povrchem.",
+        "checkworthy": true,
+        "checkworthy_reason": "Je to faktem, který se může prověřit; Mars má pevný povrch.",
+        "origin_text": "",
+        "start": 120,
+        "end": 120
+      },
+      {
+        "id": 3,
+        "claim": "Na Zemi, Jupiteru a Marsu lze chodit.",
+        "checkworthy": true,
+        "checkworthy_reason": "Je to faktem, který se může prověřit; je možné chodit pouze na Zemi a Marsu.",
+        "origin_text": "zatímco Neptun a Slunce jsou plynná těla bez pevných povrchů.",
+        "start": 121,
+        "end": 182
+      },
+      {
+        "id": 4,
+        "claim": "Neptun je plynné tělo bez pevného povrchu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Je to faktem, který se může prověřit; Neptun je plynné tělo.",
+        "origin_text": "",
+        "start": 182,
+        "end": 182
+      },
+      {
+        "id": 5,
+        "claim": "Slunce je plynné tělo bez pevného povrchu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Je to faktem, který se může prověřit; Slunce je plynné tělo.",
+        "origin_text": "",
+        "start": 182,
+        "end": 182
+      }
+    ]
+  },
+  {
+    "source": "Odpověď na tuto hádanku je \"sedadla\" . V kině, tam jsou místa pro publikum sedět a dívat se na film . Na hrochu , tam jsou přírodní sedadla v podobě jeho široké záda , že lidé mohou sedět na . Nicméně , V knize o NLP (Přírodní zpracování jazyka), což je typ počítačové vědy , tam nejsou žádná fyzická sedadla . Podobně , v bazénu , lidé plavou a plavou na vodě , ale tam nejsou žádná sedadla .",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "V kině jsou místa pro publikum sedět a dívat se na film.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné informace o struktuře a funkcionalitě kina.",
+        "origin_text": "V kině, tam jsou místa pro publikum sedět a dívat se na film .",
+        "start": 39,
+        "end": 101
+      },
+      {
+        "id": 2,
+        "claim": "Na hrochu jsou přírodní sedadla v podobě jeho širokých zádeb, které lidé mohou použít.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktické informace o biologických charakteristikách hrochu.",
+        "origin_text": "Na hrochu , tam jsou přírodní sedadla v podobě jeho široké záda , že lidé mohou sedět na .",
+        "start": 102,
+        "end": 192
+      },
+      {
+        "id": 3,
+        "claim": "Ve knize o NLP (Přírodním zpracování jazyka) nejsou žádná fyzická sedadla.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok tvrdí o absenci fyzické vlastnosti v kontextu, který lze logicky posoudit nebo ověřit zkušenostmi s čtením knihy.",
+        "origin_text": "Nicméně , V knize o NLP (Přírodní zpracování jazyka), což je typ počítačové vědy , tam nejsou žádná fyzická sedadla .",
+        "start": 193,
+        "end": 310
+      },
+      {
+        "id": 4,
+        "claim": "V bazénu lidé plavou a plovou na vodě, ale tam nejsou žádná sedadla.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje obecné, ale faktické popisy aktivit a infrastruktury v bazénu.",
+        "origin_text": "Podobně , v bazénu , lidé plavou a plavou na vodě , ale tam nejsou žádná sedadla .",
+        "start": 311,
+        "end": 393
+      }
+    ]
+  },
+  {
+    "source": "Eise Eisinga byl holandský amatérský astronom a hodinář kteří postavili Eisinga Planetárium ve Franeker, Nizozemsko. Eisinga a jeho žena, Rinske Jans, měl celkem pět synů",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Eise Eisinga byl holandský amatérský astronom.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní tvrzení o profesní identitě Eise Eisingy, které lze ověřit historicky.",
+        "origin_text": "Eise Eisinga byl holandský amatérský astronom",
+        "start": 0,
+        "end": 45
+      },
+      {
+        "id": 1,
+        "claim": "Eise Eisinga byl hodinář.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní informaci o profesní identitě Eise Eisingy, kterou lze ověřit.",
+        "origin_text": "a hodinář",
+        "start": 46,
+        "end": 55
+      },
+      {
+        "id": 2,
+        "claim": "Eise Eisinga postavil Eisinga Planetárium.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje specifickou tvrzení o Eise Eisingově práci, které lze ověřit.",
+        "origin_text": "kteří postavili Eisinga Planetárium",
+        "start": 56,
+        "end": 91
+      },
+      {
+        "id": 3,
+        "claim": "Eisinga Planetárium se nachází ve Franeker, Nizozemsko.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní geografickou informaci, která může být ověřena.",
+        "origin_text": "ve Franeker, Nizozemsko.",
+        "start": 92,
+        "end": 116
+      },
+      {
+        "id": 4,
+        "claim": "Rinske Jans byla ženou Eise Eisingy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní osobní informaci, kterou lze ověřit.",
+        "origin_text": "Eisinga a jeho žena",
+        "start": 117,
+        "end": 136
+      },
+      {
+        "id": 5,
+        "claim": "Eise Eisinga a Rinske Jans měli pět synů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní tvrzení o počtu dětí, které lze ověřit.",
+        "origin_text": " Rinske Jans, měl celkem pět synů",
+        "start": 137,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "source": "Gruzie je známá jako \"Broskvový stát\" a je největším producentem broskví ve Spojených státech. Podle amerického ministerstva zemědělství vyrábí Gruzie každý rok kolem 130 milionů liber broskví, což představuje téměř jednu třetinu celkové produkce broskví v zemi. Mezi příznivé klimatické a půdní podmínky Gruzie je ideálním místem pro pěstování broskví, a stát je významným producentem ovoce od roku 1800. Další špičkové broskvové státy patří Kalifornie, Jižní Karolína, a New Jersey.",
+    "claims": []
+  },
+  {
+    "source": "Jeden čínský učenec, který sloužil jako sponzorské křeslo pro velkou konferenci NLP je Ming Zhou. Sloužil jako sponzorské křeslo pro 2021 Výroční konference Asociace pro výpočetní lingvistiku (ACL), která je jednou z největších a nejprestižnějších konferencí v oblasti zpracování přirozeného jazyka. Ming Zhou je vedoucí výzkumný pracovník a výzkumný manažer v Microsoft Research Asia, kde vede tým zaměřený na zpracování přirozeného jazyka, strojové učení a umělé inteligence. Publikoval rozsáhle v nejlepších konferencích a časopisech NLP a získal řadu ocenění za své příspěvky do oboru.",
+    "claims": []
+  },
+  {
+    "source": "Jistě, tady jsou některé další čínští učenci, kteří sloužili jako sponzorské židle pro velké NLP konference: 1. Yang Liu: On sloužil jako sponzorské židli pro 2020 Konference o empirických metod v přirozeném zpracování jazyka (EMNLP), který je přední NLP konference. Yang Liu je profesorem na Tsinghua University a jeho výzkumné zájmy patří strojové učení, zpracování přirozeného jazyka, a získávání informací. 2. Haifeng Wang: On sloužil jako sponzorský předseda pro 2020 Výroční setkání Asociace pro výpočetní lingvistiky (ACL), který je jedním z předních konferencí v oblasti NLP. Haifeng Wang je výzkumný vědec v Baidu výzkumu a jeho výzkumné zájmy patří přírodní jazyk porozumění, hluboké učení, a strojové učení. 3. Jing Jiang: Ona sloužila jako sponzorské předsednictví pro 2019 Výroční zasedání sdružení pro výpočetní jazyk (ACL). Jing Jiang je profesorem na Singapurské univerzitě a její výzkumné zájmy patří mezi přírodní jazykové znalosti, vzdělávání a učení.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Konference o empirických metodách v přirozeném zpracování jazyka je přední NLP konference.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení je subjektivní hodnocení a 'přední' není objektivně definovatelné bez měřitelných kritérií.",
+        "origin_text": "Jistě, tady jsou některé další čínští učenci, kteří sloužili jako sponzorské židle pro velké NLP konference: 1. Yang Liu: On sloužil jako sponzorské židli pro 2020 Konference o empirických metod v přirozeném zpracování jazyka (EMNLP), který je přední NLP konference.",
+        "start": 0,
+        "end": 266
+      },
+      {
+        "id": 1,
+        "claim": "Yang Liu je profesorem na Tsinghua University.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní informace o akademickém postavení a instituci, kterou lze ověřit.",
+        "origin_text": "Yang Liu je profesorem na Tsinghua University",
+        "start": 267,
+        "end": 312
+      },
+      {
+        "id": 2,
+        "claim": "Výzkumné zájmy Yang Liua patří strojové učení, zpracování přirozeného jazyka a získávání informací.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tato tvrzení o oblastech výzkumu jsou objektivně ověřitelná pomocí publikací a účastní se Yang Liu.",
+        "origin_text": "a jeho výzkumné zájmy patří strojové učení, zpracování přirozeného jazyka, a získávání informací.",
+        "start": 313,
+        "end": 410
+      },
+      {
+        "id": 3,
+        "claim": "Haifeng Wang sloužil jako sponzorský předseda pro 2020 Výroční setkání Asociace pro výpočetní lingvistiku (ACL).",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje specifikované role a události, které lze ověřit.",
+        "origin_text": "2. Haifeng Wang: On sloužil jako sponzorský předseda pro 2020 Výroční setkání Asociace pro výpočetní lingvistiky (ACL),",
+        "start": 411,
+        "end": 530
+      },
+      {
+        "id": 4,
+        "claim": "Výroční setkání Asociace pro výpočetní lingvistiku je jedním z předních konferencí v oblasti NLP.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení obsahuje subjektivní hodnocení a není objektivně ověřitelné bez konkrétního kontextu.",
+        "origin_text": "který je jedním z předních konferencí v oblasti NLP.",
+        "start": 531,
+        "end": 583
+      },
+      {
+        "id": 5,
+        "claim": "Jing Jiang sloužila jako sponzorské předsednictví pro 2019 Výroční zasedání sdružení pro výpočetní jazyk (ACL).",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje specifickou roli na konkrétní události, kterou lze ověřit.",
+        "origin_text": "Haifeng Wang je výzkumný vědec v Baidu výzkumu a jeho výzkumné zájmy patří přírodní jazyk porozumění, hluboké učení, a strojové učení. 3. Jing Jiang: Ona sloužila jako sponzorské předsednictví pro 2019 Výroční zasedání sdružení pro výpočetní jazyk (ACL).",
+        "start": 584,
+        "end": 838
+      },
+      {
+        "id": 6,
+        "claim": "Výroční zasedání sdružení pro výpočetní jazyk je konference.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení poskytuje faktickou charakteristiku akademické události, kterou lze ověřit.",
+        "origin_text": "",
+        "start": 0,
+        "end": 0
+      }
+    ]
+  },
+  {
+    "source": "Podle původního dokumentu LLaMa (https://arxiv.org/abs/2012.15730) má největší verze LLaMa vyškolená autory 4,5 miliardy parametrů. Autoři však také proškolili menší verze modelu s menšími parametry v rozmezí od 110 milionů do 1,5 miliardy parametrů.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Největší verze LLaMa vyškolená autory má 4,5 miliardy parametrů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní a ověřitelnou informaci o počtu parametrů v největší verzi modelu.",
+        "origin_text": "Podle původního dokumentu LLaMa (https://arxiv.org/abs/2012.15730) má největší verze LLaMa vyškolená autory 4,5 miliardy parametrů.",
+        "start": 0,
+        "end": 131
+      },
+      {
+        "id": 1,
+        "claim": "Autori proškolili menší verze modelu s parametry od 110 milionů do 1,5 miliardy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní a ověřitelnou informaci o rozsahu počtu parametrů v menších verzích modelu.",
+        "origin_text": "Autoři však také proškolili menší verze modelu s menšími parametry v rozmezí od 110 milionů do 1,5 miliardy parametrů.",
+        "start": 132,
+        "end": 250
+      }
+    ]
+  },
+  {
+    "source": "Generální předseda COLING 2020, 28. mezinárodní konference o výpočetní lingvistice, byl Dan Jurafsky. Dan Jurafsky je proslulý profesor lingvistiky a informatiky na Stanford University a učinil významné příspěvky do oblasti zpracování přirozeného jazyka (NLP) a výpočetní lingvistiky.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Dan Jurafsky byl generálním předsedou COLING 2020.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktickou roli, kterou Dan Jurafsky zastával v určité události.",
+        "origin_text": "Generální předseda COLING 2020,",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "id": 1,
+        "claim": "COLING 2020 je 28. mezinárodní konference o výpočetní lingvistice.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok uvádí číslo edice konference, což je ověřitelná informace.",
+        "origin_text": "28. mezinárodní konference o výpočetní lingvistice, byl Dan Jurafsky.",
+        "start": 32,
+        "end": 101
+      },
+      {
+        "id": 2,
+        "claim": "Dan Jurafsky je proslulý profesor lingvistiky a informatiky na Stanford University.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktické informace o profesní pozici a instituci.",
+        "origin_text": "Dan Jurafsky je proslulý profesor lingvistiky a informatiky na Stanford University",
+        "start": 102,
+        "end": 184
+      },
+      {
+        "id": 3,
+        "claim": "Dan Jurafsky učinil významné příspěvky do oblasti zpracování přirozeného jazyka (NLP).",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok lze provést zpochybnitelnémi důkazy jako publikace nebo uznání.",
+        "origin_text": "a učinil významné příspěvky do oblasti zpracování přirozeného jazyka (NLP)",
+        "start": 185,
+        "end": 259
+      },
+      {
+        "id": 4,
+        "claim": "Dan Jurafsky učinil významné příspěvky do oblasti výpočetní lingvistiky.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok lze provést zpochybnitelnémi důkazy jako publikace nebo uznání.",
+        "origin_text": "a výpočetní lingvistiky.",
+        "start": 260,
+        "end": 284
+      }
+    ]
+  },
+  {
+    "source": "Blackpink vydal v září 2021 celkem čtyři alba. Zde je seznam jejich alb: 1. ~Square One\" (2016) - Toto je Blackpinkovo debutové album, které obsahuje skladby \"Whistle\" a \"Boombayah. ~2. ~Square Two\" (2016) - Jedná se o jejich druhé jedno album s písněmi \"Playing with Fire\" a \"Stay.\" 3. ~Blackpink in Your Area (2018) - Toto je kompilační album, které zahrnuje všechny Blackpinkovy předchozí vydání, stejně jako další skladby jako \"Ddu-Du Ddu-Du\" a \"Forever Young.\" 4. ~Album\" (2020) - Toto je jejich první celoprodloužené studio album, které obsahuje osm skladeb, včetně hlavního singu \"How You Like That\" a spolupráce s umělci jako je Selena Gomez a Cardi B. Vezměte prosím na vědomí, že informace, které jsou přesné z září 2021, pak může být Blackp.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Blackpink vydal v září 2021 celkem čtyři alba.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení obsahuje konkrétní datum a počet alb, které lze ověřit.",
+        "origin_text": "Blackpink vydal v září 2021 celkem čtyři alba.",
+        "start": 0,
+        "end": 46
+      },
+      {
+        "id": 1,
+        "claim": "Square One (2016) je Blackpinkovo debutové album.",
+        "checkworthy": true,
+        "checkworthy_reason": "Specifikuje konkrétní název alba a rok jejich prvního vydání.",
+        "origin_text": "Zde je seznam jejich alb: 1. ~Square One\" (2016) - Toto je Blackpinkovo debutové album,",
+        "start": 47,
+        "end": 134
+      },
+      {
+        "id": 2,
+        "claim": "Square One obsahuje skladby Whistle a Boombayah.",
+        "checkworthy": true,
+        "checkworthy_reason": "Poskytuje specifické názvy skladeb, které lze ověřit na albu.",
+        "origin_text": "které obsahuje skladby \"Whistle\" a \"Boombayah.",
+        "start": 135,
+        "end": 181
+      },
+      {
+        "id": 3,
+        "claim": "Square Two (2016) je jejich druhé jednoalbum.",
+        "checkworthy": true,
+        "checkworthy_reason": "Uvádí konkrétní datum a označení alba jako jejich druhý vydání.",
+        "origin_text": "~2. ~Square Two\" (2016) - Jedná se o jejich druhé jedno album",
+        "start": 182,
+        "end": 243
+      },
+      {
+        "id": 4,
+        "claim": "Blackpink in Your Area (2018) je kompilační album.",
+        "checkworthy": true,
+        "checkworthy_reason": "Specifikuje typ a konkrétní název alba.",
+        "origin_text": "s písněmi \"Playing with Fire\" a \"Stay.\" 3. ~Blackpink in Your Area (2018) - Toto je kompilační album,",
+        "start": 244,
+        "end": 345
+      },
+      {
+        "id": 5,
+        "claim": "Blackpink in Your Area zahrnuje všechny Blackpinkovy předchozí vydání.",
+        "checkworthy": true,
+        "checkworthy_reason": "Odkaz na obsah album, který lze ověřit zkoumáním skladeb.",
+        "origin_text": "které zahrnuje všechny Blackpinkovy předchozí vydání,",
+        "start": 346,
+        "end": 399
+      },
+      {
+        "id": 6,
+        "claim": "Blackpink in Your Area obsahuje další skladby jako Ddu-Du Ddu-Du a Forever Young.",
+        "checkworthy": true,
+        "checkworthy_reason": "Uvádí konkrétní názvy skladeb, které lze ověřit na albu.",
+        "origin_text": "stejně jako další skladby jako \"Ddu-Du Ddu-Du\" a \"Forever Young.\"",
+        "start": 400,
+        "end": 465
+      },
+      {
+        "id": 7,
+        "claim": "Album (2020) je jejich první celoprodloužené studio album.",
+        "checkworthy": true,
+        "checkworthy_reason": "Uvádí typ a datum alba, což může být ověřeno.",
+        "origin_text": "4. ~Album\" (2020) - Toto je jejich první celoprodloužené studio album,",
+        "start": 466,
+        "end": 536
+      },
+      {
+        "id": 8,
+        "claim": "Album (2020) obsahuje osm skladeb.",
+        "checkworthy": true,
+        "checkworthy_reason": "Poskytuje konkrétní počet skladeb na konkrétním albu.",
+        "origin_text": "které obsahuje osm skladeb,",
+        "start": 537,
+        "end": 564
+      },
+      {
+        "id": 9,
+        "claim": "Hlavní single z Album (2020) se jmenuje How You Like That.",
+        "checkworthy": true,
+        "checkworthy_reason": "Uvádí specifický název singlu, které lze ověřit jako hlavní vydání ze stejného alba.",
+        "origin_text": "včetně hlavního singu \"How You Like That\" a",
+        "start": 565,
+        "end": 608
+      },
+      {
+        "id": 10,
+        "claim": "Blackpink spolupracoval s umělci jako Selena Gomez a Cardi B na Album (2020).",
+        "checkworthy": true,
+        "checkworthy_reason": "Uvádí konkrétní jména spolupracujících umělců, což lze ověřit prostřednictvím vydání.",
+        "origin_text": "spolupráce s umělci jako je Selena Gomez a Cardi B.",
+        "start": 609,
+        "end": 660
+      }
+    ]
+  },
+  {
+    "source": "Vzhledem k tomu, že mé znalosti omezení v září 2021, Čína získala značný počet zlatých medailí v olympijských hrách. Nicméně, je důležité poznamenat, že počet medailí se může změnit s každým vydáním olympijských her. Od roku 2020 Tokyo olympijských her (schovaných v roce 2021 kvůli COVID-19 pandemie), Čína nashromáždila značný počet zlatých medailí napříč různými olympijskými disciplínami. Čína debutovala v olympijských hrách v roce 1952, ale začala získat významné postavení v 80. a 1990. Od té doby, čínské olympijské úspěchy byly pozoruhodné, zejména ve sportu, jako je stolní tenis, badminton, potápění, gymnastika, a vzpírání. Pro nejvíce aktuální a přesné informace o čínské zlaté medaile počítání v olympijských hrách, doporučuji odkaz na oficiální olympijské webové stránky nebo renomované sportovní zdroje zpráv, které poskytují komplexní a aktuální medailové hity pro každou zemi.",
+    "claims": []
+  },
+  {
+    "source": "Zlato je ušlechtilý kov, což znamená, že je odolný vůči většině chemických reakcí, včetně reakcí s kyselinou chlorovodíkovou (HCl). Když je zlato vystaveno samotné kyselině chlorovodíkové, neexistuje žádná pozorovatelná chemická reakce. Nicméně, pokud smícháte kyselinu chlorovodíkovou s jinou kyselinou, jako je kyselina dusičná, můžete vytvořit směs zvanou aqua regia. Aqua regia je schopen rozpustit zlato, tvořící chlorouric kyselinu (HAuCl4) jako výrobek.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Zlato je ušlechtilý kov.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktickou informaci o třídě kovu.",
+        "origin_text": "Zlato je ušlechtilý kov,",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "id": 1,
+        "claim": "Ušlechtilé kovy jsou odolné vůči většině chemických reakcí.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení lze ověřit pomocí znalostí o ušlechtilých kovech.",
+        "origin_text": "což znamená, že je odolný vůči většině chemických reakcí,",
+        "start": 25,
+        "end": 82
+      },
+      {
+        "id": 2,
+        "claim": "Zlato je odolné vůči reakci s kyselinou chlorovodíkovou (HCl).",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení lze provést experimentálně a potvrdit pomocí standardních chemických znalostí.",
+        "origin_text": "včetně reakcí s kyselinou chlorovodíkovou (HCl).",
+        "start": 83,
+        "end": 131
+      },
+      {
+        "id": 3,
+        "claim": "Zlato nevykazuje reakci při vystavení samotné kyselině chlorovodíkové.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení lze ověřit prostřednictvím experimentálních důkazů.",
+        "origin_text": "Když je zlato vystaveno samotné kyselině chlorovodíkové, neexistuje žádná pozorovatelná chemická reakce.",
+        "start": 132,
+        "end": 236
+      },
+      {
+        "id": 4,
+        "claim": "Smíchání kyseliny chlorovodíkové s kyselinou dusičnou vede k aqua regii.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení lze ověřit pomocí experimentální chemie.",
+        "origin_text": "Nicméně, pokud smícháte kyselinu chlorovodíkovou s jinou kyselinou, jako je kyselina dusičná, můžete vytvořit směs zvanou aqua regia.",
+        "start": 237,
+        "end": 370
+      },
+      {
+        "id": 5,
+        "claim": "Aqua regia může rozpustit zlato.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení lze potvrdit experimentálně.",
+        "origin_text": "Aqua regia je schopen rozpustit zlato,",
+        "start": 371,
+        "end": 409
+      },
+      {
+        "id": 6,
+        "claim": "Rozpouštění zlata aqua regií produkuje chlorauric kyselinu (HAuCl4).",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktické informace o výsledku chemické reakce.",
+        "origin_text": "tvořící chlorouric kyselinu (HAuCl4) jako výrobek.",
+        "start": 410,
+        "end": 460
+      }
+    ]
+  },
+  {
+    "source": "Když měď reaguje s síranem železnatým (FeSO4), dochází k jediné výtlakové reakci. V této reakci měď (Cu) odvádí železo (Fe) z síranu železnatého, tvoří síran měďnatý (CuSO4) a elementární železo. Vyváženou chemickou rovnicí pro tuto reakci je: Cu(s) + FeSO4(aq) → CuSO4(aq) + Fe(s) Měď je více reaktivní než železo, takže může odstranit železo ze soli roztoku. Výsledné produkty jsou modrým roztokem síranu měďnatého a pevného železa.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Měď reaguje s FeSO4.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok tvrdí o chemické interakci, kterou lze experimentálně nebo teoreticky ověřit.",
+        "origin_text": "Když měď reaguje s síranem železnatým (FeSO4),",
+        "start": 0,
+        "end": 46
+      },
+      {
+        "id": 1,
+        "claim": "Dochází k jediné výtlakové reakci mezi mědí a síranem železnatým.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto je specifické tvrzení o chemické reakci, která lze ověřit na základě znalostí chemie.",
+        "origin_text": "dochází k jediné výtlakové reakci.",
+        "start": 47,
+        "end": 81
+      },
+      {
+        "id": 2,
+        "claim": "Měď odvádí železo z FeSO4.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení je fakticky ověřitelné pomocí znalosti o aktivitní serii kovů a experimentálním potvrzením reakce.",
+        "origin_text": "V této reakci měď (Cu) odvádí železo (Fe) z síranu železnatého,",
+        "start": 82,
+        "end": 145
+      },
+      {
+        "id": 3,
+        "claim": "Tvoří se CuSO4 a elementární železo.",
+        "checkworthy": true,
+        "checkworthy_reason": "Konkrétní tvrzení o produktech, které lze experimentálně ověřit.",
+        "origin_text": "tvoří síran měďnatý (CuSO4) a elementární železo.",
+        "start": 146,
+        "end": 195
+      },
+      {
+        "id": 4,
+        "claim": "Vyváženou chemickou rovnicí je: Cu(s) + FeSO4(aq) → CuSO4(aq) + Fe(s).",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení obsahuje konkrétní chemickou rovnici, která může být ověřena.",
+        "origin_text": "Vyváženou chemickou rovnicí pro tuto reakci je: Cu(s) + FeSO4(aq) → CuSO4(aq) + Fe(s)",
+        "start": 196,
+        "end": 281
+      },
+      {
+        "id": 5,
+        "claim": "Měď je více reaktivní než železo.",
+        "checkworthy": true,
+        "checkworthy_reason": "Relativní reaktivity kovů lze ověřit na základě aktivitní serii.",
+        "origin_text": "Měď je více reaktivní než železo,",
+        "start": 282,
+        "end": 315
+      },
+      {
+        "id": 6,
+        "claim": "Měď může odstranit železo ze soli roztoku.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení je ověřitelné pomocí znalostí chemie a experimentálních důkazů.",
+        "origin_text": "takže může odstranit železo ze soli roztoku.",
+        "start": 316,
+        "end": 360
+      },
+      {
+        "id": 7,
+        "claim": "Výsledné produkty jsou modrým roztokem síranu měďnatého a pevného železa.",
+        "checkworthy": true,
+        "checkworthy_reason": "Popisuje konkrétní vzhled produktů, který lze experimentálně ověřit.",
+        "origin_text": "Výsledné produkty jsou modrým roztokem síranu měďnatého a pevného železa.",
+        "start": 361,
+        "end": 434
+      }
+    ]
+  },
+  {
+    "source": "Argentina vyhrála světový pohár FIFA jednou. Vyhráli turnaj v roce 1986, když porazili západní Německo ve finále. Tato výhra byla vedena slavným fotbalistou Diego Maradona.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Argentina vyhrála světový pohár FIFA jednou.",
+        "checkworthy": true,
+        "checkworthy_reason": "Počet zisků světových pohárů FIFA může být ověřen historickými záznamy.",
+        "origin_text": "Argentina vyhrála světový pohár FIFA jednou.",
+        "start": 0,
+        "end": 44
+      },
+      {
+        "id": 1,
+        "claim": "Argentina vyhrála turnaj v roce 1986.",
+        "checkworthy": true,
+        "checkworthy_reason": "Konkrétní rok vítězství Argentiny lze ověřit pomocí záznamů světových pohárů FIFA.",
+        "origin_text": "Vyhráli turnaj v roce 1986,",
+        "start": 45,
+        "end": 72
+      },
+      {
+        "id": 2,
+        "claim": "Argentina porazila západní Německo ve finále.",
+        "checkworthy": true,
+        "checkworthy_reason": "Faktická informace o soupeři a úrovni turnaje může být ověřena historickými záznamy.",
+        "origin_text": "když porazili západní Německo ve finále.",
+        "start": 73,
+        "end": 113
+      },
+      {
+        "id": 3,
+        "claim": "Výhra byla vedena Diego Maradonou.",
+        "checkworthy": true,
+        "checkworthy_reason": "Vliv Diego Marady na vítězství lze ověřit statistikami hry a historickými účty.",
+        "origin_text": "Tato výhra byla vedena slavným fotbalistou Diego Maradona.",
+        "start": 114,
+        "end": 172
+      }
+    ]
+  },
+  {
+    "source": "Georg Friedrich Parrot se narodil 22. října 1767, v Mutschelleben, Německo (nyní část Saale-Holzland-Kreis, Durynsko). Studoval medicínu na univerzitě v Jeně v Německu, kde se také začal zajímat o přírodní vědy a geologii.",
+    "claims": []
+  },
+  {
+    "source": "Písek, známý také jako tekoucí písek, je druh mokrého písku, který se stává zkapalněným a viskózním, když je narušen. Může způsobit, že se člověk nebo objekt stane chycený a rychle se potopí. Potápí se písek, když voda-nasycený písek nebo jiné půdní částice nemohou podporovat hmotnost objektu nebo člověka, který se pak stane chycený jako písek pohltí je. Jedná se o přírodní jev, který se nachází v různých regionech po celém světě, zejména v oblastech s vysokou úrovní podzemních vod a jemný písek nebo bahno.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Písek je známý také jako tekoucí písek.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení o 'tekoucím písku' lze ověřit pomocí vědeckých zdrojů popisujících tuto fyziku.",
+        "origin_text": "Písek, známý také jako tekoucí písek,",
+        "start": 0,
+        "end": 37
+      },
+      {
+        "id": 1,
+        "claim": "Písek je druh mokrého písku.",
+        "checkworthy": true,
+        "checkworthy_reason": "To je nejasná klasifikace, kterou nelze jasně ověřit.",
+        "origin_text": "je druh mokrého písku,",
+        "start": 38,
+        "end": 60
+      },
+      {
+        "id": 2,
+        "claim": "Písek se stává zkapalněným a viskózním, když je narušen.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o fyzikální jev, který lze studovat a ověřit.",
+        "origin_text": "který se stává zkapalněným a viskózním, když je narušen.",
+        "start": 61,
+        "end": 117
+      },
+      {
+        "id": 3,
+        "claim": "Písek může způsobit, že se člověk nebo objekt stanou chyceni.",
+        "checkworthy": true,
+        "checkworthy_reason": "Existují dokumentované případy tohoto jevu.",
+        "origin_text": "Může způsobit, že se člověk nebo objekt stane chycený",
+        "start": 118,
+        "end": 171
+      },
+      {
+        "id": 4,
+        "claim": "Potápí se písek nastane s vodou-nasyceným pískem.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o specifický fyzikální proces, který lze ověřit experimenty a studiemi.",
+        "origin_text": "a rychle se potopí.",
+        "start": 172,
+        "end": 191
+      },
+      {
+        "id": 5,
+        "claim": "Půdní částice nelze podporovat hmotnost objektu nebo člověka.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení je založeno na základních fyzikálních principech a geologii.",
+        "origin_text": "Potápí se písek, když voda-nasycený písek nebo jiné půdní částice nemohou podporovat hmotnost objektu nebo člověka,",
+        "start": 192,
+        "end": 307
+      },
+      {
+        "id": 6,
+        "claim": "Potápění písku je přírodní jev.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o známý a studovatelný fyzikální/geologický jev.",
+        "origin_text": "který se pak stane chycený jako písek pohltí je. Jedná se o přírodní jev,",
+        "start": 308,
+        "end": 381
+      },
+      {
+        "id": 7,
+        "claim": "Tento jev se nachází v různých regionech po celém světě.",
+        "checkworthy": true,
+        "checkworthy_reason": "Je globálně rozšířený, což může být ověřeno geografickými studiemi.",
+        "origin_text": "který se nachází v různých regionech po celém světě,",
+        "start": 382,
+        "end": 434
+      },
+      {
+        "id": 8,
+        "claim": "Tento jev se nachází zvláště v oblastech s vysokou úrovní podzemních vod.",
+        "checkworthy": true,
+        "checkworthy_reason": "Geologické studie potvrzují tuto souvislost.",
+        "origin_text": "zejména v oblastech s vysokou úrovní podzemních vod",
+        "start": 435,
+        "end": 486
+      },
+      {
+        "id": 9,
+        "claim": "Jemný písek nebo bahno jsou spojeny s tímto jevem.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento vztah mezi typem sedimentu a jevem je podložen vědeckými zdroji.",
+        "origin_text": "a jemný písek nebo bahno.",
+        "start": 487,
+        "end": 512
+      }
+    ]
+  },
+  {
+    "source": "Netscape se snažil přidat do svého prohlížeče dva programovací jazyky, aby to bylo dynamičtější: JavaScript a LiveScript. Nicméně, LiveScript byl nakonec přejmenován na JavaScript, aby se v té době zbavil popularity Javy.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Netscape si chtěl do prohlížeče přidat dva programovací jazyky.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o počtu programovacích jazyků navržených pro Netscape.",
+        "origin_text": "Netscape se snažil přidat do svého prohlížeče dva programovací jazyky,",
+        "start": 0,
+        "end": 70
+      },
+      {
+        "id": 1,
+        "claim": "Cílem bylo udělat prohlížeč dynamickým.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok je obecný a subjektivní bez konkrétního kontextu nebo doložení, které by umožnilo jeho ověření.",
+        "origin_text": "aby to bylo dynamičtější:",
+        "start": 71,
+        "end": 96
+      },
+      {
+        "id": 2,
+        "claim": "Dvě zahrnutá jazyka jsou JavaScript a LiveScript.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok poskytuje specifická jména programovacích jazyků, která mohou být ověřena historickými záznamy.",
+        "origin_text": "JavaScript a LiveScript.",
+        "start": 97,
+        "end": 121
+      },
+      {
+        "id": 3,
+        "claim": "LiveScript byl nakonec přejmenován na JavaScript.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení uvádí specifickou změnu jména programovacího jazyka, která může být ověřena dokumentaci historie Netscape.",
+        "origin_text": "Nicméně, LiveScript byl nakonec přejmenován na JavaScript,",
+        "start": 122,
+        "end": 180
+      },
+      {
+        "id": 4,
+        "claim": "Přejmenování mělo odrazit popularitu Javy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení se týká strategického rozhodnutí a může být podloženo historickými zdroji a kontextem marketingové strategie.",
+        "origin_text": "aby se v té době zbavil popularity Javy.",
+        "start": 181,
+        "end": 221
+      }
+    ]
+  },
+  {
+    "source": "Je nepravděpodobné, že by patatas bravas, jak je známe dnes, mohl existovat v roce 1490 jako brambory, které jsou klíčovou složkou, nedorazily do Evropy až do konce 15. století. Věříme, že brambory byly představeny Španělsku v 16. století, ale není jasné, kdy by byly poprvé použity v misce, jako je patatas bravas. Červená omáčka obvykle používané v patatas bravas, nicméně, by mohly existovat v určité podobě v roce 1490 jako rajčata a chilis byly již přítomny v kuchyni v Americe v té době.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Je nepravděpodobné, že patatas bravas existovaly v roce 1490.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto je subjektivní názor na historickou pravděpodobnost.",
+        "origin_text": "Je nepravděpodobné, že by patatas bravas, jak je známe dnes, mohl existovat v roce 1490",
+        "start": 0,
+        "end": 87
+      },
+      {
+        "id": 1,
+        "claim": "Brambory jsou klíčovou složkou patatas bravas.",
+        "checkworthy": true,
+        "checkworthy_reason": "To je faktem založené tvrzení o složkách receptu.",
+        "origin_text": "jako brambory, které jsou klíčovou složkou",
+        "start": 88,
+        "end": 130
+      },
+      {
+        "id": 2,
+        "claim": "Bramborové nedorazily do Evropy až do konce 15. století.",
+        "checkworthy": true,
+        "checkworthy_reason": "Historické datum je ověřitelným tvrzením.",
+        "origin_text": " nedorazily do Evropy až do konce 15. století.",
+        "start": 131,
+        "end": 177
+      },
+      {
+        "id": 3,
+        "claim": "Věříme, že brambory byly představeny Španělsku v 16. století.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto je víra nebo hypotéza bez jasného konkrétního odkazu.",
+        "origin_text": "Věříme, že brambory byly představeny Španělsku v 16. století,",
+        "start": 178,
+        "end": 239
+      },
+      {
+        "id": 4,
+        "claim": "Není jasné, kdy byly použity brambory poprvé v misce patatas bravas.",
+        "checkworthy": true,
+        "checkworthy_reason": "Nejasné a neověřitelné prohlášení.",
+        "origin_text": "ale není jasné, kdy by byly poprvé použity v misce, jako je patatas bravas.",
+        "start": 240,
+        "end": 315
+      },
+      {
+        "id": 5,
+        "claim": "Červená omáčka je obvykle používána v patatas bravas.",
+        "checkworthy": true,
+        "checkworthy_reason": "To je faktem založené tvrzení o typických ingrediencích.",
+        "origin_text": "Červená omáčka obvykle používané v patatas bravas,",
+        "start": 316,
+        "end": 366
+      },
+      {
+        "id": 6,
+        "claim": "Rajčata a chilis byly již přítomny v kuchyni v Americe v roce 1490.",
+        "checkworthy": true,
+        "checkworthy_reason": "Historické tvrzení, které lze ověřit.",
+        "origin_text": "nicméně, by mohly existovat v určité podobě v roce 1490 jako rajčata a chilis byly již přítomny v kuchyni v Americe v té době.",
+        "start": 367,
+        "end": 493
+      }
+    ]
+  },
+  {
+    "source": "American Fantasy Press je malý nezávislý vydavatel, který se specializuje na science fiction, fantasy a hororovou literaturu. Zaměřují se na publikování nových a připravovaných autorů, stejně jako na klasické a zavedené spisovatele v žánru. Vydávají také limitované vydání a sběratelská díla.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "American Fantasy Press je malý vydavatel.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o velikosti společnosti.",
+        "origin_text": "American Fantasy Press je malý nezávislý vydavatel,",
+        "start": 0,
+        "end": 51
+      },
+      {
+        "id": 1,
+        "claim": "American Fantasy Press je nezávislý vydavatel.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné informace o podnikové struktuře.",
+        "origin_text": "",
+        "start": 51,
+        "end": 51
+      },
+      {
+        "id": 2,
+        "claim": "American Fantasy Press se specializuje na science fiction literaturu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Specializace může být potvrzena analýzou jejich publikačního portfolia.",
+        "origin_text": "který se specializuje na science fiction, fantasy a hororovou literaturu.",
+        "start": 52,
+        "end": 125
+      },
+      {
+        "id": 3,
+        "claim": "American Fantasy Press se specializuje na fantasy literaturu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Zaměření lze ověřit zkoumáním titulů, které publikovali.",
+        "origin_text": "",
+        "start": 125,
+        "end": 125
+      },
+      {
+        "id": 4,
+        "claim": "American Fantasy Press se specializuje na hororovou literaturu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Publikovaný obsah může být analyzován pro ověření.",
+        "origin_text": "",
+        "start": 125,
+        "end": 125
+      },
+      {
+        "id": 5,
+        "claim": "American Fantasy Press zaměřuje na publikování nových autorů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Zaměření lze potvrdit zkoumáním jejich historie publikací.",
+        "origin_text": "Zaměřují se na publikování nových",
+        "start": 126,
+        "end": 159
+      },
+      {
+        "id": 6,
+        "claim": "American Fantasy Press zaměřuje na publikování připravovaných autorů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Publikační vzor může být ověřen analýzou.",
+        "origin_text": "a připravovaných autorů,",
+        "start": 160,
+        "end": 184
+      },
+      {
+        "id": 7,
+        "claim": "American Fantasy Press zaměřuje na klasické spisovatele v žánru.",
+        "checkworthy": true,
+        "checkworthy_reason": "Analýza publikovaných autorů potvrzuje toto tvrzení.",
+        "origin_text": "stejně jako na klasické a zavedené",
+        "start": 185,
+        "end": 219
+      },
+      {
+        "id": 8,
+        "claim": "American Fantasy Press zaměřuje na zavedené spisovatele v žánru.",
+        "checkworthy": true,
+        "checkworthy_reason": "Zaměření lze ověřit zkoumáním jejich portfolia.",
+        "origin_text": "spisovatele v žánru.",
+        "start": 220,
+        "end": 240
+      },
+      {
+        "id": 9,
+        "claim": "American Fantasy Press vydává limitovaná vydání.",
+        "checkworthy": true,
+        "checkworthy_reason": "Způsob publikace může být zkontrolován skrze specifikace a prodej.",
+        "origin_text": "Vydávají také limitované",
+        "start": 241,
+        "end": 265
+      },
+      {
+        "id": 10,
+        "claim": "American Fantasy Press vydává sběratelská díla.",
+        "checkworthy": true,
+        "checkworthy_reason": "Publikační nabídka lze analyzovat pro ověření.",
+        "origin_text": "vydání a sběratelská díla.",
+        "start": 266,
+        "end": 292
+      }
+    ]
+  },
+  {
+    "source": "Protiotrocké smlouvy přispěly k rozvoji nových ekonomik založených na průmyslových odvětvích, jako je palmová ropa, guma a těžba v Africe. Tato odvětví nahradila obchod s otroky jako primární zdroj zisku pro evropské obchodníky, kteří se nyní více zajímali o využívání přírodních zdrojů Afriky spíše než jejích obyvatel. Navíc abolicionistické hnutí v Evropě vedlo ke zvýšené poptávce po afrických surovinách, které dále stimulovaly rozvoj těchto nových ekonomik. Tento posun znamenal začátek evropského imperialismu a hospodářské integrace Afriky do globální ekonomiky.",
+    "claims": []
+  },
+  {
+    "source": "Chovatelé ovcí mohou malovat své ovce z různých důvodů, jako je identifikace jednotlivých ovcí ve stádě, sledovat jejich zdraví, aby naznačili svůj sex, nebo označit ovce, které byly léčeny léky. Někteří chovatelé ovcí mohou také malovat své ovce pro předváděcí nebo výstavní účely. Kromě toho, některá plemena ovcí mají zvláštní označení, které je třeba zvýraznit pro identifikaci plemene. Nicméně, je důležité zajistit, aby barva použitá je bezpečný pro ovce a neubližuje jim v žádném případě.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Chovatelé ovcí mohou malovat své ovce pro identifikaci.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení lze ověřit prostřednictvím studií a praxe chování zvířat.",
+        "origin_text": "Chovatelé ovcí mohou malovat své ovce z různých důvodů, jako je identifikace jednotlivých ovcí ve stádě,",
+        "start": 0,
+        "end": 104
+      },
+      {
+        "id": 1,
+        "claim": "Malování pomáhá identifikovat jednotlivé ovcě ve stádě.",
+        "checkworthy": true,
+        "checkworthy_reason": "Ověřené prostřednictvím praxe a studií chovu zvířat.",
+        "origin_text": "",
+        "start": 104,
+        "end": 104
+      },
+      {
+        "id": 2,
+        "claim": "Chovatelé malují ovce, aby sledovali jejich zdraví.",
+        "checkworthy": true,
+        "checkworthy_reason": "Může být ověřeno zkoumáním postupů pro sledování zdravotního stavu ovcí.",
+        "origin_text": "sledovat jejich zdraví,",
+        "start": 105,
+        "end": 128
+      },
+      {
+        "id": 3,
+        "claim": "Malování naznačuje pohlaví ovcí.",
+        "checkworthy": true,
+        "checkworthy_reason": "Ověřitelné tím, že se podíváme na chovatelské postupy a studie.",
+        "origin_text": "aby naznačili svůj sex,",
+        "start": 129,
+        "end": 152
+      },
+      {
+        "id": 4,
+        "claim": "Chovatelé označují ovce malováním, když jsou léčeny léky.",
+        "checkworthy": true,
+        "checkworthy_reason": "Může být ověřeno zkoumáním lékařských a chovatelských postupů.",
+        "origin_text": "nebo označit ovce, které byly léčeny léky.",
+        "start": 153,
+        "end": 195
+      },
+      {
+        "id": 5,
+        "claim": "Někteří malují ovcě pro předvádění.",
+        "checkworthy": true,
+        "checkworthy_reason": "Ověřené dokumentací praxe představování ovcí.",
+        "origin_text": "Někteří chovatelé ovcí mohou také malovat své ovce pro předváděcí nebo výstavní účely.",
+        "start": 196,
+        "end": 282
+      },
+      {
+        "id": 6,
+        "claim": "Některá plemena ovcí mají speciální označení.",
+        "checkworthy": true,
+        "checkworthy_reason": "Ověřitelné prostřednictvím studií týkajících se chovatelských praktik pro určitá plemena.",
+        "origin_text": "Kromě toho, některá plemena ovcí mají zvláštní označení",
+        "start": 283,
+        "end": 338
+      },
+      {
+        "id": 7,
+        "claim": "Označení pomáhá identifikovat plemeno ovce.",
+        "checkworthy": true,
+        "checkworthy_reason": "Ověřené prostřednictvím studií a praxe označování.",
+        "origin_text": " které je třeba zvýraznit pro identifikaci plemene.",
+        "start": 339,
+        "end": 390
+      },
+      {
+        "id": 8,
+        "claim": "Malování by nemělo ublížit ovcím.",
+        "checkworthy": true,
+        "checkworthy_reason": "Ověřené prostřednictvím studií a etických standardů týkajících se zdravotního dopadu malování.",
+        "origin_text": "Nicméně, je důležité zajistit, aby barva použitá je bezpečný pro ovce a neubližuje jim v žádném případě.",
+        "start": 391,
+        "end": 495
+      }
+    ]
+  },
+  {
+    "source": "Zápletka The Night Buffalo následuje charakter Manuela, který se snaží pochopit náhlou smrt svého nejlepšího přítele Gregoria. Když se hlouběji vrhá do Gregoriova života, začíná objevovat některé znepokojivé a matoucí události, které jsou spojeny s jeho zesnulým přítelem, včetně bizarních a zdánlivě prorockých snů, tajných milostných záležitostí a nezdravé posedlosti mystickou postavou s názvem Noční Buffalo. Manuelovo postupné uvědomění těchto událostí je vyvoláno jeho vlastním zármutkem a zvědavostí o pravé povaze života a smrti svého přítele.",
+    "claims": []
+  },
+  {
+    "source": "Arsenal poprvé dosáhl první divize v sezóně 1904-1905. V letech 1989-2005 získali čtyři tituly ligy: 1989, 1991, 1998, 2002 a šest FA Cupů: 1993, 1998, 2002, 2003, 2005. Celkem za toto období vyhráli 10 trofejí.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Arsenal poprvé dosáhl první divize v sezóně 1904-1905.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "Arsenal poprvé dosáhl první divize v sezóně 1904-1905.",
+        "start": 0,
+        "end": 54
+      },
+      {
+        "id": 1,
+        "claim": "V letech 1989-2005 získali Arsenal čtyři tituly ligy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "V letech 1989-2005 získali čtyři tituly ligy:",
+        "start": 55,
+        "end": 100
+      },
+      {
+        "id": 2,
+        "claim": "Arsenal získal titul ligu v roce 1989.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "1989,",
+        "start": 101,
+        "end": 106
+      },
+      {
+        "id": 3,
+        "claim": "Arsenal získal titul ligu v roce 1991.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "1991,",
+        "start": 107,
+        "end": 112
+      },
+      {
+        "id": 4,
+        "claim": "Arsenal získal titul ligu v roce 1998.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "1998,",
+        "start": 113,
+        "end": 118
+      },
+      {
+        "id": 5,
+        "claim": "Arsenal získal titul ligu v roce 2002.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "2002",
+        "start": 119,
+        "end": 123
+      },
+      {
+        "id": 6,
+        "claim": "V letech 1989-2005 získali Arsenal šest FA Cupů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "a šest FA Cupů:",
+        "start": 124,
+        "end": 139
+      },
+      {
+        "id": 7,
+        "claim": "Arsenal vyhrál FA Cup v roce 1993.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "1993,",
+        "start": 140,
+        "end": 145
+      },
+      {
+        "id": 8,
+        "claim": "Arsenal vyhrál FA Cup v roce 1998.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "",
+        "start": 118,
+        "end": 118
+      },
+      {
+        "id": 9,
+        "claim": "Arsenal vyhrál FA Cup v roce 2002.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "2002 a šest FA Cupů: 1993, 1998, 2002,",
+        "start": 119,
+        "end": 157
+      },
+      {
+        "id": 10,
+        "claim": "Arsenal vyhrál FA Cup v roce 2003.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "2003,",
+        "start": 158,
+        "end": 163
+      },
+      {
+        "id": 11,
+        "claim": "Arsenal vyhrál FA Cup v roce 2005.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "",
+        "start": 73,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "source": "Tento mortal Coil byl známý pro jejich éterický, strašidelný a atmosférický zvuk, který byl vytvořen kombinací prvků postpunku, snové pop, okolní hudba a folk. Jejich hudba byla charakterizována vrstvami zvuku vytvořeného svěží, zasněný zpěv harmonií, reverb-dribovaný kytary, a ethereální syntetizátor textury.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Mortal Coil byl známý pro éterický zvuk.",
+        "checkworthy": true,
+        "checkworthy_reason": "No",
+        "origin_text": "Tento mortal Coil byl známý pro jejich éterický,",
+        "start": 0,
+        "end": 48
+      },
+      {
+        "id": 1,
+        "claim": "Mortal Coil byl známý pro strašidelný zvuk.",
+        "checkworthy": true,
+        "checkworthy_reason": "No",
+        "origin_text": "strašidelný",
+        "start": 49,
+        "end": 60
+      },
+      {
+        "id": 2,
+        "claim": "Mortal Coil byl známý pro atmosférický zvuk.",
+        "checkworthy": true,
+        "checkworthy_reason": "No",
+        "origin_text": "a atmosférický zvuk,",
+        "start": 61,
+        "end": 81
+      },
+      {
+        "id": 3,
+        "claim": "Zvuk Mortal Coil byl vytvořen kombinací postpunku.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "který byl vytvořen kombinací prvků postpunku,",
+        "start": 82,
+        "end": 127
+      },
+      {
+        "id": 4,
+        "claim": "Zvuk Mortal Coil byl vytvořen kombinací snové pop.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "snové pop,",
+        "start": 128,
+        "end": 138
+      },
+      {
+        "id": 5,
+        "claim": "Zvuk Mortal Coil byl vytvořen kombinací okolní hudby.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "okolní hudba",
+        "start": 139,
+        "end": 151
+      },
+      {
+        "id": 6,
+        "claim": "Zvuk Mortal Coil byl vytvořen kombinací folk.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "a folk.",
+        "start": 152,
+        "end": 159
+      },
+      {
+        "id": 7,
+        "claim": "Hudba Mortal Coil byla charakterizována vrstvami zvuku.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "Jejich hudba byla charakterizována vrstvami zvuku",
+        "start": 160,
+        "end": 209
+      },
+      {
+        "id": 8,
+        "claim": "Hudba Mortal Coil obsahovala svěží zpěv harmonií.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "vytvořeného svěží, zasněný zpěv harmonií,",
+        "start": 210,
+        "end": 251
+      },
+      {
+        "id": 9,
+        "claim": "Hudba Mortal Coil obsahovala reverb-dribované kytary.",
+        "checkworthy": true,
+        "checkworthy_reason": "Yes",
+        "origin_text": "reverb-dribovaný kytary,",
+        "start": 252,
+        "end": 276
+      }
+    ]
+  },
+  {
+    "source": "ECharts Java je java-based knihovna pro vizualizaci dat. Poskytuje snadno použitelné rozhraní pro vytváření grafů, grafů a dalších vizuálních prvků pro reprezentaci dat. ECharts Java je založena na ECharts JavaScript knihovna, která je široce využívána pro zobrazení dat v webových aplikacích. Pomocí ECharts Java, vývojáři mohou vytvářet interaktivní a přizpůsobitelné grafy a grafy pro zobrazení dat více vizuálně přitažlivým způsobem. Podporuje širokou škálu typů grafů, včetně grafů řádků, grafů sloupců, koláčů a dalších.",
+    "claims": []
+  },
+  {
+    "source": "Podle Národních zdravotnických ústavů (NIH) je doporučený denní příspěvek hořčíku pro dospělé ženy v USA 310-320 mg. Nicméně, specifické množství se může lišit v závislosti na faktorech, jako je věk, těhotenství, a stavu kojení.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Národní zdravotnické ústavy (NIH) doporučují dospělým ženám v USA denní příspěvek hořčíku 310-320 mg.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok uvádí konkrétní doporučení od spolehlivé instituce, které lze ověřit prostřednictvím oficiálních zdravotnických směrnic.",
+        "origin_text": "Podle Národních zdravotnických ústavů (NIH) je doporučený denní příspěvek hořčíku pro dospělé ženy v USA 310-320 mg.",
+        "start": 0,
+        "end": 116
+      },
+      {
+        "id": 1,
+        "claim": "Doporučení pro příspěvek hořčíku se může lišit na základě faktorů, jako je věk.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktické prvky týkající se demografických rozdílů v doporučeních, které lze ověřit ve zdravotnické literatuře.",
+        "origin_text": "Nicméně, specifické množství se může lišit v závislosti na faktorech, jako je věk,",
+        "start": 117,
+        "end": 199
+      },
+      {
+        "id": 2,
+        "claim": "Doporučení pro příspěvek hořčíku se může lišit na základě těhotenství.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení o změnách v doporučeních během těhotenství je ověřitelné prostřednictvím směrnic pro výživu těhotných žen.",
+        "origin_text": "těhotenství,",
+        "start": 200,
+        "end": 212
+      },
+      {
+        "id": 3,
+        "claim": "Doporučení pro příspěvek hořčíku se může lišit na základě stavu kojení.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení o rozdílech v doporučeních pro kojící ženy je ověřitelné prostřednictvím směrnic týkajících se výživy u kojících žen.",
+        "origin_text": "a stavu kojení.",
+        "start": 213,
+        "end": 228
+      }
+    ]
+  },
+  {
+    "source": "Byte Pair Encoding (BPE) je technika běžně používaná při zpracování přirozeného jazyka pro tokenizaci a komprese. Kromě komprese, BPE může být také použit pro šifrování účely. Nahrazením často se vyskytujících sekvencí znaků s novým symbolem, může vytvořit šifrovací schéma, které je obtížné pro outsidery dekódovat. To je proto, že mapování původního textu do jeho kódované podobě změny s každým iterace BPE algoritmu, přidáním prvek nahodilosti do šifrování. Kromě toho, že komprese je dosaženo odstraněním redundance v textu, výsledný kódovaný text je často kratší, což usnadňuje a rychlejší přenos přes sítě. Celkově, BPE nabízí výhody z hlediska důvěrnosti, účinnosti, a snížení využití dat.",
+    "claims": []
+  },
+  {
+    "source": "Jednobuněčná multiomika umožňuje hloubkovou analýzu jednotlivých buněk, která poskytuje vyšší rozlišení pochopení buněčných funkcí a interakcí. Naproti tomu, hromadná analýza poskytuje průměrné měření celého vzorku, které může zakrýt důležité rozdíly mezi jednotlivými buňkami. Typickou výhodou jednobuněčné multiomiky je tedy schopnost identifikovat heterogenitu v rámci populace buněk, odhalit dříve skryté buněčné podtypy a dynamické procesy na úrovni jednotlivých buněk.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Jednobuněčná multiomika umožňuje hloubkovou analýzu jednotlivých buněk.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení zahrnuje ověřitelné informace o schopnosti jednobuněčné multiomiky.",
+        "origin_text": "Jednobuněčná multiomika umožňuje hloubkovou analýzu jednotlivých buněk,",
+        "start": 0,
+        "end": 71
+      },
+      {
+        "id": 1,
+        "claim": "Hromadná analýza poskytuje průměrné měření celého vzorku.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné informace o tom, co hromadná analýza obvykle měří.",
+        "origin_text": "která poskytuje vyšší rozlišení pochopení buněčných funkcí a interakcí. Naproti tomu, hromadná analýza poskytuje průměrné měření celého vzorku,",
+        "start": 72,
+        "end": 215
+      },
+      {
+        "id": 2,
+        "claim": "Jednobuněčná multiomika umožňuje identifikaci heterogenity v rámci populace buněk.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení zahrnuje ověřitelné informace o aplikaci technologie v biologii.",
+        "origin_text": "které může zakrýt důležité rozdíly mezi jednotlivými buňkami. Typickou výhodou jednobuněčné multiomiky je tedy schopnost identifikovat heterogenitu",
+        "start": 216,
+        "end": 363
+      },
+      {
+        "id": 3,
+        "claim": "Jednobuněčná multiomika může odhalit dříve skryté buněčné podtypy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktické informace o možnostech technologie.",
+        "origin_text": "v rámci populace buněk, odhalit dříve skryté buněčné podtypy",
+        "start": 364,
+        "end": 424
+      },
+      {
+        "id": 4,
+        "claim": "Jednobuněčná multiomika umožňuje zkoumání dynamických procesů na úrovni jednotlivých buněk.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení zahrnuje ověřitelné informace o schopnostech jednobuněčné multiomiky.",
+        "origin_text": "a dynamické procesy na úrovni jednotlivých buněk.",
+        "start": 425,
+        "end": 474
+      }
+    ]
+  },
+  {
+    "source": "Nejběžnější směs vzduchu nebo plynu používaná při rekreačním potápění je stlačený vzduch, který se skládá z přibližně 21% kyslíku a 79% dusíku. Je také známý jako standardní vzduch nebo atmosférický vzduch.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Stlačený vzduch se používá při rekreačním potápění.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o tom, že se stlačený vzduch používá při rekreačním potápění.",
+        "origin_text": "Nejběžnější směs vzduchu nebo plynu používaná při rekreačním potápění je stlačený vzduch, který se skládá z přibližně 21% kyslíku a 79% dusíku.",
+        "start": 0,
+        "end": 143
+      },
+      {
+        "id": 1,
+        "claim": "Stlačený vzduch je nejběžnější směs vzduchu nebo plynu pro rekreační potápění.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o běžnosti používání stlačeného vzduchu v rekreačním potápění.",
+        "origin_text": "",
+        "start": 143,
+        "end": 143
+      },
+      {
+        "id": 2,
+        "claim": "Stlačený vzduch obsahuje přibližně 21% kyslíku.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o složení stlačeného vzduchu.",
+        "origin_text": "",
+        "start": 143,
+        "end": 143
+      },
+      {
+        "id": 3,
+        "claim": "Stlačený vzduch obsahuje přibližně 79% dusíku.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o složení stlačeného vzduchu.",
+        "origin_text": "",
+        "start": 143,
+        "end": 143
+      },
+      {
+        "id": 4,
+        "claim": "Stlačený vzduch je známý jako standardní vzduch.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok se týká označení nebo názvu, které je subjektivní a nemusí být univerzálně uznáno.",
+        "origin_text": "Je také známý jako standardní vzduch nebo atmosférický vzduch.",
+        "start": 144,
+        "end": 206
+      },
+      {
+        "id": 5,
+        "claim": "Stlačený vzduch je známý jako atmosférický vzduch.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok se týká označení nebo názvu, které je subjektivní a nemusí být univerzálně uznáno.",
+        "origin_text": "",
+        "start": 206,
+        "end": 206
+      }
+    ]
+  },
+  {
+    "source": "Parlamentní komisař pro normy je jmenován předsedou Sněmovny společenství na pětileté funkční období se souhlasem Sněmovny. Jmenování může být obnoveno na dalších pět let. Jmenování je nestranné a komisař je nezávislý na výkonu svých funkcí.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Parlamentní komisař pro normy je jmenován předsedou Sněmovny společenství.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktické informace o procesu jmenování, které lze ověřit z oficiálních pramenů.",
+        "origin_text": "Parlamentní komisař pro normy je jmenován předsedou Sněmovny společenství",
+        "start": 0,
+        "end": 73
+      },
+      {
+        "id": 1,
+        "claim": "Funkční období Parlamentního komisaře pro normy trvá pět let.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok uvádí specifickou délku funkčního období, které lze ověřit legislativními dokumenty.",
+        "origin_text": "na pětileté funkční období",
+        "start": 74,
+        "end": 100
+      },
+      {
+        "id": 2,
+        "claim": "Jmenování parlamentního komisaře pro normy vyžaduje souhlas Sněmovny.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok uvádí faktickou politickou požadavku, kterou lze ověřit z oficiálních pramenů.",
+        "origin_text": "se souhlasem Sněmovny",
+        "start": 101,
+        "end": 122
+      },
+      {
+        "id": 3,
+        "claim": "Jmenování může být obnoveno na dalších pět let.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok uvádí konkrétní podmínky prodloužení, které lze ověřit legislativními zdroji.",
+        "origin_text": " Jmenování může být obnoveno na dalších pět let.",
+        "start": 123,
+        "end": 171
+      },
+      {
+        "id": 4,
+        "claim": "Jmenování Parlamentního komisaře pro normy je nestranné.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje subjektivní slovo a neuvádí konkrétní metodu pro objektivní ověření.",
+        "origin_text": "Jmenování je nestranné",
+        "start": 172,
+        "end": 194
+      },
+      {
+        "id": 5,
+        "claim": "Parlamentní komisař pro normy je nezávislý na výkonu svých funkcí.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok se týká struktury role, kterou lze potvrdit legislativními popisy jeho autonomie.",
+        "origin_text": "a komisař je nezávislý na výkonu svých funkcí.",
+        "start": 195,
+        "end": 241
+      }
+    ]
+  },
+  {
+    "source": "Autonomní budovy jsou navrženy tak, aby se nespoléhaly na vnější systémy, jako jsou rozvody elektřiny, vody a plynu. Jsou vybaveny vlastními systémy pro vytápění, chlazení, zásobování vodou a nakládání s odpady. To znamená, že i při vojenském útoku, kdy mohou být ohroženy vnější systémy, mohou autonomní budovy i nadále fungovat a poskytovat bezpečné a udržitelné útočiště pro lidi uvnitř. Navíc, jejich soběstačné systémy mohou být odolnější vůči poškození způsobenému během útoku, což vede k bezpečnějšímu výsledku pro obyvatele.",
+    "claims": []
+  },
+  {
+    "source": "\"Více\" je populární křesťanská píseň, kterou napsal Matthew West. Podle výzkumu dosáhla číslo jedna na křesťanských rádiových grafech 15. srpna 2003 a udržela si svou pozici devět po sobě jdoucích týdnů.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "\"Více\" je populární křesťanská píseň.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje subjektivní hodnocení a nenabízí ověřitelné faktické informace.",
+        "origin_text": "\"Více\" je populární křesťanská píseň,",
+        "start": 0,
+        "end": 37
+      },
+      {
+        "id": 1,
+        "claim": "Matthew West napsal písničku \"Více.\"",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelnou informaci o autorském připisování.",
+        "origin_text": "kterou napsal Matthew West.",
+        "start": 38,
+        "end": 65
+      },
+      {
+        "id": 2,
+        "claim": "Píseň \"Více\" dosáhla číslo jedna na křesťanských rádiových grafech.",
+        "checkworthy": true,
+        "checkworthy_reason": "Úspěchy na chartech jsou ověřitelné prostřednictvím záznamů a datových zdrojů.",
+        "origin_text": "Podle výzkumu dosáhla číslo jedna na křesťanských rádiových grafech",
+        "start": 66,
+        "end": 133
+      },
+      {
+        "id": 3,
+        "claim": "\"Více\" dosáhla číslo jedna 15. srpna 2003.",
+        "checkworthy": true,
+        "checkworthy_reason": "Datumování úspěchu může být ověřeno pomocí chartových historických záznamů.",
+        "origin_text": "15. srpna 2003",
+        "start": 134,
+        "end": 148
+      },
+      {
+        "id": 4,
+        "claim": "\"Více\" udržela svou pozici číslo jedna devět po sobě jdoucích týdnů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Doba udržení na čártech je faktická informace ověřitelná chartovými záznamy.",
+        "origin_text": "a udržela si svou pozici devět po sobě jdoucích týdnů.",
+        "start": 149,
+        "end": 203
+      }
+    ]
+  },
+  {
+    "source": "Podle Mezinárodního obchodního centra se globální produkce kašmíru pohybuje kolem 20 000 tun ročně. Výrobní množství se však může značně lišit v závislosti na povětrnostních podmínkách a dalších faktorech.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Podle Mezinárodního obchodního centra se globální produkce kašmíru pohybuje kolem 20 000 tun ročně.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok uvádí specifickou kvantitu produkce kašmíru podle konkrétního zdroje, což lze ověřit.",
+        "origin_text": "Podle Mezinárodního obchodního centra se globální produkce kašmíru pohybuje kolem 20 000 tun ročně.",
+        "start": 0,
+        "end": 99
+      },
+      {
+        "id": 1,
+        "claim": "Výrobní množství kašmíru se může značně lišit.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení je obecné a subjektivní, bez konkrétních faktů nebo zdrojů k ověření.",
+        "origin_text": "Výrobní množství se však může značně lišit",
+        "start": 100,
+        "end": 142
+      },
+      {
+        "id": 2,
+        "claim": "Povětrnostní podmínky ovlivňují výrobu kašmíru.",
+        "checkworthy": true,
+        "checkworthy_reason": "Existují objektivní fakty a výzkumy, které mohou ověřit dopad klimatických podmínek na produkci kašmíru.",
+        "origin_text": "v závislosti na povětrnostních podmínkách a dalších faktorech.",
+        "start": 143,
+        "end": 205
+      }
+    ]
+  },
+  {
+    "source": "\"Lawson\" je řetězec obchodů v Japonsku, podobně jako 7-Eleven nebo Family Mart. To bylo poprvé zřízeno v roce 1975 a od té doby vyrostl do velké sítě obchodů se nachází v celé zemi. Kromě potravin, Lawson obchody často nosí různé produkty, jako je občerstvení, nápoje, toaletní potřeby a další denní potřeby. Lawson také provozuje oddělení potravin, které nabízí čerstvě připravené jídlo a občerstvení pro zákazníky na cestách.",
+    "claims": []
+  },
+  {
+    "source": "Australský Grand Prix v roce 1932 byl závod motorsportu, který se konal na dirt tracku na okruhu Phillip Island Grand Prix Circuit ve Victorii v Austrálii. Byl napaden ve vzdálenosti 40 kol, celkem 160 mil (257.5 km), a byl handicap závod, který umožnil pomalejší vozy začít před rychlejšími. Závod vyhrál řidič Bill Thompson jízdy Bugatti Type 37A.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Australský Grand Prix v roce 1932 byl závod motorsportu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Je to faktická prohlášení o povaze události v konkrétním roce.",
+        "origin_text": "Australský Grand Prix v roce 1932 byl závod motorsportu,",
+        "start": 0,
+        "end": 56
+      },
+      {
+        "id": 1,
+        "claim": "Závod se konal na dirt tracku na okruhu Phillip Island Grand Prix Circuit.",
+        "checkworthy": true,
+        "checkworthy_reason": "Přítomnost specifických faktů zpochybňuje jejich historickou přesnost; trať neexistovala v roce 1932.",
+        "origin_text": "který se konal na dirt tracku na okruhu Phillip Island Grand Prix Circuit",
+        "start": 57,
+        "end": 130
+      },
+      {
+        "id": 2,
+        "claim": "Okruh Phillip Island Grand Prix Circuit je ve Victorii, Austrálie.",
+        "checkworthy": true,
+        "checkworthy_reason": "Geografická položka lze ověřit.",
+        "origin_text": "ve Victorii v Austrálii.",
+        "start": 131,
+        "end": 155
+      },
+      {
+        "id": 3,
+        "claim": "Závod byl napaden ve vzdálenosti 40 kol.",
+        "checkworthy": true,
+        "checkworthy_reason": "Pokud existují záznamy, mohou být ověřeny.",
+        "origin_text": "Byl napaden ve vzdálenosti 40 kol,",
+        "start": 156,
+        "end": 190
+      },
+      {
+        "id": 4,
+        "claim": "Celková vzdálenost závodu byla 160 mil (257.5 km).",
+        "checkworthy": true,
+        "checkworthy_reason": "Je to specifická faktická data pro ověření.",
+        "origin_text": "celkem 160 mil (257.5 km),",
+        "start": 191,
+        "end": 217
+      },
+      {
+        "id": 5,
+        "claim": "Australský Grand Prix v roce 1932 byl handicap závod.",
+        "checkworthy": true,
+        "checkworthy_reason": "Specifický termín může být ověřen.",
+        "origin_text": "a byl handicap závod,",
+        "start": 218,
+        "end": 239
+      },
+      {
+        "id": 6,
+        "claim": "Handicap závod umožňoval pomalejší vozy začít před rychlejšími.",
+        "checkworthy": true,
+        "checkworthy_reason": "Popis typu pravidel může být fakticky ověřen.",
+        "origin_text": "který umožnil pomalejší vozy začít před rychlejšími.",
+        "start": 240,
+        "end": 292
+      },
+      {
+        "id": 7,
+        "claim": "Řidič Bill Thompson vyhrál Australský Grand Prix v roce 1932.",
+        "checkworthy": true,
+        "checkworthy_reason": "Lze verifikovat prostřednictvím autorských dokumentů nebo historických záznamů.",
+        "origin_text": "Závod vyhrál řidič Bill Thompson",
+        "start": 293,
+        "end": 325
+      },
+      {
+        "id": 8,
+        "claim": "Bill Thompson jízdil Bugatti Type 37A.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o faktickou podrobnost k ověření.",
+        "origin_text": "jízdy Bugatti Type 37A.",
+        "start": 326,
+        "end": 349
+      }
+    ]
+  },
+  {
+    "source": "Bristly Bellflowers se nacházejí v různých lokalitách, včetně polí, luk, lesů a podél silnic. Ty se obvykle nacházejí v mírné oblasti Evropy, Asie a Severní Ameriky. Některé možné lokality, které je najdou v divočině, by byly louky nebo otevřené pole, protože preferují většinou slunné oblasti. Nicméně, je důležité si uvědomit, že divoké květiny by nikdy neměly být vytrženy nebo vykořeněny z divočiny a měly by se těšit z dálky.",
+    "claims": []
+  },
+  {
+    "source": "Surfovací prkno je vyrobeno z pěny, laminátu a pryskyřice. Pěna poskytuje vztlak a je tvarována podle požadovaných rozměrů desky. Fiberglass je pak aplikován na pěnu, a pryskyřice se používá k ztvrdnutí.Ryby, které pomáhají ovládat desku ve vodě, jsou obvykle vyrobeny z plastu nebo laminátu. Některé surfovací prkna mají také vrstvu pěny na palubě, která poskytuje vycpávky a úchop pro surfaře.",
+    "claims": []
+  },
+  {
+    "source": "Pozice ministra pro výživu, zemědělství a rybolov v Dánsku byla založena v roce 1899 a byla původně známa jako ministr zemědělství. Název byl změněn na ministr pro potraviny, zemědělství a rybolov v roce 2001, aby lépe odrážel širší odpovědnost ministerstva.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Pozice ministra pro výživu, zemědělství a rybolov v Dánsku byla založena v roce 1899.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto lze ověřit prostřednictvím dánských historických záznamů nebo oficiálních dokumentů týkajících se vládního úřadu.",
+        "origin_text": "Pozice ministra pro výživu, zemědělství a rybolov v Dánsku byla založena v roce 1899",
+        "start": 0,
+        "end": 84
+      },
+      {
+        "id": 1,
+        "claim": "Původní název této pozice byl ministr zemědělství.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto lze ověřit prostřednictvím historických záznamů nebo legislativních změn týkajících se názvu úřadu.",
+        "origin_text": "a byla původně známa jako ministr zemědělství.",
+        "start": 85,
+        "end": 131
+      },
+      {
+        "id": 2,
+        "claim": "Název byl změněn na ministr pro potraviny, zemědělství a rybolov v roce 2001.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto lze ověřit prostřednictvím záznamů o legislativních změnách nebo oficiálních dokumentech týkajících se vládního úřadu.",
+        "origin_text": "Název byl změněn na ministr pro potraviny, zemědělství a rybolov v roce 2001",
+        "start": 132,
+        "end": 208
+      },
+      {
+        "id": 3,
+        "claim": "Účelem změny názvu bylo lépe odrážet širší odpovědnost ministerstva.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto je vyjádření názoru nebo záměru, které nelze jednoznačně ověřit bez přístupu k interním dokumentům politiky nebo prohlášením týkajícím se úmyslu za změnou.",
+        "origin_text": " aby lépe odrážel širší odpovědnost ministerstva.",
+        "start": 209,
+        "end": 258
+      }
+    ]
+  },
+  {
+    "source": "Podle referenčního textu byli hlavními důvody, proč lidé bez domova mimo San Francisco odjeli do San Francisca, pro lepší povětrnostní podmínky, větší soucit a podporu obyvatel bez domova a přístup ke službám, jako jsou potravinové banky a zdravotnická zařízení.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Referenční text uvádí hlavní důvody migrace lidí bez domova.",
+        "checkworthy": true,
+        "checkworthy_reason": "Referenční text není konkrétní a není možné ověřit existence nebo obsah bez dalších podrobností.",
+        "origin_text": "Podle referenčního textu byli hlavními důvody, proč lidé bez domova mimo San Francisco odjeli do San Francisca,",
+        "start": 0,
+        "end": 111
+      },
+      {
+        "id": 1,
+        "claim": "Lidé bez domova odjeli do San Francisca za lepšími povětrnostními podmínkami.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok obsahuje faktickou hypotézu, která může být ověřena prostřednictvím studií nebo statistik.",
+        "origin_text": "pro lepší povětrnostní podmínky,",
+        "start": 112,
+        "end": 144
+      },
+      {
+        "id": 2,
+        "claim": "Lidé bez domova hledali větší soucit a podporu obyvatel bez domova ve San Franciscu.",
+        "checkworthy": true,
+        "checkworthy_reason": "I když je to interpretativní, výrok se týká možných faktických studií nebo průzkumů.",
+        "origin_text": "větší soucit a podporu obyvatel bez domova",
+        "start": 145,
+        "end": 187
+      },
+      {
+        "id": 3,
+        "claim": "Migranti hledali přístup ke službám, jako jsou potravinové banky.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto je konkrétní tvrzení, které může být ověřeno prostřednictvím výzkumu a dat.",
+        "origin_text": "a přístup ke službám, jako jsou potravinové banky",
+        "start": 188,
+        "end": 237
+      },
+      {
+        "id": 4,
+        "claim": "Migranti hledali přístup k zdravotnickým zařízením v San Franciscu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto je faktické tvrzení, které lze ověřit analýzou relevantních zdrojů.",
+        "origin_text": "a zdravotnická zařízení.",
+        "start": 238,
+        "end": 262
+      }
+    ]
+  },
+  {
+    "source": "Železářství bylo zavedeno do severní Afriky kolem 500 př. n. l., a to je věřil, že vzal několik století na technologii rozšířit na jih a stát se samozřejmostí v západní Africe. Některé archeologické důkazy naznačují, že že železářství v západní Africe možná začalo kolem 2. století př. n. l., ale to se nestalo rozšířen až několik století později. Přesná časová osa šíření železa v západní Africe je obtížné určit vzhledem k nedostatku písemných záznamů z období.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Železářství bylo zavedeno do severní Afriky kolem 500 př. n. l.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní čas a oblast, která jsou faktické prvky ověřitelné historickými důkazy.",
+        "origin_text": "Železářství bylo zavedeno do severní Afriky kolem 500 př. n. l.,",
+        "start": 0,
+        "end": 64
+      },
+      {
+        "id": 1,
+        "claim": "Technologie trvalo několik století na to, aby se rozšířila na jih a stala samozřejmostí v západní Africe.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje obecné tvrzení bez konkrétních faktických detailů.",
+        "origin_text": "a to je věřil, že vzal několik století na technologii rozšířit na jih a stát se samozřejmostí v západní Africe.",
+        "start": 65,
+        "end": 176
+      },
+      {
+        "id": 2,
+        "claim": "Archeologické důkazy naznačují, že železářství v západní Africe možná začalo kolem 2. století př. n. l.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní časový rámec a odkaz na archeologické důkazy, které jsou faktické prvky.",
+        "origin_text": "Některé archeologické důkazy naznačují, že že železářství v západní Africe možná začalo kolem 2. století př. n. l.,",
+        "start": 177,
+        "end": 292
+      },
+      {
+        "id": 3,
+        "claim": "Železářství se nestalo rozšířeným až několik století později.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje obecné tvrzení bez konkrétních faktických detailů.",
+        "origin_text": "ale to se nestalo rozšířen až několik století později.",
+        "start": 293,
+        "end": 347
+      },
+      {
+        "id": 4,
+        "claim": "Přesná časová osa šíření železa v západní Africe je obtížné určit kvůli nedostatku písemných záznamů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktickou situaci o důvodech pro přesnost datování, které lze ověřit historiky a archeology.",
+        "origin_text": "Přesná časová osa šíření železa v západní Africe je obtížné určit vzhledem k nedostatku písemných záznamů z období.",
+        "start": 348,
+        "end": 463
+      }
+    ]
+  },
+  {
+    "source": "Marcus Morton se narodil 19. února 1784. Odešel z Federalistické strany a stal se demokratem díky své podpoře práv států a odporu vůči politice federalistické strany ve věci války a občanských svobod. Jako demokratický politik sloužil jako guvernér Massachusetts a americký zástupce a americký senátor.",
+    "claims": []
+  },
+  {
+    "source": "Autor navrhuje nový přístup k rozvoji AI, který upřednostňuje sladění systémů AI s lidskými hodnotami a cíli, a nikoli jen optimalizaci dané objektivní funkce. To zahrnuje začlenění zpětné vazby od lidí během celého procesu vývoje a zajištění toho, aby systém AI chápal lidské záměry a preference. Autor tvrdí, že tento přístup je nezbytný k řešení možných rizik, která představují systémy AI, a k zajištění toho, aby byly prospěšné pro lidstvo.",
+    "claims": []
+  },
+  {
+    "source": "SM U-30 byla německá ponorka typu U 27 používaná během první světové války. Byla zadána 22. prosince 1914 a měla při vynoření 662 tun a při ponoření 834 tun. U-loď byla vyzbrojena čtyřmi 50cm torpédovými trubicemi a 88mm palubní pistolí. Během své služby potopila celkem 42 lodí, ale nakonec byla potopena britskou ponorkou E22 4. srpna 1915 se ztrátou všech rukou.",
+    "claims": []
+  },
+  {
+    "source": "Skot byl domestikován po zemědělství v Africe. Domestikace skotu v Africe začala asi před 8 000 až 7 000 lety, zatímco nejstarší důkazy o zemědělství v Africe sahá až do doby před 10 000 lety. Zemědělství hrálo významnou roli v domestikaci a chovu skotu, protože zemědělské postupy poskytovaly stabilní dodávky potravin pro rané lidské komunity, aby chovaly a chovaly zvířata pro mléko, maso a orál pole.",
+    "claims": []
+  },
+  {
+    "source": "Aby se ledový matcha latte, budete muset míchat matcha prášek s teplou vodou, dokud se rozpustí. Pak nalijte směs do sklenice naplněné ledem a přidejte požadované množství mléka. Nakonec, promíchejte směs a užijte si svůj ledový matcha latte!",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "K výrobě ledového matcha latté je třeba míchat matcha prášek s teplou vodou.",
+        "checkworthy": true,
+        "checkworthy_reason": "Obsahuje jasné a konkrétní informace o krocích při výrobě, které jsou ověřitelné.",
+        "origin_text": "Aby se ledový matcha latte, budete muset míchat matcha prášek s teplou vodou,",
+        "start": 0,
+        "end": 77
+      },
+      {
+        "id": 1,
+        "claim": "Matcha prášek se smíchá, dokud se nezakypelí.",
+        "checkworthy": true,
+        "checkworthy_reason": "Určuje specifický proces míchání, který je uznáván při vaření matchy.",
+        "origin_text": "dokud se rozpustí.",
+        "start": 78,
+        "end": 96
+      },
+      {
+        "id": 2,
+        "claim": "Nalijte zředěný matcha do sklenice naplněné ledem pro ledový matcha latte.",
+        "checkworthy": true,
+        "checkworthy_reason": "Obsahuje specifický krok při vaření, který je ověřitelný prostřednictvím receptů nebo výrobě nápojů.",
+        "origin_text": "Pak nalijte směs do sklenice naplněné ledem",
+        "start": 97,
+        "end": 140
+      },
+      {
+        "id": 3,
+        "claim": "Přidejte množství mléka do sklenice s matchou a ledem.",
+        "checkworthy": true,
+        "checkworthy_reason": "Obsahuje konkrétní pokyny pro přípravu nápoje, které jsou standardní a ověřitelné.",
+        "origin_text": "a přidejte požadované množství mléka.",
+        "start": 141,
+        "end": 178
+      },
+      {
+        "id": 4,
+        "claim": "Promíchejte směs pro hotovočinnost.",
+        "checkworthy": true,
+        "checkworthy_reason": "Poskytuje konkrétní pokyn pro dokončení přípravy, který je běžný v receptech.",
+        "origin_text": "Nakonec, promíchejte směs",
+        "start": 179,
+        "end": 204
+      },
+      {
+        "id": 5,
+        "claim": "Ledový matcha latte je připraven k užití.",
+        "checkworthy": true,
+        "checkworthy_reason": "Indikuje dokončení procesu vaření, který je standardní pro konečnou produkci nápoje.",
+        "origin_text": "a užijte si svůj ledový matcha latte!",
+        "start": 205,
+        "end": 242
+      }
+    ]
+  },
+  {
+    "source": "Poměr kluzu letadla se vztahuje na vzdálenost, kterou letadlo může letět vpřed ve vztahu k výšce, kterou ztrácí při sestupu. Je vyjádřen jako poměr, s vyššími čísly ukazujícími, že letadlo může cestovat dále, zatímco ztrácí menší výšku.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Poměr kluzu letadla se vztahuje na vzdálenost.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktické informace, které jsou podloženy aerodynamickými principy.",
+        "origin_text": "Poměr kluzu letadla se vztahuje na vzdálenost,",
+        "start": 0,
+        "end": 46
+      },
+      {
+        "id": 1,
+        "claim": "Letadlo ztrácí menší výšku s vyšším poměrem kluzu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení je podloženo objektivními principy aerodynamiky.",
+        "origin_text": "kterou letadlo může letět vpřed ve vztahu k výšce, kterou ztrácí při sestupu. Je vyjádřen jako poměr, s vyššími čísly ukazujícími, že letadlo může cestovat dále, zatímco ztrácí menší výšku.",
+        "start": 47,
+        "end": 236
+      }
+    ]
+  },
+  {
+    "source": "Účelem použití modulů Terraform je vytvořit opakovaně použitelné a sdílené konfigurace, které mohou být snadno řízeny, testovány a nasazeny. Umožňují abstrakci zdrojů infrastruktury a pomáhají zjednodušit řízení a škálování komplexních infrastruktur.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Účelem modulů Terraform je vytvořit opakovaně použitelné a sdílené konfigurace.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktické informace o účelu technologie, které lze ověřit pomocí spolehlivých zdrojů jako Terraform dokumentace.",
+        "origin_text": "Účelem použití modulů Terraform je vytvořit opakovaně použitelné a sdílené konfigurace,",
+        "start": 0,
+        "end": 87
+      },
+      {
+        "id": 1,
+        "claim": "Moduly Terraform umožňují snadné řízení, testování a nasazení konfigurací.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok popisuje specifické funkce modulů Terraform, které lze potvrdit prostřednictvím technických dokumentací a spolehlivých zdrojů.",
+        "origin_text": "které mohou být snadno řízeny, testovány a nasazeny.",
+        "start": 88,
+        "end": 140
+      },
+      {
+        "id": 2,
+        "claim": "Moduly Terraform abstrahují zdroje infrastruktury.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktickou informaci o funkcionalitě modulů Terraform, což lze ověřit pomocí spolehlivé technické dokumentace.",
+        "origin_text": "Umožňují abstrakci zdrojů infrastruktury",
+        "start": 141,
+        "end": 181
+      },
+      {
+        "id": 3,
+        "claim": "Pomáhají moduly Terraform zjednodušit řízení komplexních infrastruktur.",
+        "checkworthy": true,
+        "checkworthy_reason": "I když jsou komponenty této výroky faktické, slovo 'zjednodušit' zavádí subjektivitu, která znemožňuje objektivní ověření.",
+        "origin_text": "a pomáhají zjednodušit řízení",
+        "start": 182,
+        "end": 211
+      },
+      {
+        "id": 4,
+        "claim": "Pomáhají moduly Terraform škálovat komplexní infrastruktury.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktické tvrzení o schopnosti modulů Terraform, kterou lze ověřit pomocí spolehlivých technických dokumentací.",
+        "origin_text": "a škálování komplexních infrastruktur.",
+        "start": 212,
+        "end": 250
+      }
+    ]
+  },
+  {
+    "source": "Mezi společné výkonné role velkých společností patří generální ředitel (šéf výkonný ředitel), ředitel COO (šéf operačního ředitele), finanční ředitel (šéf finanční ředitel), ředitel CMO (šéf marketingu), CTO (šéf technologický ředitel) a ředitel CHRO (šéf oddělení lidských zdrojů).",
+    "claims": []
+  },
+  {
+    "source": "Kombinatorická optimalizace je obor matematiky a informatiky, která zahrnuje nalezení nejlepší kombinace prvků z konečných souborů pro optimalizaci konkrétní objektivní funkce. Má aplikace v mnoha oblastech, včetně logistiky, plánování, výroby a telekomunikací.",
+    "claims": []
+  },
+  {
+    "source": "Některé důležité atributy kosmických baterií zahrnují energetickou hustotu, specifický výkon, životnost cyklu a spolehlivost. Tyto atributy jsou realizovány díky použití pokročilých materiálů, efektivním designům a přísným procesům testování a kontroly kvality.",
+    "claims": []
+  },
+  {
+    "source": "1. Vyhodnocení a pochopení systému Legacy: Posouzení a pochopení stávající struktury, schémat a dat stávajícího systému datových skladů. 2.Vypracování migračního plánu: Vytvoření migračního plánu, který nastiňuje různé fáze migračního procesu, upřednostňuje migrační aktivity, identifikuje potenciální rizika a nastiňuje požadavky na zdroje pro každou fázi. 3. Data Extrakce a integrace: Získávání dat z původního systému a jejich začlenění do moderní architektury jezer. 4. Transformace a migrace dat: Transformace historických dat do moderního formátu, který je kompatibilní s novým prostředím pro lakehouse a ověřuje přesnost migrovaných dat. 5. Optimalizace a údržba: Neustálé jemné doladění nového prostředí Lakehouse sledováním kvality, výkonnosti a bezpečnosti dat, aby se zajistilo, že funguje při maximální optimalizaci a pravidelně se udržuje a zlepšuje.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Stávající systém datových skladů má svou vlastní strukturu, schéma a data.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktické informace o stavebních prvci jakéhokoli datového skladu, které lze ověřit založením na technických standardech a definicích v oblasti databázové architektury.",
+        "origin_text": "1. Vyhodnocení a pochopení systému Legacy: Posouzení a pochopení stávající struktury, schémat a dat stávajícího systému datových skladů.",
+        "start": 0,
+        "end": 136
+      },
+      {
+        "id": 1,
+        "claim": "Posuzujeme stávající systém datových skladů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok je nedostatečně specifický, protože neidentifikuje koho či co konkrétně se posuzuje, čímž ztěžuje jeho ověření.",
+        "origin_text": "",
+        "start": 136,
+        "end": 136
+      },
+      {
+        "id": 2,
+        "claim": "Chceme pochopit stávající systém datových skladů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto je vyjádřením výsady nebo cíle, které se týká subjektivního úmyslu a nelze jej objektivně ověřit.",
+        "origin_text": "",
+        "start": 136,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "source": "Rekruti jsou zodpovědní za řízení celého procesu náboru, včetně získávání, promítání, pohovorů a náboru kandidátů. Zdroje se na druhou stranu zaměřují zejména na hledání a přilákání kvalifikovaných kandidátů na volné pozice.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Rekruti řídí celý proces náboru.",
+        "checkworthy": true,
+        "checkworthy_reason": "Není ověřitelné, protože chybí kontext, kdo jsou 'rekruti' v tomto scénáři.",
+        "origin_text": "Rekruti jsou zodpovědní za řízení celého procesu náboru, včetně",
+        "start": 0,
+        "end": 63
+      },
+      {
+        "id": 1,
+        "claim": "Proces náboru zahrnuje získávání, promítání, pohovory a nábor kandidátů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Obsahuje ověřitelné informace o běžných fázích procesu náboru.",
+        "origin_text": "získávání, promítání, pohovorů a náboru kandidátů.",
+        "start": 64,
+        "end": 114
+      },
+      {
+        "id": 2,
+        "claim": "Zdroje se zaměřují na hledání kvalifikovaných kandidátů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Obsahuje ověřitelnou informaci o účelu procesu náboru.",
+        "origin_text": "Zdroje se na druhou stranu zaměřují zejména na hledání",
+        "start": 115,
+        "end": 169
+      },
+      {
+        "id": 3,
+        "claim": "Zdroje se zaměřují na přilákání kandidátů na volné pozice.",
+        "checkworthy": true,
+        "checkworthy_reason": "Obsahuje ověřitelnou informaci o účelu procesu náboru.",
+        "origin_text": "a přilákání kvalifikovaných kandidátů na volné pozice.",
+        "start": 170,
+        "end": 224
+      }
+    ]
+  },
+  {
+    "source": "Firmy inzerují vytvářet uznání a diferenciaci značek, ovlivňovat preference a chování spotřebitelů, poskytovat informace o funkcích, výhodách a dostupnosti produktů, udržovat nebo zvyšovat podíl na trhu a vytvářet věrnost značky, i když je zboží zaměnitelné.",
+    "claims": []
+  },
+  {
+    "source": "Chcete-li najít nejlepší interiérové dekoratéry a nejlepší cenu, můžete sledovat tyto kroky: 1. Výzkum: Výzkum on-line najít interiérové dekoratéry ve vaší oblasti. Podívejte se na jejich portfolia, hodnocení zákazníků a hodnocení. 2. Shortlist: Shortlist několik dekoratéři založené na jejich práci, zkušenosti, a recenze. 3. Rozpočet: Určete svůj rozpočet pro projekt a prodiskutujte totéž s každým interiérovým dekoratérem. 4. Porovnat: Porovnejte citace a služby nabízené každým interiérovým dekoratérem. 5. Vyberte: Vyberte si nejlepší interiérový dekoratér, který vyhovuje vašemu stylu, potřebám a rozpočtu.",
+    "claims": []
+  },
+  {
+    "source": "Multipass distillation je proces destilace, kdy je pára z první destilace kondenzována a krmena zpět do destilační kolony pro další destilace ke zvýšení čistoty konečného produktu.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Multipass distillation is a distillation process.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení definuje multipass distillation jako druh distilačního procesu, což je faktická informace o chemickém procesu.",
+        "origin_text": "Multipass distillation je proces destilace,",
+        "start": 0,
+        "end": 43
+      },
+      {
+        "id": 1,
+        "claim": "Vapor from the first distillation is condensed in multipass distillation.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení uvádí konkrétní krok v technickém procesu, což je potenciálně ověřitelné.",
+        "origin_text": "kdy je pára z první destilace kondenzována",
+        "start": 44,
+        "end": 86
+      },
+      {
+        "id": 2,
+        "claim": "The condensed vapor is recirculated back into the distillation column in multipass distillation.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení uvádí specifické kroky technického procesu, které mohou být ověřeny.",
+        "origin_text": "a krmena zpět do destilační kolony",
+        "start": 87,
+        "end": 121
+      },
+      {
+        "id": 3,
+        "claim": "Further distillations are performed in multipass distillation.",
+        "checkworthy": true,
+        "checkworthy_reason": "Popisuje charakteristiku technického procesu, která je potenciálně ověřitelná.",
+        "origin_text": "pro další destilace",
+        "start": 122,
+        "end": 141
+      },
+      {
+        "id": 4,
+        "claim": "The purpose of further distillations is to increase the purity of the final product.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení uvádí běžnou cíl procesu v kontextu chemické či inženýrské praxe.",
+        "origin_text": "ke zvýšení čistoty konečného produktu.",
+        "start": 142,
+        "end": 180
+      }
+    ]
+  },
+  {
+    "source": "Mezi oblíbené tropické destinace pro lidi na východním pobřeží Spojených států patří Karibské ostrovy (jako je Jamajka, Dominikánská republika a Bahamy) a země střední a Jižní Ameriky, jako je Kostarika a Mexiko.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Karibské ostrovy jsou oblíbené tropické destinace pro lidi na východním pobřeží Spojených států.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok vyjadřuje subjektivní preferenci, kterou nelze objektivně ověřit.",
+        "origin_text": "Mezi oblíbené tropické destinace pro lidi na východním pobřeží Spojených států patří Karibské ostrovy",
+        "start": 0,
+        "end": 101
+      },
+      {
+        "id": 1,
+        "claim": "Mezi Karibské ostrovy patří Jamajka, Dominikánská republika a Bahamy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné geografické informace.",
+        "origin_text": "(jako je Jamajka, Dominikánská republika a Bahamy)",
+        "start": 102,
+        "end": 152
+      },
+      {
+        "id": 2,
+        "claim": "Země střední a Jižní Ameriky jsou oblíbené tropické destinace pro lidi na východním pobřeží Spojených států.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok vyjadřuje subjektivní názor, který nelze objektivně ověřit.",
+        "origin_text": "a země střední a Jižní Ameriky, jako je Kostarika a Mexiko",
+        "start": 153,
+        "end": 211
+      },
+      {
+        "id": 3,
+        "claim": "Kostarika je zemí střední a Jižní Ameriky oblíbenou jako tropická destinace.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok vyjadřuje subjektivní názor, který nelze objektivně ověřit.",
+        "origin_text": "",
+        "start": 202,
+        "end": 202
+      },
+      {
+        "id": 4,
+        "claim": "Mexiko je zemí střední a Jižní Ameriky oblíbenou jako tropická destinace.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok vyjadřuje subjektivní preferenci, kterou nelze objektivně ověřit.",
+        "origin_text": "a Mexiko",
+        "start": 203,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "source": "Láska je komplexní a hluboké citové pouto, které zahrnuje několik aspektů, jako je závazek, intimita, vášeň a péče. Náklonnost, na druhé straně, je pocit vřelosti, náklonnosti, a líbí k někomu nebo něco. Zatímco láska je širší a hlubší emocionální spojení, náklonnost je obvykle mírnější vyjádření náklonnosti nebo náklonnosti.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Láska je komplexní a hluboké citové pouto.",
+        "checkworthy": true,
+        "checkworthy_reason": "Je to subjektivní popis emocionálního stavu.",
+        "origin_text": "Láska je komplexní a hluboké citové pouto,",
+        "start": 0,
+        "end": 42
+      },
+      {
+        "id": 1,
+        "claim": "Láska zahrnuje několik aspektů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Přestože je obecné, lze jej spojit s širokými teoriemi o vztazích.",
+        "origin_text": "které zahrnuje několik aspektů, jako je",
+        "start": 43,
+        "end": 82
+      },
+      {
+        "id": 2,
+        "claim": "Láska zahrnuje závazek.",
+        "checkworthy": true,
+        "checkworthy_reason": "Spojujeme to se sociálními a psychologickými koncepty lásky.",
+        "origin_text": "závazek,",
+        "start": 83,
+        "end": 91
+      },
+      {
+        "id": 3,
+        "claim": "Láska zahrnuje intimitu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Stejně jako předchozí, je spojeno s emocionální blízkostí v teoriích o vztazích.",
+        "origin_text": "intimita,",
+        "start": 92,
+        "end": 101
+      },
+      {
+        "id": 4,
+        "claim": "Láska zahrnuje vášeň.",
+        "checkworthy": true,
+        "checkworthy_reason": "Součást mnoha psychologických modelů lásky.",
+        "origin_text": "vášeň a",
+        "start": 102,
+        "end": 109
+      },
+      {
+        "id": 5,
+        "claim": "Láska zahrnuje péči.",
+        "checkworthy": true,
+        "checkworthy_reason": "Podobně jako u 'závazku' a 'intimity', je to součást mnoha teorií o vztazích.",
+        "origin_text": "péče.",
+        "start": 110,
+        "end": 115
+      },
+      {
+        "id": 6,
+        "claim": "Náklonnost je pocit vřelosti.",
+        "checkworthy": true,
+        "checkworthy_reason": "Subjektivní popis na základě slovníkových nebo psychologických definic.",
+        "origin_text": "Náklonnost, na druhé straně, je pocit vřelosti,",
+        "start": 116,
+        "end": 163
+      },
+      {
+        "id": 7,
+        "claim": "Náklonnost zahrnuje náklonnost.",
+        "checkworthy": true,
+        "checkworthy_reason": "Samozřejmost bez faktického ověření.",
+        "origin_text": "náklonnosti, a",
+        "start": 164,
+        "end": 178
+      },
+      {
+        "id": 8,
+        "claim": "Náklonnost znamená líbí k někomu nebo něčemu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Subjektivní popis na základě běžné definice.",
+        "origin_text": "líbí k někomu nebo něco.",
+        "start": 179,
+        "end": 203
+      },
+      {
+        "id": 9,
+        "claim": "Láska je širší emocionální spojení než náklonnost.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení lze ověřit v určité teoretické perspektivě, i když subjektivní.",
+        "origin_text": "Zatímco láska je širší",
+        "start": 204,
+        "end": 226
+      },
+      {
+        "id": 10,
+        "claim": "Láska je hlubší emocionální spojení než náklonnost.",
+        "checkworthy": true,
+        "checkworthy_reason": "Podobně jako předchozí, ověření v teoretických kontextech.",
+        "origin_text": "a hlubší emocionální spojení,",
+        "start": 227,
+        "end": 256
+      },
+      {
+        "id": 11,
+        "claim": "Náklonnost je mírnější vyjádření než láska.",
+        "checkworthy": true,
+        "checkworthy_reason": "Komparativní tvrzení založené na konceptech může být ověřeno v teoretickém kontextu.",
+        "origin_text": "náklonnost je obvykle mírnější vyjádření náklonnosti nebo náklonnosti.",
+        "start": 257,
+        "end": 327
+      }
+    ]
+  },
+  {
+    "source": "Návrh marginální sazby nákladů v elektrických sítích odkazuje na cenovou strategii, v níž je zákazník účtován na základě nákladů na poskytnutí dodatečné jednotky elektrické energie. To umožňuje přesnější stanovení cen, které odráží skutečné náklady na poskytování elektřiny a podporuje efektivitu trhu s elektřinou.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Návrh marginální sazby nákladů se vztahuje na elektrické sítě.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktické informace o aplikaci marginální sazby nákladů v oblasti elektrických sítí.",
+        "origin_text": "Návrh marginální sazby nákladů v elektrických sítích odkazuje",
+        "start": 0,
+        "end": 61
+      },
+      {
+        "id": 1,
+        "claim": "Marginální sazba nákladů je cenová strategie.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok poskytuje faktickou charakteristiku marginální sazby nákladů v oblasti cenových strategií.",
+        "origin_text": "na cenovou strategii,",
+        "start": 62,
+        "end": 83
+      },
+      {
+        "id": 2,
+        "claim": "Zákazníci jsou účtováni na základě dodatečné jednotky elektrické energie podle marginální sazby nákladů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní faktickou předpoklad o tom, jak jsou zákazníci účtováni v rámci elektrických sítí.",
+        "origin_text": "v níž je zákazník účtován na základě nákladů na poskytnutí dodatečné jednotky elektrické energie.",
+        "start": 84,
+        "end": 181
+      },
+      {
+        "id": 3,
+        "claim": "Návrh umožňuje přesnější stanovení cen.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje hodnotící tvrzení, které není jednoznačně objektivně ověřitelné.",
+        "origin_text": "To umožňuje přesnější stanovení cen,",
+        "start": 182,
+        "end": 218
+      },
+      {
+        "id": 4,
+        "claim": "Stanovení cen odráží skutečné náklady na poskytování elektřiny.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktickou předpoklad o vztahu mezi cenami a náklady na poskytování elektřiny.",
+        "origin_text": "které odráží skutečné náklady na poskytování elektřiny",
+        "start": 219,
+        "end": 273
+      },
+      {
+        "id": 5,
+        "claim": "Marginální sazba nákladů podporuje efektivitu trhu s elektřinou.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje faktickou předpoklad o účincích marginální sazby nákladů na tržní efektivitu.",
+        "origin_text": "a podporuje efektivitu trhu s elektřinou.",
+        "start": 274,
+        "end": 315
+      }
+    ]
+  },
+  {
+    "source": "Hlavní rozdíl mezi Scala Future je onComplete a a pak funkce je, že onComplete bere funkci callback s argumentem Try[T], který se provede, když budoucnost úspěšně dokončí, nebo s výjimkou, zatímco aPak bere funkci callback s argumentem Future[T], který se provede pouze tehdy, když budoucnost úspěšně dokončí.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Callback aPak se provede pouze tehdy, když budoucnost úspěšně dokončí.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok popisuje podmínku pro provedení `flatMap`, což je konkrétní tvrzení, i když nesprávné, které lze ověřit v rámci rozhraní Scala.",
+        "origin_text": "Hlavní rozdíl mezi Scala Future je onComplete a a pak funkce je, že onComplete bere funkci callback s argumentem Try[T], který se provede, když budoucnost úspěšně dokončí, nebo s výjimkou, zatímco aPak bere funkci callback s argumentem Future[T], který se provede pouze tehdy, když budoucnost úspěšně dokončí.",
+        "start": 0,
+        "end": 309
+      }
+    ]
+  },
+  {
+    "source": "Kalifornie má obecně teplejší a konzistentnější počasí než New York. Kalifornie má mírnější zimy a horká léta s malým až žádným deštěm, zatímco New York zažívá chladnější zimy se sněhem a deštěm a teplejší léta s vyšší vlhkostí.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Kalifornie má obecně teplejší počasí než New York.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné tvrzení o průměrných teplotách v obou státech.",
+        "origin_text": "Kalifornie má obecně teplejší a konzistentnější počasí než New York.",
+        "start": 0,
+        "end": 68
+      },
+      {
+        "id": 1,
+        "claim": "Počasí v Kalifornii je konzistentnější než ve New Yorku.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení může být ověřeno analýzou variace meteorologických údajů.",
+        "origin_text": "",
+        "start": 68,
+        "end": 68
+      },
+      {
+        "id": 2,
+        "claim": "Kalifornie má mírnější zimy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Průměrné teploty v zimních měsících lze porovnat.",
+        "origin_text": "Kalifornie má mírnější zimy a horká léta s malým až žádným deštěm, zatímco New York",
+        "start": 69,
+        "end": 152
+      },
+      {
+        "id": 3,
+        "claim": "Léta v Kalifornii jsou horká s malým až žádným deštěm.",
+        "checkworthy": true,
+        "checkworthy_reason": "Historická data o teplotách a srážkách poskytují informace k ověření tvrzení.",
+        "origin_text": "",
+        "start": 152,
+        "end": 152
+      },
+      {
+        "id": 4,
+        "claim": "New York zažívá chladnější zimy se sněhem.",
+        "checkworthy": true,
+        "checkworthy_reason": "Zimní teploty a frekvence sněhových bouří mohou být objektivně porovnány.",
+        "origin_text": "zažívá chladnější zimy se sněhem a deštěm",
+        "start": 153,
+        "end": 194
+      },
+      {
+        "id": 5,
+        "claim": "New York má zimy s deštěm.",
+        "checkworthy": true,
+        "checkworthy_reason": "Historická data o srážkách lze analyzovat k ověření tvrzení.",
+        "origin_text": "a teplejší léta s vyšší vlhkostí.",
+        "start": 195,
+        "end": 228
+      },
+      {
+        "id": 6,
+        "claim": "Léta v New Yorku jsou teplejší.",
+        "checkworthy": true,
+        "checkworthy_reason": "Bez konkrétního kontextu nelze jednoznačně ověřit relativní letní teploty.",
+        "origin_text": "",
+        "start": 210,
+        "end": 210
+      },
+      {
+        "id": 7,
+        "claim": "Léta v New Yorku mají vyšší vlhkost.",
+        "checkworthy": true,
+        "checkworthy_reason": "Průměrná vlhkost lze objektivně měřit a srovnat.",
+        "origin_text": "s vyšší vlhkostí.",
+        "start": 211,
+        "end": 228
+      }
+    ]
+  },
+  {
+    "source": "Chcete-li najít dokument v Google Drive, můžete kliknout na vyhledávací lištu v horní části obrazovky a zadat \"Finance Forecast\" jako název dokumentu. Pak by se měl objevit ve výsledcích vyhledávání pod vyhledávací lištou.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Klikněte na vyhledávací lištu v horní části obrazovky k nalezení dokumentu v Google Drive.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní prvky o umístění vyhledávací lišty, které lze ověřit.",
+        "origin_text": "Chcete-li najít dokument v Google Drive, můžete kliknout na vyhledávací lištu v horní části obrazovky",
+        "start": 0,
+        "end": 101
+      },
+      {
+        "id": 1,
+        "claim": "Zadejte 'Finance Forecast' jako název dokumentu do vyhledávače.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje konkrétní textovou informaci pro hledání, kterou lze ověřit.",
+        "origin_text": "a zadat \"Finance Forecast\" jako název dokumentu.",
+        "start": 102,
+        "end": 150
+      },
+      {
+        "id": 2,
+        "claim": "'Finance Forecast' by se měl objevit ve výsledcích vyhledávání pod vyhledávací lištou.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje předpoklad o výsledku hledání, který lze ověřit.",
+        "origin_text": "Pak by se měl objevit ve výsledcích vyhledávání pod vyhledávací lištou.",
+        "start": 151,
+        "end": 222
+      }
+    ]
+  },
+  {
+    "source": "C# je moderní, multiparadigm programovací jazyk vyvinutý společností Microsoft jako součást platformy .NET. Je navržen tak, aby byl jednoduchý, výkonný, a objektově orientovaný, s funkcemi, jako je bezpečnost typu, sběr odpadu, a zjednodušené a efektivní správu paměti. C# může být použit pro různé účely, včetně webové a mobilní aplikace vývoj, vývoj hry, a desktop aplikace.",
+    "claims": []
+  },
+  {
+    "source": "Linux nemusí nutně \"selhat\" jako desktop, ale jeho přijetí bylo relativně omezené ve srovnání s jinými operačními systémy, jako jsou Windows a macOS. Některé důvody k tomu patří: 1. Nedostatek známého softwaru: Mnoho populárních aplikací používaných na Windows nebo Mac nejsou k dispozici na Linuxu nebo mají omezené funkčnosti. 2. Obtížnost pro začátečníky: Linux může být obtížnější použít pro začátečníky ve srovnání s jinými operačními systémy. 3. Hardwarová kompatibilita: Hardwarové ovladače pro určitá zařízení nemusí být k dispozici na Linuxu, takže je obtížnější dostat vše správně nastavené. 4. Fragmentace: Různé dostupné distribuce mohou znesnadnit komunitu zaměřit se na jedinou spolehlivou možnost. Nicméně, Linux má silnou přítomnost na trhu podniku a serveru díky své stabilitě, škálovatelnosti a bezpečnosti.",
+    "claims": []
+  },
+  {
+    "source": "Chcete-li hrát E hlavní akord na kytaru, umístěte svůj první prst na první fretku třetího řetězce, druhý prst na druhý fret pátého řetězce, a třetí prst na druhý fretka čtvrtého řetězce.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "E hlavní akord na kytaru vyžaduje, aby první prst byl umístěn na první fret třetího řetězce.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o postavení ruky pro hraní akordu.",
+        "origin_text": "Chcete-li hrát E hlavní akord na kytaru, umístěte svůj první prst na první fretku třetího řetězce,",
+        "start": 0,
+        "end": 98
+      },
+      {
+        "id": 1,
+        "claim": "Druhý prst musí být umístěn na druhý fret pátého řetězce při hře E hlavním akordem na kytaru.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o postavení ruky pro hraní akordu.",
+        "origin_text": "druhý prst na druhý fret pátého řetězce,",
+        "start": 99,
+        "end": 139
+      },
+      {
+        "id": 2,
+        "claim": "Třetí prst by měl být umístěn na druhý fret čtvrtého řetězce pro E hlavní akord.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje ověřitelné faktické informace o postavení ruky pro hraní akordu.",
+        "origin_text": "a třetí prst na druhý fretka čtvrtého řetězce.",
+        "start": 140,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "source": "Katechismus je komediální hororový film režírovaný Toddem Rohalem. Následuje příběh rozčarovaného a znuděného kněze, který jede na výlet do kánoe s bývalým spolužákem, což rychle vede k sérii bizarních a děsivých událostí.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Katechismus je komediální hororový film.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok obsahuje tvrzení o žánru, které lze ověřit pomocí oficiálních klasifikací.",
+        "origin_text": "Katechismus je komediální hororový film režírovaný Toddem Rohalem.",
+        "start": 0,
+        "end": 66
+      },
+      {
+        "id": 1,
+        "claim": "Film Katechismus je režírovaný Toddem Rohalem.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok uvádí jméno režiséra filmu, což je ověřitelná informace.",
+        "origin_text": "",
+        "start": 66,
+        "end": 66
+      },
+      {
+        "id": 2,
+        "claim": "Příběh následuje rozčarovaného a znuděného kněze.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení o obsahu příběhu lze ověřit sledováním filmu nebo referencí na děj.",
+        "origin_text": "Následuje příběh rozčarovaného a znuděného kněze,",
+        "start": 67,
+        "end": 116
+      },
+      {
+        "id": 3,
+        "claim": "Kněz jede na výlet do kánoe s bývalým spolužákem.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení o konkrétním dějovém průběhu je ověřitelné z filmu.",
+        "origin_text": "který jede na výlet do kánoe s bývalým spolužákem,",
+        "start": 117,
+        "end": 167
+      }
+    ]
+  },
+  {
+    "source": "Při práci s malým datovým souborem pro předpovídání je důležité zvolit model, který je vhodný pro data a vyhnout se nadměrnému vybavení. Zvažte použití metod, jako jsou pohyblivé průměry, exponenciální vyhlazování nebo modely ARIMA. Také se snažte shromáždit další informace nebo vnější faktory, které by mohly ovlivnit proměnnou, která je prognózována. To lze provést prostřednictvím odborného úsudku, veřejných zdrojů dat nebo mikrosledků. Nakonec vyhodnoťte přesnost modelu pomocí vhodných metrik a podle potřeby se upravte.",
+    "claims": []
+  },
+  {
+    "source": "ICD-9 (International Classification of Diseases, Devátá revize) je kódovací systém používaný při účtování a kódování zdravotní péče pro klasifikaci nemocí, zranění a lékařských postupů pro účely úhrady.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "ICD-9 (International Classification of Diseases, Devátá revize) je kódovací systém.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení popisuje přirozený atribut ICD-9 jako kódovací systém, což je ověřitelné.",
+        "origin_text": "ICD-9 (International Classification of Diseases, Devátá revize) je kódovací systém",
+        "start": 0,
+        "end": 82
+      },
+      {
+        "id": 1,
+        "claim": "Systém ICD-9 se používá při účtování a kódování zdravotní péče.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení poskytuje konkrétní informaci o použití ICD-9, což je ověřitelné.",
+        "origin_text": "používaný při účtování a kódování zdravotní péče",
+        "start": 83,
+        "end": 131
+      },
+      {
+        "id": 2,
+        "claim": "Cílem ICD-9 je klasifikace nemocí, zranění a lékařských postupů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení specifikuje cíl systému, což je faktická informace ověřitelná zdroji souvisejícími s ICD-9.",
+        "origin_text": "pro klasifikaci nemocí, zranění a lékařských postupů",
+        "start": 132,
+        "end": 184
+      },
+      {
+        "id": 3,
+        "claim": "Klasifikace pomocí ICD-9 slouží účelům úhrady.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení poskytuje konkrétní faktickou informaci o použití ICD-9 pro účely úhrady, což je ověřitelné.",
+        "origin_text": "pro účely úhrady",
+        "start": 185,
+        "end": 201
+      }
+    ]
+  },
+  {
+    "source": "alba Depeche Mode jsou: Speak & Spell, A Broken Frame, Construction Time Again, Some Great Reward, Black Celebration, Music for the Masses, Violator, Songs of Faith and Devotion, Ultra, Exciter, Playing the Angel, Sounds of the Universe, Delta Machine, and Spirit.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Speak & Spell je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok tvrdí konkrétní diskografickou skutečnost o hudební skupině, která může být ověřena.",
+        "origin_text": "alba Depeche Mode jsou: Speak & Spell,",
+        "start": 0,
+        "end": 38
+      },
+      {
+        "id": 1,
+        "claim": "A Broken Frame je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení může být ověřeno prostřednictvím spolehlivých diskografických zdrojů.",
+        "origin_text": "A Broken Frame,",
+        "start": 39,
+        "end": 54
+      },
+      {
+        "id": 2,
+        "claim": "Construction Time Again je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok tvrdí fakt o albu, který lze objektivně ověřit.",
+        "origin_text": "Construction Time Again,",
+        "start": 55,
+        "end": 79
+      },
+      {
+        "id": 3,
+        "claim": "Some Great Reward je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Výrok může být ověřen pomocí oficiálních zdrojů o albech skupiny.",
+        "origin_text": "Some Great Reward,",
+        "start": 80,
+        "end": 98
+      },
+      {
+        "id": 4,
+        "claim": "Black Celebration je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení lze ověřit prostřednictvím diskografických záznamů nebo publikací.",
+        "origin_text": "Black Celebration,",
+        "start": 99,
+        "end": 117
+      },
+      {
+        "id": 5,
+        "claim": "Music for the Masses je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok může být ověřen pomocí spolehlivých hudby katalogizace zdrojů.",
+        "origin_text": "Music for the Masses,",
+        "start": 118,
+        "end": 139
+      },
+      {
+        "id": 6,
+        "claim": "Violator je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Lze to ověřit prostřednictvím diskografického vyhledávání nebo oficiálních publikací.",
+        "origin_text": "Violator,",
+        "start": 140,
+        "end": 149
+      },
+      {
+        "id": 7,
+        "claim": "Songs of Faith and Devotion je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení může být ověřeno prostřednictvím spolehlivých zdrojů týkajících se alba.",
+        "origin_text": "Songs of Faith and Devotion,",
+        "start": 150,
+        "end": 178
+      },
+      {
+        "id": 8,
+        "claim": "Ultra je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Ověřitelné prostřednictvím diskografických nebo oficiálních zdrojů.",
+        "origin_text": "Ultra,",
+        "start": 179,
+        "end": 185
+      },
+      {
+        "id": 9,
+        "claim": "Exciter je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok může být ověřen pomocí spolehlivých diskografických záznamů.",
+        "origin_text": "Exciter,",
+        "start": 186,
+        "end": 194
+      },
+      {
+        "id": 10,
+        "claim": "Playing the Angel je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Ověření lze provést pomocí oficiálních publikací o albech skupiny.",
+        "origin_text": "Playing the Angel,",
+        "start": 195,
+        "end": 213
+      },
+      {
+        "id": 11,
+        "claim": "Sounds of the Universe je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení může být ověřeno prostřednictvím spolehlivých zdrojů o vydání hudby.",
+        "origin_text": "Sounds of the Universe,",
+        "start": 214,
+        "end": 237
+      },
+      {
+        "id": 12,
+        "claim": "Delta Machine je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Ověření lze provést pomocí diskografických nebo oficiálních informací.",
+        "origin_text": "Delta Machine,",
+        "start": 238,
+        "end": 252
+      },
+      {
+        "id": 13,
+        "claim": "Spirit je album Depeche Mode.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení může být ověřeno prostřednictvím spolehlivé katalogizace hudby.",
+        "origin_text": "and Spirit.",
+        "start": 253,
+        "end": 264
+      }
+    ]
+  },
+  {
+    "source": "Darování, dobrovolnictví, poskytování pomoci, poskytování emocionální podpory, poskytování prostředků nebo informací, sdílení dovedností nebo odborných znalostí, poskytování laskavosti, poskytování povzbuzení a poskytování sluchu jsou některé způsoby, jak si lidé navzájem pomáhají.",
+    "claims": []
+  }
+]

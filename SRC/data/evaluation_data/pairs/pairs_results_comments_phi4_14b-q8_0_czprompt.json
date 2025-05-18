@@ -1,0 +1,896 @@
+[
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Data jsou v bezpe\u010d\u00ed, jen pokud jsou \u0161ifrovan\u00e1 a na Linuxu.",
+        "Generated_Claim": "Chcete-li m\u00edt data v bezpe\u010d\u00ed, mus\u00ed b\u00fdt za\u0161ifrovan\u00e1.",
+        "Score": 0.34782608695652173
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Isoprinosin je antivirotikum.",
+        "Generated_Claim": "Zmi\u0148uje se antivirov\u00e1 l\u00e1tka Isoprinosin.",
+        "Score": 0.2
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Ivermektin je antivirotikum.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Pokud m\u00e1te fyzick\u00fd p\u0159\u00edstup k po\u010d\u00edta\u010di, m\u016f\u017eete nastavit rootovsk\u00e9 heslo.",
+        "Generated_Claim": "S fyzick\u00fdm p\u0159\u00edstupem k po\u010d\u00edta\u010di je mo\u017en\u00e9 nastavit rootovsk\u00e9 heslo.",
+        "Score": 0.6
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Servery se zamykaj\u00ed, aby ne\u0161lo nastavit rootovsk\u00e9 heslo.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Pokud je disk \u0161ifrovan\u00fd BitLockerem, nelze jednodu\u0161e resetovat heslo.",
+        "Generated_Claim": "Disk m\u016f\u017ee b\u00fdt \u0161ifrovan\u00fd Bitlockerem.",
+        "Score": 0.3529411764705882
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Ve v\u011bt\u0161in\u011b firemn\u00edch politik je vy\u017eadov\u00e1no \u0161ifrov\u00e1n\u00ed disku.",
+        "Generated_Claim": "Firemn\u00ed politiky \u010dasto vy\u017eaduj\u00ed \u0161ifrov\u00e1n\u00ed disku.",
+        "Score": 0.45454545454545453
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": " ",
+        "Generated_Claim": "\u0160ifrovan\u00e9 disky nemohou b\u00fdt jednodu\u0161e otev\u0159eny bez hesla.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Norma EURO 6 plat\u00ed od 1. 1. 2015.",
+        "Generated_Claim": "EURO 6 plat\u00ed od 1. ledna 2015.",
+        "Score": 0.7999999999999999
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "5 let star\u00e9 auto mus\u00ed spl\u0148ovat normu EURO 6.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Pokud maj\u00ed b\u00fdt data v bezpe\u010d\u00ed, mus\u00ed b\u00fdt \u0161ifrovan\u00e1.",
+        "Generated_Claim": "Pokud si povol\u00edm u\u017eivatelsk\u00fd \u00fa\u010det Administrator, mohu se dostat k soubor\u016fm u\u017eivatele.",
+        "Score": 0.07407407407407407
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "P\u0159ihla\u0161ov\u00e1n\u00ed pomoc\u00ed \u00fa\u010dtu Microsoft nen\u00ed extra bezpe\u010dn\u00e9.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "V\u011bt\u0161ina ob\u011bt\u00ed \u0161pan\u011blsk\u00e9 ch\u0159ipky zahynula na extr\u00e9mn\u011b silnou reakci imunitn\u00edho syst\u00e9mu.",
+        "Generated_Claim": "V\u011bt\u0161ina ob\u011bt\u00ed \u0160pan\u011blsk\u00e9 ch\u0159ipky zahynula na extr\u00e9mn\u011b silnou reakci imunitn\u00edho syst\u00e9mu.",
+        "Score": 1.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Kdyby lidstvo b\u011bhem \u0161pan\u011blsk\u00e9 ch\u0159ipky znalo kortikoidy, po\u010det ob\u011bt\u00ed \u0161pan\u011blsk\u00e9 ch\u0159ipky by byl ni\u017e\u0161\u00ed.",
+        "Generated_Claim": "Kortikoidy by mohly sn\u00ed\u017eit po\u010det ob\u011bt\u00ed \u0160pan\u011blsk\u00e9 ch\u0159ipky, kdyby byly tehdy zn\u00e1my a dostupn\u00e9.",
+        "Score": 0.4390243902439024
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Brzdy a pneumatiky aut vypou\u0161t\u011bj\u00ed v\u00edce pevn\u00fdch \u010d\u00e1stic ne\u017e jejich v\u00fdfuky.",
+        "Generated_Claim": "Brzdy vypou\u0161t\u011bj\u00ed v\u00edce pevn\u00fdch \u010d\u00e1stic.",
+        "Score": 0.72
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Pneumatiky vypou\u0161t\u011bj\u00ed v\u00edce pevn\u00fdch \u010d\u00e1stic.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Na STK se motor m\u011b\u0159\u00ed zah\u0159\u00e1t\u00fd, aby se nepo\u0161kodil.",
+        "Generated_Claim": "V zim\u011b se studen\u00fdm provozem m\u016f\u017ee doch\u00e1zet k nadobro po\u0161kozen\u00ed.",
+        "Score": 0.16
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Men\u0161\u00ed Peugeot 3008 hybrid stoj\u00ed 1,2 mil. K\u010d.",
+        "Generated_Claim": "Men\u0161\u00ed Peugeot 3008 Hybrid stoj\u00ed 1,2 milionu korun.",
+        "Score": 0.7777777777777778
+    },
+    {
+        "Comment_Index": 5,
+        "GT_Claim": "Korona zp\u016fsobila, \u017ee se lid\u00e9 v\u00edce za\u010dali vyh\u00fdbat MHD.",
+        "Generated_Claim": "Lid\u00e9 se za\u010dali v\u00edce vyh\u00fdbat MHD b\u011bhem pandemie Corona.",
+        "Score": 0.46153846153846156
+    },
+    {
+        "Comment_Index": 5,
+        "GT_Claim": "Hodn\u011b lid\u00ed si po\u0159\u00eddilo do rodiny dal\u0161\u00ed v\u016fz na doj\u00ed\u017ed\u011bn\u00ed do pr\u00e1ce m\u00edsto vyu\u017e\u00edv\u00e1n\u00ed MHD.",
+        "Generated_Claim": "Mnoho lid\u00ed si koupilo dal\u0161\u00ed vozidlo pro doj\u00ed\u017ed\u011bn\u00ed do pr\u00e1ce m\u00edsto vyu\u017eit\u00ed MHD.",
+        "Score": 0.6341463414634146
+    },
+    {
+        "Comment_Index": 5,
+        "GT_Claim": "V\u011bt\u0161inou byla nov\u011b kupovan\u00e1 vozidla kv\u016fli koron\u011b star\u0161\u00ed.",
+        "Generated_Claim": "V\u011bt\u0161ina kupovan\u00fdch vozidel byla star\u0161\u00ed, levn\u00e1 vozidla.",
+        "Score": 0.380952380952381
+    },
+    {
+        "Comment_Index": 5,
+        "GT_Claim": "Levn\u00e1 star\u0161\u00ed vozidla odpov\u00eddaj\u00ed star\u0161\u00edm emisn\u00edm norm\u00e1m.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 5,
+        "GT_Claim": "Star\u0161\u00ed auta odpov\u00eddaj\u00edc\u00ed star\u0161\u00edm norm\u00e1m produkuj\u00ed v\u00edce emis\u00ed.",
+        "Generated_Claim": "Star\u0161\u00ed vozidla odpov\u00eddaj\u00ed star\u0161\u00edm norm\u00e1m a produkuj\u00ed v\u00edce emis\u00ed.",
+        "Score": 0.8461538461538461
+    },
+    {
+        "Comment_Index": 5,
+        "GT_Claim": "EU p\u0159em\u00fd\u0161l\u00ed, jak omezit prodej ojet\u00fdch vozidel.",
+        "Generated_Claim": "EU zva\u017euje omezen\u00ed prodeje ojetin.",
+        "Score": 0.25
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Je nesmysl postihovat auta za produkci emis\u00ed, pokud Evropa nem\u00e1 alternativn\u00ed levn\u00e9 a ekologick\u00e9 palivo.",
+        "Generated_Claim": "EU nem\u00e1 vybran\u00e9 levn\u00e9 palivo.",
+        "Score": 0.3
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Auta vypou\u0161t\u011bj\u00edc\u00ed nula emis\u00ed jsou postihov\u00e1na.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "EU nem\u00e1 vybran\u00e9 ekologick\u00e9 palivo.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Filtr pevn\u00fdch \u010d\u00e1stic nezachyt\u00ed oxidy dus\u00edku.",
+        "Generated_Claim": "Filtr pevn\u00fdch \u010d\u00e1stic nechyt\u00ed oxidy dusi\u010dit\u00e9.",
+        "Score": 0.625
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Filtr pevn\u00fdch \u010d\u00e1stic nezachyt\u00ed \u0161kodliv\u00e9 splodiny.",
+        "Generated_Claim": "Filtr pevn\u00fdch \u010d\u00e1stic nechyt\u00ed jin\u00e9 zne\u010di\u0161\u0165uj\u00edc\u00ed l\u00e1tky.",
+        "Score": 0.4210526315789474
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Heslo ve Windows je jen na ozdobu.",
+        "Generated_Claim": "Heslo ve Windows je pouze pro \u00fa\u010dely zabezpe\u010den\u00ed.",
+        "Score": 0.5
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Isoprinosin nen\u00ed mechanismem \u00fa\u010dinku antivirotikum.",
+        "Generated_Claim": "Isoprinosine nen\u00ed antivirotikum sv\u00fdm mechanismem \u00fa\u010dinku.",
+        "Score": 0.6666666666666666
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Se isoprinosinem se u v\u00edrov\u00fdch nemoc\u00ed pou\u017e\u00edv\u00e1.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Isoprinosine m\u016f\u017ee b\u00fdt u\u017eite\u010dn\u00fd p\u0159i leh\u010d\u00edch pr\u016fb\u011bz\u00edch v\u00edrov\u00fdch nemoc\u00ed.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Isoprinosine se zd\u00e1 b\u00fdt nej\u00fa\u010dinn\u011bj\u0161\u00ed na za\u010d\u00e1tku onemocn\u011bn\u00ed.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Isoprinosin posiluje imunitu.",
+        "Generated_Claim": "Isoprinosine posiluje imunitu.",
+        "Score": 1.0
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "T\u011b\u017ek\u00fd pr\u016fb\u011bh covidu je zp\u016fsoben p\u0159ehnanou imunitn\u00ed reakc\u00ed.",
+        "Generated_Claim": "T\u011b\u017ek\u00fd pr\u016fb\u011bh m\u016f\u017ee b\u00fdt zp\u016fsoben p\u0159ehnanou imunitn\u00ed reakc\u00ed.",
+        "Score": 0.7857142857142856
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "P\u0159i t\u011b\u017ek\u00e9m pr\u016fb\u011bhu covidu je t\u0159eba br\u00e1t kortikoidy.",
+        "Generated_Claim": "Kortikoidy zeslabuj\u00ed imunitn\u00ed reakci.",
+        "Score": 0.10526315789473685
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Kosatky p\u0159i lovu mu\u010d\u00ed jin\u00e1 zv\u00ed\u0159ata.",
+        "Generated_Claim": "Zv\u00ed\u0159ata jin\u00e1 zv\u00ed\u0159ata mohou mu\u010dit.",
+        "Score": 0.375
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Kosatky lov\u00ed.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Kosatky si pro loven\u00ed nevyrobuj\u00ed n\u00e1stroje.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "V\u0161echna b\u011b\u017en\u00e1 auta s cenou kolem 500 tis\u00edc CZK se vyr\u00e1b\u011bj\u00ed v\u00fdhradn\u011b pro v\u00fdchodn\u00ed Evropu.",
+        "Generated_Claim": "V\u0161echna b\u011b\u017en\u00e1 auta s cenou kolem 500tis. se vyr\u00e1b\u00ed v\u00fdhradn\u011b pro v\u00fdchodn\u00ed Evropu.",
+        "Score": 0.85
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Miliardy jdou na p\u0159edra\u017een\u00e9 d\u00e1lnice pro p\u00e1r vyvolen\u00fdch.",
+        "Generated_Claim": "Miliardy jdou na p\u0159edra\u017een\u00e9 d\u00e1lnice.",
+        "Score": 0.761904761904762
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Autor nem\u00e1 pot\u0159ebu k autu.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "V Evrop\u011b se dobytek nezab\u00edj\u00ed elektrick\u00fdm proudem.",
+        "Generated_Claim": "V Evrop\u011b se dobytek samoz\u0159ejm\u011b nezab\u00edj\u00ed elektrick\u00fdm proudem.",
+        "Score": 0.9
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Elektrick\u00fdm proudem se dobytek jen omr\u00e1\u010d\u00ed, aby nebyl p\u0159i pod\u0159ez\u00e1n\u00ed p\u0159i v\u011bdom\u00ed.",
+        "Generated_Claim": "Dobytek je omr\u00e1\u010den, aby ve chv\u00edli pod\u0159ez\u00e1n\u00ed nebyl p\u0159i v\u011bdom\u00ed.",
+        "Score": 0.5882352941176471
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": " ",
+        "Generated_Claim": "Elektrick\u00fd proud se pou\u017e\u00edv\u00e1 k tomu, aby dobytek omr\u00e1\u010dil p\u0159ed pod\u0159ez\u00e1n\u00edm.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Chudoba, rozvoj, pokrok, blahobyt, vym\u00fd\u0161len\u00ed, hloupost, \u00fapadek a zapomn\u011bn\u00ed jsou norm\u00e1ln\u00edm pr\u016fb\u011bhem v\u00fdvoje civilizace.",
+        "Generated_Claim": "Civilizace se zab\u00fdvala vym\u00fd\u0161len\u00edm nov\u00fdch my\u0161lenek.",
+        "Score": 0.18749999999999997
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Rozvoj vedl k pokroku.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Pokrok p\u0159isp\u011bl ke zv\u00fd\u0161en\u00ed blahobytu.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "\u00dapadek je sou\u010d\u00e1st\u00ed cyklu civiliza\u010dn\u00edho procesu.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Reggae vzniklo na jin\u00e9m ostrov\u011b ne\u017e Samoa.",
+        "Generated_Claim": "Kanibalov\u00e9 \u017eij\u00ed na ostrov\u011b Samoa.",
+        "Score": 0.4615384615384615
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Reggae vzniklo na ostrov\u011b v jin\u00e9m mo\u0159i ne\u017e v tom, kde se nach\u00e1z\u00ed ostrov Samoa.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 3,
+        "GT_Claim": "P\u0159erov p\u0159i\u0161el z d\u016fvodu, \u017ee nen\u00ed napojen na d\u00e1lnici, o miliardu investic.",
+        "Generated_Claim": "P\u0159erov p\u0159i\u0161el o miliardovou investici.",
+        "Score": 0.48
+    },
+    {
+        "Comment_Index": 3,
+        "GT_Claim": "P\u0159erov p\u0159i\u0161el z d\u016fvodu, \u017ee nen\u00ed napojen na d\u00e1lnici, o 3500 pracovn\u00edch m\u00edst.",
+        "Generated_Claim": "P\u0159erov ztratil 3500 pracovn\u00edch m\u00edst.",
+        "Score": 0.4999999999999999
+    },
+    {
+        "Comment_Index": 3,
+        "GT_Claim": "Demokracie je i o tom, \u017ee se respektuje n\u00e1zor v\u011bt\u0161iny.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 3,
+        "GT_Claim": "V\u00fdstavbu d\u00e1lnice v P\u0159erov\u011b blokuj\u00ed 2\u20133 lid\u00e9.",
+        "Generated_Claim": "V\u00fdstavbu d\u00e1lnice blokuj\u00ed dva nebo t\u0159i lid\u00e9.",
+        "Score": 0.5714285714285713
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Windows NT koexistovaly s klasick\u00fdmi Windows a\u017e do verze 2000.",
+        "Generated_Claim": "Windows NT koexistoval s klasick\u00fdmi Windows a\u017e do Windows 2000.",
+        "Score": 0.8181818181818182
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Michat\u00e9 zahrnuj\u00ed hru na hrusky.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Michat\u00e9 zahrnuj\u00ed hru na jablka.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "CO2 je toxick\u00e1 zplodina.",
+        "Generated_Claim": "CO2 je toxick\u00e1 zplodina.",
+        "Score": 1.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Redaktorka by se mohla s CO2 otr\u00e1vit. ",
+        "Generated_Claim": "Sodovka obsahuje CO2.",
+        "Score": 0.18181818181818182
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "\u010caj z major\u00e1nky pom\u00e1h\u00e1 na bolest b\u0159icha.",
+        "Generated_Claim": "Na bolestiv\u00e9 b\u0159icho lze pou\u017e\u00edt \u010daj z major\u00e1nky.",
+        "Score": 0.380952380952381
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "\u010caj z major\u00e1nky pom\u00e1h\u00e1 na k\u0159e\u010de v b\u0159i\u0161e.",
+        "Generated_Claim": "\u010caj z major\u00e1nky se m\u016f\u017ee pou\u017e\u00edvat i na velk\u00e9 k\u0159e\u010de.",
+        "Score": 0.5517241379310344
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Linux s v\u00edce u\u017eivateli po\u010d\u00edtal od sv\u00e9ho vzniku.",
+        "Generated_Claim": "Linux je inspirov\u00e1n unixov\u00fdm modelem od po\u010d\u00e1tku.",
+        "Score": 0.1818181818181818
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Windows m\u00e1 \u0161patn\u011b vy\u0159e\u0161en\u00fd p\u0159\u00edstup v\u00edce u\u017eivatel\u016f.",
+        "Generated_Claim": "Windows m\u00e1 implementaci pro v\u00edce u\u017eivatel\u016f, kterou kritizuj\u00ed jako \u0161patn\u011b navr\u017eenou.",
+        "Score": 0.4615384615384615
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "V N\u011bmecku se po prvn\u00edm omezen\u00ed dopravy kv\u016fli koron\u011b emise zv\u00fd\u0161ily.",
+        "Generated_Claim": "Po prvn\u00edm omezen\u00ed dopravy kv\u016fli koronaviru se emise zv\u00fd\u0161ily.",
+        "Score": 0.7407407407407408
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Nen\u00ed jasn\u00e9, pro\u010d se emise v N\u011bmecku po prvn\u00edm omezen\u00ed dopravy kv\u016fli koron\u011b zv\u00fd\u0161ily.",
+        "Generated_Claim": "Emise byly nam\u011b\u0159eny.",
+        "Score": 0.0909090909090909
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Lid\u00e9 jsou hor\u0161\u00ed ne\u017e jin\u00e1 zv\u00ed\u0159ata.",
+        "Generated_Claim": "N\u011bkte\u0159\u00ed lid\u00e9 tvrd\u00ed, \u017ee lid\u00e9 jsou zl\u00fdmi stvo\u0159en\u00edmi.",
+        "Score": 0.2105263157894737
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Arm\u00e1dy a skupiny ni\u010dily osady a vesnice.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "I cel\u00e9 kmene byly zni\u010deny lidmi.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Vojensk\u00e9 konflikty a n\u00e1sil\u00ed prob\u00edhaj\u00ed ji\u017e 5000 let.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "8 let star\u00e1 Octavia 3 s TDI 2L 110 kW spl\u0148uje normu EURO 6.",
+        "Generated_Claim": "Octavia 3 m\u00e1 motor TDI 2L.",
+        "Score": 0.3809523809523809
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Octavia 3 je vozidlo.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "TDI 2L m\u00e1 v\u00fdkon 110 kW.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Octavia 3 pln\u00ed normy EURO 6.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Elektroauta maj\u00ed baterky v podlaze, a d\u00edky tomu maj\u00ed n\u00edzk\u00e9 t\u011b\u017ei\u0161t\u011b.",
+        "Generated_Claim": "Elektroauta maj\u00ed baterky ve sv\u00e9 podlaze.",
+        "Score": 0.3809523809523809
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Elektroauta d\u0159\u00edve m\u011bla baterky tak p\u0159epracovan\u00e9.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Baterky byly i v kufru elektroauta.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "N\u00edzk\u00e9 tezisy jsou d\u016fsledkem um\u00edst\u011bn\u00ed bateri\u00ed v podlaze.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Peugeot 3008 hybrid m\u00e1 t\u00e9m\u011b\u0159 stejn\u00fd vnit\u0159n\u00ed prostor jako Suzuki Across.",
+        "Generated_Claim": "Vnit\u0159n\u00ed prostor a kufr Peugeota jsou v podstat\u011b nastejno.",
+        "Score": 0.2608695652173913
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Peugeot 3008 hybrid m\u00e1 t\u00e9m\u011b\u0159 stejn\u011b velk\u00fd kufr jako Suzuki Across.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Peugeot 3008 hybrid je zven\u010d\u00ed kompaktn\u011bj\u0161\u00ed ne\u017e Suzuki Across. ",
+        "Generated_Claim": "Peugeot je kompaktn\u011bj\u0161\u00ed pouze zvenku.",
+        "Score": 0.5
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Star\u00e9 benz\u00ednov\u00e9 vozy se kupovaly i tam, kde zak\u00e1zali \u010dist\u00e9 dieselov\u00e9 vozy.",
+        "Generated_Claim": "N\u011bkte\u0159\u00ed lid\u00e9 si kupovali star\u00e9 benz\u00ednov\u00e9 \u0161unky i v oblastech, kde byly zak\u00e1zan\u00e9 \u010dist\u00e9 dieselov\u00e9 motory.",
+        "Score": 0.48484848484848486
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Star\u00e9 benz\u00ednov\u00e9 \u0161unty byly pou\u017e\u00edv\u00e1ny v oblastech s omezen\u00edm pro \u010dist\u00e9 dieselov\u00e9 motory.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Zelen\u00ed cht\u011bj\u00ed zab\u00edjet hospod\u00e1\u0159sk\u00e1 zv\u00ed\u0159ata, proto\u017ee vylu\u010duj\u00ed hodn\u011b metanu.",
+        "Generated_Claim": "Zelen\u00ed cht\u011bj\u00ed vyb\u00edjet i hospod\u00e1\u0159sk\u00e1 zv\u00ed\u0159ata.",
+        "Score": 0.64
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Metan je sklen\u00edkov\u00fd plyn.",
+        "Generated_Claim": "Pra\u010dina je sklen\u00edkov\u00fd plyn.",
+        "Score": 0.7272727272727272
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": " ",
+        "Generated_Claim": "Hospod\u00e1\u0159sk\u00e1 zv\u00ed\u0159ata mnoho prd\u00ed.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "\u010cesk\u00fd prezident m\u00e1 jin\u00e9 kompetence ne\u017e ten americk\u00fd.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Minist\u0159i vnitra maj\u00ed v r\u016fzn\u00fdch st\u00e1tech r\u016fzn\u00e9 role.",
+        "Generated_Claim": "Minist\u0159i vnitra maj\u00ed r\u016fzn\u00e9 role v r\u016fzn\u00fdch st\u00e1tech.",
+        "Score": 0.7692307692307693
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Studen\u00e9 naftov\u00e9 motory produkuj\u00ed n\u011bkolikan\u00e1sobn\u011b v\u00edce emis\u00ed ne\u017e b\u011b\u017en\u011b zah\u0159\u00e1t\u00e9 motory.",
+        "Generated_Claim": "Nula nulov\u00e9 plat\u00ed pro zah\u0159\u00e1t\u00e9 motory.",
+        "Score": 0.26086956521739124
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "V N\u011bmecku je enormn\u00ed koncentrace aut.",
+        "Generated_Claim": "V N\u011bmecku existuj\u00ed tis\u00edce magistr\u00e1l\u016f, stejn\u011b jako v jin\u00fdch zem\u00edch.",
+        "Score": 0.27272727272727276
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": " ",
+        "Generated_Claim": "V rann\u00ed \u0161pi\u010dce ve m\u011bstech popoj\u00ed\u017ed\u00ed studen\u00e9 auta s vy\u0161\u0161\u00edmi emisemi.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": " ",
+        "Generated_Claim": "Bydl\u00edc\u00ed u magistr\u00e1ly za\u017e\u00edvaj\u00ed prach a hluk.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": " ",
+        "Generated_Claim": "Ne\u010dinnost vedla k probl\u00e9m\u016fm s \u00farovn\u00ed dusi\u010dnan\u016f a dus\u00edku.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 3,
+        "GT_Claim": "Emise se b\u011bhem korony nikde nezv\u00fd\u0161ily.",
+        "Generated_Claim": "Emise se nikde nezv\u00fd\u0161ily.",
+        "Score": 0.7692307692307693
+    },
+    {
+        "Comment_Index": 3,
+        "GT_Claim": "Je mo\u017en\u00e9 nam\u011b\u0159it hor\u0161\u00ed hodnoty zne\u010di\u0161t\u011bn\u00ed v den, kdy nevyjede ani jedno auto, oproti dni s dopravou.",
+        "Generated_Claim": "M\u016f\u017ee doj\u00edt k tomu, \u017ee m\u011b\u0159\u00edte hor\u0161\u00ed hodnoty zne\u010di\u0161t\u011bn\u00ed v den, kdy nevyjede ani jedno auto.",
+        "Score": 0.5909090909090909
+    },
+    {
+        "Comment_Index": 3,
+        "GT_Claim": "Inverze negativn\u011b ovliv\u0148uje m\u011b\u0159en\u00ed zne\u010di\u0161t\u011bn\u00ed ovzdu\u0161\u00ed.",
+        "Generated_Claim": "Z takov\u00e9ho m\u011b\u0159en\u00ed nevypl\u00fdv\u00e1, \u017ee auto \u010dist\u00ed vzduch.",
+        "Score": 0.18181818181818182
+    },
+    {
+        "Comment_Index": 3,
+        "GT_Claim": "Pov\u011btrnostn\u00ed podm\u00ednky ovliv\u0148uj\u00ed nam\u011b\u0159en\u00e9 hodnoty zne\u010di\u0161t\u011bn\u00ed vzduchu.",
+        "Generated_Claim": "Norm\u00e1ln\u00ed den s provozem by mohl b\u00fdt slune\u010dn\u00fd a foukav\u00fd.",
+        "Score": 0.14814814814814817
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Pokud m\u00e1te ne\u0161ifrovan\u00fd disk a fyzick\u00fd p\u0159\u00edstup k po\u010d\u00edta\u010di, nepom\u016f\u017ee v\u00e1m, \u017ee m\u00e1te Linux.",
+        "Generated_Claim": "Fyzick\u00fd p\u0159\u00edstup k po\u010d\u00edta\u010di umo\u017e\u0148uje p\u0159istupovat ke z\u00e1lohovan\u00fdm dat\u016fm.",
+        "Score": 0.46153846153846156
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Ve Windows je \u0161ifrov\u00e1n\u00ed dostupn\u00e9 a\u017e pro Pro verzi.",
+        "Generated_Claim": "Windows nab\u00edz\u00ed \u0161ifrov\u00e1n\u00ed pouze v ur\u010dit\u00fdch verz\u00edch.",
+        "Score": 0.2727272727272727
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": " ",
+        "Generated_Claim": "Disk, kter\u00fd nen\u00ed \u0161ifrovan\u00fd, m\u016f\u017ee b\u00fdt snadno p\u0159\u00edstupn\u00fd.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": " ",
+        "Generated_Claim": "Linux nepom\u016f\u017ee chr\u00e1nit ne\u0161ifrovan\u00e9 disky p\u0159ed fyzick\u00fdm p\u0159\u00edstupem.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 3,
+        "GT_Claim": "Sulawesi je velk\u00fd ostrov vedle Bornea.",
+        "Generated_Claim": "Sulawesi je velk\u00fd ostrov vedle Bornea.",
+        "Score": 1.0
+    },
+    {
+        "Comment_Index": 3,
+        "GT_Claim": "Tana Toraja je oblast ve vnitrozem\u00ed.",
+        "Generated_Claim": "Tana Toraja je oblast ve vnitrozemi Sulawesi.",
+        "Score": 0.7692307692307692
+    },
+    {
+        "Comment_Index": 3,
+        "GT_Claim": "Sulawesi spad\u00e1 pod Indon\u00e9sii.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 3,
+        "GT_Claim": "Sulawesi je zn\u00e1m\u00e9 jako jedno z nejlep\u0161\u00edch m\u00edst pro pot\u00e1p\u011bn\u00ed na sv\u011bt\u011b.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Na STK se motor m\u011b\u0159\u00ed zah\u0159\u00e1t\u00fd, aby m\u011bl ni\u017e\u0161\u00ed emise.",
+        "Generated_Claim": "Motor nenab\u00edhaj\u00edc\u00ed na optim\u00e1ln\u00ed teplotu m\u00e1 vy\u0161\u0161\u00ed emise.",
+        "Score": 0.2608695652173913
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Nezah\u0159\u00e1t\u00fd motor m\u00e1 vy\u0161\u0161\u00ed emise, proto\u017ee pot\u0159ebuje bohat\u0161\u00ed sm\u011bs paliva.",
+        "Generated_Claim": "Vy\u0161\u0161\u00ed emise jsou zp\u016fsobeny bohat\u0161\u00ed sm\u011bs\u00ed.",
+        "Score": 0.45454545454545453
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Syst\u00e9my v aut\u011b jsou nastaven\u00e9 na provozn\u00ed teplotu motoru a optim\u00e1ln\u00ed ot\u00e1\u010dky.",
+        "Generated_Claim": "Optim\u00e1ln\u00ed ot\u00e1\u010dky se t\u00fdkaj\u00ed katalyz\u00e1toru a SCR.",
+        "Score": 0.30769230769230765
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "B\u011bhem korony bylo mnohem v\u00edce rodin doma.",
+        "Generated_Claim": "Daleko v\u00edce rodin bylo doma.",
+        "Score": 0.5333333333333333
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Doprava ve m\u011bstech klesla v pr\u016fm\u011bru o 40 %.",
+        "Generated_Claim": "Celkov\u00fd provoz klesl o 40% v na\u0161em m\u011bst\u011b.",
+        "Score": 0.1904761904761905
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": " ",
+        "Generated_Claim": "D\u011bti nevozili do \u0161koly.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "KDU-\u010cSL se nedostala do vl\u00e1dy.",
+        "Generated_Claim": "KDU-\u010cSL se nedostalo do vl\u00e1dy.",
+        "Score": 0.8571428571428571
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "KDU-\u010cSL nemohla d\u00e1l lobovat za Kapsch.",
+        "Generated_Claim": "KDU-\u010cSL nezkrajovalo dal\u0161\u00ed lobbov\u00e1n\u00ed pro Kapsch.",
+        "Score": 0.375
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "V \u0158\u00ed\u010danech u Prahy se postavila nov\u00e1 \u0161kola.",
+        "Generated_Claim": "V \u0158\u00ed\u010danech u Prahy se nov\u00e1 \u0161kola postavila.",
+        "Score": 0.875
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "\u0158\u00ed\u010dany u Prahy nemaj\u00ed p\u016fl miliardy korun na budov\u00e1n\u00ed staveb.",
+        "Generated_Claim": "M\u011bsto nem\u00e1 p\u016fl miliardy korun na stavbu staveb.",
+        "Score": 0.5454545454545454
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": " ",
+        "Generated_Claim": "Letos za\u010dne v\u00fdstavba dal\u0161\u00ed \u0161koly v \u0158\u00ed\u010danech u Prahy.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": " ",
+        "Generated_Claim": "Pen\u011bz m\u011bsta bude men\u0161\u00ed d\u00edl na v\u00fdstavb\u011b nov\u00fdch budov.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 7,
+        "GT_Claim": "Krom\u011b transportu z\u00e1kladn\u00edch komodit u\u017e nem\u00e1 \u017eeleznice z hlediska dopravy n\u00e1rok.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 7,
+        "GT_Claim": "V\u011bt\u0161ina n\u00e1kladn\u00edch termin\u00e1l\u016f se prom\u011bnila v brownfieldy nebo se zastav\u011bla.",
+        "Generated_Claim": "Chyb\u00ed m\u00edsta pro stavbu nov\u00fdch n\u00e1kladov\u00fdch termin\u00e1l\u016f kv\u016fli nedostatku infrastruktury.",
+        "Score": 0.24242424242424243
+    },
+    {
+        "Comment_Index": 7,
+        "GT_Claim": "Je velmi drah\u00e9 stav\u011bt nov\u00e9 n\u00e1kladn\u00ed termin\u00e1ly.",
+        "Generated_Claim": "Text je o ekonomice, ne o ekologii.",
+        "Score": 0.11764705882352941
+    },
+    {
+        "Comment_Index": 7,
+        "GT_Claim": "Nen\u00ed kde stav\u011bt nov\u00e9 vlakov\u00e9 termin\u00e1ly.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 7,
+        "GT_Claim": "Firmy pot\u0159ebuj\u00ed logistick\u00e9 zabezpe\u010den\u00ed just-in-time.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 7,
+        "GT_Claim": "Firmy vyjde p\u0159epravit zbo\u017e\u00ed vlakem dr\u00e1\u017e ne\u017e kamionem.",
+        "Generated_Claim": "P\u0159ekl\u00e1d\u00e1n\u00ed zbo\u017e\u00ed na a ze vlak\u016f je dra\u017e\u0161\u00ed ne\u017e p\u0159eprava kamionem.",
+        "Score": 0.33333333333333337
+    },
+    {
+        "Comment_Index": 7,
+        "GT_Claim": "Doba velk\u00fdch tov\u00e1ren, kter\u00e9 m\u011bly vlastn\u00ed vle\u010dku na nejbli\u017e\u0161\u00ed n\u00e1dra\u017e\u00ed, je pry\u010d.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 7,
+        "GT_Claim": "Logistick\u00e9 megaare\u00e1ly u velk\u00fdch m\u011bst nemaj\u00ed v drtiv\u00e9 m\u00ed\u0159e mo\u017enost se na solidn\u00ed kapacitn\u00ed kolej v\u016fbec p\u0159ipojit.",
+        "Generated_Claim": "Logistick\u00e9 megaare\u00e1ly u velk\u00fdch m\u011bst maj\u00ed omezen\u00fd p\u0159\u00edstup k solidn\u00ed kapacitn\u00ed koordinaci.",
+        "Score": 0.5
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "V Austr\u00e1lii \u017eije ex-pat samo\u00e1nsk\u00e1 komunita.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "V australsk\u00e9 ragbyov\u00e9 lize hraje spousta Samo\u00e1nc\u016f.",
+        "Generated_Claim": "V australsk\u00e9 NRL hraje mnoho samoan\u016f.",
+        "Score": 0.42857142857142855
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Samo\u00e1nci v australsk\u00e9 ragbyov\u00e9 lize nesn\u011bdli \u017e\u00e1dn\u00e9ho ze sv\u00fdch protivn\u00edk\u016f.",
+        "Generated_Claim": " ",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 4,
+        "GT_Claim": "V roce 2013 se auta s normou EURO 6 nevyr\u00e1b\u011bla.",
+        "Generated_Claim": "V roce 2013 se auta s normou EURO 6 nevyr\u00e1b\u011bla.",
+        "Score": 1.0
+    },
+    {
+        "Comment_Index": 4,
+        "GT_Claim": "Motory se mezi lety 2013 a 2015 v z\u00e1kladu nezm\u011bnily.",
+        "Generated_Claim": "Technick\u00e1 kniha auta uvede EURO 5 jako normu.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 4,
+        "GT_Claim": "2.0 TDI motor po roce 2015 spl\u0148oval tak\u00e9 normu EURO 6.",
+        "Generated_Claim": "2.0 TDI po roce 2015 spl\u0148oval iEURO 6 normu.",
+        "Score": 0.7500000000000001
+    },
+    {
+        "Comment_Index": 4,
+        "GT_Claim": "St\u00e1t nem\u016f\u017ee zak\u00e1zat provoz n\u011b\u010deho, co odsouhlasil jako vyhovuj\u00edc\u00ed.",
+        "Generated_Claim": "St\u00e1t nem\u016f\u017ee zak\u00e1zat provoz odsouhlasen\u00fdch vozidel.",
+        "Score": 0.5833333333333334
+    },
+    {
+        "Comment_Index": 4,
+        "GT_Claim": "Za z\u00e1kaz provozu n\u011b\u010deho, co schv\u00e1lil jako vyhovuj\u00edc\u00ed, st\u00e1t riskuje soudy a od\u0161kodn\u011bn\u00ed.",
+        "Generated_Claim": "Zak\u00e1z\u00e1n\u00ed m\u016f\u017ee v\u00e9st ke soudn\u00edm \u017ealob\u00e1m na od\u0161kodn\u011bn\u00ed.",
+        "Score": 0.33333333333333326
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Torajani vid\u00ed smrt jako d\u016fvod k oslav\u011b zesnul\u00e9ho.",
+        "Generated_Claim": "Na h\u0159bitov\u011b se z\u00fa\u010dastnili stovky lid\u00ed.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": " ",
+        "Generated_Claim": "Druh\u00fd poh\u0159eb byl 10 let zp\u011bt.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 0,
+        "GT_Claim": "Ze zkamen\u011bl\u00fdch kost\u00ed nelze vy\u0161kr\u00e1bat mnoho genetick\u00e9ho materi\u00e1lu.",
+        "Generated_Claim": "Ze skamen\u011bl\u00e9 kosti nen\u00ed mo\u017en\u00e9 vyskr\u00e1bat mnoho genetick\u00e9ho materi\u00e1lu.",
+        "Score": 0.5714285714285714
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Existuje hodn\u011b zmrzl\u00fdch mamut\u00edch poz\u016fstatk\u016f.",
+        "Generated_Claim": "Existuje hodn\u011b zmrzl\u00fdch poz\u016fstatk\u016f mamut\u00edch.",
+        "Score": 0.75
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Genom mamuta je dob\u0159e zdokumentovan\u00fd.",
+        "Generated_Claim": "Genom mamuta je celkem dob\u0159e zdokumentovan\u00fd.",
+        "Score": 0.923076923076923
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Existuje studie tvrd\u00edc\u00ed, \u017ee by mlad\u00fd mamut mohl b\u00fdt odnosit slon.",
+        "Generated_Claim": "Byla studie, \u017ee ml\u00e1d\u011b mamuta by mohlo odn\u00e9st slona.",
+        "Score": 0.24999999999999994
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Na internetu je milion n\u00e1vod\u016f, jak cvi\u010dit doma nebo v okol\u00ed domu.",
+        "Generated_Claim": "Na internetu je asi milion n\u00e1vod\u016f.",
+        "Score": 0.5714285714285714
+    },
+    {
+        "Comment_Index": 1,
+        "GT_Claim": "Na internetu je milion n\u00e1vod\u016f, jak cvi\u010dit s vlastn\u00ed v\u00e1hou a jednoduch\u00fdmi dostupn\u00fdmi pom\u016fckami.",
+        "Generated_Claim": "Obezita se u n\u00e1s poprv\u00e9 objevila po uzav\u00edrk\u00e1ch okres\u016f.",
+        "Score": 0.125
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Typick\u00e1 tichomo\u0159sk\u00e1 hudba m\u00e1 bubny, ukulele a kytary.",
+        "Generated_Claim": "Tichomo\u0159sk\u00e1 hudba zahrnuje bubny, ukulele a kytary.",
+        "Score": 0.823529411764706
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Reggae je hudba Afro-Jamaican\u016f.",
+        "Generated_Claim": "Reggae je zn\u00e1m\u00e1 hudba afro-jamajcansk\u00e1.",
+        "Score": 0.6666666666666666
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Na Samou se dostala havajsk\u00e1 verze reggae.",
+        "Generated_Claim": "Samou je nedaleko Americk\u00e9 Samoa, co\u017e je sou\u010d\u00e1st zamorsk\u00fdch teritori\u00ed USA.",
+        "Score": 0.1
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": " ",
+        "Generated_Claim": "Typick\u00e1 hudba na Nov\u00e9m Z\u00e9landu a samoansk\u00e9 komunity ex-pat je typicky tichomo\u0159sk\u00e1.",
+        "Score": 0.0
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "\u0160impanzi pou\u017e\u00edvaj\u00ed v\u016f\u010di sousedn\u00edm tlup\u00e1m zastra\u0161uj\u00edc\u00ed metody.",
+        "Generated_Claim": "\u0160impanzi pou\u017e\u00edvaj\u00ed odstra\u0161uj\u00edc\u00ed metody na sousedn\u00ed tlupy.",
+        "Score": 0.5217391304347826
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "\u0160impanzi po\u0159\u00e1daj\u00ed v\u00fdpravy na zatoulan\u00e9 jedince, kter\u00e9 mrza\u010d\u00ed, ale nezab\u00edjej\u00ed \u2013 jen a\u0165 se posti\u017een\u00fd doplaz\u00ed ke sv\u00fdm a vyd\u011bs\u00ed je.",
+        "Generated_Claim": "\u0160impanzi po\u0159\u00e1daj\u00ed v\u00fdpravy na zatoulan\u00e9 jedince.",
+        "Score": 0.47058823529411764
+    },
+    {
+        "Comment_Index": 2,
+        "GT_Claim": "Ka\u017ed\u00fd p\u0159\u00edrodn\u00ed druh jde a\u017e na hranici toho, co dok\u00e1\u017ee vymyslet.",
+        "Generated_Claim": "\u0160impanzi mrza\u010d\u00ed, ale nezab\u00edjej\u00ed zatoulan\u00e9 jedince.",
+        "Score": 0.0
+    }
+]

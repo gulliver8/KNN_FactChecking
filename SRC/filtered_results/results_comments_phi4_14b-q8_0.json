@@ -1,0 +1,1542 @@
+[
+  {
+    "source": "... pokud chci mit data v bezpeci, tak jedine je mit sifrovana a na Linuxu.",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Šifrování se provádí na Linuxu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné informace; šifrování lze provést na operačním systému Linux, což je faktické tvrzení o tom, co je technicky možné.",
+        "origin_text": "a na Linuxu",
+        "start": 63,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "source": "A kde je zmínka o antivirotikách typu Isoprinosin a Ivermectin?",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Isoprinosin a Ivermektin jsou typy antivirotik.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení představuje faktická tvrzení, která lze ověřit kontrolou klasifikace těchto látek v farmakologických referencích nebo lékařských zdrojích.",
+        "origin_text": "A kde je zmínka o antivirotikách typu Isoprinosin a Ivermectin",
+        "start": 0,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "source": "A myslíte, že v Linuxu není jen na okrasu? Jakmile máte fyzický přístup k počítači, tak jde nastavit rootovské heslo také. Proto se servery zamykají.",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Fyzický příspěvek umožňuje nastavit rootovské heslo.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení tvrdí, že je možné použít fyzický přístup k nastavení kořenového hesla ve výpočetních systémech, které lze ověřit zkoumáním příslušné technické dokumentace nebo postupů.",
+        "origin_text": "Jakmile máte fyzický přístup k počítači, tak jde nastavit rootovské heslo také.",
+        "start": 43,
+        "end": 122
+      }
+    ]
+  },
+  {
+    "source": "A peníze na ty dotace si tisknou? Dotace na elektromobilitu fungují jen dokud je elektromobilita minoritní záležitostí.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Lidé tisknou peníze na dotace.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje faktické informace o vládních akcích a hospodářských politikách, které lze prošetřit s cílem ověřit, zda vlády tisknou peníze konkrétně na financování dotací.",
+        "origin_text": "A peníze na ty dotace si tisknou?",
+        "start": 0,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "source": "A zapomněli jste na variantu, že je disk šifrovaný Bitlockerem a vy nevíte heslo. To už takhle jednoduše nejde. Proto je ve většině firemních politik vyžadováno šifrování disku.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Některé varianty disků jsou zašifrovány pomocí BitLocker.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné věcné informace o použití BitLocker, což je specifická technologie šifrování disků vyvinutá společností Microsoft.",
+        "origin_text": "A zapomněli jste na variantu, že je disk šifrovaný Bitlockerem a",
+        "start": 0,
+        "end": 64
+      },
+      {
+        "id": 2,
+        "claim": "Dešifrování takového disku nelze provést snadno.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení tvrdí o obtížnosti úrovně dešifrování BitLocker-šifrované disky, které mohou být zkoumány pomocí technické analýzy a odborných znalostí o šifrování.",
+        "origin_text": "To už takhle jednoduše nejde.",
+        "start": 82,
+        "end": 111
+      },
+      {
+        "id": 3,
+        "claim": "Šifrování disků je často vyžadováno firemními politikami.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení naznačuje obecnou praxi týkající se šifrování disků v korporátních nastaveních, kterou lze ověřit přezkoumáním pokynů a politik pro firemní bezpečnost napříč různými organizacemi.",
+        "origin_text": "Proto je ve většině firemních politik vyžadováno šifrování disku.",
+        "start": 112,
+        "end": 177
+      }
+    ]
+  },
+  {
+    "source": "Ale kecy, EURO 6 platí od 1.1.2015, to znamená, že 5 let staré auto musí splňovat EURO 6",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Nařízení EURO 6 jsou platná od 1. ledna 2015.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje konkrétní datum a regulaci, kterou lze ověřit kontrolou úředních regulačních dokumentů nebo spolehlivými zdroji emisních norem pro vozidla.",
+        "origin_text": "Ale kecy, EURO 6 platí od 1.1.2015,",
+        "start": 0,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "source": "Ani prihlasovani pomoci uctu Microsoftu neni extra bezpecny, stale plati, ze si taky mohu povolit ucet Administrator a pres nej se k souborum uzivatelu dostat, proto pokud chci mit data v bezpeci, tak jedine je mit sifrovana.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Přihlášení k účtu Microsoft není navíc bezpečné.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení podává faktické tvrzení o zabezpečení přihlášení k účtu Microsoft, které lze posoudit porovnáním s bezpečnostními standardy a postupy.",
+        "origin_text": "Ani prihlasovani pomoci uctu Microsoftu neni extra bezpecny,",
+        "start": 0,
+        "end": 60
+      },
+      {
+        "id": 1,
+        "claim": "Stále lze pomocí něj vytvořit účet správce a přístup k uživatelským souborům.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení obsahuje ověřitelné informace o schopnostech správy systému a oprávněních k přístupu k uživatelským souborům na počítačovém systému.",
+        "origin_text": "stale plati, ze si taky mohu povolit ucet Administrator a pres nej se k souborum uzivatelu dostat,",
+        "start": 61,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "source": "Ano, to samozřejmě lze. Ale pokud by na silnicích zůstala převážně osobní doprava, tak údržba bude stát 5-10% toho, co dnes.",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Pokud osobní vozidla dominují silnicím, náklady na údržbu se zvyšují o 5-10% běžných nákladů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení uvádí faktické tvrzení o dopadu na náklady na údržbu silničního provozu, které lze zkoumat s údaji nebo studiemi.",
+        "origin_text": "Ale pokud by na silnicích zůstala převážně osobní doprava, tak údržba bude stát 5-10% toho, co dnes.",
+        "start": 24,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "source": "BTW: většina obětí Španělské chřipky zahynula právě na extrémně silnou reakci imunitního systému. Kdyby tehdy lidstvo znalo kortikoidy a byly dostupné, tak by oběti Španělské chřipky byly výrazně nižší.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Většina obětí španělské chřipky zemřela na extrémní imunitní reakci.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení podává faktické tvrzení o příčině smrti většiny obětí španělské chřipky, které lze ověřit historickým lékařským výzkumem a záznamy.",
+        "origin_text": "BTW: většina obětí Španělské chřipky zahynula právě na extrémně silnou reakci imunitního systému.",
+        "start": 0,
+        "end": 97
+      },
+      {
+        "id": 1,
+        "claim": "Dostupnost a znalosti kortikosteroidů v minulosti mohly snížit úmrtí na španělskou chřipku.",
+        "checkworthy": true,
+        "checkworthy_reason": "V prohlášení se uvádí hypotetická situace zahrnující historické možnosti lékařské léčby a jejich možný dopad na úmrtnost během španělské chřipky pandemie, z nichž oba jsou skutkové prvky, které lze zkoumat prostřednictvím historického a vědeckého výzkumu.",
+        "origin_text": "Kdyby tehdy lidstvo znalo kortikoidy a byly dostupné, tak by oběti Španělské chřipky byly výrazně nižší.",
+        "start": 98,
+        "end": 202
+      }
+    ]
+  },
+  {
+    "source": "Brzdy a pneumatiky vypustí více pevných částic.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Brzdy vypouštějí více pevných částí.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok obsahuje faktické tvrzení o brzdách emitujících více pevných částic, které lze zkoumat empirickým výzkumem nebo studiemi emisí brzd.",
+        "origin_text": "Brzdy a pneumatiky vypustí",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "id": 1,
+        "claim": "Pneumatiky vypouštějí více pevných částí.",
+        "checkworthy": true,
+        "checkworthy_reason": "V prohlášení se uvádí, že pneumatiky emitují více pevných částic, které jsou ověřitelné prostřednictvím vědeckých údajů nebo environmentálních studií emisí pneumatik.",
+        "origin_text": "více pevných částic.",
+        "start": 27,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "source": "Btw ta provozní teplota je kvůli poškození motoru. Oni ho tam vytáčí na maximální otáčky, udělejte to v zimě se studeným a možná tam zůstane nadobro...",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Provozní teplota je ovlivněna poškozením motoru.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení obsahuje ověřitelné faktické tvrzení o vztahu mezi provozní teplotou a stavem motoru.",
+        "origin_text": "Btw ta provozní teplota je kvůli poškození motoru.",
+        "start": 0,
+        "end": 50
+      },
+      {
+        "id": 2,
+        "claim": "Provoz probíhá v zimě s chladnými podmínkami.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení poskytuje konkrétní informace, které lze ověřit kontrolou doby roku a teplotních podmínek během provozu.",
+        "origin_text": "udělejte to v zimě se studeným",
+        "start": 90,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "source": "Cena je teda dost sebevedoma, na druhou stranu mensi Peugeot 3008 hybrid stoji 1,2 mega...",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Menší Peugeot 3008 Hybrid stojí 1,2 milionu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné věcné informace týkající se ceny konkrétního modelu vozidla, i když měna je nespecifikovaná.",
+        "origin_text": "na druhou stranu mensi Peugeot 3008 hybrid stoji 1,2 mega...",
+        "start": 30,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "source": "Corona způsobila jeden zajímavý jev. Lidé se začali více vyhýbat MHD a dost lidí si koupilo do rodiny další vůz pro dojíždění do práce právě místo využití MHD ... a většinou to byla starší, levná vozidla odpovídající starším normám ... tedy produkující více emisí. Taky už EU dumá nad tím, jak omezit prodej ojetin.",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Lidé se vyhýbali veřejné dopravě častěji.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení lze ověřit prostřednictvím průzkumů, studií nebo údajů vykazujících změny ve vzorcích využívání veřejné dopravy během příslušného časového období.",
+        "origin_text": "Lidé se začali více vyhýbat MHD",
+        "start": 37,
+        "end": 68
+      },
+      {
+        "id": 2,
+        "claim": "Mnoho lidí si koupil další vozidlo pro dojíždění do práce místo použití veřejné dopravy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tvrzení je ověřitelné zkoumáním údajů o prodeji vozidel a zpráv o změnách chování při dojíždění.",
+        "origin_text": "a dost lidí si koupilo do rodiny další vůz pro dojíždění do práce právě místo využití MHD ...",
+        "start": 69,
+        "end": 162
+      },
+      {
+        "id": 3,
+        "claim": "Nakupované vozy byly často starší a levnější auta.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení lze ověřit analýzou tržních trendů, údajů o prodeji automobilů a preferencí spotřebitelů během příslušného období.",
+        "origin_text": "a většinou to byla starší, levná vozidla odpovídající starším normám ...",
+        "start": 163,
+        "end": 235
+      },
+      {
+        "id": 4,
+        "claim": "Tato vozidla splňují starší normy, které produkují vyšší emise.",
+        "checkworthy": true,
+        "checkworthy_reason": "Ověření je možné pomocí technických specifikací prodaných vozidel, přičemž se porovnávají s emisními normami v průběhu času.",
+        "origin_text": "tedy produkující více emisí.",
+        "start": 236,
+        "end": 264
+      },
+      {
+        "id": 5,
+        "claim": "EU zvažuje, jak omezit prodej ojetých automobilů.",
+        "checkworthy": true,
+        "checkworthy_reason": "To lze ověřit kontrolou oficiálních oznámení politiky EU, legislativních návrhů nebo zpráv z důvěryhodných zdrojů zpráv týkajících se automobilových předpisů.",
+        "origin_text": "Taky už EU dumá nad tím, jak omezit prodej ojetin.",
+        "start": 265,
+        "end": 315
+      }
+    ]
+  },
+  {
+    "source": "Evropa se zbláznila, postihovat auta, která vypouští nula nula nic zplodin je nesmysl. Pokud EU nemá jž dopředu vybrané levné, smysluplné a ekologické palivo, pak opravdu nechápu proč ničí to, co léta budovalo. Po létech evropského blahobytu nás zřejmě čekají léta strádání, hloupostí. Jen aby to Evropu nepoložilo!",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Postihovat auta, která vypouští nula emisí je nesmysl.",
+        "checkworthy": true,
+        "checkworthy_reason": "Z tohoto prohlášení vyplývá politická opatření, která lze ověřit podle stávajících právních předpisů týkajících se vozidel s nulovými emisemi.",
+        "origin_text": "postihovat auta, která vypouští nula nula nic zplodin je nesmysl.",
+        "start": 21,
+        "end": 86
+      },
+      {
+        "id": 2,
+        "claim": "EU nevybrané levné a ekologické palivo.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o tvrzení o energetické politice EU, které lze ověřit faktickou přesností zkoumáním energetických strategií a politik EU.",
+        "origin_text": "Pokud EU nemá jž dopředu vybrané levné, smysluplné a ekologické palivo,",
+        "start": 87,
+        "end": 158
+      },
+      {
+        "id": 4,
+        "claim": "Evropa měla léta blahobytu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Z tohoto prohlášení vyplývá historické ekonomické podmínky, které lze ověřit analýzou historických ekonomických údajů a studií o evropské prosperitě.",
+        "origin_text": "Po létech evropského blahobytu",
+        "start": 211,
+        "end": 241
+      }
+    ]
+  },
+  {
+    "source": "Filtr pevnych castic nezachyti oxidy dusiku nebo jine zplodiny.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Filtr pevnych castic nezachytí oxidy dusiku.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení obsahuje ověřitelné tvrzení o účinnosti filtrů pevných postelí při zachycování oxidů dusíku, které lze kontrolovat prostřednictvím vědeckých nebo technických zdrojů.",
+        "origin_text": "Filtr pevnych castic nezachyti oxidy dusiku",
+        "start": 0,
+        "end": 43
+      },
+      {
+        "id": 1,
+        "claim": "Filtr pevnych castic nezachytí jinové znečišťují látky.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení představuje faktické tvrzení o schopnosti filtrů pevných postelí zachytit jiné znečišťující látky, které je ověřitelné na základě konzultací s příslušnými vědeckými nebo environmentálními studiemi.",
+        "origin_text": "nebo jine zplodiny",
+        "start": 44,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "source": "Heslo ve Windows je totiž jen na okrasu.",
+    "claims": []
+  },
+  {
+    "source": "Isoprinosine není antivirotikum - svým mechanismem účinku. I když se u viróz používá, to ano. Nicméně já jsem prodělala extrémně těžký COVID a myslím, že Isoprinosine mi byl spíše na škodu. Věřím, že může být užitečný u lehčích průběhů a spíše na začátku onemocnění.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Isoprinosin není antivirotikum založené na jeho mechanismu účinku.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí konkrétní faktické tvrzení o klasifikaci a mechanismu isoprinosinu, které lze ověřit pomocí vědecké literatury a farmakologických databází.",
+        "origin_text": "Isoprinosine není antivirotikum - svým mechanismem účinku.",
+        "start": 0,
+        "end": 58
+      },
+      {
+        "id": 1,
+        "claim": "Používá se k virovým infekcím, i když není antivirotikum.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení uvádí, že isoprinosin je používán při léčbě virových infekcí bez ohledu na jeho klasifikaci; toto tvrzení o použití lze ověřit podle lékařských záznamů nebo farmaceutických pokynů.",
+        "origin_text": "I když se u viróz používá, to ano.",
+        "start": 59,
+        "end": 93
+      },
+      {
+        "id": 3,
+        "claim": "Isoprinosin může být užitečný v mírných případech nebo v časném stádiu infekce.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení naznačuje potenciální aplikaci isoprinosinu, který může být zkoumán prostřednictvím klinických studií nebo lékařských hodnocení, která zkoumají jeho účinnost v různých fázích virových infekcí.",
+        "origin_text": "Věřím, že může být užitečný u lehčích průběhů a spíše na začátku onemocnění.",
+        "start": 190,
+        "end": 266
+      }
+    ]
+  },
+  {
+    "source": "Isoprinosine posiluje imunitu, pokud máte těžký průběh tak je to způsobeno vesměs přehnanou imunitní reakcí a musíte naopak brát kortikoidy, které imunitní reakci zeslabí.Kámoš měl také velmi těžký průběh a po kortikoidech byl za pár dní celkem fit.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Isoprinosin posiluje imunitní systém.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o faktické tvrzení o účincích isoprinosinu, které lze ověřit prostřednictvím vědeckých studií nebo lékařské literatury.",
+        "origin_text": "Isoprinosine posiluje imunitu,",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "id": 1,
+        "claim": "Těžký stav může být důsledkem přehnané imunitní reakce.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení činí ověřitelné tvrzení o imunologii, které lze zkontrolovat proti lékařským a vědeckým znalostem.",
+        "origin_text": "pokud máte těžký průběh tak je to způsobeno vesměs přehnanou imunitní reakcí",
+        "start": 31,
+        "end": 107
+      },
+      {
+        "id": 2,
+        "claim": "Kortikoidy jsou užívány ke oslabení imunitní odpovědi.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o faktické tvrzení týkající se účelu kortikosteroidů v medicíně, které lze ověřit prostřednictvím farmakologických zdrojů.",
+        "origin_text": "a musíte naopak brát kortikoidy, které imunitní reakci zeslabí.",
+        "start": 108,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "source": "Jakože zvířata jiný zvířata nemučí? Viděl jste někdy třeba kosatky na lovu? Samozřejmě si k tomu nevyrábí nástroje, ovšem vynalézavý jsou až až.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Zvířata obvykle netrápí ostatní zvířata.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje obecné faktické tvrzení o chování zvířat, které lze zkoumat prostřednictvím studií a pozorování v etologii.",
+        "origin_text": "Jakože zvířata jiný zvířata nemučí?",
+        "start": 0,
+        "end": 35
+      },
+      {
+        "id": 1,
+        "claim": "Krokodýli byli sledováni při lovu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení uvádí ověřitelné faktické tvrzení týkající se chování krokodýlů, které lze ověřit proti studiím na zvířatech nebo zdokumentovaných pozorování.",
+        "origin_text": "Viděl jste někdy třeba kosatky na lovu?",
+        "start": 36,
+        "end": 75
+      },
+      {
+        "id": 2,
+        "claim": "Krokodýli nevyrábějí nástroje pro lov.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení je faktickým tvrzením o schopnostech a chování krokodýlů, které lze ověřit vědeckým výzkumem v oblasti používání nástrojů pro zvířata.",
+        "origin_text": "Samozřejmě si k tomu nevyrábí nástroje,",
+        "start": 76,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "source": "Jasně a všechna běžná auta s cenou kolem 500tis. se vyrábí výhradně pro východní Evropu, se proberte.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Auta s cenou kolem 500 tisíc jsou vyráběna výhradně pro východní Evropu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje faktická tvrzení o cenách automobilů a jejich exkluzivitě na trhu, která lze ověřit výzkumem údajů o automobilové výrobě a prodeji.",
+        "origin_text": "Jasně a všechna běžná auta s cenou kolem 500tis. se vyrábí výhradně pro východní Evropu,",
+        "start": 0,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "source": "Je to vse o nějaké volbě. Já učinil tuhle, auto nepotrebuju, vláda by měla činit kroky aby nám to zjednodušilu, třeba stavěli cyklostezky ve městech, takto jdou miliardy na předražené dalnice pro pár vyvolených",
+    "claims": [
+      {
+        "id": 4,
+        "claim": "Stavba městské cyklostezky navrhl jako alternativu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Z tohoto prohlášení vyplývá, že existuje návrh na vybudování městských cyklostezek jako alternativy, které lze potenciálně ověřit proti návrhům nebo diskusím ve veřejných záznamech nebo zprávách.",
+        "origin_text": "třeba stavěli cyklostezky ve městech,",
+        "start": 112,
+        "end": 149
+      }
+    ]
+  },
+  {
+    "source": "Jen k upřesnění. V Evropě se dobytek samozřejmě nezabíjí elektrickým proudem. Tím se jen omráčí aby ve chvíli podřezání nebyl při vědomí.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "V Evropě nejsou hospodářská zvířata zabíjena elektrickým proudem.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje faktické tvrzení o metodách zabíjení hospodářských zvířat v Evropě, které lze ověřit prostřednictvím nařízení a postupů v různých evropských zemích.",
+        "origin_text": "Jen k upřesnění. V Evropě se dobytek samozřejmě nezabíjí elektrickým proudem.",
+        "start": 0,
+        "end": 77
+      },
+      {
+        "id": 1,
+        "claim": "Elektřina se používá k omráčení zvířat.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí ověřitelné faktické tvrzení o použití elektřiny jako metody pro omračování zvířat, které lze ověřit podle norem a postupů průmyslu.",
+        "origin_text": "Tím se jen omráčí",
+        "start": 78,
+        "end": 95
+      },
+      {
+        "id": 2,
+        "claim": "Ohromující dělá zvířata v bezvědomí během krvácení.",
+        "checkworthy": true,
+        "checkworthy_reason": "V prohlášení se uvádí faktické tvrzení týkající se vlivu omráčení na zvířata, které lze ověřit vědeckými studiemi nebo odbornými zdroji při manipulaci se zvířaty a dobrých životních podmínkách zvířat.",
+        "origin_text": "aby ve chvíli podřezání nebyl při vědomí.",
+        "start": 96,
+        "end": 137
+      }
+    ]
+  },
+  {
+    "source": "Jen normální vývoj civilizace/í. Chudoba-rozvoj-pokrok-blahobyt-vymýšlení hloupostí-úpadek-zapomění.",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Civilizace zahrnuje chudobu, rozvoj, pokrok, blahobyt a vynález pošetilosti.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje věcné prvky, které lze prozkoumat prostřednictvím historických nebo sociologických důkazů o vlastnostech spojených s civilizacemi.",
+        "origin_text": "Chudoba-rozvoj-pokrok-blahobyt-vymýšlení hloupostí",
+        "start": 33,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "source": "Já si marně vzpomínám, kdy politici místo restrikcí něco povolili. Snad prodloužení intervalu technické u motorek. Jinak se pořád zpřísňuje ve všech oblastech života. A je úplně jedno která strana je u vesla",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Je možné, že prodloužení intervalů pro technické kontroly skútrů bylo povoleno.",
+        "checkworthy": true,
+        "checkworthy_reason": "Z tohoto prohlášení vyplývá konkrétní opatření týkající se předpisů o vozidlech, které lze ověřit z hlediska věcné přesnosti v porovnání s legislativními záznamy nebo oznámeními.",
+        "origin_text": "Snad prodloužení intervalu technické u motorek.",
+        "start": 67,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "source": "Já už vyzkoušel hodně antivirů, ale jako nejlepší se mi jeví Kasperski internet security.Ten obsahuje i správu síťového provozu a umožňuje ručně zakázat programům síťovou komunikaci, což jsem u jiných antivirů neměl.Takže jakémukoliv programu můžete zakázat odesílat data (ne vždy je to přínosem) a taky jakémukoliv systémovému programu. Něco podobného nabízí i AVG ale hodně omezeně oproti Kasperskému.",
+    "claims": [
+      {
+        "id": 2,
+        "claim": "Zahrnuje řízení síťového provozu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení lze ověřit kontrolou funkcí Kaspersky Internet Security, zda zahrnuje správu síťového provozu.",
+        "origin_text": "en obsahuje i správu síťového provozu a umožňuje",
+        "start": 90,
+        "end": 138
+      },
+      {
+        "id": 3,
+        "claim": "Uživatelé mohou ručně vypnout síťovou komunikaci pro programy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o faktické tvrzení, které lze ověřit proti schopnostem dotčeného softwaru, jako je například Kaspersky Internet Security.",
+        "origin_text": "ručně zakázat programům síťovou komunikaci,",
+        "start": 139,
+        "end": 182
+      },
+      {
+        "id": 5,
+        "claim": "Programům lze zabránit v odesílání dat.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o faktické tvrzení, které lze ověřit zkoumáním, zda software umožňuje zabránit programům v odesílání dat.",
+        "origin_text": "akže jakémukoliv programu můžete zakázat odesílat data (ne vždy je to přínosem)",
+        "start": 217,
+        "end": 296
+      },
+      {
+        "id": 7,
+        "claim": "Síťová komunikace systémových programů může být také blokována.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto faktické tvrzení lze ověřit ověřením, zda software umožňuje blokování síťové komunikace systémového programu.",
+        "origin_text": "taky jakémukoliv systémovému programu.",
+        "start": 299,
+        "end": 337
+      },
+      {
+        "id": 8,
+        "claim": "AVG nabízí podobnou, ale omezenou funkci ve srovnání s Kaspersky.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení obsahuje ověřitelné informace o funkcích nabízených společností AVG a o tom, jak se porovnají s funkcemi společnosti Kaspersky.",
+        "origin_text": "Něco podobného nabízí i AVG ale hodně omezeně oproti Kasperskému.",
+        "start": 338,
+        "end": 403
+      }
+    ]
+  },
+  {
+    "source": "Kanibalové na ostrově Samoa těžko budou mít reggae v krvi, to vzniklo na úplně jiném ostrově, v úplně jiném moři...Jsem na takové málo informované poznámky trochu alergická, ale možná za to může tahle moje diagnóza:https://www.youtube.com/watch?v=7MEqaQJ9lqU",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Kanibalové žijí na ostrově Samoa.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí faktické tvrzení o existenci a umístění skupiny osob, které lze prošetřit.",
+        "origin_text": "Kanibalové na ostrově Samoa",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "id": 2,
+        "claim": "Reggae vzniklo na jiném ostrově, v jiném moři.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné informace o původu reggae hudby, které lze zkontrolovat.",
+        "origin_text": "to vzniklo na úplně jiném ostrově, v úplně jiném moři",
+        "start": 59,
+        "end": 112
+      },
+      {
+        "id": 4,
+        "claim": "Autor poskytuje diagnózu odkazem na YouTube.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné věcné informace o zdroji diagnózy, které lze zkontrolovat.",
+        "origin_text": "ale možná za to může tahle moje diagnóza:https://www.youtube.com/watch?v=7MEqaQJ9lqU",
+        "start": 174,
+        "end": 258
+      }
+    ]
+  },
+  {
+    "source": "Komiks super, jen tak dál! Je s podivem, že tady nikomu nevadí, že Přerov přišel o miliardovou investici a 3500 pracovních míst mimo jiné kvůli tomu, že není napojený na dálnici, protože její výstavbu blokují dva, možná tři lidé.Demokracie není jen o tom, abych mohl projevit svůj názor, ale také o tom, že respektuji a akceptuji názor většiny. A pokud jej neakceptuji, pak je na mě, abych dal dohromady větší většinu",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Přerov přišel o miliardu investic a 3500 pracovních míst.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení obsahuje konkrétní faktická tvrzení o finanční ztrátě a počtu pracovních míst, která lze ověřit pomocí údajů nebo zpráv týkajících se Přerova.",
+        "origin_text": "Je s podivem, že tady nikomu nevadí, že Přerov přišel o miliardovou investici a 3500 pracovních míst",
+        "start": 27,
+        "end": 127
+      },
+      {
+        "id": 2,
+        "claim": "Ztráta byla částečně způsobena nedostatkem přístupu na dálnici.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení poskytuje příčinný vztah, který je potenciálně ověřitelný prostřednictvím studií, zpráv nebo analýz souvisejících s ekonomickým dopadem na Přerov.",
+        "origin_text": "mimo jiné kvůli tomu, že není napojený na dálnici",
+        "start": 128,
+        "end": 177
+      },
+      {
+        "id": 4,
+        "claim": "Demokracie zahrnuje vyjádření osobních názorů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o definitivní tvrzení o demokracii, které lze ověřit prostřednictvím konzultace s politickou vědeckou literaturou nebo definicemi demokracie.",
+        "origin_text": "emokracie není jen o tom, abych mohl projevit svůj názor",
+        "start": 230,
+        "end": 286
+      },
+      {
+        "id": 5,
+        "claim": "Demokracie vyžaduje respektování většinového názoru.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o faktické prohlášení o zásadách a mechanizmech, které jsou základem demokratických systémů, které lze kontrolovat proti zdrojům demokratické správy.",
+        "origin_text": " ale také o tom, že respektuji a akceptuji názor většiny.",
+        "start": 287,
+        "end": 344
+      }
+    ]
+  },
+  {
+    "source": "Michate hrusky a jabka. Windows NT koexistovaly s klasickymi Windows az do Windows 2000.",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Windows NT koexistovaly s klasickými Windows.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení tvrdí o historickém soužití Windows NT a klasických verzí Windows, které lze ověřit prostřednictvím historických záznamů a dokumentace o vydání operačního systému.",
+        "origin_text": "Windows NT koexistovaly s klasickymi Windows",
+        "start": 24,
+        "end": 68
+      },
+      {
+        "id": 2,
+        "claim": "Koexistence byla až do Windows 2000.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení poskytuje konkrétní informace o trvání nebo cílovém parametru koexistence mezi různými systémy Windows až do systému Windows 2000, který je ověřitelný se znalostí historie produktů společnosti Microsoft.",
+        "origin_text": "az do Windows 2000.",
+        "start": 69,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "source": "Možná by si na CO2 měla paní redaktorka začít dávat velký pozor, aby se tou toxickou zplodinou neotrávila při pití bublinkové limonády, nebo sodovky.",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "CO2 je toxický vedlejší produkt.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení obsahuje ověřitelné věcné informace týkající se povahy CO2, které lze vědecky vyšetřit.",
+        "origin_text": "aby se tou toxickou zplodinou neotrávila při pití bublinkové limonády,",
+        "start": 65,
+        "end": 135
+      },
+      {
+        "id": 2,
+        "claim": "Požití CO2 může způsobit otravu šumivými nápoji.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení zahrnuje konkrétní tvrzení o účincích požití CO2, které lze ověřit prostřednictvím lékařských a vědeckých zdrojů.",
+        "origin_text": "nebo sodovky.",
+        "start": 136,
+        "end": 149
+      }
+    ]
+  },
+  {
+    "source": "Na bolestivé břicho čaj z majoránky. I na velké křeče.",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Čaj z majoránky pomáhá i na velké křeče.",
+        "checkworthy": true,
+        "checkworthy_reason": "I když se jedná o široké tvrzení, odkazuje na faktické tvrzení, které může být zkoumáno prostřednictvím vědeckých studií nebo lékařský výzkum týkající se účinnosti heřmánkového čaje pro křeče.",
+        "origin_text": "I na velké křeče.",
+        "start": 37,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "source": "Neni. Linux totiz s vice uzivateli pocital od zacatku po vzoru Unixu. Windows to ma dohackovane dost bidne",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Linux sleduje model podobný Unixu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Skutečné tvrzení o podobnosti Linuxu s Unixem lze prošetřit pomocí technické dokumentace a historických vývojových záznamů.",
+        "origin_text": "o vzoru Unixu.",
+        "start": 55,
+        "end": 69
+      },
+      {
+        "id": 2,
+        "claim": "Okna byla výrazně záplatována.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení obsahuje ověřitelné informace, které lze zkontrolovat proti záznamům o uvolnění náplasti pro operační systémy Windows.",
+        "origin_text": "Windows to ma dohackovane dost bidne",
+        "start": 70,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "source": "Nepadla tu ještě zajímavá věc, že po prvním omezení dopravy kvůli coroně se tam emise zvýšily, a nikdo neví proč... Ale naměřené to bylo.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Zajímavým faktem je, že emise vzrostly po prvním uzavření v důsledku COVID-19.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné faktické tvrzení o emisních trendech po prvních uzavřeních COVID-19, které lze zkoumat pomocí environmentálních údajů.",
+        "origin_text": "Nepadla tu ještě zajímavá věc, že po prvním omezení dopravy kvůli coroně se tam emise zvýšily,",
+        "start": 0,
+        "end": 94
+      }
+    ]
+  },
+  {
+    "source": "Nesúhlasím. Zoberte si zvieratá najbližšie k nám, teda tie viac inteligentné (gorily, delfíny a podobne). Myslím že by toho vymysleli oveľa viac. A vôbec to nemyslím tak že \"ne ne, to je ošklivé\" ..... ja tvrdím, že ľudia sú zlejší. Čo chcete vymýšľať na vraždiacich výpravách, vojskách, keď sa celá armáda, skupina vybrala niekam a len tak, bez ničoho, dosť kruto vyničila celú osadu, dedinu, celý kmeň. Čo je na tom o vymýšľaní keď sa tu ničíme 5000 rokov???",
+    "claims": [
+      {
+        "id": 4,
+        "claim": "Mluvčí tvrdí, že lidé vymýšlejí věci pro vražedné expedice.",
+        "checkworthy": true,
+        "checkworthy_reason": "To obsahuje faktické informace o tvrzení řečníka týkající se účelů lidských vynálezů, které lze prošetřit.",
+        "origin_text": "Čo chcete vymýšľať na vraždiacich výpravách,",
+        "start": 233,
+        "end": 277
+      },
+      {
+        "id": 5,
+        "claim": "Armády nebo skupiny zničily celé vesnice nebo kmeny.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje faktické tvrzení, že historické události destrukce vojsk nebo skupin lze ověřit důkazy.",
+        "origin_text": "vojskách, keď sa celá armáda, skupina vybrala niekam a len tak, bez ničoho, dosť kruto vyničila celú osadu, dedinu, celý kmeň.",
+        "start": 278,
+        "end": 404
+      },
+      {
+        "id": 6,
+        "claim": "K destrukci dochází již 5000 let.",
+        "checkworthy": true,
+        "checkworthy_reason": "V prohlášení se uvádí konkrétní tvrzení o časové linii destruktivních událostí, která je ověřitelná pomocí historické analýzy a záznamů.",
+        "origin_text": "Čo je na tom o vymýšľaní keď sa tu ničíme 5000 rokov???",
+        "start": 405,
+        "end": 460
+      }
+    ]
+  },
+  {
+    "source": "Nezlobte se, ale i moje 8 let stará Octavia 3 s TDi 2L 110kW plní EURO 6...",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Vozidlo je osmiletá Octavia 3 s motorem TDI 2L a výkonem 110kW.",
+        "checkworthy": true,
+        "checkworthy_reason": "To obsahuje konkrétní podrobnosti o věku, modelu, typu motoru a výkonu vozidla, které lze ověřit prostřednictvím záznamů nebo kontroly.",
+        "origin_text": "ale i moje 8 let stará Octavia 3 s TDi 2L 110kW",
+        "start": 13,
+        "end": 60
+      },
+      {
+        "id": 2,
+        "claim": "Vozidlo splňuje emisní normu EURO 6.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí faktické tvrzení týkající se shody vozidla se specifickým emisním standardem, které lze ověřit proti regulačním dokumentům nebo certifikačním předpisům.",
+        "origin_text": "plní EURO 6",
+        "start": 61,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "source": "No co se vam na tom nezda? Drive mely elektroauta baterky tak puruznu (i v kufru), a hlavne je to rozdil proti benzinaku - elektro ma baterky v podlaze, a diky tomu ma nizke teziste (o je jen konstatovani faktu, neni to nejake prekvapive odhaleni)",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Elektroauta baterky jsou v kufru.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné tvrzení o umístění baterií v elektrických vozidlech, i když by mohlo být nesprávné.",
+        "origin_text": "(i v kufru),",
+        "start": 70,
+        "end": 82
+      },
+      {
+        "id": 2,
+        "claim": "Rozdil proti benzinaku je, že elektroauta mají baterky v podlaze.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení uvádí konkrétní tvrzení, které lze ověřit ohledně umístění baterií v elektrických vozidlech ve srovnání s benzinovými automobily.",
+        "origin_text": "a hlavne je to rozdil proti benzinaku - elektro ma baterky v podlaze,",
+        "start": 83,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "source": "No, on ten Peugeot ve skutečnosti zas o tolik menší nebude. Vnitřní prostor a kufr jsou v podstatě nastejno. Kompaktnější je jen zvenku.",
+    "claims": [
+      {
+        "id": 2,
+        "claim": "Vnitřní prostor a kufr jsou v podstatě stejné.",
+        "checkworthy": true,
+        "checkworthy_reason": "V prohlášení se uvádí faktické tvrzení o vnitřních rozměrech vozidla, které lze měřit a ověřit.",
+        "origin_text": "Vnitřní prostor a kufr jsou v podstatě nastejno.",
+        "start": 60,
+        "end": 108
+      },
+      {
+        "id": 3,
+        "claim": "Navenek je jen kompaktnější.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento výrok obsahuje ověřitelné informace o vnějších rozměrech vozidla ve srovnání s jeho vnitřním prostorem.",
+        "origin_text": "Kompaktnější je jen zvenku.",
+        "start": 109,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "source": "No, oni si ty staré benzínové šunky kupovali i tam, kde zakázali čisté diesely...",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Někteří lidé si koupili stará benzínová auta v oblastech, kde byla čistá nafta zakázána.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné věcné informace týkající se nákupu konkrétních typů vozidel a jejich přítomnosti v některých zeměpisných oblastech s regulačními zákazy.",
+        "origin_text": "No, oni si ty staré benzínové šunky kupovali i tam, kde zakázali čisté diesely",
+        "start": 0,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "source": "No, pokud si dobře pamatuji, tek zelení chtějí vybíjet i hospodářská zvířata, protože moc prdí meta a to je skleníkový plyn ...",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Hospodářská zvířata prdí moc meta.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení obsahuje ověřitelné informace o emisích metanu z hospodářských zvířat, což je vědecký fakt, který lze zkoumat.",
+        "origin_text": "protože moc prdí meta",
+        "start": 78,
+        "end": 99
+      },
+      {
+        "id": 2,
+        "claim": "Meta je skleníkový plyn.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení představuje faktické informace o tom, že metan je skleníkový plyn, který je vědecky ověřen a kontrolovatelný.",
+        "origin_text": "a to je skleníkový plyn",
+        "start": 100,
+        "end": 123
+      }
+    ]
+  },
+  {
+    "source": "On náš prezident má také úplně jiné kompetence než ten americký.Že mají ministři vnitra různé role v různých státech, to samo o sobě není důvod neříkat jim stejně.",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Američtí prezidenti mají různé kompetence.",
+        "checkworthy": true,
+        "checkworthy_reason": "Z tohoto prohlášení vyplývá faktické srovnání mezi jednotlivci, které lze zkoumat prostřednictvím historických záznamů nebo analýzy prezidentských rolí a akcí.",
+        "origin_text": "než ten americký.",
+        "start": 47,
+        "end": 64
+      },
+      {
+        "id": 2,
+        "claim": "Ministři vnitra mají různé role v různých státech.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o ověřitelné tvrzení, které lze ověřit zkoumáním konkrétních povinností ministrů vnitra v různých zemích nebo státech.",
+        "origin_text": "e mají ministři vnitra různé role v různých státech, to samo o sobě není důvod",
+        "start": 65,
+        "end": 143
+      }
+    ]
+  },
+  {
+    "source": "Ono nula nula nic krát milion v jednom městě dá hodně. A navíc těch nula nula nic platí pro zahřátý motor. V ranní špičce ve městech popojíždí studené nafťáky, které mají několikanásobné emise.Ono jde o to, že se doba změnila. Každý má auto, obzvláště v Německu je jejich koncentrace enormní. A lidí chtějí taky dýchat a nejen si vozit zadek.Kdo bydlí u magistrály, ví jaký to je, jaký je tam prach a hluk. Jenomže těch magistrál mají v Německu (ale i v jiných zemích) tisíce.Neříkám, že současný postup je ideální. Ale nic nedělat a nechat se dál dusit, taky není řešení.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Vozidla s nulovými emisemi mohou emitovat více v městské špičce.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí faktické tvrzení, které lze přezkoumat zkoumáním emisního chování vozidel s nulovými emisemi za zvláštních podmínek.",
+        "origin_text": "Ono nula nula nic krát milion v jednom městě dá hodně. A navíc těch nula nula nic platí pro zahřátý motor.",
+        "start": 0,
+        "end": 106
+      },
+      {
+        "id": 1,
+        "claim": "Zima začíná vést k vyšším emisím pro některá vozidla.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení obsahuje ověřitelné informace o dopadu studených startů na emise vozidel, což je záležitost inženýrských a environmentálních studií.",
+        "origin_text": "V ranní špičce ve městech popojíždí studené nafťáky, které mají několikanásobné emise.",
+        "start": 107,
+        "end": 193
+      },
+      {
+        "id": 2,
+        "claim": "Změny v životním prostředí ovlivňují politiku emisí vozidel.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení znamená faktický vztah mezi environmentálními faktory a vytvářením politik, který lze přezkoumat analýzou regulačních dokumentů a studií.",
+        "origin_text": "no jde o to, že se doba změnila.",
+        "start": 194,
+        "end": 226
+      },
+      {
+        "id": 4,
+        "claim": "Vysoká koncentrace automobilů je přítomna v Německu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení lze ověřit zkoumáním provozních statistik nebo studií týkajících se hustoty vozidla v Německu.",
+        "origin_text": "je jejich koncentrace enormní.",
+        "start": 262,
+        "end": 292
+      },
+      {
+        "id": 6,
+        "claim": "Obytné oblasti poblíž dálnic zažívají prach a hluk.",
+        "checkworthy": true,
+        "checkworthy_reason": "Přítomnost prachu a hluku v obytných oblastech v blízkosti dálnic je ověřitelný jev životního prostředí, který lze měřit a zdokumentovat.",
+        "origin_text": "do bydlí u magistrály, ví jaký to je, jaký je tam prach a hluk.",
+        "start": 343,
+        "end": 406
+      },
+      {
+        "id": 7,
+        "claim": "Německo má tisíce kilometrů dálnic.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení poskytuje konkrétní informace o německé silniční infrastruktuře, kterou lze ověřit prostřednictvím oficiálních záznamů nebo databází.",
+        "origin_text": "Jenomže těch magistrál mají v Německu (ale i v jiných zemích) tisíce.",
+        "start": 407,
+        "end": 476
+      },
+      {
+        "id": 9,
+        "claim": "Nečinnost vede k přetrvávajícím problémům se znečištěním.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení představuje příčinnou souvislost mezi nečinností a znečištěním, které lze zkoumat prostřednictvím environmentálních studií a analýzy údajů.",
+        "origin_text": "Ale nic nedělat a nechat se dál dusit, taky není řešení.",
+        "start": 516,
+        "end": 572
+      }
+    ]
+  },
+  {
+    "source": "Ono se nikde emise nezvysily, staci neopak blbosti porad dokola :DAle jinak ano, muze se stat i to, ze namerite horsi hodnoty znecisteni v den, kdy nevyjede ani jedno auto, oproti dnu s provozem. Staci kdyz ten den bez aut bude inverze, a ten normalni den bude krasne a pofukovat vitr. Presto z takoveho mereni opravdu neplyne to, ze auta cisti vzduch :D",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Emise se nikde nezvýšily.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí faktické tvrzení o globálních emisních trendech, které lze ověřit pomocí environmentálních údajů ze spolehlivých zdrojů.",
+        "origin_text": "Ono se nikde emise nezvysily,",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "id": 2,
+        "claim": "Horší hodnoty znečištění mohou nastat ve dnech bez aut.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o faktické tvrzení o úrovních znečištění, které lze zkoumat pomocí studií životního prostředí nebo údajů z měření kvality ovzduší.",
+        "origin_text": "le jinak ano, muze se stat i to, ze namerite horsi hodnoty znecisteni v den, kdy nevyjede ani jedno auto,",
+        "start": 67,
+        "end": 172
+      },
+      {
+        "id": 3,
+        "claim": "Neřídící den může být inverze, zatímco normální den je slunečný a větrný.",
+        "checkworthy": true,
+        "checkworthy_reason": "Tento údaj se týká meteorologických jevů, teplotních inverzí, které jsou ověřitelné prostřednictvím údajů o počasí a vědeckých záznamů.",
+        "origin_text": "oproti dnu s provozem. Staci kdyz ten den bez aut bude inverze, a ten normalni den bude krasne a pofukovat vitr.",
+        "start": 173,
+        "end": 285
+      }
+    ]
+  },
+  {
+    "source": "Pekny a trefny clanek. Osobne vyznavam tvrdy pristup jaky maji v Oregonu. Tedy extremni pokuty a postihy za znecistovani prirody a nerespektovani narizeni. Ve zminenem Oregonu treba pokuta za znecistovani az do $6250.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Tento článek je popsán jako peky a trefy.",
+        "checkworthy": true,
+        "checkworthy_reason": "V tomto prohlášení se uplatňují konkrétní popisné pojmy týkající se článku, který by mohl být ověřen zkoumáním textu článku.",
+        "origin_text": "Pekny a trefny clanek.",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "id": 2,
+        "claim": "Oregon vymáhá extrémní tresty za znečištění.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení lze prošetřit tím, že se podíváme na Oregonovy zákony a předpisy týkající se sankcí za znečištění.",
+        "origin_text": "Tedy extremni pokuty a postihy za znecistovani prirody",
+        "start": 74,
+        "end": 128
+      },
+      {
+        "id": 4,
+        "claim": "V Oregonu existují sankce za znečištění.",
+        "checkworthy": true,
+        "checkworthy_reason": "Existence právních sankcí může být ověřena přezkoumáním environmentálních předpisů a stanov Oregonu.",
+        "origin_text": "Ve zminenem Oregonu treba pokuta za znecistovani",
+        "start": 156,
+        "end": 204
+      },
+      {
+        "id": 5,
+        "claim": "Pokuta za znečištění v Oregonu může být až 6250 dolarů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení poskytuje specifickou peněžní hodnotu, která může být kontrolována podle úředních záznamů nebo právních dokumentů týkajících se pokut.",
+        "origin_text": "az do $6250.",
+        "start": 205,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "source": "Pokud mate fyzicky pristup k pocitaci a disk neni sifrovany, tak linux nepomuze.Ale stale lepsi nez win, kde sifrovani je dostupne az pro verzi pro.",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Linux nešifruje disky ve výchozím nastavení.",
+        "checkworthy": true,
+        "checkworthy_reason": "V prohlášení se konkrétní tvrzení o výchozí chování Linuxu týkající se šifrování disku, který je ověřitelný pomocí technických specifikací nebo dokumentace.",
+        "origin_text": "tak linux nepomuze.",
+        "start": 61,
+        "end": 80
+      },
+      {
+        "id": 3,
+        "claim": "Šifrování Windows je dostupné pouze v placených verzích.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení tvrdí o dostupnosti šifrovacích funkcí v různých verzích Windows, které lze ověřit kontrolou nabídky produktů od společnosti Microsoft.",
+        "origin_text": "kde sifrovani je dostupne az pro verzi pro.",
+        "start": 105,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "source": "Sulawesi je velky ostrov vedle Bornea a Tana Toraja je oblast ve vnitrozemi. Ostrov spada pod Indonesia. Pred 10 lety jsem absoluoval stejny zazitek, autorka to popsala pomerne presne. Na Sulawesi jsem stravil zhruba mesic a rozhodne je to misto ktere stoji za navstevu. Zadni turiste, par batuzkaru. Sulawesi je take znamo jako jedno z nejlepsich mist na potapeni na svete.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Sulawesi je velký ostrov vedle Bornea.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné zeměpisné informace o umístění Sulawesi ve vztahu k Borneo.",
+        "origin_text": "Sulawesi je velky ostrov vedle Bornea",
+        "start": 0,
+        "end": 37
+      },
+      {
+        "id": 1,
+        "claim": "Tana Toraja je oblast v interiéru Sulawesi.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení uvádí konkrétní a ověřitelné informace týkající se umístění Tany Toraja v rámci Sulawesi.",
+        "origin_text": "a Tana Toraja je oblast ve vnitrozemi.",
+        "start": 38,
+        "end": 76
+      },
+      {
+        "id": 2,
+        "claim": "Ostrov spadá pod Indonésii.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné informace o národní příslušnosti Sulawesi, které lze potvrdit prostřednictvím zeměpisných nebo politických zdrojů.",
+        "origin_text": "Ostrov spada pod Indonesia.",
+        "start": 77,
+        "end": 104
+      },
+      {
+        "id": 7,
+        "claim": "Pár turistů tam chodí, a to má batik látky.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení obsahuje dvě samostatná tvrzení: jeden o cestovním ruchu, které lze ověřit s daty, a další o přítomnosti batik látky, kulturní skutečnost, která může být zkontrolována.",
+        "origin_text": "Zadni turiste, par batuzkaru.",
+        "start": 271,
+        "end": 300
+      }
+    ]
+  },
+  {
+    "source": "Ta provozni teplota je kvuli tomu, ze motor ktery neni zahraty na optimalni teplotu ma vyssi emise. Napriklad kvuli tomu, ze je nutne mit bohatsi smes. A systemy jsou nastaveny na provozni teplotu motoru a optimalni otacky (katalyzator, SCR,..)",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Provozní teplota ovlivňuje emise.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí vztah mezi provozní teplotou a emisemi, které lze zkoumat pomocí vědeckých studií nebo údajů.",
+        "origin_text": "Ta provozni teplota je kvuli tomu, ze motor ktery neni zahraty na optimalni teplotu ma vyssi emise.",
+        "start": 0,
+        "end": 99
+      },
+      {
+        "id": 1,
+        "claim": "Těžší palivová směs je nezbytná bez optimální teploty.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí ověřitelné technické tvrzení o vztahu mezi palivovou směsí a teplotou motoru, které lze ověřit podle principů nebo studií automobilového inženýrství.",
+        "origin_text": "Napriklad kvuli tomu, ze je nutne mit bohatsi smes.",
+        "start": 100,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "source": "Tak moc se to neprojevilo. Daleko více rodin bylo doma, děti nevozili do školy, celkově provoz v průměru klesl v našem městě o 40%.",
+    "claims": [
+      {
+        "id": 2,
+        "claim": "Méně dětí chodilo do školy.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné věcné informace, pokud se vztahuje na konkrétní údaje o školní docházce, které lze ověřit podle záznamů nebo zpráv.",
+        "origin_text": "děti nevozili do školy,",
+        "start": 56,
+        "end": 79
+      },
+      {
+        "id": 3,
+        "claim": "Celkový městský provoz klesl o 40%.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení uvádí konkrétní a měřitelné tvrzení o úrovni dopravy, které lze ověřit pomocí provozních údajů příslušných orgánů nebo studií.",
+        "origin_text": "celkově provoz v průměru klesl v našem městě o 40%.",
+        "start": 80,
+        "end": 131
+      }
+    ]
+  },
+  {
+    "source": "Tak naštěstí se KDU-ČSL nedostalo do vlády, takže nemohlo dál za Kapsch lobovat a ten vývar mu prodloužit ...",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "KDU-ČSL nevstoupila do vlády.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení je jasným faktickým tvrzením o zapojení politické strany do vlády, které lze ověřit kontrolou historických záznamů nebo zdrojů zpráv.",
+        "origin_text": "Tak naštěstí se KDU-ČSL nedostalo do vlády,",
+        "start": 0,
+        "end": 43
+      },
+      {
+        "id": 2,
+        "claim": "Společnost se snažila rozšířit svou licenci.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o ověřitelné faktické tvrzení o činnostech konkrétní společnosti týkajících se vydávání licencí, které lze ověřit prostřednictvím obchodních záznamů nebo zpráv.",
+        "origin_text": "a ten vývar mu prodloužit ...",
+        "start": 80,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "source": "Tak třeba v Říčanech u Prahy se nová škola postavila a letos začne výstavba další. Z jakých peněz nevím, ale peněz města tam bude menší díl, město na budování staveb v úhrnu půl miliardy nemá.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "V Říčanech u Prahy byla postavena nová škola.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí ověřitelné tvrzení o existenci nové školy na určitém místě, které lze ověřit pomocí místních záznamů nebo zdrojů zpráv.",
+        "origin_text": "Tak třeba v Říčanech u Prahy se nová škola postavila",
+        "start": 0,
+        "end": 52
+      },
+      {
+        "id": 2,
+        "claim": "Přesný zdroj financování není znám.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení představuje faktické informace o stavu znalostí konkrétního zdroje financování, které lze prošetřit nebo potvrdit příslušnými orgány nebo dokumenty.",
+        "origin_text": "Z jakých peněz nevím, ale",
+        "start": 83,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "source": "To není ani o ekologii, ale o ekonomice. Nic proti vlakům, ale kromě transportu záklandích komodit nemá už z hlediska dopravy železnice nárok. Většina nákladních terminálů se proměnila na bownfieldy nebo už rovnou zastavěla. Stavět nové jě velmi draho a upřímně není ani kde je stavět (chybí napojení na už tak trstní silniční infrastrukturu). A upřímně firma potřebuje logistické zabezpečení just-in-time a jestli se bude zboží ještě 2x překládat na/z vlaku vyjde to stejně dráž než kamion. Bohužel doba velkých továren, které měly vlastní vlečku na nejbližší nádraží je pryč a logistické megaareály u velkých měst nemají v drtivé míře možnost se na solidní kapacitní kooej vůbec připojit.",
+    "claims": [
+      {
+        "id": 2,
+        "claim": "Železnice nemají nárok na dopravu kromě přepravy volně ložených komodit.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení uvádí faktické tvrzení o úloze železnic v dopravě, které lze zkoumat zkoumáním jejich využití a schopností v různých souvislostech.",
+        "origin_text": "ale kromě transportu záklandích komodit nemá už z hlediska dopravy železnice nárok.",
+        "start": 59,
+        "end": 142
+      },
+      {
+        "id": 4,
+        "claim": "Stavba nových železnic je velmi drahá.",
+        "checkworthy": true,
+        "checkworthy_reason": "Náklady na výstavbu nových železnic lze ověřit odkazem na ekonomické studie, zprávy a historické údaje o projektech výstavby železnic.",
+        "origin_text": "Stavět nové jě velmi draho",
+        "start": 225,
+        "end": 251
+      },
+      {
+        "id": 5,
+        "claim": "Nedostatek spojení s rozsáhlou silniční infrastrukturou pro nové železnice.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení tvrdí o stavu připojení k infrastruktuře, který lze zkoumat prostřednictvím analýz dopravních sítí a plánovacích dokumentů.",
+        "origin_text": "a upřímně není ani kde je stavět (chybí napojení na už tak trstní silniční infrastrukturu).",
+        "start": 252,
+        "end": 343
+      },
+      {
+        "id": 7,
+        "claim": "Převoz zboží dvakrát na vlakech nebo na vlacích je nákladnější než používání nákladních automobilů.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí ekonomické tvrzení, které lze ověřit analýzou údajů o nákladech z logistických a dopravních studií.",
+        "origin_text": "a jestli se bude zboží ještě 2x překládat na/z vlaku vyjde to stejně dráž než kamion.",
+        "start": 406,
+        "end": 491
+      },
+      {
+        "id": 9,
+        "claim": "Logistické mega-zóny v blízkosti velkých měst se zřídka spojí s pevnými kapacitními koridory.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí tvrzení o konektivitě infrastruktury, kterou lze zkoumat prostřednictvím studií územního plánování a dopravy.",
+        "origin_text": "a logistické megaareály u velkých měst nemají v drtivé míře možnost se na solidní kapacitní kooej vůbec připojit.",
+        "start": 577,
+        "end": 690
+      }
+    ]
+  },
+  {
+    "source": "To, proč někdo vlastní auto, je čiště jeho věc a to, že bydlí (v širším) centru města, absolutně neznamená, že ho nepotřebuje... Ale chápu, že hipsteři a podobní aktivisti, co jim stačí batůžek nebo makaj někde v Partnerství, tak ti mají času dost a můžou ho ztrácet třeba i \"ekologickou\" dopravou. Akorát pak jsou neskutečně otravní, když potřebují někam za město a zrovna to neleží na koridoru...",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Žít v centru města nebo v jeho blízkosti neznamená, že nepotřebujete auto.",
+        "checkworthy": true,
+        "checkworthy_reason": "V prohlášení se uvádí faktické tvrzení týkající se potřeb městského bydlení a dopravy, které lze zkoumat zkoumáním různých studií a údajů o užívání automobilů obyvatel města.",
+        "origin_text": "",
+        "start": 128,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "source": "V Australii zije ex-pat samoanska komunita a v australske NRL (ragbyova liga) hraje spousta Samoanu. Jeste zadne sve protivniky nesnedli.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Ex-pat samoanska komunita zije v Australii.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné věcné informace o přítomnosti Samojské expatriátní komunity v Austrálii.",
+        "origin_text": "V Australii zije ex-pat samoanska komunita a",
+        "start": 0,
+        "end": 44
+      },
+      {
+        "id": 1,
+        "claim": "Spoustu Samoanů hraje v rakouské NRL (ragbyová liga).",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení podává faktické tvrzení, které lze ověřit kontrolou statistiky účasti nebo záznamy hráčů v australské národní ragby ligy.",
+        "origin_text": "v australske NRL (ragbyova liga) hraje spousta Samoanu.",
+        "start": 45,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "source": "V monopolu nemate moznost volby a o to jde",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "V monopolu nemáš na výběr.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné věcné informace týkající se pravidel nebo povahy hry Monopoly, které lze ověřit podle oficiálních pravidel.",
+        "origin_text": "V monopolu nemate moznost volby",
+        "start": 0,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "source": "V roce 2013, tedy před osmi lety, se auta s normou EURO 6 nevyráběla. Ano, motory se v základu nezměnily a 2.0 TDI pak po roce 2015 splňoval iEURO 6, ale k jistým malým úpravám tam došlo. V techničáku máte určitě uvedeno EURO 5.Nicméně, stát nemůže zakázat provoz něčeho, co odsouhlasil, že vyhovuje. Jinak riskuje soudy o odškodnění. A šrotovat téměr nová auta je zhovadilost.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "V roce 2013 nebyly vyrobeny standardní automobily EURO 6.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné tvrzení o stavu výroby standardních automobilů EURO 6 v konkrétním roce.",
+        "origin_text": "V roce 2013, tedy před osmi lety, se auta s normou EURO 6 nevyráběla.",
+        "start": 0,
+        "end": 69
+      },
+      {
+        "id": 2,
+        "claim": "2.0 TDI motory splňují iEURO 6 standardy po roce 2015 s drobnými úpravami.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení poskytuje konkrétní tvrzení o souladu 2.0 TDI motorů s normami iEURO 6, které lze ověřit.",
+        "origin_text": "a 2.0 TDI pak po roce 2015 splňoval iEURO 6, ale k jistým malým úpravám tam došlo.",
+        "start": 105,
+        "end": 187
+      },
+      {
+        "id": 4,
+        "claim": "Stát nemůže zakázat provoz schválených vyhovujících vozidel.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uplatňuje faktické tvrzení o právních omezeních, které lze ověřit prostřednictvím zákonů nebo nařízení.",
+        "origin_text": "icméně, stát nemůže zakázat provoz něčeho, co odsouhlasil, že vyhovuje.",
+        "start": 229,
+        "end": 300
+      },
+      {
+        "id": 5,
+        "claim": "Banning by mohl vést k žalobám o náhradu škody.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné tvrzení týkající se možných právních důsledků zákazu určitých akcí.",
+        "origin_text": "Jinak riskuje soudy o odškodnění.",
+        "start": 301,
+        "end": 334
+      }
+    ]
+  },
+  {
+    "source": "Vetsinou to funguje tak ze Vas pruvodce je Torajan, ktery ma pristup. Oni smrt vidi jinak nez my a je to pro ne duvod k oslave neboztika. Na pohrbu ktereho jsme se zucastnili byli stovky lidi, vsichni byli velice pratelsti a brali nas spis jako hosty nez turisty. Jestli jim ten pruvodce neco da za to ze se muzete ucastnit to nevim, ale najmout si pruvodce na 3 dny nebylo vubec drahy. Uz si presne nepamatuji, je to 10 let. Nas rozhodne nikdo “nezkasiroval” stranou.",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Torajané považují smrt za důvod k oslavě.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení obsahuje ověřitelné kulturní informace o názorech Torajanů na smrt, které lze zkoumat v antropologických studiích nebo důvěryhodných zdrojích.",
+        "origin_text": "Oni smrt vidi jinak nez my a je to pro ne duvod k oslave neboztika.",
+        "start": 70,
+        "end": 137
+      },
+      {
+        "id": 5,
+        "claim": "Od té doby je to přibližně 10 let.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení poskytuje konkrétní časový rámec, který lze ověřit, je-li známo datum původní události.",
+        "origin_text": "Uz si presne nepamatuji, je to 10 let.",
+        "start": 387,
+        "end": 425
+      }
+    ]
+  },
+  {
+    "source": "Ze skamenelych kosti moc genetickeho materialu nevyskrabete.",
+    "claims": []
+  },
+  {
+    "source": "genetický materiál nebude až tak problém, existuje hodně zmrzlých mamutích pozustatků ...navíc genom mamuta je celkem dobře zdokumentovaný, před pár lety jsem dokonce četl studii že by mohl mládě mamuta odnosit slon.",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Vyskytuje se na základě prováděcích opatření.",
+        "checkworthy": true,
+        "checkworthy_reason": "Prohlášení obsahuje ověřitelné informace o existenci mraženého mamuta, které lze ověřit podle vědeckých záznamů nebo studií.",
+        "origin_text": "existuje hodně zmrzlých mamutích pozustatků ...navíc",
+        "start": 42,
+        "end": 94
+      },
+      {
+        "id": 2,
+        "claim": "Mamutí genom je možný.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení poskytuje faktické tvrzení o stavu dokumentace mamutího genomu, který je předmětem ověření prostřednictvím vědecké literatury a vědeckých poznatků.",
+        "origin_text": "genom mamuta je celkem dobře zdokumentovaný,",
+        "start": 95,
+        "end": 139
+      },
+      {
+        "id": 3,
+        "claim": "Byla studie, že by mládě mamuta odnáselo slona.",
+        "checkworthy": true,
+        "checkworthy_reason": "Z tohoto prohlášení vyplývá, že existuje studie s konkrétními tvrzeními, která lze vyhledat v akademických nebo vědeckých záznamech pro ověření.",
+        "origin_text": "před pár lety jsem dokonce četl studii že by mohl mládě mamuta odnosit slon.",
+        "start": 140,
+        "end": 216
+      }
+    ]
+  },
+  {
+    "source": "mýto je ve většině okolních zemích. Jen u nás je to pijavice. Kapsch firma se stoletou tradicí. Asi většina kritizujících jsou samaritání co pracují zadarmo. Stát vybírá na mýtném přes 10 mld ročně. To je hezký příjem do rozpočtu. Tyto peníze měly jít na výstavbu dálnic a modernizaci. Ale bohužel šly na koblihy. To samé EET. Babiš hlásal kolik mld. se vybere navíc. Za to postavíme školy, nemocnice... Neví někdo náhodou o takové stavbě...",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Mýto je běžné ve většině okolních zemí.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení podává faktické tvrzení, které lze ověřit kontrolou prevalence \"mýto\" nebo podobných systémů v okolních zemích.",
+        "origin_text": "mýto je ve většině okolních zemích.",
+        "start": 0,
+        "end": 35
+      },
+      {
+        "id": 2,
+        "claim": "Kapsch má stoletou tradici.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení potvrzuje historickou skutečnost o trvání Kapschovy existence, kterou lze ověřit prostřednictvím firemních záznamů o historii.",
+        "origin_text": "Kapsch firma se stoletou tradicí.",
+        "start": 62,
+        "end": 95
+      },
+      {
+        "id": 4,
+        "claim": "Stát vybírá z mýtného více než 10 miliard ročně.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení představuje ověřitelnou faktickou žádost o výši příjmů vybraných státem, kterou lze ověřit prostřednictvím finančních záznamů nebo zpráv.",
+        "origin_text": "Stát vybírá na mýtném přes 10 mld ročně.",
+        "start": 158,
+        "end": 198
+      },
+      {
+        "id": 6,
+        "claim": "Shromážděné peníze byly určeny na výstavbu silnic a modernizaci.",
+        "checkworthy": true,
+        "checkworthy_reason": "Účel vybraných finančních prostředků lze ověřit prostřednictvím úředních prohlášení, rozpočtů nebo politik týkajících se jejich zamýšleného použití.",
+        "origin_text": "Tyto peníze měly jít na výstavbu dálnic a modernizaci.",
+        "start": 231,
+        "end": 285
+      },
+      {
+        "id": 7,
+        "claim": "Místo toho byly finanční prostředky použity pro jiné účely, jako je gerrymandering.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí faktické tvrzení o skutečném využití finančních prostředků, které lze prošetřit zkoumáním rozpočtových přídělů a zpráv o výdajích.",
+        "origin_text": "Ale bohužel šly na koblihy.",
+        "start": 286,
+        "end": 313
+      },
+      {
+        "id": 9,
+        "claim": "Babiš oznámil konkrétní další sbírku v miliardách.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení podává faktické tvrzení týkající se oznámení Babiše, které lze ověřit prostřednictvím zpráv nebo úředních prohlášení.",
+        "origin_text": "Babiš hlásal kolik mld. se vybere navíc.",
+        "start": 327,
+        "end": 367
+      },
+      {
+        "id": 10,
+        "claim": "Vyžádané finanční prostředky by byly použity na výstavbu škol a nemocnic.",
+        "checkworthy": true,
+        "checkworthy_reason": "Jedná se o ověřitelné tvrzení o plánovaném využití finančních prostředků, které lze ověřit na základě oficiálních oznámení nebo rozpočtových plánů.",
+        "origin_text": "Za to postavíme školy, nemocnice...",
+        "start": 368,
+        "end": 403
+      }
+    ]
+  },
+  {
+    "source": "na internetu je asi milion návodů jak cvičit doma nebo v okolí domu s vlastní vahou a jednoduchými dostupnými pomůckami. Ale stejně to tady vypadá, že obezita se u nás poprvé objevila až s uzavírkou okresů",
+    "claims": [
+      {
+        "id": 3,
+        "claim": "Obezita v oblasti se údajně poprvé objevila po uzavření okresu.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto tvrzení obsahuje faktické tvrzení, které lze potenciálně ověřit historickými zdravotními údaji nebo zprávami o trendech obezity ve vztahu k uzavírání okresů.",
+        "origin_text": "Ale stejně to tady vypadá, že obezita se u nás poprvé objevila až s uzavírkou okresů",
+        "start": 121,
+        "end": 205
+      }
+    ]
+  },
+  {
+    "source": "take me to zarazilo, protoze typicka hudba zdejsi a novozelandske ex-pat samoanske komunity je typicky tichomorska (bubny, ukulele, kytary).Reggae je znama hudba Afro-jamajcanu , tedy uplne jiny ocean!Trochu jsem si zagoogloval. Podarilo se mi zjistit, ze na Samou se pres nedalekou Americkou Samou (soucast zamorskych teritorii USA) v novejsi dobe dostala \"havajska verze reggae\" a zpopularizovala tam, ale neprekonala puvodni tichomorskou hudebni kulturu.",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "Typická pacifická hudba zahrnuje bicí, ukulele, kytary.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí faktické tvrzení o nástrojích spojených s pacifickou hudbou, které lze zkoumat prostřednictvím hudebních studií a kulturních zdrojů.",
+        "origin_text": "",
+        "start": 139,
+        "end": 139
+      },
+      {
+        "id": 2,
+        "claim": "Reggae je známý Afro-Jamaican hudba.",
+        "checkworthy": true,
+        "checkworthy_reason": "Počátky reggae jako hudebního žánru zakořeněného na Jamajce jsou ověřitelné prostřednictvím historického a hudebního výzkumu.",
+        "origin_text": "Reggae je znama hudba Afro-jamajcanu ,",
+        "start": 140,
+        "end": 178
+      },
+      {
+        "id": 5,
+        "claim": "Havajský reggae přišel přes nedalekou americkou Samou.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení představuje ověřitelné tvrzení týkající se kulturní přenosové trasy, které lze zkoumat prostřednictvím historických a hudebních studií.",
+        "origin_text": "a zpopularizovala tam,",
+        "start": 381,
+        "end": 403
+      },
+      {
+        "id": 6,
+        "claim": "Americká Samoa je součástí území USA.",
+        "checkworthy": true,
+        "checkworthy_reason": "Politický status americké Samoy jako amerického území je zavedenou skutečností, kterou lze ověřit vládními nebo autoritativními zdroji.",
+        "origin_text": "",
+        "start": 333,
+        "end": 333
+      }
+    ]
+  },
+  {
+    "source": "Šimpanzi používají na sousední tlupy odstrašující metody - pořádají výpravy na zatoulané jedince, které mrzačí, ale nezabíjejí: jen ať se postižený doplazí ke svým a vyděsí je. Každý přírodní druh jde až na hranici toho, co dokáže vymyslet. Co vymyslet nedokáže, to nedělá. Není to tak, že by něco mohl, ale řekl si \"ne ne, to je ošklivé, to dělat nebudeme\". Lidé nejsou zlejší, jen toho dokáží víc vymyslet.",
+    "claims": [
+      {
+        "id": 0,
+        "claim": "Šimpanzi využívají odstrašující metody proti sousedním tlapám.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení uvádí specifické chování šimpanzů, které lze ověřit pozorováním nebo studiemi v primotologii.",
+        "origin_text": "Šimpanzi používají na sousední tlupy odstrašující metody -",
+        "start": 0,
+        "end": 58
+      },
+      {
+        "id": 2,
+        "claim": "Šimpanzi mrzí, ale nezabijí zatoulané jedince.",
+        "checkworthy": true,
+        "checkworthy_reason": "Toto prohlášení činí konkrétní tvrzení o chování šimpanze vůči zajatým jedincům, které lze zkoumat prostřednictvím behaviorálních studií.",
+        "origin_text": "které mrzačí, ale nezabíjejí:",
+        "start": 98,
+        "end": 127
+      }
+    ]
+  }
+]
